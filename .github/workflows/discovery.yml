@@ -29,7 +29,8 @@ jobs:
         run: |
           git config user.name "nova-discovery-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/candidates.json data/candidates.csv data/cu_usage.json
+          git add data/
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
