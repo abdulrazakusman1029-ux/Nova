@@ -406,5 +406,13 @@
     "name": "United States Oil Reserve",
     "liquidity_usd": 9961.440415851797,
     "source_listed_at": "2026-08-22T21:53:50"
+  },
+  {
+    "discovered_at": "2026-08-22T22:54:48.620541+00:00",
+    "address": "GxaqfRu2qKSBUTfdeGQ9XCQtMm5U4uukFF4k9Y6WvfBY",
+    "symbol": "\u725b\u6765",
+    "name": "\u725b\u6765",
+    "liquidity_usd": 12192.526419722946,
+    "source_listed_at": "2026-08-22T22:54:12"
   }
 ]
