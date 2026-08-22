@@ -414,5 +414,13 @@
     "name": "\u725b\u6765",
     "liquidity_usd": 12192.526419722946,
     "source_listed_at": "2026-08-22T22:54:12"
+  },
+  {
+    "discovered_at": "2026-08-22T23:52:42.709562+00:00",
+    "address": "3e5FTQb17fnexkz3HWpHVhkkGChKyQNEewKVdnsipump",
+    "symbol": "READ",
+    "name": "GENERATIONAL NARRATIVE!!!!",
+    "liquidity_usd": 69249.31178413244,
+    "source_listed_at": "2026-08-22T23:52:15"
   }
 ]
