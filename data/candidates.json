@@ -318,5 +318,21 @@
     "name": "Flefy",
     "liquidity_usd": 5931.456638086178,
     "source_listed_at": "2026-08-22T15:52:18"
+  },
+  {
+    "discovered_at": "2026-08-22T16:58:04.638394+00:00",
+    "address": "8pZGrqxHMs4phcLJXjXtJAfJ83y4mgJQse78ZXDVb3cg",
+    "symbol": "SOLMAN",
+    "name": "The Hero of Sol",
+    "liquidity_usd": 15218.263795595536,
+    "source_listed_at": "2026-08-22T16:57:49"
+  },
+  {
+    "discovered_at": "2026-08-22T16:58:04.638416+00:00",
+    "address": "FEvDgPgZWbFVmcKAsbnsZhyk5oHxYgeLTUxGfcagmKKx",
+    "symbol": "SLAP",
+    "name": "Slap Cat",
+    "liquidity_usd": 16535.429050234874,
+    "source_listed_at": "2026-08-22T16:57:19"
   }
 ]
