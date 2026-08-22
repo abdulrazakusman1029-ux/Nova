@@ -19,11 +19,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Run discovery poll
         env:
           BIRDEYE_API_KEY: ${{ secrets.BIRDEYE_API_KEY }}
+          NOVA_MIN_LIQUIDITY_USD: "100"
         run: python3 nova_discovery.py --once
+
 
       - name: Commit updated data files
         run: |
