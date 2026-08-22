@@ -334,5 +334,21 @@
     "name": "Slap Cat",
     "liquidity_usd": 16535.429050234874,
     "source_listed_at": "2026-08-22T16:57:19"
+  },
+  {
+    "discovered_at": "2026-08-22T17:54:25.374476+00:00",
+    "address": "2W5VFfLurqtAjdit7uabWERHr7rGGb2d1XDQSHMCawqt",
+    "symbol": "TRUTH",
+    "name": "OFFICIAL TRUTH",
+    "liquidity_usd": 16347.804456196975,
+    "source_listed_at": "2026-08-22T17:54:11"
+  },
+  {
+    "discovered_at": "2026-08-22T17:54:25.374498+00:00",
+    "address": "FVcqDrTn83NqVEox5CgkDr1tYwhhfiVDRR8M44rMpump",
+    "symbol": "WWR",
+    "name": "World Water Reserve",
+    "liquidity_usd": 10080.477434596183,
+    "source_listed_at": "2026-08-22T17:54:04"
   }
 ]
