@@ -398,5 +398,13 @@
     "name": "CyberLeek",
     "liquidity_usd": 108956.90193198391,
     "source_listed_at": "2026-08-22T20:56:11"
+  },
+  {
+    "discovered_at": "2026-08-22T21:54:06.316747+00:00",
+    "address": "j4t5iF7qyYEQk8cE9yqLD1EPzDhcwaUmKcEYMMBpump",
+    "symbol": "USOR",
+    "name": "United States Oil Reserve",
+    "liquidity_usd": 9961.440415851797,
+    "source_listed_at": "2026-08-22T21:53:50"
   }
 ]
