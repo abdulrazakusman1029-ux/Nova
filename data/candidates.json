@@ -350,5 +350,13 @@
     "name": "World Water Reserve",
     "liquidity_usd": 10080.477434596183,
     "source_listed_at": "2026-08-22T17:54:04"
+  },
+  {
+    "discovered_at": "2026-08-22T19:10:08.929332+00:00",
+    "address": "9Vq3Vo3NamdACq5S1zH231giS4ANZ6TGbmD8XFFBcEoM",
+    "symbol": "SEYONG",
+    "name": "Seyongcoin",
+    "liquidity_usd": 19154.948316115802,
+    "source_listed_at": "2026-08-22T19:09:40"
   }
 ]
