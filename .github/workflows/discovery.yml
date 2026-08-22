@@ -2,11 +2,20 @@ name: Nova discovery poll
 
 on:
   schedule:
+    # Runs at minute 13 past every hour (UTC). Offset from :00 on purpose —
+    # GitHub queues everything scheduled for the exact top of the hour, which
+    # can delay those runs; an odd minute avoids that pileup.
+    # 24 runs/day = ~720 calls/month at 30 CU each = ~21,600 CU, safely under
+    # Birdeye's 30,000/month free-tier cap.
     - cron: "13 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you trigger a run by hand from the Actions tab, for testing
 
 permissions:
-  contents: write
+  contents: write   # needed so this workflow can commit updated data files back
+
+concurrency:
+  group: nova-discovery-poll   # queue runs instead of letting a manual trigger race a scheduled one
+  cancel-in-progress: false
 
 jobs:
   poll:
@@ -19,22 +28,22 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Run discovery poll
         env:
           BIRDEYE_API_KEY: ${{ secrets.BIRDEYE_API_KEY }}
-          NOVA_MIN_LIQUIDITY_USD: "100"
+          NOVA_MIN_LIQUIDITY_USD: "100"   # TEMPORARY test value — revert to 5000 (or delete this line) after confirming data flows
         run: python3 nova_discovery.py --once
-
 
       - name: Commit updated data files
         run: |
           git config user.name "nova-discovery-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Discovery poll: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi
