@@ -101,7 +101,7 @@ def _record_call(usage):
 
 
 # ----------------------------------------------------------------------
-# Candidate store â candidates.json is the single source of truth.
+# Candidate store — candidates.json is the single source of truth.
 # The dashboard (nova-dashboard.html) loads this file directly via its
 # "Load export" button, so its shape matters: a flat JSON array of rows,
 # same fields as to_row() below.
@@ -180,13 +180,25 @@ def _mock_new_listings():
 # Filtering
 # ----------------------------------------------------------------------
 
+def _as_float(value, default=0.0):
+    """Birdeye's fields aren't consistently typed across endpoints/tokens —
+    numbers sometimes arrive as JSON numbers, sometimes as strings. Coerce
+    defensively instead of trusting the type."""
+    if value is None:
+        return default
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
 def filter_candidates(items, seen, min_liquidity=MIN_LIQUIDITY_USD):
     fresh = []
     for item in items:
         addr = item.get("address")
         if not addr or addr in seen:
             continue
-        liquidity = item.get("liquidity") or 0
+        liquidity = _as_float(item.get("liquidity"))
         if liquidity < min_liquidity:
             continue
         fresh.append(item)
@@ -195,16 +207,22 @@ def filter_candidates(items, seen, min_liquidity=MIN_LIQUIDITY_USD):
 
 def to_row(item):
     listed_ts = item.get("liquidityAddedAt")
-    listed_iso = (
-        datetime.fromtimestamp(listed_ts, tz=timezone.utc).isoformat()
-        if listed_ts else ""
-    )
+    listed_iso = ""
+    if listed_ts:
+        try:
+            # Expected shape: a Unix timestamp (int/float, or a numeric string).
+            listed_iso = datetime.fromtimestamp(float(listed_ts), tz=timezone.utc).isoformat()
+        except (TypeError, ValueError):
+            # Birdeye sent something else (e.g. already an ISO string) — keep it
+            # as-is rather than crashing the whole poll over a display field.
+            listed_iso = str(listed_ts)
+    liquidity = _as_float(item.get("liquidity"))
     return {
         "discovered_at": datetime.now(timezone.utc).isoformat(),
         "address": item.get("address", ""),
         "symbol": item.get("symbol", ""),
         "name": item.get("name", ""),
-        "liquidity_usd": item.get("liquidity", ""),
+        "liquidity_usd": liquidity,
         "source_listed_at": listed_iso,
     }
 
@@ -236,7 +254,7 @@ def run_once(api_key, candidates, usage, dry_run=False):
         _append_candidates(rows)
         for row in rows:
             log(f"CANDIDATE  {row['symbol']:<12} liquidity=${row['liquidity_usd']:<10} {row['address']}")
-        log(f"{len(candidates)} total candidates in data/candidates.json â "
+        log(f"{len(candidates)} total candidates in data/candidates.json — "
             f"load that file into nova-dashboard.html to review them.")
     else:
         log(f"No new candidates above ${MIN_LIQUIDITY_USD:,.0f} liquidity this poll "
