@@ -310,5 +310,13 @@
     "name": "USWS",
     "liquidity_usd": 9972.77362362752,
     "source_listed_at": "2026-08-22T14:55:06"
+  },
+  {
+    "discovered_at": "2026-08-22T15:52:41.672513+00:00",
+    "address": "GqKXrQfswe6DZbgNguBMJzragzgWYzJSZoeSTTgbpump",
+    "symbol": "FLEFY",
+    "name": "Flefy",
+    "liquidity_usd": 5931.456638086178,
+    "source_listed_at": "2026-08-22T15:52:18"
   }
 ]
