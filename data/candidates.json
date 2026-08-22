@@ -142,5 +142,149 @@
     "name": "blue chip ",
     "liquidity_usd": 2612.208890278591,
     "source_listed_at": "2026-08-22T11:37:59"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725058+00:00",
+    "address": "5emPYg4A2VRstUvFtnkak77BGhJEY96UnJKceVSu2HSe",
+    "symbol": "Mani",
+    "name": "Kim Mani",
+    "liquidity_usd": 20771.02080186011,
+    "source_listed_at": "2026-08-22T11:53:24"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725078+00:00",
+    "address": "zVRRgyff3jz2UpZAm2xQFekaG7vXRWojoRPdp7upump",
+    "symbol": "RATE",
+    "name": "Ratecoin",
+    "liquidity_usd": 2621.3953075977297,
+    "source_listed_at": "2026-08-22T11:53:16"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725085+00:00",
+    "address": "EHL4N283Ki2ee9SsvujWaSJ8P7HF1mdVDPc6q6KGpump",
+    "symbol": "$DINKY",
+    "name": "DINKY",
+    "liquidity_usd": 2689.954399017376,
+    "source_listed_at": "2026-08-22T11:53:15"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725092+00:00",
+    "address": "3hQNF2EzzDUm8bJMxeoF9VQExbWuXEZP8kC9VN7ppump",
+    "symbol": "TRUMPET",
+    "name": "OFFICIAL TRUMPET",
+    "liquidity_usd": 2671.1585641690535,
+    "source_listed_at": "2026-08-22T11:53:10"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725098+00:00",
+    "address": "6tRbHTewhKRPAHvdziHW4f3fF4ZPMtQTtDdy62fopump",
+    "symbol": "ContextRot",
+    "name": "67ChudLarping",
+    "liquidity_usd": 3031.588050516825,
+    "source_listed_at": "2026-08-22T11:53:03"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725103+00:00",
+    "address": "6QiNhMp174s9nT1MrxA1FdjBqxhQAcH8tgNCcC1Kpump",
+    "symbol": "\u5e02\u5ddd\u68a8\u4e38",
+    "name": "Ichikawa Nashimaru",
+    "liquidity_usd": 2847.2870835526896,
+    "source_listed_at": "2026-08-22T11:53:01"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725109+00:00",
+    "address": "CvQUUmfR2PjYunyeGHCsAVR1DrJmKV6iY7iHxT2vpump",
+    "symbol": "PENGUIN ",
+    "name": "Nihilist Penguins ",
+    "liquidity_usd": 2604.7323544760843,
+    "source_listed_at": "2026-08-22T11:52:52"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725117+00:00",
+    "address": "HBKn1YNdKBG3gHShzSxE46pR6CQoYHn7TDtf2sGHpump",
+    "symbol": "Slang",
+    "name": "67ChudLarping",
+    "liquidity_usd": 3052.083219610972,
+    "source_listed_at": "2026-08-22T11:52:43"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725143+00:00",
+    "address": "BxktMDiyk6cvUecqManFVQngKxnuf7TEWtZcDGKepSz2",
+    "symbol": "CATE",
+    "name": "CATECOIN",
+    "liquidity_usd": 1871.3630255100252,
+    "source_listed_at": "2026-08-22T11:52:39"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725150+00:00",
+    "address": "7YtbRaobpbHBBMDKhRXtBRwE4xuUcM9mWZa7sguApump",
+    "symbol": "ContextRot",
+    "name": "Context Rot",
+    "liquidity_usd": 2865.2894714865865,
+    "source_listed_at": "2026-08-22T11:52:35"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725156+00:00",
+    "address": "GvYeBcMyFUocZVvRkr7x7MsQ1vS9cfGMhoWC8RRppump",
+    "symbol": "ALON",
+    "name": "ALON IS LIVE ON TWITCH",
+    "liquidity_usd": 2603.5133126942083,
+    "source_listed_at": "2026-08-22T11:52:33"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725161+00:00",
+    "address": "5Vr9w6GKL979WYeYDTwQJ32o1DJT8Fmz9U7Ekxpxpump",
+    "symbol": "GenZ",
+    "name": "67ChudLarping",
+    "liquidity_usd": 2778.1137254249343,
+    "source_listed_at": "2026-08-22T11:52:23"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725165+00:00",
+    "address": "3fUQAz3ke3PwKWGz62sic3ZJeNXjvRH29fenm19opump",
+    "symbol": "ARSEOUL",
+    "name": "ARCTIC SEOUL SHIP",
+    "liquidity_usd": 62719.03661518878,
+    "source_listed_at": "2026-08-22T11:52:15"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725170+00:00",
+    "address": "GfBoZeEZk31PQTaHQfgTjVRzebFLQSFURemJs7g5pump",
+    "symbol": "GENZ",
+    "name": "67ChudLarping",
+    "liquidity_usd": 2862.7166247882997,
+    "source_listed_at": "2026-08-22T11:52:12"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725178+00:00",
+    "address": "DnSWsaEgzgaY5pLAn8HmXhaBBzbLbueGeskU1wujpump",
+    "symbol": "Mani",
+    "name": "Mani",
+    "liquidity_usd": 2877.2736379967882,
+    "source_listed_at": "2026-08-22T11:52:07"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725183+00:00",
+    "address": "4TUqW56iaK1VStE4d5VWCJ8FaDTPwWQbqHqXXCc9pump",
+    "symbol": "WOLV\n",
+    "name": "Mayhem Wolverine\n",
+    "liquidity_usd": 2620.9204570436254,
+    "source_listed_at": "2026-08-22T11:52:05"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725188+00:00",
+    "address": "Ac7NRBhAGVH2SoGdALzzprNo9GqwtP2QWr8Gywgqpump",
+    "symbol": "BNBFN",
+    "name": "BNB FUN ",
+    "liquidity_usd": 2620.9319132453384,
+    "source_listed_at": "2026-08-22T11:52:01"
+  },
+  {
+    "discovered_at": "2026-08-22T11:53:27.725192+00:00",
+    "address": "4n3u46SaPG1sbhbpVyg848M16uWYLZmdJgHHo4wdpump",
+    "symbol": "Florida",
+    "name": "67ChudLarping",
+    "liquidity_usd": 2877.3272163325464,
+    "source_listed_at": "2026-08-22T11:52:00"
   }
 ]
