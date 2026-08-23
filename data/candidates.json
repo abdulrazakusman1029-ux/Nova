@@ -445,7 +445,8 @@
     "symbol": "BARKER",
     "name": "Peter Barker",
     "liquidity_usd": 16369.650992093217,
-    "source_listed_at": "2026-08-23T05:47:43"
+    "source_listed_at": "2026-08-23T05:47:43",
+    "last_checked_at": "2026-08-23T19:48:53.646456+00:00"
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492115+00:00",
@@ -453,15 +454,19 @@
     "symbol": "DIDDY",
     "name": "Diddy Coin",
     "liquidity_usd": 15918.108090258433,
-    "source_listed_at": "2026-08-23T05:47:05"
+    "source_listed_at": "2026-08-23T05:47:05",
+    "last_checked_at": "2026-08-23T19:48:53.646456+00:00"
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492119+00:00",
     "address": "7GxZNaFLL5ZCjy7jiV4eTtYqLswqzGMsJ9PY7TiEArHB",
     "symbol": "BARKER",
     "name": "Peter Barker",
-    "liquidity_usd": 15672.30973168945,
-    "source_listed_at": "2026-08-23T05:46:57"
+    "liquidity_usd": 6.746101438764042e-07,
+    "source_listed_at": "2026-08-23T05:46:57",
+    "peak_liquidity_usd": 15672.30973168945,
+    "last_checked_at": "2026-08-23T19:48:53.646456+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492122+00:00",
