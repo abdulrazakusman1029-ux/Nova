@@ -405,7 +405,8 @@
     "symbol": "USOR",
     "name": "United States Oil Reserve",
     "liquidity_usd": 9961.440415851797,
-    "source_listed_at": "2026-08-22T21:53:50"
+    "source_listed_at": "2026-08-22T21:53:50",
+    "last_checked_at": "2026-08-23T22:54:30.747036+00:00"
   },
   {
     "discovered_at": "2026-08-22T22:54:48.620541+00:00",
@@ -413,7 +414,8 @@
     "symbol": "\u725b\u6765",
     "name": "\u725b\u6765",
     "liquidity_usd": 12192.526419722946,
-    "source_listed_at": "2026-08-22T22:54:12"
+    "source_listed_at": "2026-08-22T22:54:12",
+    "last_checked_at": "2026-08-23T22:54:30.747036+00:00"
   },
   {
     "discovered_at": "2026-08-22T23:52:42.709562+00:00",
@@ -625,10 +627,10 @@
     "address": "6XMha9GWemVWPJiGYh3DnLG7nhQWwEg9V3J5w8tu9zG5",
     "symbol": "MSGA",
     "name": "Make Solana Great Again",
-    "liquidity_usd": 16252.191782013488,
+    "liquidity_usd": 21462.484444148846,
     "source_listed_at": "2026-08-23T21:52:54",
-    "peak_liquidity_usd": 16252.191782013488,
-    "last_checked_at": "",
+    "peak_liquidity_usd": 21462.484444148846,
+    "last_checked_at": "2026-08-23T22:54:30.747036+00:00",
     "rug_flag": false
   },
   {
