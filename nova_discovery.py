@@ -326,8 +326,20 @@ def recheck_liquidity(api_key, candidates, usage):
             continue  # outside the window â either too old to bother, or an unparseable timestamp
         eligible.append(c)
 
-    # Never-checked candidates first, then whichever was checked longest ago.
-    eligible.sort(key=lambda c: c.get("last_checked_at") or "")
+    # Never-checked candidates go first â and among those, newest-discovered
+    # first, since a freshly-launched token is when rug risk is highest and
+    # a backlog of older never-checked candidates shouldn't push it to the
+    # back of the line. Already-checked candidates follow, oldest-checked
+    # first (same as before).
+    def _priority(c):
+        last_checked = c.get("last_checked_at") or ""
+        if last_checked:
+            return (1, last_checked)
+        discovered = _parse_iso(c.get("discovered_at"))
+        newest_first = -discovered.timestamp() if discovered else 0
+        return (0, newest_first)
+
+    eligible.sort(key=_priority)
     batch = eligible[:RUG_CHECK_MAX_PER_POLL]
 
     checked = 0
