@@ -525,7 +525,8 @@
     "symbol": "XYZ",
     "name": "XYZ coin",
     "liquidity_usd": 10034.907848454886,
-    "source_listed_at": "2026-08-23T10:57:07"
+    "source_listed_at": "2026-08-23T10:57:07",
+    "last_checked_at": "2026-08-23T15:54:36.188251+00:00"
   },
   {
     "discovered_at": "2026-08-23T11:53:31.330392+00:00",
@@ -533,7 +534,8 @@
     "symbol": "PRB",
     "name": "Princess Robot Bubblegum",
     "liquidity_usd": 16444.231646380023,
-    "source_listed_at": "2026-08-23T11:52:55"
+    "source_listed_at": "2026-08-23T11:52:55",
+    "last_checked_at": "2026-08-23T15:54:36.188251+00:00"
   },
   {
     "discovered_at": "2026-08-23T13:47:59.926576+00:00",
@@ -564,6 +566,17 @@
     "source_listed_at": "2026-08-23T14:57:58",
     "peak_liquidity_usd": 16920.86806587422,
     "last_checked_at": "2026-08-23T14:58:17.376107+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T15:54:36.188018+00:00",
+    "address": "EQcCpsRFq16TouYd5ivf5EuztYVsT7Qf1Uy3hp2pw7LB",
+    "symbol": "ONYX",
+    "name": "ONYX COIN",
+    "liquidity_usd": 16562.72694524686,
+    "source_listed_at": "2026-08-23T15:54:30",
+    "peak_liquidity_usd": 16562.72694524686,
+    "last_checked_at": "2026-08-23T15:54:36.188251+00:00",
     "rug_flag": false
   }
 ]
