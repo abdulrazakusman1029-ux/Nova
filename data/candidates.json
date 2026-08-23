@@ -470,5 +470,29 @@
     "name": "Yomogicoin",
     "liquidity_usd": 15760.154973577284,
     "source_listed_at": "2026-08-23T05:46:49"
+  },
+  {
+    "discovered_at": "2026-08-23T07:50:51.602939+00:00",
+    "address": "7im3KAGeh9ndbAKQy8RYPSr4yrkRfbZCrZkL1uAhoaJX",
+    "symbol": "CATLIST",
+    "name": "CAT SEASON CLUB",
+    "liquidity_usd": 17770.018570145126,
+    "source_listed_at": "2026-08-23T07:50:09"
+  },
+  {
+    "discovered_at": "2026-08-23T07:50:51.602961+00:00",
+    "address": "DFiGMxZ99boMCv4zjKjyQQz23eGLQdPEsMQj53BJQrWR",
+    "symbol": "Pepig",
+    "name": "The Perfect Memecoin",
+    "liquidity_usd": 16377.654029600151,
+    "source_listed_at": "2026-08-23T07:50:02"
+  },
+  {
+    "discovered_at": "2026-08-23T07:50:51.602964+00:00",
+    "address": "HLyZRN9uxsjET8LVwUJdD4zFNELPZtwkaZzRnM6C7vXt",
+    "symbol": "\u80a5\u561f\u561f",
+    "name": "\u4f60\u4eec\u7684\u80c6\u5b50\u771f\u662f\u80a5\u561f\u561f\u7684",
+    "liquidity_usd": 14804.712708126599,
+    "source_listed_at": "2026-08-23T07:49:57"
   }
 ]
