@@ -469,7 +469,8 @@
     "symbol": "YOMOGI",
     "name": "Yomogicoin",
     "liquidity_usd": 15760.154973577284,
-    "source_listed_at": "2026-08-23T05:46:49"
+    "source_listed_at": "2026-08-23T05:46:49",
+    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602939+00:00",
@@ -477,7 +478,8 @@
     "symbol": "CATLIST",
     "name": "CAT SEASON CLUB",
     "liquidity_usd": 17770.018570145126,
-    "source_listed_at": "2026-08-23T07:50:09"
+    "source_listed_at": "2026-08-23T07:50:09",
+    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602961+00:00",
@@ -485,7 +487,8 @@
     "symbol": "Pepig",
     "name": "The Perfect Memecoin",
     "liquidity_usd": 16377.654029600151,
-    "source_listed_at": "2026-08-23T07:50:02"
+    "source_listed_at": "2026-08-23T07:50:02",
+    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602964+00:00",
