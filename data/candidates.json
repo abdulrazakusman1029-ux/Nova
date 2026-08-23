@@ -526,5 +526,13 @@
     "name": "XYZ coin",
     "liquidity_usd": 10034.907848454886,
     "source_listed_at": "2026-08-23T10:57:07"
+  },
+  {
+    "discovered_at": "2026-08-23T11:53:31.330392+00:00",
+    "address": "2sNRmCbq1Gw4kqXXkxTFjauXRb12PPfnC3QjACcCyEjR",
+    "symbol": "PRB",
+    "name": "Princess Robot Bubblegum",
+    "liquidity_usd": 16444.231646380023,
+    "source_listed_at": "2026-08-23T11:52:55"
   }
 ]
