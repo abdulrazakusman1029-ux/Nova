@@ -421,7 +421,8 @@
     "symbol": "READ",
     "name": "GENERATIONAL NARRATIVE!!!!",
     "liquidity_usd": 69249.31178413244,
-    "source_listed_at": "2026-08-22T23:52:15"
+    "source_listed_at": "2026-08-22T23:52:15",
+    "last_checked_at": "2026-08-23T20:56:20.994656+00:00"
   },
   {
     "discovered_at": "2026-08-23T03:31:57.562954+00:00",
@@ -429,15 +430,19 @@
     "symbol": "CATE",
     "name": "Catecoin",
     "liquidity_usd": 15971.502245622913,
-    "source_listed_at": "2026-08-23T03:31:26"
+    "source_listed_at": "2026-08-23T03:31:26",
+    "last_checked_at": "2026-08-23T20:56:20.994656+00:00"
   },
   {
     "discovered_at": "2026-08-23T03:31:57.562974+00:00",
     "address": "5g4yRjsFUtN3UpFYNLyxREG7PKXHv62edUkc8EoNoXa",
     "symbol": "Pouch",
     "name": "Pouch",
-    "liquidity_usd": 16605.622375562994,
-    "source_listed_at": "2026-08-23T03:31:20"
+    "liquidity_usd": 3.2217183081188166e-07,
+    "source_listed_at": "2026-08-23T03:31:20",
+    "peak_liquidity_usd": 16605.622375562994,
+    "last_checked_at": "2026-08-23T20:56:20.994656+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492093+00:00",
