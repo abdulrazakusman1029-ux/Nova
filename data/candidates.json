@@ -438,5 +438,37 @@
     "name": "Pouch",
     "liquidity_usd": 16605.622375562994,
     "source_listed_at": "2026-08-23T03:31:20"
+  },
+  {
+    "discovered_at": "2026-08-23T05:48:07.492093+00:00",
+    "address": "BbjSuzzP6igL7wc3XCPESHobG667eyQrsaghJSyT5mF9",
+    "symbol": "BARKER",
+    "name": "Peter Barker",
+    "liquidity_usd": 16369.650992093217,
+    "source_listed_at": "2026-08-23T05:47:43"
+  },
+  {
+    "discovered_at": "2026-08-23T05:48:07.492115+00:00",
+    "address": "kJyWEVGATz8Le8JEEivykJRM2y1vvAsEg6KGch7C5CH",
+    "symbol": "DIDDY",
+    "name": "Diddy Coin",
+    "liquidity_usd": 15918.108090258433,
+    "source_listed_at": "2026-08-23T05:47:05"
+  },
+  {
+    "discovered_at": "2026-08-23T05:48:07.492119+00:00",
+    "address": "7GxZNaFLL5ZCjy7jiV4eTtYqLswqzGMsJ9PY7TiEArHB",
+    "symbol": "BARKER",
+    "name": "Peter Barker",
+    "liquidity_usd": 15672.30973168945,
+    "source_listed_at": "2026-08-23T05:46:57"
+  },
+  {
+    "discovered_at": "2026-08-23T05:48:07.492122+00:00",
+    "address": "Gb6RJyNYvpVSJC5UXqz1iWRzTMFhpdzMJo8Z1pXiKqsY",
+    "symbol": "YOMOGI",
+    "name": "Yomogicoin",
+    "liquidity_usd": 15760.154973577284,
+    "source_listed_at": "2026-08-23T05:46:49"
   }
 ]
