@@ -518,5 +518,13 @@
     "name": "Bicat",
     "liquidity_usd": 15906.148403235236,
     "source_listed_at": "2026-08-23T09:56:11"
+  },
+  {
+    "discovered_at": "2026-08-23T10:57:17.666353+00:00",
+    "address": "9DZeMZxEg3xcg8pRVxzPG3qScUVumCb5xXNcW73dpump",
+    "symbol": "XYZ",
+    "name": "XYZ coin",
+    "liquidity_usd": 10034.907848454886,
+    "source_listed_at": "2026-08-23T10:57:07"
   }
 ]
