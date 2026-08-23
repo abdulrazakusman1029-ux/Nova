@@ -502,5 +502,21 @@
     "name": "kavonism",
     "liquidity_usd": 10003.55276912229,
     "source_listed_at": "2026-08-23T09:03:49"
+  },
+  {
+    "discovered_at": "2026-08-23T09:57:37.740459+00:00",
+    "address": "pyKoH6UB9WazKo9qvvDCEmq5VtuoF4s1y5jn9DTNcfN",
+    "symbol": "\u4e09\u4e3d\u9e25",
+    "name": "\u4e2d\u56fd\u7248\u7684\u4e09\u4e3d\u9e25",
+    "liquidity_usd": 15912.639699115623,
+    "source_listed_at": "2026-08-23T09:56:45"
+  },
+  {
+    "discovered_at": "2026-08-23T09:57:37.740479+00:00",
+    "address": "GiaLxW5npRaUNePFHtQz3kYsj5HVB1g6QS9B3nAS93Tt",
+    "symbol": "Bicat",
+    "name": "Bicat",
+    "liquidity_usd": 15906.148403235236,
+    "source_listed_at": "2026-08-23T09:56:11"
   }
 ]
