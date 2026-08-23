@@ -541,6 +541,29 @@
     "symbol": "ALAFAL",
     "name": "ALABASTA FALCON",
     "liquidity_usd": 71182.60796301975,
-    "source_listed_at": "2026-08-23T13:47:35"
+    "source_listed_at": "2026-08-23T13:47:35",
+    "last_checked_at": "2026-08-23T14:58:17.376107+00:00"
+  },
+  {
+    "discovered_at": "2026-08-23T14:58:17.375828+00:00",
+    "address": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
+    "symbol": "CYBERLEEK",
+    "name": "CyberLeek",
+    "liquidity_usd": 10189.83901863575,
+    "source_listed_at": "2026-08-23T14:58:01",
+    "peak_liquidity_usd": 10189.83901863575,
+    "last_checked_at": "2026-08-23T14:58:17.376107+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T14:58:17.375845+00:00",
+    "address": "FjHrEUg5mCn28c422xx5eBBFqDGPkt88c17FGCAa9xWp",
+    "symbol": "HASHDOG",
+    "name": "Hashtag Dog",
+    "liquidity_usd": 16920.86806587422,
+    "source_listed_at": "2026-08-23T14:57:58",
+    "peak_liquidity_usd": 16920.86806587422,
+    "last_checked_at": "2026-08-23T14:58:17.376107+00:00",
+    "rug_flag": false
   }
 ]
