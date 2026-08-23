@@ -494,5 +494,13 @@
     "name": "\u4f60\u4eec\u7684\u80c6\u5b50\u771f\u662f\u80a5\u561f\u561f\u7684",
     "liquidity_usd": 14804.712708126599,
     "source_listed_at": "2026-08-23T07:49:57"
+  },
+  {
+    "discovered_at": "2026-08-23T09:05:04.200407+00:00",
+    "address": "G6QqLkWDPh4s9WrWYPpHnMobab9yghXnzFBrxfoVpump",
+    "symbol": "KAVONISM",
+    "name": "kavonism",
+    "liquidity_usd": 10003.55276912229,
+    "source_listed_at": "2026-08-23T09:03:49"
   }
 ]
