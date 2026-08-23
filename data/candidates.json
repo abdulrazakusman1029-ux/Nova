@@ -534,5 +534,13 @@
     "name": "Princess Robot Bubblegum",
     "liquidity_usd": 16444.231646380023,
     "source_listed_at": "2026-08-23T11:52:55"
+  },
+  {
+    "discovered_at": "2026-08-23T13:47:59.926576+00:00",
+    "address": "Gs2cagyToHLkP43giPgYkqsM9dsD4R22or3Zrh15bonk",
+    "symbol": "ALAFAL",
+    "name": "ALABASTA FALCON",
+    "liquidity_usd": 71182.60796301975,
+    "source_listed_at": "2026-08-23T13:47:35"
   }
 ]
