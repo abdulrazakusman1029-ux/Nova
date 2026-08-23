@@ -389,7 +389,8 @@
     "symbol": "Dipstack",
     "name": "Pringles Dip",
     "liquidity_usd": 72755.83347013925,
-    "source_listed_at": "2026-08-22T20:56:15"
+    "source_listed_at": "2026-08-22T20:56:15",
+    "last_checked_at": "2026-08-23T23:52:47.394970+00:00"
   },
   {
     "discovered_at": "2026-08-22T20:56:44.329321+00:00",
@@ -397,7 +398,8 @@
     "symbol": "CYBERLEEK",
     "name": "CyberLeek",
     "liquidity_usd": 108956.90193198391,
-    "source_listed_at": "2026-08-22T20:56:11"
+    "source_listed_at": "2026-08-22T20:56:11",
+    "last_checked_at": "2026-08-23T23:52:47.394970+00:00"
   },
   {
     "discovered_at": "2026-08-22T21:54:06.316747+00:00",
@@ -664,6 +666,17 @@
     "source_listed_at": "2026-08-23T21:52:24",
     "peak_liquidity_usd": 10241.78865850643,
     "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T23:52:47.394751+00:00",
+    "address": "12MxcL7ehtc12h9xUAQ7mksuPZDTDMiZ6DMrfYNypump",
+    "symbol": "USMS",
+    "name": "United States Mineral Supply",
+    "liquidity_usd": 10185.08199254416,
+    "source_listed_at": "2026-08-23T23:52:08",
+    "peak_liquidity_usd": 10185.08199254416,
+    "last_checked_at": "2026-08-23T23:52:47.394970+00:00",
     "rug_flag": false
   }
 ]
