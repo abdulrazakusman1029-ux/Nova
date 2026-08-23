@@ -422,5 +422,21 @@
     "name": "GENERATIONAL NARRATIVE!!!!",
     "liquidity_usd": 69249.31178413244,
     "source_listed_at": "2026-08-22T23:52:15"
+  },
+  {
+    "discovered_at": "2026-08-23T03:31:57.562954+00:00",
+    "address": "12Y9T2SCjqAdDxEMHbjHacYuxrrUbSGtUwk1qomfSLd9",
+    "symbol": "CATE",
+    "name": "Catecoin",
+    "liquidity_usd": 15971.502245622913,
+    "source_listed_at": "2026-08-23T03:31:26"
+  },
+  {
+    "discovered_at": "2026-08-23T03:31:57.562974+00:00",
+    "address": "5g4yRjsFUtN3UpFYNLyxREG7PKXHv62edUkc8EoNoXa",
+    "symbol": "Pouch",
+    "name": "Pouch",
+    "liquidity_usd": 16605.622375562994,
+    "source_listed_at": "2026-08-23T03:31:20"
   }
 ]
