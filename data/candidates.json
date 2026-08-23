@@ -619,5 +619,49 @@
     "peak_liquidity_usd": 76634.31730615976,
     "last_checked_at": "2026-08-23T17:51:49.391193+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T21:53:02.861021+00:00",
+    "address": "6XMha9GWemVWPJiGYh3DnLG7nhQWwEg9V3J5w8tu9zG5",
+    "symbol": "MSGA",
+    "name": "Make Solana Great Again",
+    "liquidity_usd": 16252.191782013488,
+    "source_listed_at": "2026-08-23T21:52:54",
+    "peak_liquidity_usd": 16252.191782013488,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T21:53:02.861038+00:00",
+    "address": "5YUXyUkajXgDvEyLP4HwvcGJSE73CkAardxzWTfqj5BM",
+    "symbol": "Jerry",
+    "name": "Balenciaga Jerry",
+    "liquidity_usd": 16204.56503788156,
+    "source_listed_at": "2026-08-23T21:52:48",
+    "peak_liquidity_usd": 16204.56503788156,
+    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T21:53:02.861043+00:00",
+    "address": "2Rt18SqHXcgzUU1P94Qr71A9URcpmkwB99cD5SGXpump",
+    "symbol": "CUH",
+    "name": "CUH",
+    "liquidity_usd": 6157.749005119661,
+    "source_listed_at": "2026-08-23T21:52:34",
+    "peak_liquidity_usd": 6157.749005119661,
+    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-23T21:53:02.861046+00:00",
+    "address": "e9TYuukQoikvHYmrv2mA5sysRuqbxit5DRRW4Pypump",
+    "symbol": "DOPAMEME",
+    "name": "dopameme",
+    "liquidity_usd": 10241.78865850643,
+    "source_listed_at": "2026-08-23T21:52:24",
+    "peak_liquidity_usd": 10241.78865850643,
+    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "rug_flag": false
   }
 ]
