@@ -333,7 +333,8 @@
     "symbol": "SLAP",
     "name": "Slap Cat",
     "liquidity_usd": 16535.429050234874,
-    "source_listed_at": "2026-08-22T16:57:19"
+    "source_listed_at": "2026-08-22T16:57:19",
+    "last_checked_at": "2026-08-24T08:30:49.296373+00:00"
   },
   {
     "discovered_at": "2026-08-22T17:54:25.374476+00:00",
@@ -687,6 +688,28 @@
     "source_listed_at": "2026-08-23T23:52:08",
     "peak_liquidity_usd": 10185.08199254416,
     "last_checked_at": "2026-08-23T23:52:47.394970+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T08:30:49.296130+00:00",
+    "address": "76uNhBstLSHkSBVQo7fhrQgcMMFa4AZfQQ12KM5qLJbY",
+    "symbol": "FESTA",
+    "name": "Ferrari Nakayama Festa",
+    "liquidity_usd": 15873.49819878591,
+    "source_listed_at": "2026-08-24T08:29:38",
+    "peak_liquidity_usd": 15873.49819878591,
+    "last_checked_at": "2026-08-24T08:30:49.296373+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T08:30:49.296150+00:00",
+    "address": "82N9pkjrSwFDG3u7EiegwyTiy5V5jqBSmFUSshDgz1V6",
+    "symbol": "AAPL",
+    "name": "AAPL",
+    "liquidity_usd": 230011.81504062688,
+    "source_listed_at": "2026-08-24T08:29:15",
+    "peak_liquidity_usd": 230011.81504062688,
+    "last_checked_at": "2026-08-24T08:30:49.296373+00:00",
     "rug_flag": false
   }
 ]
