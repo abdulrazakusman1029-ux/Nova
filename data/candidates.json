@@ -751,5 +751,38 @@
     "peak_liquidity_usd": 14210.837743753358,
     "last_checked_at": "2026-08-24T14:27:17.725664+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T23:01:32.890410+00:00",
+    "address": "Dr3oNKrUp48GzmQR78YBqYSHvt5LZcdHM19pNfDMFMpH",
+    "symbol": "CYBERLEEK",
+    "name": "CyberLeek",
+    "liquidity_usd": 10434.926240706383,
+    "source_listed_at": "2026-08-24T23:01:26",
+    "peak_liquidity_usd": 10434.926240706383,
+    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T23:01:32.890449+00:00",
+    "address": "8taCGRzJ5cwWKvzrhTi8XZxf68aaBjtVM9ZvPFSppump",
+    "symbol": "DOGECEO",
+    "name": "dogeofficialceo",
+    "liquidity_usd": 10367.770728386604,
+    "source_listed_at": "2026-08-24T23:01:18",
+    "peak_liquidity_usd": 10367.770728386604,
+    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T23:01:32.890455+00:00",
+    "address": "AcZeGr62vWE3JxTeD9kwt2MptNF28yiMN1hKTFogpump",
+    "symbol": "DOGECEO",
+    "name": "dogeofficialceo",
+    "liquidity_usd": 10410.797163671477,
+    "source_listed_at": "2026-08-24T23:01:11",
+    "peak_liquidity_usd": 10410.797163671477,
+    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "rug_flag": false
   }
 ]
