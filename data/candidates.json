@@ -196,8 +196,11 @@
     "address": "CvQUUmfR2PjYunyeGHCsAVR1DrJmKV6iY7iHxT2vpump",
     "symbol": "PENGUIN ",
     "name": "Nihilist Penguins ",
-    "liquidity_usd": 2604.7323544760843,
-    "source_listed_at": "2026-08-22T11:52:52"
+    "liquidity_usd": 0.16031236235718016,
+    "source_listed_at": "2026-08-22T11:52:52",
+    "peak_liquidity_usd": 2604.7323544760843,
+    "last_checked_at": "2026-08-24T21:15:40.309684+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725117+00:00",
@@ -205,15 +208,19 @@
     "symbol": "Slang",
     "name": "67ChudLarping",
     "liquidity_usd": 3052.083219610972,
-    "source_listed_at": "2026-08-22T11:52:43"
+    "source_listed_at": "2026-08-22T11:52:43",
+    "last_checked_at": "2026-08-24T21:15:40.309684+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725143+00:00",
     "address": "BxktMDiyk6cvUecqManFVQngKxnuf7TEWtZcDGKepSz2",
     "symbol": "CATE",
     "name": "CATECOIN",
-    "liquidity_usd": 1871.3630255100252,
-    "source_listed_at": "2026-08-22T11:52:39"
+    "liquidity_usd": 24.600473627563773,
+    "source_listed_at": "2026-08-22T11:52:39",
+    "peak_liquidity_usd": 1871.3630255100252,
+    "last_checked_at": "2026-08-24T21:15:40.309684+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725150+00:00",
