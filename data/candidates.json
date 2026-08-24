@@ -221,7 +221,8 @@
     "symbol": "ContextRot",
     "name": "Context Rot",
     "liquidity_usd": 2865.2894714865865,
-    "source_listed_at": "2026-08-22T11:52:35"
+    "source_listed_at": "2026-08-22T11:52:35",
+    "last_checked_at": "2026-08-24T19:16:00.751766+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725156+00:00",
@@ -229,15 +230,19 @@
     "symbol": "ALON",
     "name": "ALON IS LIVE ON TWITCH",
     "liquidity_usd": 2603.5133126942083,
-    "source_listed_at": "2026-08-22T11:52:33"
+    "source_listed_at": "2026-08-22T11:52:33",
+    "last_checked_at": "2026-08-24T19:16:00.751766+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725161+00:00",
     "address": "5Vr9w6GKL979WYeYDTwQJ32o1DJT8Fmz9U7Ekxpxpump",
     "symbol": "GenZ",
     "name": "67ChudLarping",
-    "liquidity_usd": 2778.1137254249343,
-    "source_listed_at": "2026-08-22T11:52:23"
+    "liquidity_usd": 0.18411555678796315,
+    "source_listed_at": "2026-08-22T11:52:23",
+    "peak_liquidity_usd": 2778.1137254249343,
+    "last_checked_at": "2026-08-24T19:16:00.751766+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725165+00:00",
