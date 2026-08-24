@@ -285,7 +285,8 @@
     "symbol": "Florida",
     "name": "67ChudLarping",
     "liquidity_usd": 2877.3272163325464,
-    "source_listed_at": "2026-08-22T11:52:00"
+    "source_listed_at": "2026-08-22T11:52:00",
+    "last_checked_at": "2026-08-24T12:01:09.106832+00:00"
   },
   {
     "discovered_at": "2026-08-22T13:45:28.504152+00:00",
@@ -293,15 +294,19 @@
     "symbol": "Z",
     "name": "z ",
     "liquidity_usd": 5220.066061501448,
-    "source_listed_at": "2026-08-22T13:45:16"
+    "source_listed_at": "2026-08-22T13:45:16",
+    "last_checked_at": "2026-08-24T12:01:09.106832+00:00"
   },
   {
     "discovered_at": "2026-08-22T13:45:28.504201+00:00",
     "address": "3FFKM4der5hB341PQijCqc96NP7g63hJgbx8Ko4sWwvo",
     "symbol": "Rai-kun",
     "name": "The Orphaned Polar Bear",
-    "liquidity_usd": 14523.77562585573,
-    "source_listed_at": "2026-08-22T13:45:13"
+    "liquidity_usd": 1.0747038022939843e-06,
+    "source_listed_at": "2026-08-22T13:45:13",
+    "peak_liquidity_usd": 14523.77562585573,
+    "last_checked_at": "2026-08-24T12:01:09.106832+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T14:55:10.904066+00:00",
