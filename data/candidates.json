@@ -269,7 +269,8 @@
     "symbol": "WOLV\n",
     "name": "Mayhem Wolverine\n",
     "liquidity_usd": 2620.9204570436254,
-    "source_listed_at": "2026-08-22T11:52:05"
+    "source_listed_at": "2026-08-22T11:52:05",
+    "last_checked_at": "2026-08-24T14:27:17.725664+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725188+00:00",
@@ -277,7 +278,8 @@
     "symbol": "BNBFN",
     "name": "BNB FUN ",
     "liquidity_usd": 2620.9319132453384,
-    "source_listed_at": "2026-08-22T11:52:01"
+    "source_listed_at": "2026-08-22T11:52:01",
+    "last_checked_at": "2026-08-24T14:27:17.725664+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725192+00:00",
@@ -720,6 +722,17 @@
     "source_listed_at": "2026-08-24T08:29:15",
     "peak_liquidity_usd": 230011.81504062688,
     "last_checked_at": "2026-08-24T08:30:49.296373+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-24T14:27:17.187758+00:00",
+    "address": "Cyju3C1EcWdeoJKL1KiJ9hVY3MfUfABtc6aK8E4pKpbi",
+    "symbol": "BOOMER",
+    "name": "Boomercoin",
+    "liquidity_usd": 14210.837743753358,
+    "source_listed_at": "2026-08-24T14:26:59",
+    "peak_liquidity_usd": 14210.837743753358,
+    "last_checked_at": "2026-08-24T14:27:17.725664+00:00",
     "rug_flag": false
   }
 ]
