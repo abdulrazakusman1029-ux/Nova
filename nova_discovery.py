@@ -41,10 +41,11 @@ real-time — a rug that happens between polls is only caught after the
 fact, on the next poll that reaches it.
 
 TELEGRAM ALERTS (optional):
-When a candidate crosses the rug threshold, a message fires to Telegram
-immediately instead of waiting for you to open the dashboard. Off by
-default — it only turns on once both TELEGRAM_BOT_TOKEN and
-TELEGRAM_CHAT_ID are set. Setup:
+Two things fire a Telegram message instead of waiting for you to open the
+dashboard: a candidate crossing the rug threshold (one message per token,
+immediately), and a poll finding new candidates (one combined message per
+poll, even if it found several). Off by default — it only turns on once
+both TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID are set. Setup:
 1. Message @BotFather on Telegram, send /newbot, follow the prompts —
    you'll get back a token that looks like 123456789:ABC-defGhIJKl...
 2. Send your new bot any message (e.g. "hi") so it has a chat to reply to.
@@ -299,16 +300,19 @@ def send_telegram_message(text):
         return False
 
 
+def _esc_html(s):
+    """Telegram's HTML parse_mode chokes on raw &/</> — Birdeye names are
+    free text (a token can call itself anything), so every value that goes
+    into an alert has to pass through this first."""
+    return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def _format_rug_alert(c, drop_pct):
     """Plain, scannable alert text — the same facts the dashboard's rug
     banner shows, so nothing is being claimed here that isn't also visible
-    there. HTML parse_mode, so escape the token name/symbol defensively —
-    Birdeye names are free text, not guaranteed alert-safe."""
-    def esc(s):
-        return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-    name = esc(c.get("name") or c.get("symbol") or "?")
-    symbol = esc(c.get("symbol") or "?")
+    there."""
+    name = _esc_html(c.get("name") or c.get("symbol") or "?")
+    symbol = _esc_html(c.get("symbol") or "?")
     peak = _as_float(c.get("peak_liquidity_usd"))
     liquidity = _as_float(c.get("liquidity_usd"))
     address = c.get("address", "")
@@ -318,6 +322,26 @@ def _format_rug_alert(c, drop_pct):
         f"<code>{address}</code>\n"
         f"Not confirmed — review before acting."
     )
+
+
+def _format_new_candidates_alert(rows):
+    """One combined message for however many candidates a single poll
+    found — a burst of separate notifications for a multi-find poll would
+    be more annoying than helpful. Caps the listed items so a big poll
+    can't produce a message Telegram rejects for length; the dashboard is
+    still the full record either way."""
+    MAX_LISTED = 10
+    header = f"🆕 <b>{len(rows)} new candidate{'s' if len(rows) != 1 else ''}</b>\n"
+    lines = []
+    for row in rows[:MAX_LISTED]:
+        name = _esc_html(row.get("name") or row.get("symbol") or "?")
+        symbol = _esc_html(row.get("symbol") or "?")
+        liquidity = _as_float(row.get("liquidity_usd"))
+        address = row.get("address", "")
+        lines.append(f"\n<b>{symbol}</b> — {name}\n${liquidity:,.0f} · <code>{address}</code>")
+    remainder = len(rows) - MAX_LISTED
+    footer = f"\n\n…and {remainder} more on the dashboard." if remainder > 0 else ""
+    return header + "".join(lines) + footer
 
 
 def _mock_new_listings():
@@ -527,6 +551,15 @@ def run_once(api_key, candidates, usage, dry_run=False):
             log(f"CANDIDATE  {row['symbol']:<12} liquidity=${row['liquidity_usd']:<10} {row['address']}")
         log(f"{len(candidates)} total candidates in data/candidates.json — "
             f"load that file into nova-dashboard.html to review them.")
+        if TELEGRAM_ALERTS_ENABLED and not dry_run:
+            # One alert per poll, not per token — a multi-find poll firing
+            # several separate notifications would be more annoying than
+            # useful. Failure here can't lose the candidates: they're
+            # already appended and saved above this point.
+            sent = send_telegram_message(_format_new_candidates_alert(rows))
+            if not sent:
+                log("WARNING: new-candidate alert didn't reach Telegram — "
+                    "check TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID.")
     else:
         log(f"No new candidates above ${MIN_LIQUIDITY_USD:,.0f} liquidity this poll "
             f"({len(items)} listings checked).")
@@ -582,4 +615,6 @@ def main():
 
 
 if __name__ == "__main__":
+    main()
+
     main()
