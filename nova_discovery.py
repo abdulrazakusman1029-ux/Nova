@@ -29,24 +29,41 @@ rejecting requests until it resets.
 RUG-CHECK LAYER (liquidity re-poll):
 Each poll also re-checks a small, bounded batch of already-discovered
 candidates via /defi/price (3 CU/call, much cheaper than new_listing's 30)
-to see if liquidity has collapsed since they were first seen â the classic
+to see if liquidity has collapsed since they were first seen — the classic
 "liquidity pull" rug. Bounded by NOVA_RUG_CHECK_MAX_PER_POLL (default 3
-tokens/poll) and NOVA_RUG_CHECK_WINDOW_HOURS (default 72 â candidates older
+tokens/poll) and NOVA_RUG_CHECK_WINDOW_HOURS (default 72 — candidates older
 than that stop getting re-checked, since a rug that hasn't happened by then
 is unlikely to be this kind). At the default hourly schedule that's at most
 72 re-checks/day = 216 CU/day = ~6,480 CU/month, comfortably inside the
 ~8,400 CU/month left over after discovery's ~21,600 (total ~28,080/30,000,
 leaving headroom rather than cutting it exactly to the wire). This is NOT
-real-time â a rug that happens between polls is only caught after the
+real-time — a rug that happens between polls is only caught after the
 fact, on the next poll that reaches it.
+
+TELEGRAM ALERTS (optional):
+When a candidate crosses the rug threshold, a message fires to Telegram
+immediately instead of waiting for you to open the dashboard. Off by
+default — it only turns on once both TELEGRAM_BOT_TOKEN and
+TELEGRAM_CHAT_ID are set. Setup:
+1. Message @BotFather on Telegram, send /newbot, follow the prompts —
+   you'll get back a token that looks like 123456789:ABC-defGhIJKl...
+2. Send your new bot any message (e.g. "hi") so it has a chat to reply to.
+3. Visit https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates in a browser
+   (with your real token in place of <YOUR_TOKEN>) and find "chat":{"id":
+   NUMBER, ...} in the response — that NUMBER is your chat ID.
+4. Set both as environment variables (or GitHub Actions secrets):
+     export TELEGRAM_BOT_TOKEN="123456789:ABC-defGhIJKl..."
+     export TELEGRAM_CHAT_ID="123456789"
+Nothing else changes if you skip this — the rug flag still shows up on
+the dashboard either way, this just adds a push notification on top.
 
 SETUP:
 1. Sign up free at https://bds.birdeye.so (no card required for the free tier)
 2. Generate an API key from the Security / API Keys section of the dashboard
 3. Set it as an environment variable rather than pasting it into this file:
      export BIRDEYE_API_KEY="your_key_here"
-4. pip install requests
-5. python3 nova_discovery.py
+4. python3 nova_discovery.py
+   (uses only the Python standard library — no pip install needed)
 
 Try --dry-run first to see the script work end-to-end against fake data,
 with no API key and no network calls, before spending any real quota.
@@ -82,13 +99,22 @@ MEME_PLATFORM_ONLY = os.environ.get("NOVA_MEME_PLATFORM_ONLY", "true").lower() =
 
 # --- Rug-check (liquidity re-poll) ---------------------------------------
 # Layer 1.5: re-checks liquidity on candidates already discovered, to catch
-# the classic "liquidity pull" rug â not a real-time guarantee (a rug can
+# the classic "liquidity pull" rug — not a real-time guarantee (a rug can
 # happen faster than an hourly poll), just an honest after-the-fact flag.
 RUG_CHECK_ENABLED = os.environ.get("NOVA_RUG_CHECK_ENABLED", "true").lower() == "true"
 RUG_CHECK_WINDOW_HOURS = float(os.environ.get("NOVA_RUG_CHECK_WINDOW_HOURS", 72))
 RUG_CHECK_MAX_PER_POLL = int(os.environ.get("NOVA_RUG_CHECK_MAX_PER_POLL", 3))
 RUG_LIQUIDITY_DROP_PCT = float(os.environ.get("NOVA_RUG_LIQUIDITY_DROP_PCT", 0.6))  # 60% drop from peak
 RUG_MIN_PEAK_USD = float(os.environ.get("NOVA_RUG_MIN_PEAK_USD", 500))  # ignore noise below this
+
+# --- Telegram alerts -------------------------------------------------------
+# Optional: if both are set, a newly-flagged rug fires a Telegram message
+# immediately instead of waiting for you to open the dashboard. Neither
+# credential is ever written to a file this script touches — set them as
+# GitHub Actions secrets (or local env vars), same as BIRDEYE_API_KEY.
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
+TELEGRAM_ALERTS_ENABLED = bool(TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID)
 
 DATA_DIR = Path(__file__).parent / "data"
 CANDIDATES_JSON = DATA_DIR / "candidates.json"
@@ -127,7 +153,7 @@ def _record_call(usage, cu_cost=CU_COST_NEW_LISTING):
 
 
 # ----------------------------------------------------------------------
-# Candidate store â candidates.json is the single source of truth.
+# Candidate store — candidates.json is the single source of truth.
 # The dashboard (nova-dashboard.html) loads this file directly via its
 # "Load export" button, so its shape matters: a flat JSON array of rows,
 # same fields as to_row() below.
@@ -154,7 +180,7 @@ def _append_candidates(rows):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     is_new = not CANDIDATES_CSV.exists()
     with open(CANDIDATES_CSV, "a", newline="") as f:
-        # This CSV is a write-once discovery log, not the live record â the
+        # This CSV is a write-once discovery log, not the live record — the
         # rug-check's bookkeeping fields (peak_liquidity_usd, last_checked_at,
         # rug_flag) change after a row is written, so they'd go stale here
         # immediately. candidates.json is the one source of truth for those;
@@ -198,9 +224,9 @@ def fetch_new_listings(api_key, chain=CHAIN, limit=LISTING_LIMIT, meme_only=MEME
 
 def fetch_token_liquidity(api_key, address, chain=CHAIN):
     """Re-check a single already-known token's current liquidity. Uses
-    /defi/price (3 CU) rather than /defi/token_overview (20 CU) â all we
+    /defi/price (3 CU) rather than /defi/token_overview (20 CU) — all we
     need for the rug check is the liquidity number, not the full profile.
-    Returns a float, or None on any failure (never raises â a re-check
+    Returns a float, or None on any failure (never raises — a re-check
     that can't reach Birdeye should skip that token this round, not crash
     the whole poll)."""
     params = f"address={address}&include_liquidity=true"
@@ -219,12 +245,79 @@ def fetch_token_liquidity(api_key, address, chain=CHAIN):
     except urllib.error.URLError as e:
         log(f"ERROR: network error checking price for {address}: {e.reason}")
         return None
+    except Exception as e:
+        # Catches anything else the response could throw at us — malformed
+        # JSON, an unexpected body shape, a decode error. The docstring
+        # promises this function never raises, so this has to be a true
+        # catch-all, not just the two urllib error types above (a single
+        # bad response here previously took down the entire poll).
+        log(f"ERROR: unexpected failure checking price for {address}: {e}")
+        return None
 
-    if not body.get("success", False):
+    if not isinstance(body, dict) or not body.get("success", False):
         return None
 
     data = body.get("data") or {}
+    if not isinstance(data, dict):
+        return None
     return _as_float(data.get("liquidity"), default=None)
+
+
+def send_telegram_message(text):
+    """Fire a Telegram message via the bot API. Never raises — an alert
+    that fails to send should be logged and skipped, not take the poll
+    down with it (same defensive stance as fetch_token_liquidity above).
+    No-op (returns False immediately) if Telegram isn't configured."""
+    if not TELEGRAM_ALERTS_ENABLED:
+        return False
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = json.dumps({
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }).encode("utf-8")
+    req = urllib.request.Request(url, data=payload, method="POST")
+    req.add_header("Content-Type", "application/json")
+
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            body = json.loads(resp.read().decode("utf-8"))
+        if not isinstance(body, dict) or not body.get("ok", False):
+            log(f"ERROR: Telegram rejected the alert: {body}")
+            return False
+        return True
+    except urllib.error.HTTPError as e:
+        log(f"ERROR: Telegram send failed with HTTP {e.code}")
+        return False
+    except urllib.error.URLError as e:
+        log(f"ERROR: network error sending Telegram alert: {e.reason}")
+        return False
+    except Exception as e:
+        log(f"ERROR: unexpected failure sending Telegram alert: {e}")
+        return False
+
+
+def _format_rug_alert(c, drop_pct):
+    """Plain, scannable alert text — the same facts the dashboard's rug
+    banner shows, so nothing is being claimed here that isn't also visible
+    there. HTML parse_mode, so escape the token name/symbol defensively —
+    Birdeye names are free text, not guaranteed alert-safe."""
+    def esc(s):
+        return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    name = esc(c.get("name") or c.get("symbol") or "?")
+    symbol = esc(c.get("symbol") or "?")
+    peak = _as_float(c.get("peak_liquidity_usd"))
+    liquidity = _as_float(c.get("liquidity_usd"))
+    address = c.get("address", "")
+    return (
+        f"⚠️ <b>Possible rug: {name}</b> ({symbol})\n"
+        f"Liquidity ${peak:,.0f} → ${liquidity:,.0f} ({drop_pct * 100:.0f}% drop)\n"
+        f"<code>{address}</code>\n"
+        f"Not confirmed — review before acting."
+    )
 
 
 def _mock_new_listings():
@@ -243,7 +336,7 @@ def _mock_new_listings():
 # ----------------------------------------------------------------------
 
 def _as_float(value, default=0.0):
-    """Birdeye's fields aren't consistently typed across endpoints/tokens â
+    """Birdeye's fields aren't consistently typed across endpoints/tokens —
     numbers sometimes arrive as JSON numbers, sometimes as strings. Coerce
     defensively instead of trusting the type."""
     if value is None:
@@ -275,7 +368,7 @@ def to_row(item):
             # Expected shape: a Unix timestamp (int/float, or a numeric string).
             listed_iso = datetime.fromtimestamp(float(listed_ts), tz=timezone.utc).isoformat()
         except (TypeError, ValueError):
-            # Birdeye sent something else (e.g. already an ISO string) â keep it
+            # Birdeye sent something else (e.g. already an ISO string) — keep it
             # as-is rather than crashing the whole poll over a display field.
             listed_iso = str(listed_ts)
     liquidity = _as_float(item.get("liquidity"))
@@ -286,7 +379,7 @@ def to_row(item):
         "name": item.get("name", ""),
         "liquidity_usd": liquidity,
         "source_listed_at": listed_iso,
-        # Rug-check bookkeeping â peak starts equal to the discovery-time
+        # Rug-check bookkeeping — peak starts equal to the discovery-time
         # reading; recheck_liquidity() updates all three as it re-polls.
         "peak_liquidity_usd": liquidity,
         "last_checked_at": "",
@@ -295,7 +388,7 @@ def to_row(item):
 
 
 # ----------------------------------------------------------------------
-# Rug check â re-poll liquidity on already-discovered candidates
+# Rug check — re-poll liquidity on already-discovered candidates
 # ----------------------------------------------------------------------
 
 def _parse_iso(value):
@@ -311,10 +404,14 @@ def recheck_liquidity(api_key, candidates, usage):
     """Re-poll liquidity for a small, bounded batch of already-discovered
     candidates, to catch a liquidity-pull rug after the fact. Bounded by
     RUG_CHECK_MAX_PER_POLL and RUG_CHECK_WINDOW_HOURS so this can't quietly
-    balloon in cost as the candidate list grows over weeks/months â see the
-    BUDGET NOTES at the top of this file for the math."""
+    balloon in cost as the candidate list grows over weeks/months — see the
+    BUDGET NOTES at the top of this file for the math.
+
+    Returns (checked, newly_flagged) where newly_flagged is the list of
+    candidate dicts that crossed the rug threshold THIS call (not a count —
+    run_once() needs the actual candidates to alert on)."""
     if not RUG_CHECK_ENABLED or not candidates:
-        return 0, 0
+        return 0, []
 
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=RUG_CHECK_WINDOW_HOURS)
@@ -323,10 +420,10 @@ def recheck_liquidity(api_key, candidates, usage):
     for c in candidates:
         discovered = _parse_iso(c.get("discovered_at"))
         if discovered is None or discovered < cutoff:
-            continue  # outside the window â either too old to bother, or an unparseable timestamp
+            continue  # outside the window — either too old to bother, or an unparseable timestamp
         eligible.append(c)
 
-    # Never-checked candidates go first â and among those, newest-discovered
+    # Never-checked candidates go first — and among those, newest-discovered
     # first, since a freshly-launched token is when rug risk is highest and
     # a backlog of older never-checked candidates shouldn't push it to the
     # back of the line. Already-checked candidates follow, oldest-checked
@@ -343,37 +440,59 @@ def recheck_liquidity(api_key, candidates, usage):
     batch = eligible[:RUG_CHECK_MAX_PER_POLL]
 
     checked = 0
-    newly_flagged = 0
+    newly_flagged = []
     for c in batch:
         remaining = FREE_TIER_MONTHLY_CU - usage["cu_spent"]
         if remaining < CU_COST_PRICE:
             log("Rug-check paused: out of compute units for this month.")
             break
 
-        liquidity = fetch_token_liquidity(api_key, c["address"])
-        _record_call(usage, cu_cost=CU_COST_PRICE)
-        checked += 1
+        # One candidate's bad data should never take down the whole poll —
+        # including the newly-discovered candidates from earlier in this same
+        # run, which only get saved once run_once() finishes. fetch_token_
+        # liquidity() is already a catch-all, but this belt-and-suspenders
+        # try/except covers this loop's own bookkeeping too (a malformed
+        # peak/liquidity value, an unexpected type, etc.).
+        try:
+            liquidity = fetch_token_liquidity(api_key, c["address"])
+            _record_call(usage, cu_cost=CU_COST_PRICE)
+            checked += 1
 
-        if liquidity is None:
-            # Couldn't get a fresh reading â still stamp last_checked_at so a
-            # persistently-failing token doesn't hog every future poll's batch.
+            if liquidity is None:
+                # Couldn't get a fresh reading — still stamp last_checked_at so
+                # a persistently-failing token doesn't hog every future poll's
+                # batch.
+                c["last_checked_at"] = now.isoformat()
+                continue
+
+            peak = max(_as_float(c.get("peak_liquidity_usd")), _as_float(c.get("liquidity_usd")), liquidity)
+            was_flagged = bool(c.get("rug_flag"))
+            c["liquidity_usd"] = liquidity
+            c["peak_liquidity_usd"] = peak
+            c["last_checked_at"] = now.isoformat()
+
+            drop_pct = (1 - liquidity / peak) if peak > 0 else 0
+            should_flag = peak >= RUG_MIN_PEAK_USD and drop_pct >= RUG_LIQUIDITY_DROP_PCT
+            c["rug_flag"] = should_flag
+
+            if should_flag and not was_flagged:
+                newly_flagged.append(c)
+                log(f"RUG FLAG   {c.get('symbol', '?'):<12} liquidity ${peak:,.0f} -> ${liquidity:,.0f} "
+                    f"({drop_pct * 100:.0f}% drop) {c['address']}")
+                if TELEGRAM_ALERTS_ENABLED:
+                    # Fire immediately, one message per token — this is the
+                    # whole point of the alert layer: know the moment it
+                    # happens instead of finding out next time you open the
+                    # dashboard. send_telegram_message() never raises, so a
+                    # failed alert can't take the rest of this poll down.
+                    sent = send_telegram_message(_format_rug_alert(c, drop_pct))
+                    if not sent:
+                        log(f"WARNING: rug flag on {c.get('symbol', '?')} didn't reach Telegram — "
+                            f"check TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID.")
+        except Exception as e:
+            log(f"ERROR: rug-check bookkeeping failed for {c.get('address')}: {e}")
             c["last_checked_at"] = now.isoformat()
             continue
-
-        peak = max(_as_float(c.get("peak_liquidity_usd")), _as_float(c.get("liquidity_usd")), liquidity)
-        was_flagged = bool(c.get("rug_flag"))
-        c["liquidity_usd"] = liquidity
-        c["peak_liquidity_usd"] = peak
-        c["last_checked_at"] = now.isoformat()
-
-        drop_pct = (1 - liquidity / peak) if peak > 0 else 0
-        should_flag = peak >= RUG_MIN_PEAK_USD and drop_pct >= RUG_LIQUIDITY_DROP_PCT
-        c["rug_flag"] = should_flag
-
-        if should_flag and not was_flagged:
-            newly_flagged += 1
-            log(f"RUG FLAG   {c.get('symbol', '?'):<12} liquidity ${peak:,.0f} -> ${liquidity:,.0f} "
-                f"({drop_pct * 100:.0f}% drop) {c['address']}")
 
     return checked, newly_flagged
 
@@ -406,7 +525,7 @@ def run_once(api_key, candidates, usage, dry_run=False):
         found_new = True
         for row in rows:
             log(f"CANDIDATE  {row['symbol']:<12} liquidity=${row['liquidity_usd']:<10} {row['address']}")
-        log(f"{len(candidates)} total candidates in data/candidates.json â "
+        log(f"{len(candidates)} total candidates in data/candidates.json — "
             f"load that file into nova-dashboard.html to review them.")
     else:
         log(f"No new candidates above ${MIN_LIQUIDITY_USD:,.0f} liquidity this poll "
@@ -414,10 +533,19 @@ def run_once(api_key, candidates, usage, dry_run=False):
 
     checked = 0
     if not dry_run:
-        checked, newly_flagged = recheck_liquidity(api_key, candidates, usage)
-        if checked:
-            log(f"Rug-check: re-polled {checked} existing candidate(s)"
-                + (f", {newly_flagged} newly flagged" if newly_flagged else ""))
+        # Outermost safety net: if the rug-check layer fails in some way
+        # neither of its own try/excepts anticipated, this poll should still
+        # save whatever new candidates it just found rather than losing them.
+        # (This is exactly the gap that let one bad rug-check response take
+        # the whole poll — and any newly-discovered candidates with it —
+        # down silently for the first several hours this layer was live.)
+        try:
+            checked, newly_flagged = recheck_liquidity(api_key, candidates, usage)
+            if checked:
+                log(f"Rug-check: re-polled {checked} existing candidate(s)"
+                    + (f", {len(newly_flagged)} newly flagged" if newly_flagged else ""))
+        except Exception as e:
+            log(f"ERROR: rug-check layer failed this poll, skipping it: {e}")
 
     if found_new or checked:
         _save_candidates(candidates)
