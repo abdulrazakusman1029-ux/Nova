@@ -245,7 +245,8 @@
     "symbol": "ARSEOUL",
     "name": "ARCTIC SEOUL SHIP",
     "liquidity_usd": 62719.03661518878,
-    "source_listed_at": "2026-08-22T11:52:15"
+    "source_listed_at": "2026-08-22T11:52:15",
+    "last_checked_at": "2026-08-24T17:07:26.515774+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725170+00:00",
@@ -253,15 +254,19 @@
     "symbol": "GENZ",
     "name": "67ChudLarping",
     "liquidity_usd": 2862.7166247882997,
-    "source_listed_at": "2026-08-22T11:52:12"
+    "source_listed_at": "2026-08-22T11:52:12",
+    "last_checked_at": "2026-08-24T17:07:26.515774+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725178+00:00",
     "address": "DnSWsaEgzgaY5pLAn8HmXhaBBzbLbueGeskU1wujpump",
     "symbol": "Mani",
     "name": "Mani",
-    "liquidity_usd": 2877.2736379967882,
-    "source_listed_at": "2026-08-22T11:52:07"
+    "liquidity_usd": 0.19116404852268834,
+    "source_listed_at": "2026-08-22T11:52:07",
+    "peak_liquidity_usd": 2877.2736379967882,
+    "last_checked_at": "2026-08-24T17:07:26.515774+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725183+00:00",
