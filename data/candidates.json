@@ -173,7 +173,8 @@
     "symbol": "TRUMPET",
     "name": "OFFICIAL TRUMPET",
     "liquidity_usd": 2671.1585641690535,
-    "source_listed_at": "2026-08-22T11:53:10"
+    "source_listed_at": "2026-08-22T11:53:10",
+    "last_checked_at": "2026-08-24T23:53:40.774111+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725098+00:00",
@@ -181,15 +182,19 @@
     "symbol": "ContextRot",
     "name": "67ChudLarping",
     "liquidity_usd": 3031.588050516825,
-    "source_listed_at": "2026-08-22T11:53:03"
+    "source_listed_at": "2026-08-22T11:53:03",
+    "last_checked_at": "2026-08-24T23:53:40.774111+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725103+00:00",
     "address": "6QiNhMp174s9nT1MrxA1FdjBqxhQAcH8tgNCcC1Kpump",
     "symbol": "\u5e02\u5ddd\u68a8\u4e38",
     "name": "Ichikawa Nashimaru",
-    "liquidity_usd": 2847.2870835526896,
-    "source_listed_at": "2026-08-22T11:53:01"
+    "liquidity_usd": 0.18497923018770765,
+    "source_listed_at": "2026-08-22T11:53:01",
+    "peak_liquidity_usd": 2847.2870835526896,
+    "last_checked_at": "2026-08-24T23:53:40.774111+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725109+00:00",
