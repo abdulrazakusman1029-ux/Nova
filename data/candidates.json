@@ -341,7 +341,8 @@
     "symbol": "TRUTH",
     "name": "OFFICIAL TRUTH",
     "liquidity_usd": 16347.804456196975,
-    "source_listed_at": "2026-08-22T17:54:11"
+    "source_listed_at": "2026-08-22T17:54:11",
+    "last_checked_at": "2026-08-24T06:04:09.815885+00:00"
   },
   {
     "discovered_at": "2026-08-22T17:54:25.374498+00:00",
@@ -349,15 +350,19 @@
     "symbol": "WWR",
     "name": "World Water Reserve",
     "liquidity_usd": 10080.477434596183,
-    "source_listed_at": "2026-08-22T17:54:04"
+    "source_listed_at": "2026-08-22T17:54:04",
+    "last_checked_at": "2026-08-24T06:04:09.815885+00:00"
   },
   {
     "discovered_at": "2026-08-22T19:10:08.929332+00:00",
     "address": "9Vq3Vo3NamdACq5S1zH231giS4ANZ6TGbmD8XFFBcEoM",
     "symbol": "SEYONG",
     "name": "Seyongcoin",
-    "liquidity_usd": 19154.948316115802,
-    "source_listed_at": "2026-08-22T19:09:40"
+    "liquidity_usd": 1.1336492801938114e-06,
+    "source_listed_at": "2026-08-22T19:09:40",
+    "peak_liquidity_usd": 19154.948316115802,
+    "last_checked_at": "2026-08-24T06:04:09.815885+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-22T19:51:27.978230+00:00",
