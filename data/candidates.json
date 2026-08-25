@@ -550,7 +550,7 @@
     "name": "CAT SEASON CLUB",
     "liquidity_usd": 17770.018570145126,
     "source_listed_at": "2026-08-23T07:50:09",
-    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
+    "last_checked_at": "2026-08-25T21:58:43.086908+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602961+00:00",
@@ -559,7 +559,7 @@
     "name": "The Perfect Memecoin",
     "liquidity_usd": 16377.654029600151,
     "source_listed_at": "2026-08-23T07:50:02",
-    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
+    "last_checked_at": "2026-08-25T21:58:43.086908+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602964+00:00",
@@ -872,6 +872,17 @@
     "source_listed_at": "2026-08-25T19:48:16",
     "peak_liquidity_usd": 17815.68991209595,
     "last_checked_at": "2026-08-25T19:48:30.964642+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T21:58:42.579241+00:00",
+    "address": "CzUiBjeSG46LvBVjvZfsRjwVUSu8QHFhAg4kD4zpf9D3",
+    "symbol": "KODA",
+    "name": "Kodacoin",
+    "liquidity_usd": 19270.62438244773,
+    "source_listed_at": "2026-08-25T21:58:07",
+    "peak_liquidity_usd": 19270.62438244773,
+    "last_checked_at": "2026-08-25T21:58:43.086908+00:00",
     "rug_flag": false
   }
 ]
