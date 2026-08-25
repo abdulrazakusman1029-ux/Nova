@@ -604,9 +604,11 @@
     "address": "9DZeMZxEg3xcg8pRVxzPG3qScUVumCb5xXNcW73dpump",
     "symbol": "XYZ",
     "name": "XYZ coin",
-    "liquidity_usd": 10034.907848454886,
+    "liquidity_usd": 38.47212759753242,
     "source_listed_at": "2026-08-23T10:57:07",
-    "last_checked_at": "2026-08-23T15:54:36.188251+00:00"
+    "last_checked_at": "2026-08-25T17:07:28.031612+00:00",
+    "peak_liquidity_usd": 10034.907848454886,
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T11:53:31.330392+00:00",
@@ -615,7 +617,7 @@
     "name": "Princess Robot Bubblegum",
     "liquidity_usd": 16444.231646380023,
     "source_listed_at": "2026-08-23T11:52:55",
-    "last_checked_at": "2026-08-23T15:54:36.188251+00:00"
+    "last_checked_at": "2026-08-25T17:07:28.031612+00:00"
   },
   {
     "discovered_at": "2026-08-23T13:47:59.926576+00:00",
@@ -658,7 +660,7 @@
     "liquidity_usd": 16562.72694524686,
     "source_listed_at": "2026-08-23T15:54:30",
     "peak_liquidity_usd": 16562.72694524686,
-    "last_checked_at": "2026-08-23T15:54:36.188251+00:00",
+    "last_checked_at": "2026-08-25T17:07:28.031612+00:00",
     "rug_flag": false
   },
   {
