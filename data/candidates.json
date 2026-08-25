@@ -541,7 +541,7 @@
     "name": "Yomogicoin",
     "liquidity_usd": 15760.154973577284,
     "source_listed_at": "2026-08-23T05:46:49",
-    "last_checked_at": "2026-08-23T19:04:15.999480+00:00"
+    "last_checked_at": "2026-08-25T21:04:39.584962+00:00"
   },
   {
     "discovered_at": "2026-08-23T07:50:51.602939+00:00",
@@ -670,11 +670,11 @@
     "address": "fk9S3cx5UdkiL1SG3cyBLPVqBBGB1mt8TdXCLaF9qXR",
     "symbol": "MaDukes",
     "name": "MaDukes",
-    "liquidity_usd": 16351.08431177737,
+    "liquidity_usd": 0.0031677698746237913,
     "source_listed_at": "2026-08-23T17:51:45",
     "peak_liquidity_usd": 16351.08431177737,
-    "last_checked_at": "2026-08-23T17:51:49.391193+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-25T21:04:39.584962+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T17:51:49.390947+00:00",
@@ -684,7 +684,7 @@
     "liquidity_usd": 76634.31730615976,
     "source_listed_at": "2026-08-23T17:51:42",
     "peak_liquidity_usd": 76634.31730615976,
-    "last_checked_at": "2026-08-23T17:51:49.391193+00:00",
+    "last_checked_at": "2026-08-25T21:04:39.584962+00:00",
     "rug_flag": false
   },
   {
