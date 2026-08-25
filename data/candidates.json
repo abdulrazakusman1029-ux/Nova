@@ -622,20 +622,22 @@
     "address": "Gs2cagyToHLkP43giPgYkqsM9dsD4R22or3Zrh15bonk",
     "symbol": "ALAFAL",
     "name": "ALABASTA FALCON",
-    "liquidity_usd": 71182.60796301975,
+    "liquidity_usd": 0.00035968822758786494,
     "source_listed_at": "2026-08-23T13:47:35",
-    "last_checked_at": "2026-08-23T14:58:17.376107+00:00"
+    "last_checked_at": "2026-08-25T14:29:58.324138+00:00",
+    "peak_liquidity_usd": 71182.60796301975,
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T14:58:17.375828+00:00",
     "address": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
     "symbol": "CYBERLEEK",
     "name": "CyberLeek",
-    "liquidity_usd": 10189.83901863575,
+    "liquidity_usd": 54.254909583697106,
     "source_listed_at": "2026-08-23T14:58:01",
     "peak_liquidity_usd": 10189.83901863575,
-    "last_checked_at": "2026-08-23T14:58:17.376107+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-25T14:29:58.324138+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T14:58:17.375845+00:00",
@@ -645,7 +647,7 @@
     "liquidity_usd": 16920.86806587422,
     "source_listed_at": "2026-08-23T14:57:58",
     "peak_liquidity_usd": 16920.86806587422,
-    "last_checked_at": "2026-08-23T14:58:17.376107+00:00",
+    "last_checked_at": "2026-08-25T14:29:58.324138+00:00",
     "rug_flag": false
   },
   {
