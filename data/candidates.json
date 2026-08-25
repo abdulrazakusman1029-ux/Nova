@@ -109,7 +109,8 @@
     "symbol": "SORRY",
     "name": "Im So Fucking Sorry",
     "liquidity_usd": 2872.5319294916903,
-    "source_listed_at": "2026-08-22T11:38:18"
+    "source_listed_at": "2026-08-22T11:38:18",
+    "last_checked_at": "2026-08-25T10:55:54.071025+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:38:57.900568+00:00",
@@ -117,7 +118,8 @@
     "symbol": "Balls",
     "name": "Diamond Balls",
     "liquidity_usd": 2744.3248653660353,
-    "source_listed_at": "2026-08-22T11:38:17"
+    "source_listed_at": "2026-08-22T11:38:17",
+    "last_checked_at": "2026-08-25T10:55:54.071025+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:38:57.900571+00:00",
@@ -831,6 +833,17 @@
     "source_listed_at": "2026-08-25T08:23:21",
     "peak_liquidity_usd": 17120.17803919176,
     "last_checked_at": "2026-08-25T08:23:33.303424+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T10:55:53.637415+00:00",
+    "address": "8dKZQhxSEJaojct2xPFK1iNGt3VHZXTxmNBpH6srrrzJ",
+    "symbol": "kylie",
+    "name": "kylie",
+    "liquidity_usd": 16957.83299391997,
+    "source_listed_at": "2026-08-25T10:54:51",
+    "peak_liquidity_usd": 16957.83299391997,
+    "last_checked_at": "2026-08-25T10:55:54.071025+00:00",
     "rug_flag": false
   }
 ]
