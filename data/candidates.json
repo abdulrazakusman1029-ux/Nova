@@ -141,7 +141,8 @@
     "symbol": "sol",
     "name": "blue chip ",
     "liquidity_usd": 2612.208890278591,
-    "source_listed_at": "2026-08-22T11:37:59"
+    "source_listed_at": "2026-08-22T11:37:59",
+    "last_checked_at": "2026-08-25T05:51:47.851941+00:00"
   },
   {
     "discovered_at": "2026-08-22T11:53:27.725058+00:00",
@@ -795,6 +796,28 @@
     "source_listed_at": "2026-08-24T23:01:11",
     "peak_liquidity_usd": 10410.797163671477,
     "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T05:51:47.420607+00:00",
+    "address": "HeZTyv99M2F7QUDBk9Wht6yVhLDNbb7twXDZGpp7pump",
+    "symbol": "IRNSRN",
+    "name": "IRAN SANCTION SIREN",
+    "liquidity_usd": 72517.32813299316,
+    "source_listed_at": "2026-08-25T05:51:28",
+    "peak_liquidity_usd": 72517.32813299316,
+    "last_checked_at": "2026-08-25T05:51:47.851941+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T05:51:47.420624+00:00",
+    "address": "EVAMqZS3v7pM43xHjXFpiFHra7fanHWQbQv3kp1nasxg",
+    "symbol": "\u725b\u6765",
+    "name": "\u725b\u6765",
+    "liquidity_usd": 13259.333403551498,
+    "source_listed_at": "2026-08-25T05:51:19",
+    "peak_liquidity_usd": 13259.333403551498,
+    "last_checked_at": "2026-08-25T05:51:47.851941+00:00",
     "rug_flag": false
   }
 ]
