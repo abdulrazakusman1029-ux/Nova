@@ -575,9 +575,11 @@
     "address": "G6QqLkWDPh4s9WrWYPpHnMobab9yghXnzFBrxfoVpump",
     "symbol": "KAVONISM",
     "name": "kavonism",
-    "liquidity_usd": 10003.55276912229,
+    "liquidity_usd": 39.250270589597314,
     "source_listed_at": "2026-08-23T09:03:49",
-    "last_checked_at": "2026-08-23T17:00:28.906580+00:00"
+    "last_checked_at": "2026-08-25T18:05:03.681817+00:00",
+    "peak_liquidity_usd": 10003.55276912229,
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T09:57:37.740459+00:00",
@@ -586,7 +588,7 @@
     "name": "\u4e2d\u56fd\u7248\u7684\u4e09\u4e3d\u9e25",
     "liquidity_usd": 15912.639699115623,
     "source_listed_at": "2026-08-23T09:56:45",
-    "last_checked_at": "2026-08-23T17:00:28.906580+00:00"
+    "last_checked_at": "2026-08-25T18:05:03.681817+00:00"
   },
   {
     "discovered_at": "2026-08-23T09:57:37.740479+00:00",
@@ -596,7 +598,7 @@
     "liquidity_usd": 3.37354998491435e-07,
     "source_listed_at": "2026-08-23T09:56:11",
     "peak_liquidity_usd": 15906.148403235236,
-    "last_checked_at": "2026-08-23T17:00:28.906580+00:00",
+    "last_checked_at": "2026-08-25T18:05:03.681817+00:00",
     "rug_flag": true
   },
   {
