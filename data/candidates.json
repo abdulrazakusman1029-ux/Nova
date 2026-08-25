@@ -512,7 +512,7 @@
     "name": "Peter Barker",
     "liquidity_usd": 16369.650992093217,
     "source_listed_at": "2026-08-23T05:47:43",
-    "last_checked_at": "2026-08-23T19:48:53.646456+00:00"
+    "last_checked_at": "2026-08-25T23:03:36.674316+00:00"
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492115+00:00",
@@ -521,7 +521,7 @@
     "name": "Diddy Coin",
     "liquidity_usd": 15918.108090258433,
     "source_listed_at": "2026-08-23T05:47:05",
-    "last_checked_at": "2026-08-23T19:48:53.646456+00:00"
+    "last_checked_at": "2026-08-25T23:03:36.674316+00:00"
   },
   {
     "discovered_at": "2026-08-23T05:48:07.492119+00:00",
@@ -883,6 +883,17 @@
     "source_listed_at": "2026-08-25T21:58:07",
     "peak_liquidity_usd": 19270.62438244773,
     "last_checked_at": "2026-08-25T21:58:43.086908+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T23:03:36.195744+00:00",
+    "address": "CodfvNNu149qUKRxjbUgKjxzbXjDC1ojNFpS1neLyJKR",
+    "symbol": "OCULA",
+    "name": "Ocula",
+    "liquidity_usd": 14402.913709604441,
+    "source_listed_at": "2026-08-25T23:03:19",
+    "peak_liquidity_usd": 14402.913709604441,
+    "last_checked_at": "2026-08-25T23:03:36.674316+00:00",
     "rug_flag": false
   }
 ]
