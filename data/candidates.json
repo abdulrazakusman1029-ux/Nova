@@ -568,7 +568,7 @@
     "name": "\u4f60\u4eec\u7684\u80c6\u5b50\u771f\u662f\u80a5\u561f\u561f\u7684",
     "liquidity_usd": 14804.712708126599,
     "source_listed_at": "2026-08-23T07:49:57",
-    "last_checked_at": "2026-08-23T17:51:49.391193+00:00"
+    "last_checked_at": "2026-08-25T19:48:30.964642+00:00"
   },
   {
     "discovered_at": "2026-08-23T09:05:04.200407+00:00",
@@ -850,6 +850,28 @@
     "source_listed_at": "2026-08-25T10:54:51",
     "peak_liquidity_usd": 16957.83299391997,
     "last_checked_at": "2026-08-25T10:55:54.071025+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T19:48:30.358259+00:00",
+    "address": "43VBbwLsgJYRUwMrELtrNeFDNNS3by3tDt9WjuACyGcU",
+    "symbol": "RAY",
+    "name": "Raydium",
+    "liquidity_usd": 16453.831195454623,
+    "source_listed_at": "2026-08-25T19:48:24",
+    "peak_liquidity_usd": 16453.831195454623,
+    "last_checked_at": "2026-08-25T19:48:30.964642+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-25T19:48:30.358282+00:00",
+    "address": "FP5mMHxUTWum2ZHydioWL9WetikMTnz48hoA6xZbpump",
+    "symbol": "RAYCAT",
+    "name": "RAYDIUM CAT",
+    "liquidity_usd": 17815.68991209595,
+    "source_listed_at": "2026-08-25T19:48:16",
+    "peak_liquidity_usd": 17815.68991209595,
+    "last_checked_at": "2026-08-25T19:48:30.964642+00:00",
     "rug_flag": false
   }
 ]
