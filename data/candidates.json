@@ -492,7 +492,7 @@
     "name": "Catecoin",
     "liquidity_usd": 15971.502245622913,
     "source_listed_at": "2026-08-23T03:31:26",
-    "last_checked_at": "2026-08-23T20:56:20.994656+00:00"
+    "last_checked_at": "2026-08-25T23:57:41.174330+00:00"
   },
   {
     "discovered_at": "2026-08-23T03:31:57.562974+00:00",
@@ -502,7 +502,7 @@
     "liquidity_usd": 3.2217183081188166e-07,
     "source_listed_at": "2026-08-23T03:31:20",
     "peak_liquidity_usd": 16605.622375562994,
-    "last_checked_at": "2026-08-23T20:56:20.994656+00:00",
+    "last_checked_at": "2026-08-25T23:57:41.174330+00:00",
     "rug_flag": true
   },
   {
@@ -528,10 +528,10 @@
     "address": "7GxZNaFLL5ZCjy7jiV4eTtYqLswqzGMsJ9PY7TiEArHB",
     "symbol": "BARKER",
     "name": "Peter Barker",
-    "liquidity_usd": 6.746101438764042e-07,
+    "liquidity_usd": 7.027047309049027e-07,
     "source_listed_at": "2026-08-23T05:46:57",
     "peak_liquidity_usd": 15672.30973168945,
-    "last_checked_at": "2026-08-23T19:48:53.646456+00:00",
+    "last_checked_at": "2026-08-25T23:57:41.174330+00:00",
     "rug_flag": true
   },
   {
