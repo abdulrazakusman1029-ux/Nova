@@ -824,11 +824,11 @@
     "address": "EVAMqZS3v7pM43xHjXFpiFHra7fanHWQbQv3kp1nasxg",
     "symbol": "\u725b\u6765",
     "name": "\u725b\u6765",
-    "liquidity_usd": 13259.333403551498,
+    "liquidity_usd": 5.404126882797719e-07,
     "source_listed_at": "2026-08-25T05:51:19",
     "peak_liquidity_usd": 13259.333403551498,
-    "last_checked_at": "2026-08-25T05:51:47.851941+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-26T14:29:24.244144+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-25T08:23:32.708991+00:00",
@@ -838,7 +838,7 @@
     "liquidity_usd": 17120.17803919176,
     "source_listed_at": "2026-08-25T08:23:21",
     "peak_liquidity_usd": 17120.17803919176,
-    "last_checked_at": "2026-08-25T08:23:33.303424+00:00",
+    "last_checked_at": "2026-08-26T14:29:24.244144+00:00",
     "rug_flag": false
   },
   {
@@ -849,7 +849,7 @@
     "liquidity_usd": 16957.83299391997,
     "source_listed_at": "2026-08-25T10:54:51",
     "peak_liquidity_usd": 16957.83299391997,
-    "last_checked_at": "2026-08-25T10:55:54.071025+00:00",
+    "last_checked_at": "2026-08-26T14:29:24.244144+00:00",
     "rug_flag": false
   },
   {
