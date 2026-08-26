@@ -706,7 +706,7 @@
     "liquidity_usd": 16204.56503788156,
     "source_listed_at": "2026-08-23T21:52:48",
     "peak_liquidity_usd": 16204.56503788156,
-    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "last_checked_at": "2026-08-26T03:37:37.552395+00:00",
     "rug_flag": false
   },
   {
@@ -717,7 +717,7 @@
     "liquidity_usd": 6157.749005119661,
     "source_listed_at": "2026-08-23T21:52:34",
     "peak_liquidity_usd": 6157.749005119661,
-    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
+    "last_checked_at": "2026-08-26T03:37:37.552395+00:00",
     "rug_flag": false
   },
   {
@@ -894,6 +894,17 @@
     "source_listed_at": "2026-08-25T23:03:19",
     "peak_liquidity_usd": 14402.913709604441,
     "last_checked_at": "2026-08-25T23:03:36.674316+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-26T03:37:36.885209+00:00",
+    "address": "Eq8kfd8j3mvnXAE4nJ3EChbKW7duRXMhv11TErkBMZk7",
+    "symbol": "fish",
+    "name": "fuck i should've held",
+    "liquidity_usd": 16501.122006635982,
+    "source_listed_at": "2026-08-26T03:37:17",
+    "peak_liquidity_usd": 16501.122006635982,
+    "last_checked_at": "2026-08-26T03:37:37.552395+00:00",
     "rug_flag": false
   }
 ]
