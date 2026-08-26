@@ -805,7 +805,7 @@
     "liquidity_usd": 10410.797163671477,
     "source_listed_at": "2026-08-24T23:01:11",
     "peak_liquidity_usd": 10410.797163671477,
-    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "last_checked_at": "2026-08-26T12:04:18.405452+00:00",
     "rug_flag": false
   },
   {
@@ -816,7 +816,7 @@
     "liquidity_usd": 72517.32813299316,
     "source_listed_at": "2026-08-25T05:51:28",
     "peak_liquidity_usd": 72517.32813299316,
-    "last_checked_at": "2026-08-25T05:51:47.851941+00:00",
+    "last_checked_at": "2026-08-26T12:04:18.405452+00:00",
     "rug_flag": false
   },
   {
@@ -916,6 +916,17 @@
     "source_listed_at": "2026-08-26T08:23:11",
     "peak_liquidity_usd": 16491.734553649527,
     "last_checked_at": "2026-08-26T08:24:16.079249+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-26T12:04:17.900483+00:00",
+    "address": "FrWveQ3jBzf9F5k1kMbni5L6YgQaMC4aTnzN7Nur4xg9",
+    "symbol": "Pumptacio",
+    "name": "Pumptacio",
+    "liquidity_usd": 31324.900941189506,
+    "source_listed_at": "2026-08-26T12:04:00",
+    "peak_liquidity_usd": 31324.900941189506,
+    "last_checked_at": "2026-08-26T12:04:18.405452+00:00",
     "rug_flag": false
   }
 ]
