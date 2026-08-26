@@ -769,11 +769,11 @@
     "address": "Cyju3C1EcWdeoJKL1KiJ9hVY3MfUfABtc6aK8E4pKpbi",
     "symbol": "BOOMER",
     "name": "Boomercoin",
-    "liquidity_usd": 14210.837743753358,
+    "liquidity_usd": 2.115460750787249e-06,
     "source_listed_at": "2026-08-24T14:26:59",
     "peak_liquidity_usd": 14210.837743753358,
-    "last_checked_at": "2026-08-24T14:27:17.725664+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-26T10:59:31.516372+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-24T23:01:32.890410+00:00",
@@ -783,7 +783,7 @@
     "liquidity_usd": 10434.926240706383,
     "source_listed_at": "2026-08-24T23:01:26",
     "peak_liquidity_usd": 10434.926240706383,
-    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "last_checked_at": "2026-08-26T10:59:31.516372+00:00",
     "rug_flag": false
   },
   {
@@ -794,7 +794,7 @@
     "liquidity_usd": 10367.770728386604,
     "source_listed_at": "2026-08-24T23:01:18",
     "peak_liquidity_usd": 10367.770728386604,
-    "last_checked_at": "2026-08-24T23:01:33.478013+00:00",
+    "last_checked_at": "2026-08-26T10:59:31.516372+00:00",
     "rug_flag": false
   },
   {
