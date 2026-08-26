@@ -695,7 +695,7 @@
     "liquidity_usd": 21462.484444148846,
     "source_listed_at": "2026-08-23T21:52:54",
     "peak_liquidity_usd": 21462.484444148846,
-    "last_checked_at": "2026-08-23T22:54:30.747036+00:00",
+    "last_checked_at": "2026-08-26T05:55:01.830943+00:00",
     "rug_flag": false
   },
   {
@@ -725,11 +725,11 @@
     "address": "e9TYuukQoikvHYmrv2mA5sysRuqbxit5DRRW4Pypump",
     "symbol": "DOPAMEME",
     "name": "dopameme",
-    "liquidity_usd": 10241.78865850643,
+    "liquidity_usd": 60.51172159834438,
     "source_listed_at": "2026-08-23T21:52:24",
     "peak_liquidity_usd": 10241.78865850643,
-    "last_checked_at": "2026-08-23T21:53:02.861329+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-26T05:55:01.830943+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-23T23:52:47.394751+00:00",
@@ -739,7 +739,7 @@
     "liquidity_usd": 10185.08199254416,
     "source_listed_at": "2026-08-23T23:52:08",
     "peak_liquidity_usd": 10185.08199254416,
-    "last_checked_at": "2026-08-23T23:52:47.394970+00:00",
+    "last_checked_at": "2026-08-26T05:55:01.830943+00:00",
     "rug_flag": false
   },
   {
