@@ -750,7 +750,7 @@
     "liquidity_usd": 15873.49819878591,
     "source_listed_at": "2026-08-24T08:29:38",
     "peak_liquidity_usd": 15873.49819878591,
-    "last_checked_at": "2026-08-24T08:30:49.296373+00:00",
+    "last_checked_at": "2026-08-26T08:24:16.079249+00:00",
     "rug_flag": false
   },
   {
@@ -761,7 +761,7 @@
     "liquidity_usd": 230011.81504062688,
     "source_listed_at": "2026-08-24T08:29:15",
     "peak_liquidity_usd": 230011.81504062688,
-    "last_checked_at": "2026-08-24T08:30:49.296373+00:00",
+    "last_checked_at": "2026-08-26T08:24:16.079249+00:00",
     "rug_flag": false
   },
   {
@@ -905,6 +905,17 @@
     "source_listed_at": "2026-08-26T03:37:17",
     "peak_liquidity_usd": 16501.122006635982,
     "last_checked_at": "2026-08-26T03:37:37.552395+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-26T08:24:15.646621+00:00",
+    "address": "D8jt3KPyhBkAfC8tKSV66esgKrJ7UKHZTgo1s7sfgF1M",
+    "symbol": "ORACLE7",
+    "name": "oracle7",
+    "liquidity_usd": 16491.734553649527,
+    "source_listed_at": "2026-08-26T08:23:11",
+    "peak_liquidity_usd": 16491.734553649527,
+    "last_checked_at": "2026-08-26T08:24:16.079249+00:00",
     "rug_flag": false
   }
 ]
