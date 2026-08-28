@@ -950,5 +950,93 @@
     "peak_liquidity_usd": 18589.530905235883,
     "last_checked_at": "2026-08-28T01:03:51.865049+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.393992+00:00",
+    "address": "H5P9qxXgMQATHEVVZ7DxL4pfuXADTBimfxnzmbtaoWeK",
+    "symbol": "PILL",
+    "name": "The Everything Matters Pill",
+    "liquidity_usd": 19683.669669931933,
+    "source_listed_at": "2026-08-28T21:53:28",
+    "peak_liquidity_usd": 19683.669669931933,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394010+00:00",
+    "address": "AWfECUCWNGVi8ExDR4dXVFXnWRJw9Z5bqNvNP6qLpump",
+    "symbol": "FEELS",
+    "name": "PF POSTED",
+    "liquidity_usd": 76259.62208860318,
+    "source_listed_at": "2026-08-28T21:53:27",
+    "peak_liquidity_usd": 76259.62208860318,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394014+00:00",
+    "address": "E5mCSNZUnCjXcULxgVpesUzXEuFS5NCNMwUdci4ipump",
+    "symbol": "FEELS",
+    "name": "PF POSTED",
+    "liquidity_usd": 76259.62208860318,
+    "source_listed_at": "2026-08-28T21:53:27",
+    "peak_liquidity_usd": 76259.62208860318,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394018+00:00",
+    "address": "5UHhhCXSD4TVQtosPa2fTh2v5Hy7KFogGUyGXQxa6qGo",
+    "symbol": "PILL",
+    "name": "The Everything Matters Pill",
+    "liquidity_usd": 17933.896440775396,
+    "source_listed_at": "2026-08-28T21:53:26",
+    "peak_liquidity_usd": 17933.896440775396,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394021+00:00",
+    "address": "Fh8owGY4bjbJKdF5yDWWfzkBYHsN3NRZ6z4o9CwDpump",
+    "symbol": "FEELS",
+    "name": "how it feels",
+    "liquidity_usd": 75990.06613794802,
+    "source_listed_at": "2026-08-28T21:53:15",
+    "peak_liquidity_usd": 75990.06613794802,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394024+00:00",
+    "address": "Q38Xfpvbw6GSykYwcezz1i3QQYEuWr7hefRXieCpump",
+    "symbol": "FEELS",
+    "name": "how it feels",
+    "liquidity_usd": 75990.06613794802,
+    "source_listed_at": "2026-08-28T21:53:15",
+    "peak_liquidity_usd": 75990.06613794802,
+    "last_checked_at": "2026-08-28T21:53:31.756951+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394026+00:00",
+    "address": "8iZMMZvTYaMcNCztqLqKZ5ADL6SSEdzkJRAeQLrRpump",
+    "symbol": "FEELS",
+    "name": "how it feels",
+    "liquidity_usd": 76302.2741425734,
+    "source_listed_at": "2026-08-28T21:53:10",
+    "peak_liquidity_usd": 76302.2741425734,
+    "last_checked_at": "2026-08-28T21:53:31.756951+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T21:53:31.394034+00:00",
+    "address": "DCLRwoTpC3PBK1RHGEqaRAjhFTP9op6z4KSB1Bkypump",
+    "symbol": "FEELS",
+    "name": "how it feels",
+    "liquidity_usd": 76302.2741425734,
+    "source_listed_at": "2026-08-28T21:53:10",
+    "peak_liquidity_usd": 76302.2741425734,
+    "last_checked_at": "2026-08-28T21:53:31.756951+00:00",
+    "rug_flag": false
   }
 ]
