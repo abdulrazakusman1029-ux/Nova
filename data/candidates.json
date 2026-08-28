@@ -860,7 +860,7 @@
     "liquidity_usd": 16453.831195454623,
     "source_listed_at": "2026-08-25T19:48:24",
     "peak_liquidity_usd": 16453.831195454623,
-    "last_checked_at": "2026-08-25T19:48:30.964642+00:00",
+    "last_checked_at": "2026-08-28T01:03:51.865049+00:00",
     "rug_flag": false
   },
   {
@@ -927,6 +927,28 @@
     "source_listed_at": "2026-08-26T12:04:00",
     "peak_liquidity_usd": 31324.900941189506,
     "last_checked_at": "2026-08-26T12:04:18.405452+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T01:03:51.488902+00:00",
+    "address": "CPGXSFmNSPaZEa1P5cxateGc2Ekxcwbnwo2zn3SS3ybR",
+    "symbol": "Toad King",
+    "name": "\u87fe\u870d\u738b\u8005",
+    "liquidity_usd": 18581.875873653193,
+    "source_listed_at": "2026-08-28T01:03:34",
+    "peak_liquidity_usd": 18581.875873653193,
+    "last_checked_at": "2026-08-28T01:03:51.865049+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-28T01:03:51.488924+00:00",
+    "address": "9QqnitkDREZn5L4LhFVRJ8QkQbVPVnRVL2A92v9Vfp7x",
+    "symbol": "moonkey",
+    "name": "moonkey",
+    "liquidity_usd": 18589.530905235883,
+    "source_listed_at": "2026-08-28T01:03:30",
+    "peak_liquidity_usd": 18589.530905235883,
+    "last_checked_at": "2026-08-28T01:03:51.865049+00:00",
     "rug_flag": false
   }
 ]
