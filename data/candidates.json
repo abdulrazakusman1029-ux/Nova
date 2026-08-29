@@ -1181,5 +1181,38 @@
     "peak_liquidity_usd": 17999.392548329713,
     "last_checked_at": "2026-08-29T12:14:58.634053+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T14:15:00.119959+00:00",
+    "address": "4uiYQs8mqPx367ZQxgh1jurNm9EQtHTrExh3pE3AQnGB",
+    "symbol": "Mymo",
+    "name": "Mymo The Cat",
+    "liquidity_usd": 17697.136208672036,
+    "source_listed_at": "2026-08-29T14:14:40",
+    "peak_liquidity_usd": 17697.136208672036,
+    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T14:15:00.119981+00:00",
+    "address": "C6fsJY5a415fH4ws97334po5qNebQnhxRmRQdeuhpump",
+    "symbol": "niggerinu",
+    "name": "niggerinu",
+    "liquidity_usd": 6785.611053296947,
+    "source_listed_at": "2026-08-29T14:14:30",
+    "peak_liquidity_usd": 6785.611053296947,
+    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T14:15:00.119986+00:00",
+    "address": "8WBo8xD4pmbE9ceMRcvWFo7M2rHXWQx3BFPMofTKpump",
+    "symbol": "niggerinu",
+    "name": "niggerinu",
+    "liquidity_usd": 6757.364215400173,
+    "source_listed_at": "2026-08-29T14:14:17",
+    "peak_liquidity_usd": 6757.364215400173,
+    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "rug_flag": false
   }
 ]
