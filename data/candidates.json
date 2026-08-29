@@ -1025,7 +1025,7 @@
     "liquidity_usd": 76302.2741425734,
     "source_listed_at": "2026-08-28T21:53:10",
     "peak_liquidity_usd": 76302.2741425734,
-    "last_checked_at": "2026-08-29T02:15:06.183234+00:00",
+    "last_checked_at": "2026-08-29T11:15:19.132802+00:00",
     "rug_flag": false
   },
   {
@@ -1147,6 +1147,28 @@
     "source_listed_at": "2026-08-29T10:14:21",
     "peak_liquidity_usd": 34466.39584094207,
     "last_checked_at": "2026-08-29T10:15:13.445543+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T11:15:18.579756+00:00",
+    "address": "12RjFhsY4uSm4nwPBku3V2duiu3orznH5gfy6PsYpump",
+    "symbol": "Lyra",
+    "name": "The Nietzschean PolarBear",
+    "liquidity_usd": 11150.376724031288,
+    "source_listed_at": "2026-08-29T11:14:33",
+    "peak_liquidity_usd": 11150.376724031288,
+    "last_checked_at": "2026-08-29T11:15:19.132802+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T11:15:18.579776+00:00",
+    "address": "FgrfkJceSWokvfgShtGXz1uDTQQf7S5ZKDobsAZvpump",
+    "symbol": "PINK",
+    "name": "PINK COIN",
+    "liquidity_usd": 11149.234523769863,
+    "source_listed_at": "2026-08-29T11:14:12",
+    "peak_liquidity_usd": 11149.234523769863,
+    "last_checked_at": "2026-08-29T11:15:19.132802+00:00",
     "rug_flag": false
   }
 ]
