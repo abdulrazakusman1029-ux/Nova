@@ -981,7 +981,7 @@
     "liquidity_usd": 76259.62208860318,
     "source_listed_at": "2026-08-28T21:53:27",
     "peak_liquidity_usd": 76259.62208860318,
-    "last_checked_at": "2026-08-29T05:15:05.754664+00:00",
+    "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
     "rug_flag": false
   },
   {
@@ -1047,7 +1047,7 @@
     "liquidity_usd": 134.48115451252096,
     "source_listed_at": "2026-08-28T22:14:58",
     "peak_liquidity_usd": 11127.099443017036,
-    "last_checked_at": "2026-08-29T05:15:05.754664+00:00",
+    "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
     "rug_flag": true
   },
   {
@@ -1224,6 +1224,17 @@
     "source_listed_at": "2026-08-29T15:15:07",
     "peak_liquidity_usd": 17864.166548469104,
     "last_checked_at": "2026-08-29T15:15:17.419304+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T17:15:09.820809+00:00",
+    "address": "P9ZUbfaM56BN69HGkxNqkQMLCMoRNZ7VCmQN3ihdJAD",
+    "symbol": "DUCKY",
+    "name": "UEFNDucky",
+    "liquidity_usd": 17857.76250679562,
+    "source_listed_at": "2026-08-29T17:14:27",
+    "peak_liquidity_usd": 17857.76250679562,
+    "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
     "rug_flag": false
   }
 ]
