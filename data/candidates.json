@@ -992,7 +992,7 @@
     "liquidity_usd": 17933.896440775396,
     "source_listed_at": "2026-08-28T21:53:26",
     "peak_liquidity_usd": 17933.896440775396,
-    "last_checked_at": "2026-08-29T12:14:58.634053+00:00",
+    "last_checked_at": "2026-08-29T23:14:57.740692+00:00",
     "rug_flag": false
   },
   {
@@ -1036,7 +1036,7 @@
     "liquidity_usd": 76302.2741425734,
     "source_listed_at": "2026-08-28T21:53:10",
     "peak_liquidity_usd": 76302.2741425734,
-    "last_checked_at": "2026-08-29T12:14:58.634053+00:00",
+    "last_checked_at": "2026-08-29T23:14:57.740692+00:00",
     "rug_flag": false
   },
   {
@@ -1165,11 +1165,11 @@
     "address": "FgrfkJceSWokvfgShtGXz1uDTQQf7S5ZKDobsAZvpump",
     "symbol": "PINK",
     "name": "PINK COIN",
-    "liquidity_usd": 11149.234523769863,
+    "liquidity_usd": 2375.2708344912385,
     "source_listed_at": "2026-08-29T11:14:12",
     "peak_liquidity_usd": 11149.234523769863,
-    "last_checked_at": "2026-08-29T11:15:19.132802+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-29T23:14:57.740692+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-29T12:14:58.022820+00:00",
