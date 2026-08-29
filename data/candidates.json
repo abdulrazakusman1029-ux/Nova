@@ -1003,7 +1003,7 @@
     "liquidity_usd": 75990.06613794802,
     "source_listed_at": "2026-08-28T21:53:15",
     "peak_liquidity_usd": 75990.06613794802,
-    "last_checked_at": "2026-08-29T04:15:00.943921+00:00",
+    "last_checked_at": "2026-08-29T15:15:17.419304+00:00",
     "rug_flag": false
   },
   {
@@ -1080,7 +1080,7 @@
     "liquidity_usd": 10005.281695451677,
     "source_listed_at": "2026-08-29T03:14:41",
     "peak_liquidity_usd": 10005.281695451677,
-    "last_checked_at": "2026-08-29T03:14:55.238636+00:00",
+    "last_checked_at": "2026-08-29T15:15:17.419304+00:00",
     "rug_flag": false
   },
   {
@@ -1213,6 +1213,17 @@
     "source_listed_at": "2026-08-29T14:14:17",
     "peak_liquidity_usd": 6757.364215400173,
     "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T15:15:17.043432+00:00",
+    "address": "3br7J2zz6DYd9SrGJqzcXeYE9gR9DFBU8Dr4GadvndDb",
+    "symbol": "KING",
+    "name": "The king",
+    "liquidity_usd": 17864.166548469104,
+    "source_listed_at": "2026-08-29T15:15:07",
+    "peak_liquidity_usd": 17864.166548469104,
+    "last_checked_at": "2026-08-29T15:15:17.419304+00:00",
     "rug_flag": false
   }
 ]
