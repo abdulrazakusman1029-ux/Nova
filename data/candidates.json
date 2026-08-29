@@ -948,7 +948,7 @@
     "liquidity_usd": 0.005647177598920546,
     "source_listed_at": "2026-08-28T01:03:30",
     "peak_liquidity_usd": 18589.530905235883,
-    "last_checked_at": "2026-08-29T09:15:05.798517+00:00",
+    "last_checked_at": "2026-08-29T19:15:22.020743+00:00",
     "rug_flag": true
   },
   {
@@ -1113,7 +1113,7 @@
     "liquidity_usd": 36337.3116432456,
     "source_listed_at": "2026-08-29T07:14:50",
     "peak_liquidity_usd": 36337.3116432456,
-    "last_checked_at": "2026-08-29T07:15:10.600067+00:00",
+    "last_checked_at": "2026-08-29T19:15:22.020743+00:00",
     "rug_flag": false
   },
   {
@@ -1235,6 +1235,17 @@
     "source_listed_at": "2026-08-29T17:14:27",
     "peak_liquidity_usd": 17857.76250679562,
     "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T19:15:21.433269+00:00",
+    "address": "FeJJtWZKBdptFqq6tSAPhhN5HxggS3SpAJXAyVncpump",
+    "symbol": "Nplyak",
+    "name": "Nepal Yak\u26a1",
+    "liquidity_usd": 96790.63885219376,
+    "source_listed_at": "2026-08-29T19:15:02",
+    "peak_liquidity_usd": 96790.63885219376,
+    "last_checked_at": "2026-08-29T19:15:22.020743+00:00",
     "rug_flag": false
   }
 ]
