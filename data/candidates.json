@@ -926,7 +926,7 @@
     "liquidity_usd": 31324.900941189506,
     "source_listed_at": "2026-08-26T12:04:00",
     "peak_liquidity_usd": 31324.900941189506,
-    "last_checked_at": "2026-08-26T12:04:18.405452+00:00",
+    "last_checked_at": "2026-08-29T01:15:20.214146+00:00",
     "rug_flag": false
   },
   {
@@ -937,7 +937,7 @@
     "liquidity_usd": 18581.875873653193,
     "source_listed_at": "2026-08-28T01:03:34",
     "peak_liquidity_usd": 18581.875873653193,
-    "last_checked_at": "2026-08-28T01:03:51.865049+00:00",
+    "last_checked_at": "2026-08-29T01:15:20.214146+00:00",
     "rug_flag": false
   },
   {
@@ -1059,6 +1059,17 @@
     "source_listed_at": "2026-08-28T23:14:00",
     "peak_liquidity_usd": 243258.93033162368,
     "last_checked_at": "2026-08-28T23:14:54.751582+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T01:15:19.827135+00:00",
+    "address": "cfoTwi9gwCrbx91ftm2scfCvM9jKdGEVzNKudwypump",
+    "symbol": "mmm",
+    "name": "monkeys makin money",
+    "liquidity_usd": 11136.617742017459,
+    "source_listed_at": "2026-08-29T01:15:12",
+    "peak_liquidity_usd": 11136.617742017459,
+    "last_checked_at": "2026-08-29T01:15:20.214146+00:00",
     "rug_flag": false
   }
 ]
