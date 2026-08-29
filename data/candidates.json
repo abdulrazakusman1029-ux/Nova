@@ -1135,7 +1135,7 @@
     "liquidity_usd": 11026.029265013736,
     "source_listed_at": "2026-08-29T10:15:01",
     "peak_liquidity_usd": 11026.029265013736,
-    "last_checked_at": "2026-08-29T10:15:13.445543+00:00",
+    "last_checked_at": "2026-08-29T21:14:52.650110+00:00",
     "rug_flag": false
   },
   {
@@ -1246,6 +1246,28 @@
     "source_listed_at": "2026-08-29T19:15:02",
     "peak_liquidity_usd": 96790.63885219376,
     "last_checked_at": "2026-08-29T19:15:22.020743+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T21:14:52.340185+00:00",
+    "address": "9XTXYQVpJ8V8W5sULGi3Q3MG3Sdm5Wrp2cgVvLuzpump",
+    "symbol": "PATY",
+    "name": "SHE CLAIMED",
+    "liquidity_usd": 77792.09086967287,
+    "source_listed_at": "2026-08-29T21:14:43",
+    "peak_liquidity_usd": 77792.09086967287,
+    "last_checked_at": "2026-08-29T21:14:52.650110+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-29T21:14:52.340207+00:00",
+    "address": "GhUbuoDuyz6MVFsaFn51ZHb5qoTpKLE6QvqFbh1bpump",
+    "symbol": "PATY",
+    "name": "SHE CLAIMED",
+    "liquidity_usd": 77792.09086967287,
+    "source_listed_at": "2026-08-29T21:14:43",
+    "peak_liquidity_usd": 77792.09086967287,
+    "last_checked_at": "2026-08-29T21:14:52.650110+00:00",
     "rug_flag": false
   }
 ]
