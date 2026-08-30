@@ -934,11 +934,11 @@
     "address": "CPGXSFmNSPaZEa1P5cxateGc2Ekxcwbnwo2zn3SS3ybR",
     "symbol": "Toad King",
     "name": "\u87fe\u870d\u738b\u8005",
-    "liquidity_usd": 18581.875873653193,
+    "liquidity_usd": 3.804065435011985e-07,
     "source_listed_at": "2026-08-28T01:03:34",
     "peak_liquidity_usd": 18581.875873653193,
-    "last_checked_at": "2026-08-29T18:15:00.792396+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-30T07:15:06.164236+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-28T01:03:51.488924+00:00",
@@ -959,7 +959,7 @@
     "liquidity_usd": 3.506592908799579e-07,
     "source_listed_at": "2026-08-28T21:53:28",
     "peak_liquidity_usd": 19683.669669931933,
-    "last_checked_at": "2026-08-29T18:15:00.792396+00:00",
+    "last_checked_at": "2026-08-30T07:15:06.164236+00:00",
     "rug_flag": true
   },
   {
@@ -1055,10 +1055,10 @@
     "address": "Dd7SLi8Dbc1aXbJr22kFWmtQTfEJqtXBzaooZSR9pump",
     "symbol": "GTA 6 Coin",
     "name": "GTA6",
-    "liquidity_usd": 45.79933153892975,
+    "liquidity_usd": 47.64318879879443,
     "source_listed_at": "2026-08-28T23:14:00",
     "peak_liquidity_usd": 243258.93033162368,
-    "last_checked_at": "2026-08-29T18:15:00.792396+00:00",
+    "last_checked_at": "2026-08-30T07:15:06.164236+00:00",
     "rug_flag": true
   },
   {
