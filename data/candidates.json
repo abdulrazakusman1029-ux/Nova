@@ -1179,7 +1179,7 @@
     "liquidity_usd": 17999.392548329713,
     "source_listed_at": "2026-08-29T12:14:24",
     "peak_liquidity_usd": 17999.392548329713,
-    "last_checked_at": "2026-08-29T12:14:58.634053+00:00",
+    "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
     "rug_flag": false
   },
   {
@@ -1190,7 +1190,7 @@
     "liquidity_usd": 17697.136208672036,
     "source_listed_at": "2026-08-29T14:14:40",
     "peak_liquidity_usd": 17697.136208672036,
-    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
     "rug_flag": false
   },
   {
@@ -1268,6 +1268,17 @@
     "source_listed_at": "2026-08-29T21:14:43",
     "peak_liquidity_usd": 77792.09086967287,
     "last_checked_at": "2026-08-29T21:14:52.650110+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T00:15:12.202839+00:00",
+    "address": "46V3N141xNAUCXXsywtGsnnpV2CUfeBB8uBM4yVMHTw3",
+    "symbol": "DarkHorse",
+    "name": "Dark Horse",
+    "liquidity_usd": 20864.410361850234,
+    "source_listed_at": "2026-08-30T00:14:53",
+    "peak_liquidity_usd": 20864.410361850234,
+    "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
     "rug_flag": false
   }
 ]
