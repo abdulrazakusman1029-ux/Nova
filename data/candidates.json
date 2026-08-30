@@ -1234,7 +1234,7 @@
     "liquidity_usd": 17857.76250679562,
     "source_listed_at": "2026-08-29T17:14:27",
     "peak_liquidity_usd": 17857.76250679562,
-    "last_checked_at": "2026-08-30T06:15:16.046252+00:00",
+    "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
     "rug_flag": false
   },
   {
@@ -1344,7 +1344,7 @@
     "liquidity_usd": 80890.73576404393,
     "source_listed_at": "2026-08-30T06:14:50",
     "peak_liquidity_usd": 80890.73576404393,
-    "last_checked_at": "2026-08-30T06:15:16.046252+00:00",
+    "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
     "rug_flag": false
   },
   {
@@ -1488,6 +1488,17 @@
     "source_listed_at": "2026-08-30T22:14:06",
     "peak_liquidity_usd": 18717.362329967913,
     "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T23:14:58.093984+00:00",
+    "address": "BcucVR9tSLqtsvSsf1vt9q7sPKSR4ivF7RQFP49xpump",
+    "symbol": "AICHEST",
+    "name": "AI CHEST",
+    "liquidity_usd": 86434.22205849118,
+    "source_listed_at": "2026-08-30T23:14:21",
+    "peak_liquidity_usd": 86434.22205849118,
+    "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
     "rug_flag": false
   }
 ]
