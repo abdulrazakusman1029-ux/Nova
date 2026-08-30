@@ -1003,7 +1003,7 @@
     "liquidity_usd": 75990.06613794802,
     "source_listed_at": "2026-08-28T21:53:15",
     "peak_liquidity_usd": 75990.06613794802,
-    "last_checked_at": "2026-08-29T15:15:17.419304+00:00",
+    "last_checked_at": "2026-08-30T01:15:22.420015+00:00",
     "rug_flag": false
   },
   {
@@ -1198,11 +1198,11 @@
     "address": "C6fsJY5a415fH4ws97334po5qNebQnhxRmRQdeuhpump",
     "symbol": "niggerinu",
     "name": "niggerinu",
-    "liquidity_usd": 6785.611053296947,
+    "liquidity_usd": 0.17793535559223758,
     "source_listed_at": "2026-08-29T14:14:30",
     "peak_liquidity_usd": 6785.611053296947,
-    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-30T01:15:22.420015+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-29T14:15:00.119986+00:00",
@@ -1212,7 +1212,7 @@
     "liquidity_usd": 6757.364215400173,
     "source_listed_at": "2026-08-29T14:14:17",
     "peak_liquidity_usd": 6757.364215400173,
-    "last_checked_at": "2026-08-29T14:15:00.668844+00:00",
+    "last_checked_at": "2026-08-30T01:15:22.420015+00:00",
     "rug_flag": false
   },
   {
