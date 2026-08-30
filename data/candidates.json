@@ -1124,7 +1124,7 @@
     "liquidity_usd": 14423.390544088725,
     "source_listed_at": "2026-08-29T09:14:44",
     "peak_liquidity_usd": 14423.390544088725,
-    "last_checked_at": "2026-08-29T20:14:59.598844+00:00",
+    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
     "rug_flag": false
   },
   {
@@ -1135,7 +1135,7 @@
     "liquidity_usd": 11026.029265013736,
     "source_listed_at": "2026-08-29T10:15:01",
     "peak_liquidity_usd": 11026.029265013736,
-    "last_checked_at": "2026-08-29T21:14:52.650110+00:00",
+    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
     "rug_flag": false
   },
   {
@@ -1367,6 +1367,17 @@
     "source_listed_at": "2026-08-30T09:13:53",
     "peak_liquidity_usd": 20799.52939281253,
     "last_checked_at": "2026-08-30T09:15:12.165918+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T10:15:27.450763+00:00",
+    "address": "Ehnx8fKWPS3u368NjxKVdmSaFHH2xSUAtPsF3oUCpump",
+    "symbol": "IRONVID",
+    "name": "Ironman Footage",
+    "liquidity_usd": 78030.99211307932,
+    "source_listed_at": "2026-08-30T10:14:51",
+    "peak_liquidity_usd": 78030.99211307932,
+    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
     "rug_flag": false
   }
 ]
