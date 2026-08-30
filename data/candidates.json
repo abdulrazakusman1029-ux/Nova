@@ -1091,7 +1091,7 @@
     "liquidity_usd": 20430.502875025995,
     "source_listed_at": "2026-08-29T04:14:39",
     "peak_liquidity_usd": 20430.502875025995,
-    "last_checked_at": "2026-08-29T16:15:18.109912+00:00",
+    "last_checked_at": "2026-08-30T03:15:09.978433+00:00",
     "rug_flag": false
   },
   {
@@ -1279,6 +1279,28 @@
     "source_listed_at": "2026-08-30T00:14:53",
     "peak_liquidity_usd": 20864.410361850234,
     "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T03:15:09.468168+00:00",
+    "address": "Eh1vAuEUFRML8SqLyWGnA3t7agmGmaUM2hwuJdGoaxTS",
+    "symbol": "\u6211\u7684\u7537\u53cb\u5b59\u5b87\u6668",
+    "name": "\u6211\u7684\u7537\u53cb\u5b59\u5b87\u6668",
+    "liquidity_usd": 19968.88988897873,
+    "source_listed_at": "2026-08-30T03:14:45",
+    "peak_liquidity_usd": 19968.88988897873,
+    "last_checked_at": "2026-08-30T03:15:09.978433+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T03:15:09.468188+00:00",
+    "address": "74gthc1mT5DdSUne2Fz4zKAhmgmFSFpCWp2CpCYbnwNq",
+    "symbol": "TaoTao",
+    "name": "\u6843\u6843",
+    "liquidity_usd": 17868.742491038163,
+    "source_listed_at": "2026-08-30T03:13:54",
+    "peak_liquidity_usd": 17868.742491038163,
+    "last_checked_at": "2026-08-30T03:15:09.978433+00:00",
     "rug_flag": false
   }
 ]
