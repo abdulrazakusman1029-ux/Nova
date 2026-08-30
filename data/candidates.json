@@ -981,7 +981,7 @@
     "liquidity_usd": 76259.62208860318,
     "source_listed_at": "2026-08-28T21:53:27",
     "peak_liquidity_usd": 76259.62208860318,
-    "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
+    "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
     "rug_flag": false
   },
   {
@@ -1102,7 +1102,7 @@
     "liquidity_usd": 36515.45310556399,
     "source_listed_at": "2026-08-29T04:14:38",
     "peak_liquidity_usd": 36515.45310556399,
-    "last_checked_at": "2026-08-29T16:15:18.109912+00:00",
+    "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
     "rug_flag": false
   },
   {
@@ -1301,6 +1301,17 @@
     "source_listed_at": "2026-08-30T03:13:54",
     "peak_liquidity_usd": 17868.742491038163,
     "last_checked_at": "2026-08-30T03:15:09.978433+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T04:14:56.772854+00:00",
+    "address": "2E2NgRJLKqgXKdU8GPDg6T43oHMA5rUoo3gU4Txupump",
+    "symbol": "KACHING",
+    "name": "Kaching!",
+    "liquidity_usd": 6019.404515,
+    "source_listed_at": "2026-08-30T04:14:19",
+    "peak_liquidity_usd": 6019.404515,
+    "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
     "rug_flag": false
   }
 ]
