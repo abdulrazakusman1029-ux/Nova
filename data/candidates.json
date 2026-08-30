@@ -1456,5 +1456,38 @@
     "peak_liquidity_usd": 20011.363902894267,
     "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T22:15:10.302929+00:00",
+    "address": "Grg1yGRtYtzDtk2wqnQvYu2EDkeynYcMazGX6W4hfxob",
+    "symbol": "One",
+    "name": "The One",
+    "liquidity_usd": 17678.653020009857,
+    "source_listed_at": "2026-08-30T22:14:29",
+    "peak_liquidity_usd": 17678.653020009857,
+    "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T22:15:10.302952+00:00",
+    "address": "2xqSK4q4fSn3zBdxYzT9poQdvHT32Ch4R81zJTveEerL",
+    "symbol": "onboard",
+    "name": "catonboard",
+    "liquidity_usd": 24661.538825774667,
+    "source_listed_at": "2026-08-30T22:14:07",
+    "peak_liquidity_usd": 24661.538825774667,
+    "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T22:15:10.302959+00:00",
+    "address": "Fk1ohKJT52JU6WTdkeTRturzKuhdzwyofLyJTnJRNLC5",
+    "symbol": "1SOL",
+    "name": "1 sol and a dream",
+    "liquidity_usd": 18717.362329967913,
+    "source_listed_at": "2026-08-30T22:14:06",
+    "peak_liquidity_usd": 18717.362329967913,
+    "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "rug_flag": false
   }
 ]
