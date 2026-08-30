@@ -1044,10 +1044,10 @@
     "address": "HG5jrjCEWKfCzpBQCFmQeek6J71TcN516u6FhByauErj",
     "symbol": "SB",
     "name": "SB ON ROBINHOOD FREE",
-    "liquidity_usd": 134.48115451252096,
+    "liquidity_usd": 134.10774341290409,
     "source_listed_at": "2026-08-28T22:14:58",
     "peak_liquidity_usd": 11127.099443017036,
-    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
+    "last_checked_at": "2026-08-30T21:15:01.115676+00:00",
     "rug_flag": true
   },
   {
@@ -1322,7 +1322,7 @@
     "liquidity_usd": 11265.187090010753,
     "source_listed_at": "2026-08-30T05:14:42",
     "peak_liquidity_usd": 11265.187090010753,
-    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
+    "last_checked_at": "2026-08-30T21:15:01.115676+00:00",
     "rug_flag": false
   },
   {
@@ -1333,7 +1333,7 @@
     "liquidity_usd": 17768.073963844472,
     "source_listed_at": "2026-08-30T05:14:35",
     "peak_liquidity_usd": 17768.073963844472,
-    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
+    "last_checked_at": "2026-08-30T21:15:01.115676+00:00",
     "rug_flag": false
   },
   {
