@@ -1047,7 +1047,7 @@
     "liquidity_usd": 134.48115451252096,
     "source_listed_at": "2026-08-28T22:14:58",
     "peak_liquidity_usd": 11127.099443017036,
-    "last_checked_at": "2026-08-29T17:15:10.350154+00:00",
+    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
     "rug_flag": true
   },
   {
@@ -1312,6 +1312,28 @@
     "source_listed_at": "2026-08-30T04:14:19",
     "peak_liquidity_usd": 6019.404515,
     "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T05:15:09.991874+00:00",
+    "address": "QqsXw5NfddYxVPyEesn4Mc68ywg6vpKgn8tBH2tpump",
+    "symbol": "PINAKA",
+    "name": "Pinaka The Seal",
+    "liquidity_usd": 11265.187090010753,
+    "source_listed_at": "2026-08-30T05:14:42",
+    "peak_liquidity_usd": 11265.187090010753,
+    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T05:15:09.991902+00:00",
+    "address": "C4NrsNZyvepnsRQRsEb26k3Xzspd8Jbztzv8HpoTpjK7",
+    "symbol": "\u2588\u2588\u2588\u2588",
+    "name": "\u2588\u2588\u2588\u2588",
+    "liquidity_usd": 17768.073963844472,
+    "source_listed_at": "2026-08-30T05:14:35",
+    "peak_liquidity_usd": 17768.073963844472,
+    "last_checked_at": "2026-08-30T05:15:10.322389+00:00",
     "rug_flag": false
   }
 ]
