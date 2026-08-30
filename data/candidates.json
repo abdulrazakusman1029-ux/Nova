@@ -1102,7 +1102,7 @@
     "liquidity_usd": 36515.45310556399,
     "source_listed_at": "2026-08-29T04:14:38",
     "peak_liquidity_usd": 36515.45310556399,
-    "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
+    "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
     "rug_flag": false
   },
   {
@@ -1311,7 +1311,7 @@
     "liquidity_usd": 6019.404515,
     "source_listed_at": "2026-08-30T04:14:19",
     "peak_liquidity_usd": 6019.404515,
-    "last_checked_at": "2026-08-30T04:14:57.229859+00:00",
+    "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
     "rug_flag": false
   },
   {
@@ -1444,6 +1444,17 @@
     "source_listed_at": "2026-08-30T17:14:46",
     "peak_liquidity_usd": 10890.595604079197,
     "last_checked_at": "2026-08-30T17:15:01.634822+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T20:15:07.107661+00:00",
+    "address": "65aNey5bkcpuLGyREDBTJuM5BbsZdZEUUe9fC11Jz3bz",
+    "symbol": "marius69",
+    "name": "marius69",
+    "liquidity_usd": 20011.363902894267,
+    "source_listed_at": "2026-08-30T20:14:45",
+    "peak_liquidity_usd": 20011.363902894267,
+    "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
     "rug_flag": false
   }
 ]
