@@ -1179,7 +1179,7 @@
     "liquidity_usd": 17999.392548329713,
     "source_listed_at": "2026-08-29T12:14:24",
     "peak_liquidity_usd": 17999.392548329713,
-    "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
+    "last_checked_at": "2026-08-30T15:15:04.877115+00:00",
     "rug_flag": false
   },
   {
@@ -1190,7 +1190,7 @@
     "liquidity_usd": 17697.136208672036,
     "source_listed_at": "2026-08-29T14:14:40",
     "peak_liquidity_usd": 17697.136208672036,
-    "last_checked_at": "2026-08-30T00:15:12.763964+00:00",
+    "last_checked_at": "2026-08-30T15:15:04.877115+00:00",
     "rug_flag": false
   },
   {
@@ -1422,6 +1422,17 @@
     "source_listed_at": "2026-08-30T14:14:11",
     "peak_liquidity_usd": 25288.139796584488,
     "last_checked_at": "2026-08-30T14:15:10.827149+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T15:15:04.447132+00:00",
+    "address": "8fyC5iSkz4ANqPUS9vDzXC1rb6pk3jXXWVi8ctWrm6o3",
+    "symbol": "REVEN",
+    "name": "REVEN",
+    "liquidity_usd": 18111.143509687503,
+    "source_listed_at": "2026-08-30T15:14:34",
+    "peak_liquidity_usd": 18111.143509687503,
+    "last_checked_at": "2026-08-30T15:15:04.877115+00:00",
     "rug_flag": false
   }
 ]
