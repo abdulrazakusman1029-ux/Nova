@@ -1146,7 +1146,7 @@
     "liquidity_usd": 0.018700420659886037,
     "source_listed_at": "2026-08-29T10:14:21",
     "peak_liquidity_usd": 34466.39584094207,
-    "last_checked_at": "2026-08-29T22:15:10.035363+00:00",
+    "last_checked_at": "2026-08-30T12:15:10.510731+00:00",
     "rug_flag": true
   },
   {
@@ -1378,6 +1378,28 @@
     "source_listed_at": "2026-08-30T10:14:51",
     "peak_liquidity_usd": 78030.99211307932,
     "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T12:15:10.074617+00:00",
+    "address": "3Tp7qMoL6j1zAv3MFD679Ujv8mbvgSfMEhiGXFEQmoon",
+    "symbol": "MOONSHOT",
+    "name": "Moonshot",
+    "liquidity_usd": 6497.959559240482,
+    "source_listed_at": "2026-08-30T12:13:55",
+    "peak_liquidity_usd": 6497.959559240482,
+    "last_checked_at": "2026-08-30T12:15:10.510731+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-30T12:15:10.074639+00:00",
+    "address": "JBra6Rizt91sKBE3Sq6wTJr48Vfk4LYDhWjZTQHAU3Gi",
+    "symbol": "pumprot",
+    "name": "pumprot",
+    "liquidity_usd": 11144.655018797255,
+    "source_listed_at": "2026-08-30T12:13:35",
+    "peak_liquidity_usd": 11144.655018797255,
+    "last_checked_at": "2026-08-30T12:15:10.510731+00:00",
     "rug_flag": false
   }
 ]
