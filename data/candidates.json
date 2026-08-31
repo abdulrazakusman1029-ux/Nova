@@ -1124,7 +1124,7 @@
     "liquidity_usd": 14423.390544088725,
     "source_listed_at": "2026-08-29T09:14:44",
     "peak_liquidity_usd": 14423.390544088725,
-    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
+    "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
     "rug_flag": false
   },
   {
@@ -1366,7 +1366,7 @@
     "liquidity_usd": 20799.52939281253,
     "source_listed_at": "2026-08-30T09:13:53",
     "peak_liquidity_usd": 20799.52939281253,
-    "last_checked_at": "2026-08-30T09:15:12.165918+00:00",
+    "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
     "rug_flag": false
   },
   {
@@ -1587,6 +1587,17 @@
     "source_listed_at": "2026-08-31T04:14:37",
     "peak_liquidity_usd": 17199.704749544402,
     "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T05:15:16.991764+00:00",
+    "address": "9ykLHh4yDEMAhmRVYBpZQTfP8Q4adBhtNfGzHbFWykbW",
+    "symbol": "LEMON",
+    "name": "Lemon",
+    "liquidity_usd": 17283.667303489812,
+    "source_listed_at": "2026-08-31T05:14:16",
+    "peak_liquidity_usd": 17283.667303489812,
+    "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
     "rug_flag": false
   }
 ]
