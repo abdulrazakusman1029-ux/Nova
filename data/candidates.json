@@ -1522,5 +1522,38 @@
     "peak_liquidity_usd": 88998.83225664357,
     "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T01:14:58.219817+00:00",
+    "address": "ETQ8Mi8kXyrxZmRqobrRia4hEjUGNCyFKQG9hAfgX5ob",
+    "symbol": "Chud",
+    "name": "Chud the guinea pig",
+    "liquidity_usd": 23937.274437590673,
+    "source_listed_at": "2026-08-31T01:14:47",
+    "peak_liquidity_usd": 23937.274437590673,
+    "last_checked_at": "2026-08-31T01:14:58.594162+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T01:14:58.219867+00:00",
+    "address": "BCXDgdGZYZuAg3iDf7VUZZ3pSrwK9FvT5nhVicPKNPuS",
+    "symbol": "\u6211\u7684\u7537\u53cb\u5b59\u5b87\u6668",
+    "name": "\u6211\u7684\u7537\u53cb\u5b59\u5b87\u6668",
+    "liquidity_usd": 17494.702714045194,
+    "source_listed_at": "2026-08-31T01:14:44",
+    "peak_liquidity_usd": 17494.702714045194,
+    "last_checked_at": "2026-08-31T01:14:58.594162+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T01:14:58.219876+00:00",
+    "address": "HvNPXSeeFvpucU6qdoimxac23YzxrKenGi5XTdSfpump",
+    "symbol": "DUVE",
+    "name": "The Duve",
+    "liquidity_usd": 10896.108167247847,
+    "source_listed_at": "2026-08-31T01:14:38",
+    "peak_liquidity_usd": 10896.108167247847,
+    "last_checked_at": "2026-08-31T01:14:58.594162+00:00",
+    "rug_flag": false
   }
 ]
