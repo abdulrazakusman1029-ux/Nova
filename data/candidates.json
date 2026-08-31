@@ -1036,7 +1036,7 @@
     "liquidity_usd": 76302.2741425734,
     "source_listed_at": "2026-08-28T21:53:10",
     "peak_liquidity_usd": 76302.2741425734,
-    "last_checked_at": "2026-08-30T14:15:10.827149+00:00",
+    "last_checked_at": "2026-08-31T14:15:10.799518+00:00",
     "rug_flag": false
   },
   {
@@ -1718,7 +1718,7 @@
     "liquidity_usd": 18141.204728550507,
     "source_listed_at": "2026-08-31T13:15:02",
     "peak_liquidity_usd": 18141.204728550507,
-    "last_checked_at": "",
+    "last_checked_at": "2026-08-31T14:15:10.799518+00:00",
     "rug_flag": false
   },
   {
@@ -1752,6 +1752,17 @@
     "source_listed_at": "2026-08-31T13:14:34",
     "peak_liquidity_usd": 84859.0284603821,
     "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T14:15:10.328879+00:00",
+    "address": "CMJmeJ4TBFRAxnCPQ6tTW45uapPTHLgFznmdqstR3jCU",
+    "symbol": "DATA",
+    "name": "The Golden Goose",
+    "liquidity_usd": 27527.86666125788,
+    "source_listed_at": "2026-08-31T14:15:02",
+    "peak_liquidity_usd": 27527.86666125788,
+    "last_checked_at": "2026-08-31T14:15:10.799518+00:00",
     "rug_flag": false
   }
 ]
