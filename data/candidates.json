@@ -1080,7 +1080,7 @@
     "liquidity_usd": 10005.281695451677,
     "source_listed_at": "2026-08-29T03:14:41",
     "peak_liquidity_usd": 10005.281695451677,
-    "last_checked_at": "2026-08-30T18:14:55.508262+00:00",
+    "last_checked_at": "2026-08-31T19:15:05.814713+00:00",
     "rug_flag": false
   },
   {
@@ -1091,7 +1091,7 @@
     "liquidity_usd": 20430.502875025995,
     "source_listed_at": "2026-08-29T04:14:39",
     "peak_liquidity_usd": 20430.502875025995,
-    "last_checked_at": "2026-08-30T18:14:55.508262+00:00",
+    "last_checked_at": "2026-08-31T19:15:05.814713+00:00",
     "rug_flag": false
   },
   {
@@ -1774,6 +1774,17 @@
     "source_listed_at": "2026-08-31T18:15:01",
     "peak_liquidity_usd": 24545.078302463866,
     "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T19:15:05.265701+00:00",
+    "address": "EdVa9bXZrkqrjzej5hVb2fK6SR6NhdruWDyMFhVTpump",
+    "symbol": "APES",
+    "name": "Planet Of the Apes",
+    "liquidity_usd": 14524.225567494375,
+    "source_listed_at": "2026-08-31T19:14:06",
+    "peak_liquidity_usd": 14524.225567494375,
+    "last_checked_at": "2026-08-31T19:15:05.814713+00:00",
     "rug_flag": false
   }
 ]
