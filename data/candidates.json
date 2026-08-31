@@ -1212,7 +1212,7 @@
     "liquidity_usd": 6757.364215400173,
     "source_listed_at": "2026-08-29T14:14:17",
     "peak_liquidity_usd": 6757.364215400173,
-    "last_checked_at": "2026-08-30T17:15:01.634822+00:00",
+    "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
     "rug_flag": false
   },
   {
@@ -1443,7 +1443,7 @@
     "liquidity_usd": 10890.595604079197,
     "source_listed_at": "2026-08-30T17:14:46",
     "peak_liquidity_usd": 10890.595604079197,
-    "last_checked_at": "2026-08-30T17:15:01.634822+00:00",
+    "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
     "rug_flag": false
   },
   {
@@ -1763,6 +1763,17 @@
     "source_listed_at": "2026-08-31T14:15:02",
     "peak_liquidity_usd": 27527.86666125788,
     "last_checked_at": "2026-08-31T14:15:10.799518+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T18:15:07.951071+00:00",
+    "address": "8J2S1P6VC9ptCMpHBH9VsJrGKEjtUqjK7sudjakDzFCx",
+    "symbol": "LIFE",
+    "name": "Meme Life",
+    "liquidity_usd": 24545.078302463866,
+    "source_listed_at": "2026-08-31T18:15:01",
+    "peak_liquidity_usd": 24545.078302463866,
+    "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
     "rug_flag": false
   }
 ]
