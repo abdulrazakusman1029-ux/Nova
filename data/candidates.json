@@ -1621,5 +1621,60 @@
     "peak_liquidity_usd": 196715.98786114913,
     "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T08:15:05.563841+00:00",
+    "address": "2tzN8vVi92DUoLc4W3fgRkAJ43Ew12XxjkKwSXNxpump",
+    "symbol": "TEDDYBEAR",
+    "name": "The Pink Teddybear",
+    "liquidity_usd": 10147.398957488473,
+    "source_listed_at": "2026-08-31T08:15:01",
+    "peak_liquidity_usd": 10147.398957488473,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T08:15:05.563860+00:00",
+    "address": "8CYeHs7Z2PF93dwWGxkgsngKVRGg3oURLLjmWwN1pump",
+    "symbol": "TEDDYBEAR",
+    "name": "The Pink Teddybear",
+    "liquidity_usd": 10147.398957488473,
+    "source_listed_at": "2026-08-31T08:15:00",
+    "peak_liquidity_usd": 10147.398957488473,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T08:15:05.563865+00:00",
+    "address": "5xhn6CKYcV4daU5aTQANd8huGxAGsuPzFcweB4ERzDHg",
+    "symbol": "LIFE",
+    "name": "Meme Life",
+    "liquidity_usd": 24219.5125230326,
+    "source_listed_at": "2026-08-31T08:14:37",
+    "peak_liquidity_usd": 24219.5125230326,
+    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T08:15:05.563869+00:00",
+    "address": "3s2X7ewZrhthgc9mXhVqPVaEycpRpN9x37Rqneont5qL",
+    "symbol": "Rabbit",
+    "name": "The Lone Rabbit",
+    "liquidity_usd": 18682.016534027916,
+    "source_listed_at": "2026-08-31T08:14:31",
+    "peak_liquidity_usd": 18682.016534027916,
+    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T08:15:05.563872+00:00",
+    "address": "3Z7PfiDY2La3WyxJpEUnTq2XhrcqFdMZVf6fx9mg9YmG",
+    "symbol": "Rabbit",
+    "name": "The Lone Rabbit",
+    "liquidity_usd": 20812.230443109303,
+    "source_listed_at": "2026-08-31T08:14:16",
+    "peak_liquidity_usd": 20812.230443109303,
+    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "rug_flag": false
   }
 ]
