@@ -1025,7 +1025,7 @@
     "liquidity_usd": 76302.2741425734,
     "source_listed_at": "2026-08-28T21:53:10",
     "peak_liquidity_usd": 76302.2741425734,
-    "last_checked_at": "2026-08-30T11:15:06.273780+00:00",
+    "last_checked_at": "2026-08-31T06:15:09.311407+00:00",
     "rug_flag": false
   },
   {
@@ -1132,10 +1132,10 @@
     "address": "4oN7E4KkDEZqS3h9PnVLqiYoCH5x68bdSfpDmipupump",
     "symbol": "CrayonEater",
     "name": "DumbCrayonEater",
-    "liquidity_usd": 11026.029265013736,
+    "liquidity_usd": 13657.092721616484,
     "source_listed_at": "2026-08-29T10:15:01",
-    "peak_liquidity_usd": 11026.029265013736,
-    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
+    "peak_liquidity_usd": 13657.092721616484,
+    "last_checked_at": "2026-08-31T06:15:09.311407+00:00",
     "rug_flag": false
   },
   {
@@ -1377,7 +1377,7 @@
     "liquidity_usd": 78030.99211307932,
     "source_listed_at": "2026-08-30T10:14:51",
     "peak_liquidity_usd": 78030.99211307932,
-    "last_checked_at": "2026-08-30T10:15:27.908695+00:00",
+    "last_checked_at": "2026-08-31T06:15:09.311407+00:00",
     "rug_flag": false
   },
   {
