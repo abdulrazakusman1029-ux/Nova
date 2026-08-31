@@ -992,7 +992,7 @@
     "liquidity_usd": 17933.896440775396,
     "source_listed_at": "2026-08-28T21:53:26",
     "peak_liquidity_usd": 17933.896440775396,
-    "last_checked_at": "2026-08-30T13:15:09.362857+00:00",
+    "last_checked_at": "2026-08-31T11:15:07.393610+00:00",
     "rug_flag": false
   },
   {
@@ -1385,11 +1385,11 @@
     "address": "3Tp7qMoL6j1zAv3MFD679Ujv8mbvgSfMEhiGXFEQmoon",
     "symbol": "MOONSHOT",
     "name": "Moonshot",
-    "liquidity_usd": 6497.959559240482,
+    "liquidity_usd": 0.15933007168899999,
     "source_listed_at": "2026-08-30T12:13:55",
     "peak_liquidity_usd": 6497.959559240482,
-    "last_checked_at": "2026-08-30T12:15:10.510731+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-08-31T11:15:07.393610+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-30T12:15:10.074639+00:00",
@@ -1399,7 +1399,7 @@
     "liquidity_usd": 11144.655018797255,
     "source_listed_at": "2026-08-30T12:13:35",
     "peak_liquidity_usd": 11144.655018797255,
-    "last_checked_at": "2026-08-30T12:15:10.510731+00:00",
+    "last_checked_at": "2026-08-31T11:15:07.393610+00:00",
     "rug_flag": false
   },
   {
