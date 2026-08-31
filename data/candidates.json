@@ -1256,7 +1256,7 @@
     "liquidity_usd": 77792.09086967287,
     "source_listed_at": "2026-08-29T21:14:43",
     "peak_liquidity_usd": 77792.09086967287,
-    "last_checked_at": "2026-08-30T11:15:06.273780+00:00",
+    "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
     "rug_flag": false
   },
   {
@@ -1598,6 +1598,28 @@
     "source_listed_at": "2026-08-31T05:14:16",
     "peak_liquidity_usd": 17283.667303489812,
     "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T07:15:10.414277+00:00",
+    "address": "2iqUThc8RjP1BMkqVM6wd76XnaDbuoiqVzintLGWq1ka",
+    "symbol": "MACRODUCK",
+    "name": "MACRODUCK",
+    "liquidity_usd": 19624.612675226806,
+    "source_listed_at": "2026-08-31T07:14:42",
+    "peak_liquidity_usd": 19624.612675226806,
+    "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T07:15:10.414297+00:00",
+    "address": "9rvoTUYxY1TDJ9LuSxWNVVLuFiKWkQ6E62ArmqJzpump",
+    "symbol": "HOME",
+    "name": "Hood of Meme",
+    "liquidity_usd": 196715.98786114913,
+    "source_listed_at": "2026-08-31T07:14:00",
+    "peak_liquidity_usd": 196715.98786114913,
+    "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
     "rug_flag": false
   }
 ]
