@@ -1641,7 +1641,7 @@
     "liquidity_usd": 10147.398957488473,
     "source_listed_at": "2026-08-31T08:15:00",
     "peak_liquidity_usd": 10147.398957488473,
-    "last_checked_at": "",
+    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
     "rug_flag": false
   },
   {
@@ -1675,6 +1675,28 @@
     "source_listed_at": "2026-08-31T08:14:16",
     "peak_liquidity_usd": 20812.230443109303,
     "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T09:15:04.954005+00:00",
+    "address": "8kRHAVubhhLmxGZdeCtsQdGjExFWLyTv4rxu7zkK5peh",
+    "symbol": "RUNNER",
+    "name": "Fuck You Runner",
+    "liquidity_usd": 24428.084516742565,
+    "source_listed_at": "2026-08-31T09:14:15",
+    "peak_liquidity_usd": 24428.084516742565,
+    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T09:15:04.954026+00:00",
+    "address": "5wQCgbxTdj5WUURntYk3f91N646YnNFPSJYWx3R7pump",
+    "symbol": "BOTRACE",
+    "name": "CHINA BOT RACER",
+    "liquidity_usd": 80499.4047792223,
+    "source_listed_at": "2026-08-31T09:14:00",
+    "peak_liquidity_usd": 80499.4047792223,
+    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
     "rug_flag": false
   }
 ]
