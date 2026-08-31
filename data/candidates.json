@@ -956,10 +956,10 @@
     "address": "H5P9qxXgMQATHEVVZ7DxL4pfuXADTBimfxnzmbtaoWeK",
     "symbol": "PILL",
     "name": "The Everything Matters Pill",
-    "liquidity_usd": 3.506592908799579e-07,
+    "liquidity_usd": 3.53929437236545e-07,
     "source_listed_at": "2026-08-28T21:53:28",
     "peak_liquidity_usd": 19683.669669931933,
-    "last_checked_at": "2026-08-30T07:15:06.164236+00:00",
+    "last_checked_at": "2026-08-31T02:15:11.526003+00:00",
     "rug_flag": true
   },
   {
@@ -1058,7 +1058,7 @@
     "liquidity_usd": 47.64318879879443,
     "source_listed_at": "2026-08-28T23:14:00",
     "peak_liquidity_usd": 243258.93033162368,
-    "last_checked_at": "2026-08-30T07:15:06.164236+00:00",
+    "last_checked_at": "2026-08-31T02:15:11.526003+00:00",
     "rug_flag": true
   },
   {
@@ -1113,7 +1113,7 @@
     "liquidity_usd": 36337.3116432456,
     "source_listed_at": "2026-08-29T07:14:50",
     "peak_liquidity_usd": 36337.3116432456,
-    "last_checked_at": "2026-08-30T08:15:02.444904+00:00",
+    "last_checked_at": "2026-08-31T02:15:11.526003+00:00",
     "rug_flag": false
   },
   {
