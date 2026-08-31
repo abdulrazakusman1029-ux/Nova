@@ -1355,7 +1355,7 @@
     "liquidity_usd": 17846.106926358367,
     "source_listed_at": "2026-08-30T06:14:46",
     "peak_liquidity_usd": 17846.106926358367,
-    "last_checked_at": "2026-08-30T06:15:16.046252+00:00",
+    "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
     "rug_flag": false
   },
   {
@@ -1499,6 +1499,28 @@
     "source_listed_at": "2026-08-30T23:14:21",
     "peak_liquidity_usd": 86434.22205849118,
     "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T00:15:12.305431+00:00",
+    "address": "6cqvafjMAQW5grrc1WQWYpugCQAUkuPueE1a1ZCZssaK",
+    "symbol": "\u666f\u751c",
+    "name": "\u6211\u7684\u5973\u53cb\u666f\u751c",
+    "liquidity_usd": 10929.358570358612,
+    "source_listed_at": "2026-08-31T00:14:56",
+    "peak_liquidity_usd": 10929.358570358612,
+    "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T00:15:12.305455+00:00",
+    "address": "GngeX2arLxugs9Tjb6uCqV4p4Q4Ft5kthmWZhBorpump",
+    "symbol": "Tilt100",
+    "name": "Tilt Whirl",
+    "liquidity_usd": 88998.83225664357,
+    "source_listed_at": "2026-08-31T00:14:42",
+    "peak_liquidity_usd": 88998.83225664357,
+    "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
     "rug_flag": false
   }
 ]
