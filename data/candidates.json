@@ -1069,7 +1069,7 @@
     "liquidity_usd": 375418.20916400576,
     "source_listed_at": "2026-08-29T01:15:12",
     "peak_liquidity_usd": 375418.20916400576,
-    "last_checked_at": "2026-08-30T09:15:12.165918+00:00",
+    "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
     "rug_flag": false
   },
   {
@@ -1565,6 +1565,28 @@
     "source_listed_at": "2026-08-31T03:14:38",
     "peak_liquidity_usd": 17293.954541806324,
     "last_checked_at": "2026-08-31T03:15:09.095428+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T04:15:20.830890+00:00",
+    "address": "7ArA15tMjdLdK2Z9Sv3uvxpExYpm1AH6ZQnsf5WSb4pR",
+    "symbol": "ANON",
+    "name": "anon, take the pill.",
+    "liquidity_usd": 18436.00264088773,
+    "source_listed_at": "2026-08-31T04:14:43",
+    "peak_liquidity_usd": 18436.00264088773,
+    "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T04:15:20.830917+00:00",
+    "address": "9vfJ9kKYmDBXa95ZerpfiYTt64PWWgCpgKad4kXbLHTm",
+    "symbol": "\u674f\u8fd0\u732b\u732b",
+    "name": "\u674f\u8fd0\u732b\u732b",
+    "liquidity_usd": 17199.704749544402,
+    "source_listed_at": "2026-08-31T04:14:37",
+    "peak_liquidity_usd": 17199.704749544402,
+    "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
     "rug_flag": false
   }
 ]
