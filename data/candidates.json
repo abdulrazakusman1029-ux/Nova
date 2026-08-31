@@ -1709,5 +1709,49 @@
     "peak_liquidity_usd": 18396.024201135013,
     "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T13:15:17.296466+00:00",
+    "address": "FkV42CXJpzKBZwuZdq8asBXVsRUhKa2g5FKBLeDc8cXG",
+    "symbol": "\u767c\u54e5",
+    "name": "\u767c\u54e5",
+    "liquidity_usd": 18141.204728550507,
+    "source_listed_at": "2026-08-31T13:15:02",
+    "peak_liquidity_usd": 18141.204728550507,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T13:15:17.296509+00:00",
+    "address": "C5nBy4sRZSfjyGa1VcBewqYECRsscLGpMNbJdewGpump",
+    "symbol": "PONS",
+    "name": "Pons",
+    "liquidity_usd": 11006.851377811689,
+    "source_listed_at": "2026-08-31T13:14:58",
+    "peak_liquidity_usd": 11006.851377811689,
+    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T13:15:17.296514+00:00",
+    "address": "EsZdLnVGPq7Rvbkqv3Kt7qEv5MjCuGDozDTqqx2ra6js",
+    "symbol": "PUP",
+    "name": "pup",
+    "liquidity_usd": 24363.41651467463,
+    "source_listed_at": "2026-08-31T13:14:58",
+    "peak_liquidity_usd": 24363.41651467463,
+    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T13:15:17.296518+00:00",
+    "address": "GCnAQ9XQ17bXZq3xcjVhc9vz2oU8rjZjWdWpsTwRpump",
+    "symbol": "Aranhasc",
+    "name": "Padre Sc",
+    "liquidity_usd": 84859.0284603821,
+    "source_listed_at": "2026-08-31T13:14:34",
+    "peak_liquidity_usd": 84859.0284603821,
+    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "rug_flag": false
   }
 ]
