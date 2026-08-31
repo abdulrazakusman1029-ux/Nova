@@ -1157,7 +1157,7 @@
     "liquidity_usd": 11150.376724031288,
     "source_listed_at": "2026-08-29T11:14:33",
     "peak_liquidity_usd": 11150.376724031288,
-    "last_checked_at": "2026-08-30T13:15:09.362857+00:00",
+    "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
     "rug_flag": false
   },
   {
@@ -1410,7 +1410,7 @@
     "liquidity_usd": 78994.87671565727,
     "source_listed_at": "2026-08-30T13:14:32",
     "peak_liquidity_usd": 78994.87671565727,
-    "last_checked_at": "2026-08-30T13:15:09.362857+00:00",
+    "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
     "rug_flag": false
   },
   {
@@ -1697,6 +1697,17 @@
     "source_listed_at": "2026-08-31T09:14:00",
     "peak_liquidity_usd": 80499.4047792223,
     "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-08-31T12:15:09.303806+00:00",
+    "address": "BqC7tiGJFvQ7nJYuMDgUztPWS5PDTazZSDwuEsofRP9h",
+    "symbol": "Fud",
+    "name": "Fudcoin",
+    "liquidity_usd": 18396.024201135013,
+    "source_listed_at": "2026-08-31T12:14:30",
+    "peak_liquidity_usd": 18396.024201135013,
+    "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
     "rug_flag": false
   }
 ]
