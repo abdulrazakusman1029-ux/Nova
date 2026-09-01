@@ -1605,11 +1605,11 @@
     "address": "2iqUThc8RjP1BMkqVM6wd76XnaDbuoiqVzintLGWq1ka",
     "symbol": "MACRODUCK",
     "name": "MACRODUCK",
-    "liquidity_usd": 19624.612675226806,
+    "liquidity_usd": 0.0037443822009481415,
     "source_listed_at": "2026-08-31T07:14:42",
     "peak_liquidity_usd": 19624.612675226806,
-    "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T07:15:10.414297+00:00",
@@ -1619,7 +1619,7 @@
     "liquidity_usd": 196715.98786114913,
     "source_listed_at": "2026-08-31T07:14:00",
     "peak_liquidity_usd": 196715.98786114913,
-    "last_checked_at": "2026-08-31T07:15:10.834622+00:00",
+    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
     "rug_flag": false
   },
   {
@@ -1652,7 +1652,7 @@
     "liquidity_usd": 24219.5125230326,
     "source_listed_at": "2026-08-31T08:14:37",
     "peak_liquidity_usd": 24219.5125230326,
-    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
     "rug_flag": false
   },
   {
