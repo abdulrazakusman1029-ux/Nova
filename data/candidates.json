@@ -1234,7 +1234,7 @@
     "liquidity_usd": 17857.76250679562,
     "source_listed_at": "2026-08-29T17:14:27",
     "peak_liquidity_usd": 17857.76250679562,
-    "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
+    "last_checked_at": "2026-09-01T07:21:54.338936+00:00",
     "rug_flag": false
   },
   {
@@ -1344,7 +1344,7 @@
     "liquidity_usd": 80890.73576404393,
     "source_listed_at": "2026-08-30T06:14:50",
     "peak_liquidity_usd": 80890.73576404393,
-    "last_checked_at": "2026-08-30T23:14:58.563367+00:00",
+    "last_checked_at": "2026-09-01T07:21:54.338936+00:00",
     "rug_flag": false
   },
   {
@@ -1950,6 +1950,17 @@
     "source_listed_at": "2026-09-01T05:20:48",
     "peak_liquidity_usd": 10215.836881301511,
     "last_checked_at": "2026-09-01T05:21:13.908641+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T07:21:53.799636+00:00",
+    "address": "44YM6nRZdqQ8EhNMcRr9KUvY3zGAyyYQ2ZPXe8iz3Fe5",
+    "symbol": "AAPL",
+    "name": "AAPL",
+    "liquidity_usd": 61761.95188333158,
+    "source_listed_at": "2026-09-01T07:20:58",
+    "peak_liquidity_usd": 61761.95188333158,
+    "last_checked_at": "2026-09-01T07:21:54.338936+00:00",
     "rug_flag": false
   }
 ]
