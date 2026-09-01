@@ -1487,7 +1487,7 @@
     "liquidity_usd": 18717.362329967913,
     "source_listed_at": "2026-08-30T22:14:06",
     "peak_liquidity_usd": 18717.362329967913,
-    "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "last_checked_at": "2026-09-01T06:27:59.461917+00:00",
     "rug_flag": false
   },
   {
@@ -1872,7 +1872,7 @@
     "liquidity_usd": 10189.036098626695,
     "source_listed_at": "2026-09-01T03:22:09",
     "peak_liquidity_usd": 10189.036098626695,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-01T06:27:59.461917+00:00",
     "rug_flag": false
   },
   {
@@ -1913,11 +1913,11 @@
     "address": "6AFy6RKFebqi1QRF3yfwBxFxzMpDCiQsVeG6USxQpump",
     "symbol": "Petey",
     "name": "prostate mascot + trump??",
-    "liquidity_usd": 10266.262426535688,
+    "liquidity_usd": 0.2124055642877176,
     "source_listed_at": "2026-09-01T05:21:07",
     "peak_liquidity_usd": 10266.262426535688,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T06:27:59.461917+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-01T05:21:13.310576+00:00",
