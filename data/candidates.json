@@ -1267,7 +1267,7 @@
     "liquidity_usd": 77792.09086967287,
     "source_listed_at": "2026-08-29T21:14:43",
     "peak_liquidity_usd": 77792.09086967287,
-    "last_checked_at": "2026-08-31T10:15:07.430368+00:00",
+    "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
     "rug_flag": false
   },
   {
@@ -1696,7 +1696,7 @@
     "liquidity_usd": 80499.4047792223,
     "source_listed_at": "2026-08-31T09:14:00",
     "peak_liquidity_usd": 80499.4047792223,
-    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
+    "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
     "rug_flag": false
   },
   {
@@ -2049,6 +2049,17 @@
     "source_listed_at": "2026-09-01T17:20:27",
     "peak_liquidity_usd": 17183.87009971785,
     "last_checked_at": "2026-09-01T17:20:53.284341+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T20:21:04.265644+00:00",
+    "address": "HXw8E1VG9buFMAwHY1LotK7R47bj3hNUUCKNEVaVV7MZ",
+    "symbol": "Shrek",
+    "name": "Shrek",
+    "liquidity_usd": 15421.288311038732,
+    "source_listed_at": "2026-09-01T20:20:50",
+    "peak_liquidity_usd": 15421.288311038732,
+    "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
     "rug_flag": false
   }
 ]
