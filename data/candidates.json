@@ -1740,7 +1740,7 @@
     "liquidity_usd": 24363.41651467463,
     "source_listed_at": "2026-08-31T13:14:58",
     "peak_liquidity_usd": 24363.41651467463,
-    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
     "rug_flag": false
   },
   {
@@ -1751,7 +1751,7 @@
     "liquidity_usd": 84859.0284603821,
     "source_listed_at": "2026-08-31T13:14:34",
     "peak_liquidity_usd": 84859.0284603821,
-    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
     "rug_flag": false
   },
   {
@@ -2060,6 +2060,17 @@
     "source_listed_at": "2026-09-01T20:20:50",
     "peak_liquidity_usd": 15421.288311038732,
     "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T23:17:42.099509+00:00",
+    "address": "9KG4ng5kgfP5EzhkHLNHzirNMvfC4cBZWYiyCu1o9Q1W",
+    "symbol": "PIG",
+    "name": "Passive Income Generator",
+    "liquidity_usd": 17338.01798614182,
+    "source_listed_at": "2026-09-01T23:17:21",
+    "peak_liquidity_usd": 17338.01798614182,
+    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
     "rug_flag": false
   }
 ]
