@@ -1407,11 +1407,11 @@
     "address": "4rXoQaFtzBBWjfTu5vXpsZYqjGsGt2mVK9TS3TCUpump",
     "symbol": "STBRN",
     "name": "Statin Shield",
-    "liquidity_usd": 78994.87671565727,
+    "liquidity_usd": 0.001217996606384861,
     "source_listed_at": "2026-08-30T13:14:32",
     "peak_liquidity_usd": 78994.87671565727,
-    "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T22:19:26.448540+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-30T14:15:10.411245+00:00",
@@ -1707,7 +1707,7 @@
     "liquidity_usd": 18396.024201135013,
     "source_listed_at": "2026-08-31T12:14:30",
     "peak_liquidity_usd": 18396.024201135013,
-    "last_checked_at": "2026-08-31T12:15:09.631519+00:00",
+    "last_checked_at": "2026-09-01T22:19:26.448540+00:00",
     "rug_flag": false
   },
   {
@@ -1729,7 +1729,7 @@
     "liquidity_usd": 11006.851377811689,
     "source_listed_at": "2026-08-31T13:14:58",
     "peak_liquidity_usd": 11006.851377811689,
-    "last_checked_at": "2026-08-31T13:15:17.883089+00:00",
+    "last_checked_at": "2026-09-01T22:19:26.448540+00:00",
     "rug_flag": false
   },
   {
