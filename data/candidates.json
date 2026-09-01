@@ -1663,7 +1663,7 @@
     "liquidity_usd": 18682.016534027916,
     "source_listed_at": "2026-08-31T08:14:31",
     "peak_liquidity_usd": 18682.016534027916,
-    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
+    "last_checked_at": "2026-09-01T17:20:53.284341+00:00",
     "rug_flag": false
   },
   {
@@ -2027,6 +2027,28 @@
     "source_listed_at": "2026-09-01T15:39:49",
     "peak_liquidity_usd": 17903.887815509854,
     "last_checked_at": "2026-09-01T15:40:03.338286+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T17:20:52.945275+00:00",
+    "address": "9GDcDGA7gECHP1jd9h8cxGGNAsygxQu9Q4AF5VPXhgg2",
+    "symbol": "SOLCAT",
+    "name": "Solcat",
+    "liquidity_usd": 10331.913490130128,
+    "source_listed_at": "2026-09-01T17:20:38",
+    "peak_liquidity_usd": 10331.913490130128,
+    "last_checked_at": "2026-09-01T17:20:53.284341+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T17:20:52.945303+00:00",
+    "address": "69BpH5rvw1x1HdisvmjSZjtmk9VDWd4k3parPCXpgLGJ",
+    "symbol": "Apple CEO",
+    "name": "John Ternus",
+    "liquidity_usd": 17183.87009971785,
+    "source_listed_at": "2026-09-01T17:20:27",
+    "peak_liquidity_usd": 17183.87009971785,
+    "last_checked_at": "2026-09-01T17:20:53.284341+00:00",
     "rug_flag": false
   }
 ]
