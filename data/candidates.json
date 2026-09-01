@@ -1863,5 +1863,49 @@
     "peak_liquidity_usd": 10216.354836333383,
     "last_checked_at": "2026-09-01T02:21:14.343574+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T03:22:19.101615+00:00",
+    "address": "4qoUwuUBLowD7319Ys5Y83mPXHLgWfy4FXrozXiVpump",
+    "symbol": "MARKETPLIER",
+    "name": "2M ON RH 40K ON SOL WTF",
+    "liquidity_usd": 10189.036098626695,
+    "source_listed_at": "2026-09-01T03:22:09",
+    "peak_liquidity_usd": 10189.036098626695,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T03:22:19.101635+00:00",
+    "address": "5gou52BVR6aASK8eFNKtXaXtT8ATiXTFztBrLhqupump",
+    "symbol": "MARKETPLIER",
+    "name": "2M ON RH 40K ON SOL WTF",
+    "liquidity_usd": 10189.036098626695,
+    "source_listed_at": "2026-09-01T03:22:09",
+    "peak_liquidity_usd": 10189.036098626695,
+    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T03:22:19.101639+00:00",
+    "address": "3UrZHVbPdqTq3VoDFmdFJBf4CCSo5hwGxafYKUP1pump",
+    "symbol": "MARKETPLIER",
+    "name": "2M ON RH 40K ON SOL WTF",
+    "liquidity_usd": 10227.768447634167,
+    "source_listed_at": "2026-09-01T03:22:04",
+    "peak_liquidity_usd": 10227.768447634167,
+    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T03:22:19.101646+00:00",
+    "address": "HyGkPfqTa4YKhURiSRkMHexLigBx4JwQ9ojCVuVrpump",
+    "symbol": "MARKETPLIER",
+    "name": "2M ON RH 40K ON SOL WTF",
+    "liquidity_usd": 10230.400403369413,
+    "source_listed_at": "2026-09-01T03:22:04",
+    "peak_liquidity_usd": 10230.400403369413,
+    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "rug_flag": false
   }
 ]
