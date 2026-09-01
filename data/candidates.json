@@ -1311,7 +1311,7 @@
     "liquidity_usd": 6019.404515,
     "source_listed_at": "2026-08-30T04:14:19",
     "peak_liquidity_usd": 6019.404515,
-    "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
+    "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
     "rug_flag": false
   },
   {
@@ -1454,7 +1454,7 @@
     "liquidity_usd": 20011.363902894267,
     "source_listed_at": "2026-08-30T20:14:45",
     "peak_liquidity_usd": 20011.363902894267,
-    "last_checked_at": "2026-08-30T20:15:07.438957+00:00",
+    "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
     "rug_flag": false
   },
   {
@@ -1829,6 +1829,17 @@
     "source_listed_at": "2026-08-31T22:14:34",
     "peak_liquidity_usd": 18826.640214350533,
     "last_checked_at": "2026-08-31T22:15:05.158540+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T00:32:14.793256+00:00",
+    "address": "5SW82RuVQ4UPEVgJ9dN9wpEvX31KJ2TJeWfzuGGpRMDx",
+    "symbol": "fone",
+    "name": "apeonfone",
+    "liquidity_usd": 17526.795409967923,
+    "source_listed_at": "2026-09-01T00:31:38",
+    "peak_liquidity_usd": 17526.795409967923,
+    "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
     "rug_flag": false
   }
 ]
