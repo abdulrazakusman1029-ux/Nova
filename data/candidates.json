@@ -1509,7 +1509,7 @@
     "liquidity_usd": 10929.358570358612,
     "source_listed_at": "2026-08-31T00:14:56",
     "peak_liquidity_usd": 10929.358570358612,
-    "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
+    "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
     "rug_flag": false
   },
   {
@@ -1520,7 +1520,7 @@
     "liquidity_usd": 88998.83225664357,
     "source_listed_at": "2026-08-31T00:14:42",
     "peak_liquidity_usd": 88998.83225664357,
-    "last_checked_at": "2026-08-31T00:15:12.806427+00:00",
+    "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
     "rug_flag": false
   },
   {
@@ -1972,6 +1972,17 @@
     "source_listed_at": "2026-09-01T08:23:31",
     "peak_liquidity_usd": 17498.339918152964,
     "last_checked_at": "2026-09-01T08:24:37.202972+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T09:22:49.018676+00:00",
+    "address": "Fqo7rJmcfQm2JMg4zEeQoAtgjAmtsQmbLZjYypGy1Boo",
+    "symbol": "Kalshi",
+    "name": "Kalshi",
+    "liquidity_usd": 19887.818438378545,
+    "source_listed_at": "2026-09-01T09:21:47",
+    "peak_liquidity_usd": 19887.818438378545,
+    "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
     "rug_flag": false
   }
 ]
