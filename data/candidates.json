@@ -1561,11 +1561,11 @@
     "address": "92Z2V5CfF5UoKMqGNmTa2Ah7eMfoTn5Ct3yn1hkHqeJN",
     "symbol": "\u6897\u72d7",
     "name": "\u6897\u72d7",
-    "liquidity_usd": 17293.954541806324,
+    "liquidity_usd": 3.691751340622112e-07,
     "source_listed_at": "2026-08-31T03:14:38",
     "peak_liquidity_usd": 17293.954541806324,
-    "last_checked_at": "2026-08-31T03:15:09.095428+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T12:27:22.250882+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T04:15:20.830890+00:00",
@@ -1575,7 +1575,7 @@
     "liquidity_usd": 18436.00264088773,
     "source_listed_at": "2026-08-31T04:14:43",
     "peak_liquidity_usd": 18436.00264088773,
-    "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
+    "last_checked_at": "2026-09-01T12:27:22.250882+00:00",
     "rug_flag": false
   },
   {
@@ -1586,7 +1586,7 @@
     "liquidity_usd": 17199.704749544402,
     "source_listed_at": "2026-08-31T04:14:37",
     "peak_liquidity_usd": 17199.704749544402,
-    "last_checked_at": "2026-08-31T04:15:21.260042+00:00",
+    "last_checked_at": "2026-09-01T12:27:22.250882+00:00",
     "rug_flag": false
   },
   {
