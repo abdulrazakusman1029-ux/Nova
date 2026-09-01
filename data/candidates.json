@@ -1641,7 +1641,7 @@
     "liquidity_usd": 10147.398957488473,
     "source_listed_at": "2026-08-31T08:15:00",
     "peak_liquidity_usd": 10147.398957488473,
-    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
+    "last_checked_at": "2026-09-01T18:23:50.911700+00:00",
     "rug_flag": false
   },
   {
@@ -1671,11 +1671,11 @@
     "address": "3Z7PfiDY2La3WyxJpEUnTq2XhrcqFdMZVf6fx9mg9YmG",
     "symbol": "Rabbit",
     "name": "The Lone Rabbit",
-    "liquidity_usd": 20812.230443109303,
+    "liquidity_usd": 8.061294690973121e-07,
     "source_listed_at": "2026-08-31T08:14:16",
     "peak_liquidity_usd": 20812.230443109303,
-    "last_checked_at": "2026-08-31T08:15:05.875442+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T18:23:50.911700+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T09:15:04.954005+00:00",
@@ -1685,7 +1685,7 @@
     "liquidity_usd": 24428.084516742565,
     "source_listed_at": "2026-08-31T09:14:15",
     "peak_liquidity_usd": 24428.084516742565,
-    "last_checked_at": "2026-08-31T09:15:05.477664+00:00",
+    "last_checked_at": "2026-09-01T18:23:50.911700+00:00",
     "rug_flag": false
   },
   {
