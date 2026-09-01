@@ -1363,11 +1363,11 @@
     "address": "Dhehk9yk9tvEPSGaKzvfjKDfoicUNRKJKhDUvWmczZgb",
     "symbol": "Sora",
     "name": "Soracoin",
-    "liquidity_usd": 20799.52939281253,
+    "liquidity_usd": 3.6304043351913896e-07,
     "source_listed_at": "2026-08-30T09:13:53",
     "peak_liquidity_usd": 20799.52939281253,
-    "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-01T14:22:47.390835+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-30T10:15:27.450763+00:00",
@@ -1377,7 +1377,7 @@
     "liquidity_usd": 78030.99211307932,
     "source_listed_at": "2026-08-30T10:14:51",
     "peak_liquidity_usd": 78030.99211307932,
-    "last_checked_at": "2026-08-31T06:15:09.311407+00:00",
+    "last_checked_at": "2026-09-01T14:22:47.390835+00:00",
     "rug_flag": false
   },
   {
@@ -1597,7 +1597,7 @@
     "liquidity_usd": 17283.667303489812,
     "source_listed_at": "2026-08-31T05:14:16",
     "peak_liquidity_usd": 17283.667303489812,
-    "last_checked_at": "2026-08-31T05:15:17.425283+00:00",
+    "last_checked_at": "2026-09-01T14:22:47.390835+00:00",
     "rug_flag": false
   },
   {
