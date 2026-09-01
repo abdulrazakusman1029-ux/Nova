@@ -1476,7 +1476,7 @@
     "liquidity_usd": 24661.538825774667,
     "source_listed_at": "2026-08-30T22:14:07",
     "peak_liquidity_usd": 24661.538825774667,
-    "last_checked_at": "2026-08-30T22:15:10.783461+00:00",
+    "last_checked_at": "2026-09-01T02:21:14.343574+00:00",
     "rug_flag": false
   },
   {
@@ -1840,6 +1840,28 @@
     "source_listed_at": "2026-09-01T00:31:38",
     "peak_liquidity_usd": 17526.795409967923,
     "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T02:21:14.032733+00:00",
+    "address": "6DorihyejPnJ1E4qBRJkEf6TnCaCvoiEYkc7mTA4sCch",
+    "symbol": "\u5c41\u5e01",
+    "name": "\u4e2d\u56fd\u5c41\u5e01",
+    "liquidity_usd": 17470.89878226108,
+    "source_listed_at": "2026-09-01T02:20:28",
+    "peak_liquidity_usd": 17470.89878226108,
+    "last_checked_at": "2026-09-01T02:21:14.343574+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T02:21:14.032754+00:00",
+    "address": "2c18BzhAaP727suJ41bqjfPT5wmxTu9FtNEd7Ftmpump",
+    "symbol": "MARKETPLIER",
+    "name": "THIS VAMPS NO?!?!",
+    "liquidity_usd": 10216.354836333383,
+    "source_listed_at": "2026-09-01T02:20:12",
+    "peak_liquidity_usd": 10216.354836333383,
+    "last_checked_at": "2026-09-01T02:21:14.343574+00:00",
     "rug_flag": false
   }
 ]
