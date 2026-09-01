@@ -1531,7 +1531,7 @@
     "liquidity_usd": 23937.274437590673,
     "source_listed_at": "2026-08-31T01:14:47",
     "peak_liquidity_usd": 23937.274437590673,
-    "last_checked_at": "2026-08-31T01:14:58.594162+00:00",
+    "last_checked_at": "2026-09-01T10:25:26.681572+00:00",
     "rug_flag": false
   },
   {
@@ -1983,6 +1983,28 @@
     "source_listed_at": "2026-09-01T09:21:47",
     "peak_liquidity_usd": 19887.818438378545,
     "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T10:25:26.240852+00:00",
+    "address": "5TcfPZBUGz5ABUYMP4eQkeEqtqQt1NDCekG5EYBopump",
+    "symbol": "RST",
+    "name": "RST",
+    "liquidity_usd": 10976.530217609774,
+    "source_listed_at": "2026-09-01T10:24:34",
+    "peak_liquidity_usd": 10976.530217609774,
+    "last_checked_at": "2026-09-01T10:25:26.681572+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-01T10:25:26.240876+00:00",
+    "address": "HArK1wgkCV72jsdTvgdMM2YAEgvPYtoZnEe6i1c3rsDm",
+    "symbol": "MUGI",
+    "name": "\u3080\u304e",
+    "liquidity_usd": 40279.98971308413,
+    "source_listed_at": "2026-09-01T10:24:08",
+    "peak_liquidity_usd": 40279.98971308413,
+    "last_checked_at": "2026-09-01T10:25:26.681572+00:00",
     "rug_flag": false
   }
 ]
