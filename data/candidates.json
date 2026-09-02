@@ -1795,7 +1795,7 @@
     "liquidity_usd": 16601.089231061793,
     "source_listed_at": "2026-08-31T20:14:53",
     "peak_liquidity_usd": 16601.089231061793,
-    "last_checked_at": "2026-08-31T20:15:06.509036+00:00",
+    "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
     "rug_flag": false
   },
   {
@@ -1806,7 +1806,7 @@
     "liquidity_usd": 17543.95048515901,
     "source_listed_at": "2026-08-31T20:14:50",
     "peak_liquidity_usd": 17543.95048515901,
-    "last_checked_at": "2026-08-31T20:15:06.509036+00:00",
+    "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
     "rug_flag": false
   },
   {
@@ -2126,6 +2126,17 @@
     "source_listed_at": "2026-09-02T03:20:24",
     "peak_liquidity_usd": 16519.07799031216,
     "last_checked_at": "2026-09-02T03:20:58.959875+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T04:23:19.495824+00:00",
+    "address": "9eY6S8Uj9qPdpAb9KDYNLfeMoNP2fp8DmjDCRpfGidHA",
+    "symbol": "Bitty",
+    "name": "Bitty",
+    "liquidity_usd": 17031.20445424016,
+    "source_listed_at": "2026-09-02T04:22:31",
+    "peak_liquidity_usd": 17031.20445424016,
+    "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
     "rug_flag": false
   }
 ]
