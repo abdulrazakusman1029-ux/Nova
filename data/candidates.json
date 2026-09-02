@@ -2334,7 +2334,7 @@
     "liquidity_usd": 73264.77052547886,
     "source_listed_at": "2026-09-02T21:19:52",
     "peak_liquidity_usd": 73264.77052547886,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
     "rug_flag": false
   },
   {
@@ -2401,6 +2401,28 @@
     "source_listed_at": "2026-09-02T22:20:08",
     "peak_liquidity_usd": 17214.181767822265,
     "last_checked_at": "2026-09-02T22:20:54.153401+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T23:19:19.572835+00:00",
+    "address": "AA7QdszPpy8LKts1cUxwqYxuTcwC9rjgsMiobVB5YMfS",
+    "symbol": "ORDIHOOD",
+    "name": "Ordihood",
+    "liquidity_usd": 28214.45629535748,
+    "source_listed_at": "2026-09-02T23:18:29",
+    "peak_liquidity_usd": 28214.45629535748,
+    "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T23:19:19.572859+00:00",
+    "address": "2DiU2gWqjLgZX7XojuYHLqWGWgFfeUcTJ3GK851gMNz1",
+    "symbol": "$1",
+    "name": "Trump $1 Coin",
+    "liquidity_usd": 20012.211276573285,
+    "source_listed_at": "2026-09-02T23:18:27",
+    "peak_liquidity_usd": 20012.211276573285,
+    "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
     "rug_flag": false
   }
 ]
