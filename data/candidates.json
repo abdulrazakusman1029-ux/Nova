@@ -1916,7 +1916,7 @@
     "liquidity_usd": 0.2124055642877176,
     "source_listed_at": "2026-09-01T05:21:07",
     "peak_liquidity_usd": 10266.262426535688,
-    "last_checked_at": "2026-09-01T06:27:59.461917+00:00",
+    "last_checked_at": "2026-09-02T14:21:54.056541+00:00",
     "rug_flag": true
   },
   {
@@ -1960,7 +1960,7 @@
     "liquidity_usd": 61761.95188333158,
     "source_listed_at": "2026-09-01T07:20:58",
     "peak_liquidity_usd": 61761.95188333158,
-    "last_checked_at": "2026-09-01T07:21:54.338936+00:00",
+    "last_checked_at": "2026-09-02T14:21:54.056541+00:00",
     "rug_flag": false
   },
   {
@@ -2258,6 +2258,17 @@
     "source_listed_at": "2026-09-02T13:22:31",
     "peak_liquidity_usd": 10509.77470720838,
     "last_checked_at": "2026-09-02T13:22:36.774425+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T14:21:53.535762+00:00",
+    "address": "8x4E8W6ztAvXU4xV9aLVAmu6jDB8F5nGCUjaohmE1xTK",
+    "symbol": "Trump69",
+    "name": "MAGA COIN",
+    "liquidity_usd": 27972.176425746828,
+    "source_listed_at": "2026-09-02T14:21:42",
+    "peak_liquidity_usd": 27972.176425746828,
+    "last_checked_at": "2026-09-02T14:21:54.056541+00:00",
     "rug_flag": false
   }
 ]
