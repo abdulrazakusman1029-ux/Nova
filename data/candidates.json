@@ -1894,7 +1894,7 @@
     "liquidity_usd": 10227.768447634167,
     "source_listed_at": "2026-09-01T03:22:04",
     "peak_liquidity_usd": 10227.768447634167,
-    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "last_checked_at": "2026-09-02T11:21:52.693586+00:00",
     "rug_flag": false
   },
   {
@@ -1905,7 +1905,7 @@
     "liquidity_usd": 10230.400403369413,
     "source_listed_at": "2026-09-01T03:22:04",
     "peak_liquidity_usd": 10230.400403369413,
-    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "last_checked_at": "2026-09-02T11:21:52.693586+00:00",
     "rug_flag": false
   },
   {
@@ -2236,6 +2236,17 @@
     "source_listed_at": "2026-09-02T10:21:33",
     "peak_liquidity_usd": 10552.143487922382,
     "last_checked_at": "2026-09-02T10:22:54.162083+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T11:21:52.075784+00:00",
+    "address": "Gd2h7MpKXQZA5v3mBcFV823LCPgB75NwUx74gBeUSex4",
+    "symbol": "TRUMP1",
+    "name": "Trump $1 Coin",
+    "liquidity_usd": 26994.26100369243,
+    "source_listed_at": "2026-09-02T11:20:22",
+    "peak_liquidity_usd": 26994.26100369243,
+    "last_checked_at": "2026-09-02T11:21:52.693586+00:00",
     "rug_flag": false
   }
 ]
