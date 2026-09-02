@@ -1817,7 +1817,7 @@
     "liquidity_usd": 18699.141125113525,
     "source_listed_at": "2026-08-31T20:14:47",
     "peak_liquidity_usd": 18699.141125113525,
-    "last_checked_at": "2026-08-31T20:15:06.509036+00:00",
+    "last_checked_at": "2026-09-02T05:24:11.706845+00:00",
     "rug_flag": false
   },
   {
@@ -2137,6 +2137,28 @@
     "source_listed_at": "2026-09-02T04:22:31",
     "peak_liquidity_usd": 17031.20445424016,
     "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T05:24:11.198616+00:00",
+    "address": "6WiWSHg8ebjRaAemUfNohEu87nY2GRG3shRTgh7nfmYb",
+    "symbol": "Boomer",
+    "name": "Boomer",
+    "liquidity_usd": 16681.844225249515,
+    "source_listed_at": "2026-09-02T05:23:26",
+    "peak_liquidity_usd": 16681.844225249515,
+    "last_checked_at": "2026-09-02T05:24:11.706845+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T05:24:11.198645+00:00",
+    "address": "DMHgDU2vyup1gQZ8HQBGDJSHDi3VqoKHEjJKnyaeePfh",
+    "symbol": "ASS",
+    "name": "Asscoin",
+    "liquidity_usd": 16396.527036796466,
+    "source_listed_at": "2026-09-02T05:22:53",
+    "peak_liquidity_usd": 16396.527036796466,
+    "last_checked_at": "2026-09-02T05:24:11.706845+00:00",
     "rug_flag": false
   }
 ]
