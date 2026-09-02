@@ -1421,7 +1421,7 @@
     "liquidity_usd": 25288.139796584488,
     "source_listed_at": "2026-08-30T14:14:11",
     "peak_liquidity_usd": 25288.139796584488,
-    "last_checked_at": "2026-08-31T15:15:19.981653+00:00",
+    "last_checked_at": "2026-09-02T01:19:22.788615+00:00",
     "rug_flag": false
   },
   {
@@ -1432,7 +1432,7 @@
     "liquidity_usd": 18111.143509687503,
     "source_listed_at": "2026-08-30T15:14:34",
     "peak_liquidity_usd": 18111.143509687503,
-    "last_checked_at": "2026-08-31T16:15:15.128190+00:00",
+    "last_checked_at": "2026-09-02T01:19:22.788615+00:00",
     "rug_flag": false
   },
   {
@@ -2082,6 +2082,17 @@
     "source_listed_at": "2026-09-02T00:30:06",
     "peak_liquidity_usd": 18221.332940080163,
     "last_checked_at": "2026-09-02T00:30:25.003551+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T01:19:22.052913+00:00",
+    "address": "Pkf5Tjbi9juVT4QFBDuedY2VkjZnyijN5kg7ZXYpump",
+    "symbol": "GBT",
+    "name": "GBT",
+    "liquidity_usd": 10440.99906896068,
+    "source_listed_at": "2026-09-02T01:19:03",
+    "peak_liquidity_usd": 10440.99906896068,
+    "last_checked_at": "2026-09-02T01:19:22.788615+00:00",
     "rug_flag": false
   }
 ]
