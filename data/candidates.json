@@ -1495,11 +1495,11 @@
     "address": "BcucVR9tSLqtsvSsf1vt9q7sPKSR4ivF7RQFP49xpump",
     "symbol": "AICHEST",
     "name": "AI CHEST",
-    "liquidity_usd": 86434.22205849118,
+    "liquidity_usd": 0.0013950572150929267,
     "source_listed_at": "2026-08-30T23:14:21",
     "peak_liquidity_usd": 86434.22205849118,
-    "last_checked_at": "2026-09-01T08:24:37.202972+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-02T15:25:19.306358+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T00:15:12.305431+00:00",
@@ -1509,7 +1509,7 @@
     "liquidity_usd": 10929.358570358612,
     "source_listed_at": "2026-08-31T00:14:56",
     "peak_liquidity_usd": 10929.358570358612,
-    "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
+    "last_checked_at": "2026-09-02T15:25:19.306358+00:00",
     "rug_flag": false
   },
   {
@@ -1971,7 +1971,7 @@
     "liquidity_usd": 17498.339918152964,
     "source_listed_at": "2026-09-01T08:23:31",
     "peak_liquidity_usd": 17498.339918152964,
-    "last_checked_at": "2026-09-01T08:24:37.202972+00:00",
+    "last_checked_at": "2026-09-02T15:25:19.306358+00:00",
     "rug_flag": false
   },
   {
