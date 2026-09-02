@@ -1465,7 +1465,7 @@
     "liquidity_usd": 17678.653020009857,
     "source_listed_at": "2026-08-30T22:14:29",
     "peak_liquidity_usd": 17678.653020009857,
-    "last_checked_at": "2026-09-01T01:20:04.126903+00:00",
+    "last_checked_at": "2026-09-02T08:23:27.918409+00:00",
     "rug_flag": false
   },
   {
@@ -1839,7 +1839,7 @@
     "liquidity_usd": 17526.795409967923,
     "source_listed_at": "2026-09-01T00:31:38",
     "peak_liquidity_usd": 17526.795409967923,
-    "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
+    "last_checked_at": "2026-09-02T08:23:27.918409+00:00",
     "rug_flag": false
   },
   {
@@ -2203,6 +2203,17 @@
     "source_listed_at": "2026-09-02T07:20:49",
     "peak_liquidity_usd": 17055.299748020236,
     "last_checked_at": "2026-09-02T07:21:35.796459+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T08:23:27.363374+00:00",
+    "address": "D3j8ojz3CDj3fmBHhZ48ZeSGZJLFBF9AWgyKgxRkpump",
+    "symbol": "Pairless",
+    "name": "Pairless",
+    "liquidity_usd": 10740.983868520147,
+    "source_listed_at": "2026-09-02T08:23:09",
+    "peak_liquidity_usd": 10740.983868520147,
+    "last_checked_at": "2026-09-02T08:23:27.918409+00:00",
     "rug_flag": false
   }
 ]
