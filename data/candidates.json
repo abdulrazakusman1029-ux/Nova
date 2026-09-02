@@ -1454,7 +1454,7 @@
     "liquidity_usd": 20011.363902894267,
     "source_listed_at": "2026-08-30T20:14:45",
     "peak_liquidity_usd": 20011.363902894267,
-    "last_checked_at": "2026-09-01T00:32:15.315755+00:00",
+    "last_checked_at": "2026-09-02T07:21:35.796459+00:00",
     "rug_flag": false
   },
   {
@@ -1828,7 +1828,7 @@
     "liquidity_usd": 18826.640214350533,
     "source_listed_at": "2026-08-31T22:14:34",
     "peak_liquidity_usd": 18826.640214350533,
-    "last_checked_at": "2026-08-31T22:15:05.158540+00:00",
+    "last_checked_at": "2026-09-02T07:21:35.796459+00:00",
     "rug_flag": false
   },
   {
@@ -2192,6 +2192,17 @@
     "source_listed_at": "2026-09-02T06:30:46",
     "peak_liquidity_usd": 34101.62428485356,
     "last_checked_at": "2026-09-02T06:31:33.261108+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T07:21:35.461384+00:00",
+    "address": "8TzuJRosd1GF1FcdzRMd5q4yDiboki8pcUg47bVcTEuQ",
+    "symbol": "SOLANA",
+    "name": "All Bridges Lead To Solana",
+    "liquidity_usd": 17055.299748020236,
+    "source_listed_at": "2026-09-02T07:20:49",
+    "peak_liquidity_usd": 17055.299748020236,
+    "last_checked_at": "2026-09-02T07:21:35.796459+00:00",
     "rug_flag": false
   }
 ]
