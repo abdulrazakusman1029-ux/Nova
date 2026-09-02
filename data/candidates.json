@@ -1531,7 +1531,7 @@
     "liquidity_usd": 23937.274437590673,
     "source_listed_at": "2026-08-31T01:14:47",
     "peak_liquidity_usd": 23937.274437590673,
-    "last_checked_at": "2026-09-01T10:25:26.681572+00:00",
+    "last_checked_at": "2026-09-02T18:25:03.988589+00:00",
     "rug_flag": false
   },
   {
@@ -1982,7 +1982,7 @@
     "liquidity_usd": 19887.818438378545,
     "source_listed_at": "2026-09-01T09:21:47",
     "peak_liquidity_usd": 19887.818438378545,
-    "last_checked_at": "2026-09-01T09:22:49.602214+00:00",
+    "last_checked_at": "2026-09-02T18:25:03.988589+00:00",
     "rug_flag": false
   },
   {
@@ -2291,6 +2291,17 @@
     "source_listed_at": "2026-09-02T16:23:10",
     "peak_liquidity_usd": 17049.334264488247,
     "last_checked_at": "2026-09-02T16:23:38.224477+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T18:25:03.554685+00:00",
+    "address": "eC4c1vo1xS7oW7bvbNqGi6nNQDTf5s5JDpsvP63C2K1",
+    "symbol": "CTO",
+    "name": "Vida Global CTO",
+    "liquidity_usd": 8380.695907340474,
+    "source_listed_at": "2026-09-02T18:25:00",
+    "peak_liquidity_usd": 8380.695907340474,
+    "last_checked_at": "2026-09-02T18:25:03.988589+00:00",
     "rug_flag": false
   }
 ]
