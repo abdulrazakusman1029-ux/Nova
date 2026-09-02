@@ -1993,7 +1993,7 @@
     "liquidity_usd": 10976.530217609774,
     "source_listed_at": "2026-09-01T10:24:34",
     "peak_liquidity_usd": 10976.530217609774,
-    "last_checked_at": "2026-09-01T10:25:26.681572+00:00",
+    "last_checked_at": "2026-09-02T19:19:36.278567+00:00",
     "rug_flag": false
   },
   {
@@ -2302,6 +2302,28 @@
     "source_listed_at": "2026-09-02T18:25:00",
     "peak_liquidity_usd": 8380.695907340474,
     "last_checked_at": "2026-09-02T18:25:03.988589+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T19:19:35.649087+00:00",
+    "address": "8ivb72Y695HCJ5oaTWJy71JgGGmctVCCRsV3KQTrZF9z",
+    "symbol": "fone",
+    "name": "apeonfone",
+    "liquidity_usd": 14995.142069102083,
+    "source_listed_at": "2026-09-02T19:19:28",
+    "peak_liquidity_usd": 14995.142069102083,
+    "last_checked_at": "2026-09-02T19:19:36.278567+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T19:19:35.649104+00:00",
+    "address": "Ee9Zxwp6mopAVGrD9eewWz1ghtwtjB9YrjPPjaNJFCNq",
+    "symbol": "TripleM",
+    "name": "M\u00f3m M\u0169m M\u0129m",
+    "liquidity_usd": 19879.658166210047,
+    "source_listed_at": "2026-09-02T19:19:23",
+    "peak_liquidity_usd": 19879.658166210047,
+    "last_checked_at": "2026-09-02T19:19:36.278567+00:00",
     "rug_flag": false
   }
 ]
