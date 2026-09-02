@@ -1443,7 +1443,7 @@
     "liquidity_usd": 10890.595604079197,
     "source_listed_at": "2026-08-30T17:14:46",
     "peak_liquidity_usd": 10890.595604079197,
-    "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
+    "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
     "rug_flag": false
   },
   {
@@ -2093,6 +2093,28 @@
     "source_listed_at": "2026-09-02T01:19:03",
     "peak_liquidity_usd": 10440.99906896068,
     "last_checked_at": "2026-09-02T01:19:22.788615+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T02:35:14.588880+00:00",
+    "address": "7NgfuQkmT9UkoZsok3jg5TUrYN3y7rzE8wnuNHiRGQ68",
+    "symbol": "DeepSeekAI",
+    "name": "DeepSeek AI Agent",
+    "liquidity_usd": 28196.076394741674,
+    "source_listed_at": "2026-09-02T02:34:12",
+    "peak_liquidity_usd": 28196.076394741674,
+    "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T02:35:14.588901+00:00",
+    "address": "BuxA5e1h6iNnZj9KuZV4jvpbQ7SfGMhnjZgxZpTYpump",
+    "symbol": "Pumpjak",
+    "name": "Pump Wojak",
+    "liquidity_usd": 16140.599946852548,
+    "source_listed_at": "2026-09-02T02:33:55",
+    "peak_liquidity_usd": 16140.599946852548,
+    "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
     "rug_flag": false
   }
 ]
