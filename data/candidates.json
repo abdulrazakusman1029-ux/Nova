@@ -1773,7 +1773,7 @@
     "liquidity_usd": 24545.078302463866,
     "source_listed_at": "2026-08-31T18:15:01",
     "peak_liquidity_usd": 24545.078302463866,
-    "last_checked_at": "2026-08-31T18:15:08.363404+00:00",
+    "last_checked_at": "2026-09-02T03:20:58.959875+00:00",
     "rug_flag": false
   },
   {
@@ -1784,7 +1784,7 @@
     "liquidity_usd": 14524.225567494375,
     "source_listed_at": "2026-08-31T19:14:06",
     "peak_liquidity_usd": 14524.225567494375,
-    "last_checked_at": "2026-08-31T19:15:05.814713+00:00",
+    "last_checked_at": "2026-09-02T03:20:58.959875+00:00",
     "rug_flag": false
   },
   {
@@ -2115,6 +2115,17 @@
     "source_listed_at": "2026-09-02T02:33:55",
     "peak_liquidity_usd": 16140.599946852548,
     "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T03:20:58.597079+00:00",
+    "address": "EmCaVydUj5ZcQowEyNAqFYUXkctkSrfKR6J6gTVrNeVT",
+    "symbol": "Pill",
+    "name": "The Pill",
+    "liquidity_usd": 16519.07799031216,
+    "source_listed_at": "2026-09-02T03:20:24",
+    "peak_liquidity_usd": 16519.07799031216,
+    "last_checked_at": "2026-09-02T03:20:58.959875+00:00",
     "rug_flag": false
   }
 ]
