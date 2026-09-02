@@ -2325,5 +2325,60 @@
     "peak_liquidity_usd": 19879.658166210047,
     "last_checked_at": "2026-09-02T19:19:36.278567+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T21:19:56.116584+00:00",
+    "address": "7XscaSoJ14LNUavs2oyfu17QmY6JMXQiGGUnizaYpump",
+    "symbol": "PECCY",
+    "name": "Artifi Inu at 300M",
+    "liquidity_usd": 73264.77052547886,
+    "source_listed_at": "2026-09-02T21:19:52",
+    "peak_liquidity_usd": 73264.77052547886,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T21:19:56.116602+00:00",
+    "address": "D7szxGFrSuZTrscMY5NDJS8BhtCrW8jZxL4yZ9pUH4KM",
+    "symbol": "loop",
+    "name": "pumploop",
+    "liquidity_usd": 18971.517353915286,
+    "source_listed_at": "2026-09-02T21:19:46",
+    "peak_liquidity_usd": 18971.517353915286,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T21:19:56.116606+00:00",
+    "address": "3JgVhnkh1WMVX5rEDzUfHuwiiJhj3hW8SqTebxJzrwjU",
+    "symbol": "COIN",
+    "name": "CrashBandicootWumpaWhipCoin",
+    "liquidity_usd": 17373.69565798533,
+    "source_listed_at": "2026-09-02T21:19:43",
+    "peak_liquidity_usd": 17373.69565798533,
+    "last_checked_at": "2026-09-02T21:19:56.501360+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T21:19:56.116609+00:00",
+    "address": "3H88gnNZvLec5Bmypbb8FB4AbgVy2QzkkELRYw8LyVoC",
+    "symbol": "CTO",
+    "name": "Vida Global CTO",
+    "liquidity_usd": 16892.233413235503,
+    "source_listed_at": "2026-09-02T21:19:35",
+    "peak_liquidity_usd": 16892.233413235503,
+    "last_checked_at": "2026-09-02T21:19:56.501360+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T21:19:56.116612+00:00",
+    "address": "GUf6TfpWXc7uyP8DhYMUyeZSh8tLtHRU4XxfqKsvoswq",
+    "symbol": "COGBULL2",
+    "name": "Cogfield Bull 2",
+    "liquidity_usd": 9989.402213272106,
+    "source_listed_at": "2026-09-02T21:19:29",
+    "peak_liquidity_usd": 9989.402213272106,
+    "last_checked_at": "2026-09-02T21:19:56.501360+00:00",
+    "rug_flag": false
   }
 ]
