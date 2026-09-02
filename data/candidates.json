@@ -1861,7 +1861,7 @@
     "liquidity_usd": 10216.354836333383,
     "source_listed_at": "2026-09-01T02:20:12",
     "peak_liquidity_usd": 10216.354836333383,
-    "last_checked_at": "2026-09-01T02:21:14.343574+00:00",
+    "last_checked_at": "2026-09-02T10:22:54.162083+00:00",
     "rug_flag": false
   },
   {
@@ -1883,7 +1883,7 @@
     "liquidity_usd": 10189.036098626695,
     "source_listed_at": "2026-09-01T03:22:09",
     "peak_liquidity_usd": 10189.036098626695,
-    "last_checked_at": "2026-09-01T03:22:19.492285+00:00",
+    "last_checked_at": "2026-09-02T10:22:54.162083+00:00",
     "rug_flag": false
   },
   {
@@ -2225,6 +2225,17 @@
     "source_listed_at": "2026-09-02T09:22:28",
     "peak_liquidity_usd": 16443.771752786743,
     "last_checked_at": "2026-09-02T09:22:33.944415+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-02T10:22:53.617258+00:00",
+    "address": "7AnJRunXZwgDVEMnemFHCz9URJxfKbB6udypNV3ypump",
+    "symbol": "LEGO",
+    "name": "LEGO",
+    "liquidity_usd": 10552.143487922382,
+    "source_listed_at": "2026-09-02T10:21:33",
+    "peak_liquidity_usd": 10552.143487922382,
+    "last_checked_at": "2026-09-02T10:22:54.162083+00:00",
     "rug_flag": false
   }
 ]
