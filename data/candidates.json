@@ -1707,7 +1707,7 @@
     "liquidity_usd": 18396.024201135013,
     "source_listed_at": "2026-08-31T12:14:30",
     "peak_liquidity_usd": 18396.024201135013,
-    "last_checked_at": "2026-09-01T22:19:26.448540+00:00",
+    "last_checked_at": "2026-09-03T09:22:45.761713+00:00",
     "rug_flag": false
   },
   {
@@ -1729,7 +1729,7 @@
     "liquidity_usd": 11006.851377811689,
     "source_listed_at": "2026-08-31T13:14:58",
     "peak_liquidity_usd": 11006.851377811689,
-    "last_checked_at": "2026-09-01T22:19:26.448540+00:00",
+    "last_checked_at": "2026-09-03T09:22:45.761713+00:00",
     "rug_flag": false
   },
   {
@@ -2467,6 +2467,17 @@
     "source_listed_at": "2026-09-03T07:21:30",
     "peak_liquidity_usd": 17398.149518561644,
     "last_checked_at": "2026-09-03T07:22:11.359260+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T09:22:45.393479+00:00",
+    "address": "EBsohYi5yrQqvGZCUiVRTJtRKmkT8V3Datn3rAqqxErU",
+    "symbol": "\u5b89\u5b89",
+    "name": "AnAn",
+    "liquidity_usd": 17074.89282508846,
+    "source_listed_at": "2026-09-03T09:22:23",
+    "peak_liquidity_usd": 17074.89282508846,
+    "last_checked_at": "2026-09-03T09:22:45.761713+00:00",
     "rug_flag": false
   }
 ]
