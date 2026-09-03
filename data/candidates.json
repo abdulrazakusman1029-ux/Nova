@@ -2133,11 +2133,11 @@
     "address": "9eY6S8Uj9qPdpAb9KDYNLfeMoNP2fp8DmjDCRpfGidHA",
     "symbol": "Bitty",
     "name": "Bitty",
-    "liquidity_usd": 17031.20445424016,
+    "liquidity_usd": 3.352465667440083e-07,
     "source_listed_at": "2026-09-02T04:22:31",
     "peak_liquidity_usd": 17031.20445424016,
-    "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T20:20:30.557204+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T05:24:11.198616+00:00",
@@ -2147,7 +2147,7 @@
     "liquidity_usd": 16681.844225249515,
     "source_listed_at": "2026-09-02T05:23:26",
     "peak_liquidity_usd": 16681.844225249515,
-    "last_checked_at": "2026-09-02T05:24:11.706845+00:00",
+    "last_checked_at": "2026-09-03T20:20:30.557204+00:00",
     "rug_flag": false
   },
   {
@@ -2155,11 +2155,11 @@
     "address": "DMHgDU2vyup1gQZ8HQBGDJSHDi3VqoKHEjJKnyaeePfh",
     "symbol": "ASS",
     "name": "Asscoin",
-    "liquidity_usd": 16396.527036796466,
+    "liquidity_usd": 3.4915730542658946e-07,
     "source_listed_at": "2026-09-02T05:22:53",
     "peak_liquidity_usd": 16396.527036796466,
-    "last_checked_at": "2026-09-02T05:24:11.706845+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T20:20:30.557204+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T06:31:32.888980+00:00",
