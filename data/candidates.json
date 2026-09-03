@@ -1751,7 +1751,7 @@
     "liquidity_usd": 84859.0284603821,
     "source_listed_at": "2026-08-31T13:14:34",
     "peak_liquidity_usd": 84859.0284603821,
-    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
+    "last_checked_at": "2026-09-03T12:28:07.958095+00:00",
     "rug_flag": false
   },
   {
@@ -2533,6 +2533,28 @@
     "source_listed_at": "2026-09-03T11:19:41",
     "peak_liquidity_usd": 17054.376874756246,
     "last_checked_at": "2026-09-03T11:20:17.261153+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T12:28:07.637127+00:00",
+    "address": "3FnksQJx7GZdWvjRWxStH1LyFWpU6VzMNzwVCo29RKpc",
+    "symbol": "Huggy",
+    "name": "Huggy",
+    "liquidity_usd": 17197.228086020947,
+    "source_listed_at": "2026-09-03T12:27:47",
+    "peak_liquidity_usd": 17197.228086020947,
+    "last_checked_at": "2026-09-03T12:28:07.958095+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T12:28:07.637144+00:00",
+    "address": "CYJKjgCj7Tn69HGCRwBkhSN2bDqh5kBLMM6ofC1Hpump",
+    "symbol": "COIN",
+    "name": "CrashBandicootWumpaWhipCoin",
+    "liquidity_usd": 10790.34930368059,
+    "source_listed_at": "2026-09-03T12:27:25",
+    "peak_liquidity_usd": 10790.34930368059,
+    "last_checked_at": "2026-09-03T12:28:07.958095+00:00",
     "rug_flag": false
   }
 ]
