@@ -2578,5 +2578,49 @@
     "peak_liquidity_usd": 17633.62667424287,
     "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T16:22:39.188610+00:00",
+    "address": "3SVKGkE4DiYx2fXmnbDSaf9MKX9brsgL67sZxog9pump",
+    "symbol": "GOAF",
+    "name": "Global Oil Asset Fund",
+    "liquidity_usd": 11193.760843560833,
+    "source_listed_at": "2026-09-03T16:22:32",
+    "peak_liquidity_usd": 11193.760843560833,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T16:22:39.188628+00:00",
+    "address": "C7Zrd9HVJQGinUtoyvH3EZTMEpuW3bRoD2yZg2gfpump",
+    "symbol": "ZECAT",
+    "name": "READ TWEET, 8M on zcash launchpa",
+    "liquidity_usd": 76830.31723786583,
+    "source_listed_at": "2026-09-03T16:22:30",
+    "peak_liquidity_usd": 76830.31723786583,
+    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T16:22:39.188640+00:00",
+    "address": "EhCJudoEQgNJd6mJGGrXpP8ajrs7VzNecyzG8PZkpump",
+    "symbol": "ZECAT",
+    "name": "READ TWEET, 8M on zcash launchpa",
+    "liquidity_usd": 76830.31723786583,
+    "source_listed_at": "2026-09-03T16:22:30",
+    "peak_liquidity_usd": 76830.31723786583,
+    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T16:22:39.188648+00:00",
+    "address": "GFi2ie4mapcTPr8as9Y1469HYTKvtn6JsEwrLvN8pump",
+    "symbol": "ZECAT",
+    "name": "READ TWEET, 8M on zcash launchpa",
+    "liquidity_usd": 76830.31723786583,
+    "source_listed_at": "2026-09-03T16:22:30",
+    "peak_liquidity_usd": 76830.31723786583,
+    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "rug_flag": false
   }
 ]
