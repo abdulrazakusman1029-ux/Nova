@@ -1740,7 +1740,7 @@
     "liquidity_usd": 24363.41651467463,
     "source_listed_at": "2026-08-31T13:14:58",
     "peak_liquidity_usd": 24363.41651467463,
-    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
+    "last_checked_at": "2026-09-03T11:20:17.261153+00:00",
     "rug_flag": false
   },
   {
@@ -2511,6 +2511,28 @@
     "source_listed_at": "2026-09-03T10:21:50",
     "peak_liquidity_usd": 18051.274443662693,
     "last_checked_at": "2026-09-03T10:22:38.451673+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T11:20:16.863007+00:00",
+    "address": "J8v268B1sEWRLPS6K8nP9gFAiwe5rJkh6Wc81PQeMzY5",
+    "symbol": "ZOE",
+    "name": "Zoe",
+    "liquidity_usd": 17548.669953707038,
+    "source_listed_at": "2026-09-03T11:20:04",
+    "peak_liquidity_usd": 17548.669953707038,
+    "last_checked_at": "2026-09-03T11:20:17.261153+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T11:20:16.863048+00:00",
+    "address": "9Wp4NuPurHy3nZtNNMfSwrksCkGg2NemJ5KJiW5YV81c",
+    "symbol": "deg",
+    "name": "deg",
+    "liquidity_usd": 17054.376874756246,
+    "source_listed_at": "2026-09-03T11:19:41",
+    "peak_liquidity_usd": 17054.376874756246,
+    "last_checked_at": "2026-09-03T11:20:17.261153+00:00",
     "rug_flag": false
   }
 ]
