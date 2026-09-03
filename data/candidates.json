@@ -1616,11 +1616,11 @@
     "address": "9rvoTUYxY1TDJ9LuSxWNVVLuFiKWkQ6E62ArmqJzpump",
     "symbol": "HOME",
     "name": "Hood of Meme",
-    "liquidity_usd": 196715.98786114913,
+    "liquidity_usd": 29.612958974483945,
     "source_listed_at": "2026-08-31T07:14:00",
     "peak_liquidity_usd": 196715.98786114913,
-    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T05:36:01.824795+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T08:15:05.563841+00:00",
@@ -1652,7 +1652,7 @@
     "liquidity_usd": 24219.5125230326,
     "source_listed_at": "2026-08-31T08:14:37",
     "peak_liquidity_usd": 24219.5125230326,
-    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
+    "last_checked_at": "2026-09-03T05:36:01.824795+00:00",
     "rug_flag": false
   },
   {
@@ -1663,7 +1663,7 @@
     "liquidity_usd": 18682.016534027916,
     "source_listed_at": "2026-08-31T08:14:31",
     "peak_liquidity_usd": 18682.016534027916,
-    "last_checked_at": "2026-09-01T17:20:53.284341+00:00",
+    "last_checked_at": "2026-09-03T05:36:01.824795+00:00",
     "rug_flag": false
   },
   {
