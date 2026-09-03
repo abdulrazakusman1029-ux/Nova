@@ -2103,7 +2103,7 @@
     "liquidity_usd": 28196.076394741674,
     "source_listed_at": "2026-09-02T02:34:12",
     "peak_liquidity_usd": 28196.076394741674,
-    "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
+    "last_checked_at": "2026-09-03T18:24:48.335600+00:00",
     "rug_flag": false
   },
   {
@@ -2621,6 +2621,28 @@
     "source_listed_at": "2026-09-03T16:22:30",
     "peak_liquidity_usd": 76830.31723786583,
     "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T18:24:47.979914+00:00",
+    "address": "DS4uGGxy8fLrWs14i3Mn3EdqZEyLeyGzyGie6n4Apump",
+    "symbol": "Astra",
+    "name": "Astra",
+    "liquidity_usd": 6863.174110051066,
+    "source_listed_at": "2026-09-03T18:24:40",
+    "peak_liquidity_usd": 6863.174110051066,
+    "last_checked_at": "2026-09-03T18:24:48.335600+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T18:24:47.979931+00:00",
+    "address": "9VURxCz1LvoWEp8HJoto73sga3RStawojc6STUPCPFLp",
+    "symbol": "CUTE",
+    "name": "Very Cute Coin",
+    "liquidity_usd": 17812.282959582877,
+    "source_listed_at": "2026-09-03T18:24:26",
+    "peak_liquidity_usd": 17812.282959582877,
+    "last_checked_at": "2026-09-03T18:24:48.335600+00:00",
     "rug_flag": false
   }
 ]
