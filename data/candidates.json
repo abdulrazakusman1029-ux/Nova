@@ -1564,7 +1564,7 @@
     "liquidity_usd": 3.691751340622112e-07,
     "source_listed_at": "2026-08-31T03:14:38",
     "peak_liquidity_usd": 17293.954541806324,
-    "last_checked_at": "2026-09-01T12:27:22.250882+00:00",
+    "last_checked_at": "2026-09-03T00:32:15.081364+00:00",
     "rug_flag": true
   },
   {
@@ -1575,7 +1575,7 @@
     "liquidity_usd": 18436.00264088773,
     "source_listed_at": "2026-08-31T04:14:43",
     "peak_liquidity_usd": 18436.00264088773,
-    "last_checked_at": "2026-09-01T12:27:22.250882+00:00",
+    "last_checked_at": "2026-09-03T00:32:15.081364+00:00",
     "rug_flag": false
   },
   {
@@ -2423,6 +2423,17 @@
     "source_listed_at": "2026-09-02T23:18:27",
     "peak_liquidity_usd": 20012.211276573285,
     "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T00:32:14.577911+00:00",
+    "address": "6nz9c4EBjqCTeyQN2QsPBfrNyRATydCza3XKuYiRoAZt",
+    "symbol": "solcoon",
+    "name": "solcoon",
+    "liquidity_usd": 23853.645880420027,
+    "source_listed_at": "2026-09-03T00:31:34",
+    "peak_liquidity_usd": 23853.645880420027,
+    "last_checked_at": "2026-09-03T00:32:15.081364+00:00",
     "rug_flag": false
   }
 ]
