@@ -1605,10 +1605,10 @@
     "address": "2iqUThc8RjP1BMkqVM6wd76XnaDbuoiqVzintLGWq1ka",
     "symbol": "MACRODUCK",
     "name": "MACRODUCK",
-    "liquidity_usd": 0.0037443822009481415,
+    "liquidity_usd": 0.0050074063587193,
     "source_listed_at": "2026-08-31T07:14:42",
     "peak_liquidity_usd": 19624.612675226806,
-    "last_checked_at": "2026-09-01T16:41:13.896512+00:00",
+    "last_checked_at": "2026-09-03T04:12:30.151331+00:00",
     "rug_flag": true
   },
   {
@@ -2026,7 +2026,7 @@
     "liquidity_usd": 17903.887815509854,
     "source_listed_at": "2026-09-01T15:39:49",
     "peak_liquidity_usd": 17903.887815509854,
-    "last_checked_at": "2026-09-01T15:40:03.338286+00:00",
+    "last_checked_at": "2026-09-03T04:12:30.151331+00:00",
     "rug_flag": false
   },
   {
@@ -2434,6 +2434,17 @@
     "source_listed_at": "2026-09-03T00:31:34",
     "peak_liquidity_usd": 23853.645880420027,
     "last_checked_at": "2026-09-03T00:32:15.081364+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T04:12:29.480700+00:00",
+    "address": "9pedH5nHsCZC3kYYchJeqn8rKHVw2NTdM8d6zt7inWRe",
+    "symbol": "UNICORN",
+    "name": "UNICORN",
+    "liquidity_usd": 28733.241596240616,
+    "source_listed_at": "2026-09-03T04:12:06",
+    "peak_liquidity_usd": 28733.241596240616,
+    "last_checked_at": "2026-09-03T04:12:30.151331+00:00",
     "rug_flag": false
   }
 ]
