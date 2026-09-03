@@ -1795,7 +1795,7 @@
     "liquidity_usd": 16601.089231061793,
     "source_listed_at": "2026-08-31T20:14:53",
     "peak_liquidity_usd": 16601.089231061793,
-    "last_checked_at": "2026-09-02T04:23:19.877109+00:00",
+    "last_checked_at": "2026-09-03T19:18:33.665099+00:00",
     "rug_flag": false
   },
   {
@@ -2111,11 +2111,11 @@
     "address": "BuxA5e1h6iNnZj9KuZV4jvpbQ7SfGMhnjZgxZpTYpump",
     "symbol": "Pumpjak",
     "name": "Pump Wojak",
-    "liquidity_usd": 16140.599946852548,
+    "liquidity_usd": 2002.3786735148353,
     "source_listed_at": "2026-09-02T02:33:55",
     "peak_liquidity_usd": 16140.599946852548,
-    "last_checked_at": "2026-09-02T02:35:15.098563+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T19:18:33.665099+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T03:20:58.597079+00:00",
@@ -2125,7 +2125,7 @@
     "liquidity_usd": 16519.07799031216,
     "source_listed_at": "2026-09-02T03:20:24",
     "peak_liquidity_usd": 16519.07799031216,
-    "last_checked_at": "2026-09-02T03:20:58.959875+00:00",
+    "last_checked_at": "2026-09-03T19:18:33.665099+00:00",
     "rug_flag": false
   },
   {
