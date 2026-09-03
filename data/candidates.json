@@ -1682,11 +1682,11 @@
     "address": "8kRHAVubhhLmxGZdeCtsQdGjExFWLyTv4rxu7zkK5peh",
     "symbol": "RUNNER",
     "name": "Fuck You Runner",
-    "liquidity_usd": 24428.084516742565,
+    "liquidity_usd": 5.535691223166236e-05,
     "source_listed_at": "2026-08-31T09:14:15",
     "peak_liquidity_usd": 24428.084516742565,
-    "last_checked_at": "2026-09-01T18:23:50.911700+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T08:23:53.656064+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-08-31T09:15:04.954026+00:00",
@@ -1696,7 +1696,7 @@
     "liquidity_usd": 80499.4047792223,
     "source_listed_at": "2026-08-31T09:14:00",
     "peak_liquidity_usd": 80499.4047792223,
-    "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
+    "last_checked_at": "2026-09-03T08:23:53.656064+00:00",
     "rug_flag": false
   },
   {
@@ -2056,11 +2056,11 @@
     "address": "HXw8E1VG9buFMAwHY1LotK7R47bj3hNUUCKNEVaVV7MZ",
     "symbol": "Shrek",
     "name": "Shrek",
-    "liquidity_usd": 15421.288311038732,
+    "liquidity_usd": 3.131714506839376e-07,
     "source_listed_at": "2026-09-01T20:20:50",
     "peak_liquidity_usd": 15421.288311038732,
-    "last_checked_at": "2026-09-01T20:21:04.707069+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T08:23:53.656064+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-01T23:17:42.099509+00:00",
