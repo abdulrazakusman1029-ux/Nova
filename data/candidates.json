@@ -2166,11 +2166,11 @@
     "address": "4dWUF28qx2E1KRikkkgog2NphWeit1JtDbTGbmPwpump",
     "symbol": "Pumpcat",
     "name": "Pump Cat",
-    "liquidity_usd": 10737.099090526097,
+    "liquidity_usd": 81.6254877362472,
     "source_listed_at": "2026-09-02T06:31:05",
     "peak_liquidity_usd": 10737.099090526097,
-    "last_checked_at": "2026-09-02T06:31:33.261108+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T21:20:29.323039+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T06:31:32.888996+00:00",
@@ -2180,7 +2180,7 @@
     "liquidity_usd": 23641.173418377224,
     "source_listed_at": "2026-09-02T06:30:53",
     "peak_liquidity_usd": 23641.173418377224,
-    "last_checked_at": "2026-09-02T06:31:33.261108+00:00",
+    "last_checked_at": "2026-09-03T21:20:29.323039+00:00",
     "rug_flag": false
   },
   {
@@ -2188,11 +2188,11 @@
     "address": "ALMwmEpxeutV8tKQDPYD6vEoL36HbrMBFCANPbPrV2ip",
     "symbol": "Bros",
     "name": "Bros",
-    "liquidity_usd": 34101.62428485356,
+    "liquidity_usd": 3.606629905387575e-07,
     "source_listed_at": "2026-09-02T06:30:46",
     "peak_liquidity_usd": 34101.62428485356,
-    "last_checked_at": "2026-09-02T06:31:33.261108+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-03T21:20:29.323039+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T07:21:35.461384+00:00",
