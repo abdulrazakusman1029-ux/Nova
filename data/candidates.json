@@ -2070,7 +2070,7 @@
     "liquidity_usd": 17338.01798614182,
     "source_listed_at": "2026-09-01T23:17:21",
     "peak_liquidity_usd": 17338.01798614182,
-    "last_checked_at": "2026-09-01T23:17:42.418485+00:00",
+    "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
     "rug_flag": false
   },
   {
@@ -2555,6 +2555,28 @@
     "source_listed_at": "2026-09-03T12:27:25",
     "peak_liquidity_usd": 10790.34930368059,
     "last_checked_at": "2026-09-03T12:28:07.958095+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T13:22:38.497982+00:00",
+    "address": "AhiGQpTS2ykeVT5STJzdQjHT5s49sbyunsPGpg4vGYVm",
+    "symbol": "WIF",
+    "name": "catwifbirkin",
+    "liquidity_usd": 17303.528076838207,
+    "source_listed_at": "2026-09-03T13:22:16",
+    "peak_liquidity_usd": 17303.528076838207,
+    "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-03T13:22:38.498005+00:00",
+    "address": "2o2kWmEYc35yFQACQkDqdFDnCxFk4nWcJon6bStnqRRd",
+    "symbol": "ICM",
+    "name": "Internet Callout Money",
+    "liquidity_usd": 17633.62667424287,
+    "source_listed_at": "2026-09-03T13:21:50",
+    "peak_liquidity_usd": 17633.62667424287,
+    "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
     "rug_flag": false
   }
 ]
