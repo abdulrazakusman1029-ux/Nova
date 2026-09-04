@@ -1960,7 +1960,7 @@
     "liquidity_usd": 61761.95188333158,
     "source_listed_at": "2026-09-01T07:20:58",
     "peak_liquidity_usd": 61761.95188333158,
-    "last_checked_at": "2026-09-02T14:21:54.056541+00:00",
+    "last_checked_at": "2026-09-04T07:21:23.767780+00:00",
     "rug_flag": false
   },
   {
@@ -2254,11 +2254,11 @@
     "address": "E8yg5UXHLACcG5vTn8ZGTEAMMMsWFcUwBRcZT7jApump",
     "symbol": "TrumpCoin",
     "name": "Trump Coin",
-    "liquidity_usd": 10509.77470720838,
+    "liquidity_usd": 38.894913905514734,
     "source_listed_at": "2026-09-02T13:22:31",
     "peak_liquidity_usd": 10509.77470720838,
-    "last_checked_at": "2026-09-02T13:22:36.774425+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-04T07:21:23.767780+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T14:21:53.535762+00:00",
@@ -2268,7 +2268,7 @@
     "liquidity_usd": 27972.176425746828,
     "source_listed_at": "2026-09-02T14:21:42",
     "peak_liquidity_usd": 27972.176425746828,
-    "last_checked_at": "2026-09-02T14:21:54.056541+00:00",
+    "last_checked_at": "2026-09-04T07:21:23.767780+00:00",
     "rug_flag": false
   },
   {
