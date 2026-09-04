@@ -2433,7 +2433,7 @@
     "liquidity_usd": 23853.645880420027,
     "source_listed_at": "2026-09-03T00:31:34",
     "peak_liquidity_usd": 23853.645880420027,
-    "last_checked_at": "2026-09-03T00:32:15.081364+00:00",
+    "last_checked_at": "2026-09-04T23:18:31.472873+00:00",
     "rug_flag": false
   },
   {
@@ -2797,6 +2797,28 @@
     "source_listed_at": "2026-09-04T22:19:49",
     "peak_liquidity_usd": 18250.46516993861,
     "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T23:18:30.945557+00:00",
+    "address": "3LnJJ2WKRAGaAwSeEnTfBvW7ksZ5wt41XXYAe183pump",
+    "symbol": "STONKS",
+    "name": "meme is called STONKS",
+    "liquidity_usd": 68277.49935841272,
+    "source_listed_at": "2026-09-04T23:18:14",
+    "peak_liquidity_usd": 68277.49935841272,
+    "last_checked_at": "2026-09-04T23:18:31.472873+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T23:18:30.945575+00:00",
+    "address": "5q1wssNzkN4WEUZWqQaaCbk74CP6Dfc4gQfZZSJwpump",
+    "symbol": "STONKS",
+    "name": "meme is called STONKS",
+    "liquidity_usd": 68277.49935841272,
+    "source_listed_at": "2026-09-04T23:18:14",
+    "peak_liquidity_usd": 68277.49935841272,
+    "last_checked_at": "2026-09-04T23:18:31.472873+00:00",
     "rug_flag": false
   }
 ]
