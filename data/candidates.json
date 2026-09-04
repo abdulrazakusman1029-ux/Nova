@@ -2422,7 +2422,7 @@
     "liquidity_usd": 20012.211276573285,
     "source_listed_at": "2026-09-02T23:18:27",
     "peak_liquidity_usd": 20012.211276573285,
-    "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
+    "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
     "rug_flag": false
   },
   {
@@ -2775,6 +2775,28 @@
     "source_listed_at": "2026-09-04T21:19:31",
     "peak_liquidity_usd": 68766.69363569262,
     "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T22:19:58.191559+00:00",
+    "address": "6Asecdtmzp6S8prsztVvvGqyr8E7oLfiN3V2KASqoieo",
+    "symbol": "WILD",
+    "name": "National Wildlife Day",
+    "liquidity_usd": 17844.541521549374,
+    "source_listed_at": "2026-09-04T22:19:53",
+    "peak_liquidity_usd": 17844.541521549374,
+    "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T22:19:58.191579+00:00",
+    "address": "GLtJVfX9JtrLhBuAf6sD2Wqi6JsU5EkG8S2uoMbuQzNf",
+    "symbol": "\u5b59\u5c0f\u5723",
+    "name": "\u5b59\u5c0f\u5723",
+    "liquidity_usd": 18250.46516993861,
+    "source_listed_at": "2026-09-04T22:19:49",
+    "peak_liquidity_usd": 18250.46516993861,
+    "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
     "rug_flag": false
   }
 ]
