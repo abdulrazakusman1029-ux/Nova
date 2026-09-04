@@ -2655,5 +2655,38 @@
     "peak_liquidity_usd": 11289.887668275016,
     "last_checked_at": "2026-09-03T22:21:02.842260+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T10:22:06.690805+00:00",
+    "address": "FByVVwC9pS58SntkTGy93RfrUP61NwtPwMWHMEakpump",
+    "symbol": "Gashidujji",
+    "name": "The Nietzschean Chud",
+    "liquidity_usd": 70029.47201259038,
+    "source_listed_at": "2026-09-04T10:22:03",
+    "peak_liquidity_usd": 70029.47201259038,
+    "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T10:22:06.690827+00:00",
+    "address": "9m53B3kz7jw4736jQkBesot4toSAQXxGKYyMMTW7pump",
+    "symbol": "Gashidujji",
+    "name": "The Nietzschean Chud",
+    "liquidity_usd": 70029.85538955382,
+    "source_listed_at": "2026-09-04T10:21:59",
+    "peak_liquidity_usd": 70029.85538955382,
+    "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T10:22:06.690835+00:00",
+    "address": "DndcaQjztFecnxwg1aRUwmMbFSHVZ1LCyAhZhzufpump",
+    "symbol": "Gashidujji",
+    "name": "memeable af",
+    "liquidity_usd": 70028.24243804552,
+    "source_listed_at": "2026-09-04T10:21:33",
+    "peak_liquidity_usd": 70028.24243804552,
+    "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "rug_flag": false
   }
 ]
