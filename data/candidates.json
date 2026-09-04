@@ -2411,7 +2411,7 @@
     "liquidity_usd": 28214.45629535748,
     "source_listed_at": "2026-09-02T23:18:29",
     "peak_liquidity_usd": 28214.45629535748,
-    "last_checked_at": "2026-09-02T23:19:20.009624+00:00",
+    "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
     "rug_flag": false
   },
   {
@@ -2753,6 +2753,28 @@
     "source_listed_at": "2026-09-04T20:20:25",
     "peak_liquidity_usd": 17684.540148029773,
     "last_checked_at": "2026-09-04T20:20:51.821188+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T21:20:00.845314+00:00",
+    "address": "7dKsnWNFuC86jMAYeAVh65UFDs6PSCwHrHy6Cjbbh63A",
+    "symbol": "\u5973\u53cb\u666f\u751c",
+    "name": "\u6211\u7684\u5973\u53cb\u666f\u751c",
+    "liquidity_usd": 17357.17992030493,
+    "source_listed_at": "2026-09-04T21:19:43",
+    "peak_liquidity_usd": 17357.17992030493,
+    "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T21:20:00.845334+00:00",
+    "address": "BFNN13mYz6rqLD4xZ9xGqAL4xXXyj1wv8Fej5y4kpump",
+    "symbol": "Lion",
+    "name": "DEV SUPPLY LOCKED",
+    "liquidity_usd": 68766.69363569262,
+    "source_listed_at": "2026-09-04T21:19:31",
+    "peak_liquidity_usd": 68766.69363569262,
+    "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
     "rug_flag": false
   }
 ]
