@@ -2312,7 +2312,7 @@
     "liquidity_usd": 14995.142069102083,
     "source_listed_at": "2026-09-02T19:19:28",
     "peak_liquidity_usd": 14995.142069102083,
-    "last_checked_at": "2026-09-02T19:19:36.278567+00:00",
+    "last_checked_at": "2026-09-04T15:22:20.802052+00:00",
     "rug_flag": false
   },
   {
@@ -2687,6 +2687,28 @@
     "source_listed_at": "2026-09-04T10:21:33",
     "peak_liquidity_usd": 70028.24243804552,
     "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T15:22:20.263879+00:00",
+    "address": "5hJ7oHJhZ6BKjHPWVCAgSPi2fZgquDwwJjXzUF1ii7q1",
+    "symbol": "LOKY",
+    "name": "LOKY",
+    "liquidity_usd": 9926.16733274468,
+    "source_listed_at": "2026-09-04T15:22:05",
+    "peak_liquidity_usd": 9926.16733274468,
+    "last_checked_at": "2026-09-04T15:22:20.802052+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-04T15:22:20.263896+00:00",
+    "address": "8u8qnz5zSXMiG2FMvf9KoCmNTrCQSPJ9ewhUGRJXjKMo",
+    "symbol": "AEON",
+    "name": "The Bitcoin Agent",
+    "liquidity_usd": 18771.363190663218,
+    "source_listed_at": "2026-09-04T15:21:55",
+    "peak_liquidity_usd": 18771.363190663218,
+    "last_checked_at": "2026-09-04T15:22:20.802052+00:00",
     "rug_flag": false
   }
 ]
