@@ -2276,11 +2276,11 @@
     "address": "DVdfp6HR951iqx9tXcQMxj2kZTp1QWENBiP2GcCfg7h6",
     "symbol": "SOLCAT",
     "name": "Solcat",
-    "liquidity_usd": 16946.588756551875,
+    "liquidity_usd": 3.505275406245118e-07,
     "source_listed_at": "2026-09-02T16:23:17",
     "peak_liquidity_usd": 16946.588756551875,
-    "last_checked_at": "2026-09-02T16:23:38.224477+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-04T14:21:05.435522+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-02T16:23:37.768053+00:00",
@@ -2290,7 +2290,7 @@
     "liquidity_usd": 17049.334264488247,
     "source_listed_at": "2026-09-02T16:23:10",
     "peak_liquidity_usd": 17049.334264488247,
-    "last_checked_at": "2026-09-02T16:23:38.224477+00:00",
+    "last_checked_at": "2026-09-04T14:21:05.435522+00:00",
     "rug_flag": false
   },
   {
@@ -2301,7 +2301,7 @@
     "liquidity_usd": 8380.695907340474,
     "source_listed_at": "2026-09-02T18:25:00",
     "peak_liquidity_usd": 8380.695907340474,
-    "last_checked_at": "2026-09-02T18:25:03.988589+00:00",
+    "last_checked_at": "2026-09-04T14:21:05.435522+00:00",
     "rug_flag": false
   },
   {
