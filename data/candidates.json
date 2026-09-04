@@ -2345,7 +2345,7 @@
     "liquidity_usd": 18971.517353915286,
     "source_listed_at": "2026-09-02T21:19:46",
     "peak_liquidity_usd": 18971.517353915286,
-    "last_checked_at": "2026-09-02T22:20:54.153401+00:00",
+    "last_checked_at": "2026-09-04T18:22:22.578553+00:00",
     "rug_flag": false
   },
   {
@@ -2375,10 +2375,10 @@
     "address": "GUf6TfpWXc7uyP8DhYMUyeZSh8tLtHRU4XxfqKsvoswq",
     "symbol": "COGBULL2",
     "name": "Cogfield Bull 2",
-    "liquidity_usd": 9989.402213272106,
+    "liquidity_usd": 23077.078337309253,
     "source_listed_at": "2026-09-02T21:19:29",
-    "peak_liquidity_usd": 9989.402213272106,
-    "last_checked_at": "2026-09-02T21:19:56.501360+00:00",
+    "peak_liquidity_usd": 23077.078337309253,
+    "last_checked_at": "2026-09-04T18:22:22.578553+00:00",
     "rug_flag": false
   },
   {
@@ -2389,7 +2389,7 @@
     "liquidity_usd": 17298.92600837568,
     "source_listed_at": "2026-09-02T22:20:37",
     "peak_liquidity_usd": 17298.92600837568,
-    "last_checked_at": "2026-09-02T22:20:54.153401+00:00",
+    "last_checked_at": "2026-09-04T18:22:22.578553+00:00",
     "rug_flag": false
   },
   {
