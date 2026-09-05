@@ -2985,5 +2985,38 @@
     "peak_liquidity_usd": 24346.326686239543,
     "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T08:21:15.551591+00:00",
+    "address": "379Ho9FjMXjhuB8HnHA4mCesuVty7TeXhij7wdAG7a8w",
+    "symbol": "ARC",
+    "name": "Arc Finance",
+    "liquidity_usd": 17352.17526514827,
+    "source_listed_at": "2026-09-05T08:20:26",
+    "peak_liquidity_usd": 17352.17526514827,
+    "last_checked_at": "2026-09-05T08:21:15.941201+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T08:21:15.551616+00:00",
+    "address": "BX8gG53Vn7qyzTBcmviZRjoDYTRebyeoL1L2vLkZVFa9",
+    "symbol": "WDEG",
+    "name": "Where Did Everyone Go?",
+    "liquidity_usd": 30748.574499526767,
+    "source_listed_at": "2026-09-05T08:19:42",
+    "peak_liquidity_usd": 30748.574499526767,
+    "last_checked_at": "2026-09-05T08:21:15.941201+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T08:21:15.551621+00:00",
+    "address": "HTrJGgtaqQY4CBmmWn3BrCQ7X1FEjpDPv487VgZW7dk3",
+    "symbol": "Redbull",
+    "name": "RedBull official",
+    "liquidity_usd": 28633.38835769295,
+    "source_listed_at": "2026-09-05T08:19:08",
+    "peak_liquidity_usd": 28633.38835769295,
+    "last_checked_at": "2026-09-05T08:21:15.941201+00:00",
+    "rug_flag": false
   }
 ]
