@@ -2477,7 +2477,7 @@
     "liquidity_usd": 17074.89282508846,
     "source_listed_at": "2026-09-03T09:22:23",
     "peak_liquidity_usd": 17074.89282508846,
-    "last_checked_at": "2026-09-03T09:22:45.761713+00:00",
+    "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
     "rug_flag": false
   },
   {
@@ -2918,6 +2918,28 @@
     "source_listed_at": "2026-09-05T05:17:56",
     "peak_liquidity_usd": 17315.408199724574,
     "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T06:24:26.961217+00:00",
+    "address": "3jzAdyWVJfkcQ5FoMVF9EczhoQeB29cJNk9LLfZ4YYN6",
+    "symbol": "IBRL",
+    "name": "I'll Be Rich Later",
+    "liquidity_usd": 17665.559517972906,
+    "source_listed_at": "2026-09-05T06:22:59",
+    "peak_liquidity_usd": 17665.559517972906,
+    "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T06:24:26.961237+00:00",
+    "address": "F8gVNVkUM8cwU5mDxPhgVF1mxY4GEgxtNwpiJ9ttV3ug",
+    "symbol": "IBRL",
+    "name": "I'll Be Rich Later",
+    "liquidity_usd": 17342.4592384898,
+    "source_listed_at": "2026-09-05T06:22:57",
+    "peak_liquidity_usd": 17342.4592384898,
+    "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
     "rug_flag": false
   }
 ]
