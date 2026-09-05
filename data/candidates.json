@@ -2444,7 +2444,7 @@
     "liquidity_usd": 28733.241596240616,
     "source_listed_at": "2026-09-03T04:12:06",
     "peak_liquidity_usd": 28733.241596240616,
-    "last_checked_at": "2026-09-03T04:12:30.151331+00:00",
+    "last_checked_at": "2026-09-05T01:19:18.245869+00:00",
     "rug_flag": false
   },
   {
@@ -2455,7 +2455,7 @@
     "liquidity_usd": 17209.414943219672,
     "source_listed_at": "2026-09-03T06:27:04",
     "peak_liquidity_usd": 17209.414943219672,
-    "last_checked_at": "2026-09-03T06:28:00.462341+00:00",
+    "last_checked_at": "2026-09-05T01:19:18.245869+00:00",
     "rug_flag": false
   },
   {
@@ -2819,6 +2819,17 @@
     "source_listed_at": "2026-09-04T23:18:14",
     "peak_liquidity_usd": 68277.49935841272,
     "last_checked_at": "2026-09-04T23:18:31.472873+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T01:19:17.773092+00:00",
+    "address": "Cv3TzWa7XnDb4tH8nnZUKAAN315Byx9hxCgbviawqNvX",
+    "symbol": "memestock",
+    "name": "memestock",
+    "liquidity_usd": 17721.030849754992,
+    "source_listed_at": "2026-09-05T01:17:57",
+    "peak_liquidity_usd": 17721.030849754992,
+    "last_checked_at": "2026-09-05T01:19:18.245869+00:00",
     "rug_flag": false
   }
 ]
