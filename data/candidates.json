@@ -2576,7 +2576,7 @@
     "liquidity_usd": 17633.62667424287,
     "source_listed_at": "2026-09-03T13:21:50",
     "peak_liquidity_usd": 17633.62667424287,
-    "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
+    "last_checked_at": "2026-09-05T20:20:40.277763+00:00",
     "rug_flag": false
   },
   {
@@ -2595,11 +2595,11 @@
     "address": "C7Zrd9HVJQGinUtoyvH3EZTMEpuW3bRoD2yZg2gfpump",
     "symbol": "ZECAT",
     "name": "READ TWEET, 8M on zcash launchpa",
-    "liquidity_usd": 76830.31723786583,
+    "liquidity_usd": 0.20054617845744996,
     "source_listed_at": "2026-09-03T16:22:30",
     "peak_liquidity_usd": 76830.31723786583,
-    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-05T20:20:40.277763+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-03T16:22:39.188640+00:00",
@@ -3123,11 +3123,11 @@
     "address": "L4PdRQuoxdBZviQo9EshoFpFebZ7mRMhJUCK3P6pump",
     "symbol": "TRUMPCARD",
     "name": "Trump Gold Card",
-    "liquidity_usd": 11178.535579781808,
+    "liquidity_usd": 42.13872223582346,
     "source_listed_at": "2026-09-05T18:22:16",
     "peak_liquidity_usd": 11178.535579781808,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-05T20:20:40.277763+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-05T18:22:19.175873+00:00",
