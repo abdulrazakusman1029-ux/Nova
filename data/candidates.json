@@ -3117,5 +3117,71 @@
     "peak_liquidity_usd": 17614.116820145082,
     "last_checked_at": "2026-09-05T17:18:37.597097+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175851+00:00",
+    "address": "L4PdRQuoxdBZviQo9EshoFpFebZ7mRMhJUCK3P6pump",
+    "symbol": "TRUMPCARD",
+    "name": "Trump Gold Card",
+    "liquidity_usd": 11178.535579781808,
+    "source_listed_at": "2026-09-05T18:22:16",
+    "peak_liquidity_usd": 11178.535579781808,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175873+00:00",
+    "address": "AiNjU3V9YmhyUd82xpT1LZCNwnPcVQkg8y7nv2r4pA81",
+    "symbol": "BRO",
+    "name": "i got you bro",
+    "liquidity_usd": 18108.308259690766,
+    "source_listed_at": "2026-09-05T18:21:54",
+    "peak_liquidity_usd": 18108.308259690766,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175879+00:00",
+    "address": "5skP6zFpkdnXE3U3fE4JDWQ2assc2YMGF1duEoohyVHK",
+    "symbol": "\u7279\u65af\u62c9",
+    "name": "\u7279\u65af\u62c9",
+    "liquidity_usd": 20843.481513445717,
+    "source_listed_at": "2026-09-05T18:21:35",
+    "peak_liquidity_usd": 20843.481513445717,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175884+00:00",
+    "address": "Aj2bwLuHuUrkPZ9q9ejP3YQYVTuyEZhSgaercVvQoE6z",
+    "symbol": "Pointless",
+    "name": "Pointless",
+    "liquidity_usd": 19718.116301517108,
+    "source_listed_at": "2026-09-05T18:21:24",
+    "peak_liquidity_usd": 19718.116301517108,
+    "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175890+00:00",
+    "address": "4SVHS2QCQ371mYaUHtjQkjm3UQyTmB5QJtfKrmHguirZ",
+    "symbol": "BRO",
+    "name": "i got you bro",
+    "liquidity_usd": 17636.039066652484,
+    "source_listed_at": "2026-09-05T18:21:22",
+    "peak_liquidity_usd": 17636.039066652484,
+    "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T18:22:19.175900+00:00",
+    "address": "9X4h2WHteRyJpWVgw7Zz6PrDyY2eRp8TKDmjLk2KL4P9",
+    "symbol": "BRO",
+    "name": "i got you bro",
+    "liquidity_usd": 17941.526407439076,
+    "source_listed_at": "2026-09-05T18:21:20",
+    "peak_liquidity_usd": 17941.526407439076,
+    "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
+    "rug_flag": false
   }
 ]
