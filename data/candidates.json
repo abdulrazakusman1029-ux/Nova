@@ -3018,5 +3018,49 @@
     "peak_liquidity_usd": 28633.38835769295,
     "last_checked_at": "2026-09-05T08:21:15.941201+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T10:19:29.794633+00:00",
+    "address": "493xqs8wbJamkEfWir9v81qs7QnmH2EB1C9oixMxpump",
+    "symbol": "GENNY!",
+    "name": "EX BINANCE EMPLOYEE ON PUMPFUN ",
+    "liquidity_usd": 69003.30660635568,
+    "source_listed_at": "2026-09-05T10:19:03",
+    "peak_liquidity_usd": 69003.30660635568,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T10:19:29.794653+00:00",
+    "address": "CkvgAgNcixNBNrNyYbjdusJRJezyW3fP26z9WopKpump",
+    "symbol": "GENNY!",
+    "name": "EX BINANCE EMPLOYEE ON PUMPFUN ",
+    "liquidity_usd": 69022.4532048336,
+    "source_listed_at": "2026-09-05T10:19:02",
+    "peak_liquidity_usd": 69022.4532048336,
+    "last_checked_at": "2026-09-05T10:19:30.309532+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T10:19:29.794658+00:00",
+    "address": "hJwCPv8bf6jjchjGKMpAd2qz3BdffHb2HWrKnEnpump",
+    "symbol": "GENNY!",
+    "name": "EX BINANCE EMPLOYEE ON PUMPFUN ",
+    "liquidity_usd": 69022.4532048336,
+    "source_listed_at": "2026-09-05T10:19:02",
+    "peak_liquidity_usd": 69022.4532048336,
+    "last_checked_at": "2026-09-05T10:19:30.309532+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T10:19:29.794665+00:00",
+    "address": "Uxujsivo4znqBcgifzyxfPrdYPHTK1AfhTDdpgqpump",
+    "symbol": "WOFI",
+    "name": "World Oil Trust Fund",
+    "liquidity_usd": 313788.18641990476,
+    "source_listed_at": "2026-09-05T10:18:41",
+    "peak_liquidity_usd": 313788.18641990476,
+    "last_checked_at": "2026-09-05T10:19:30.309532+00:00",
+    "rug_flag": false
   }
 ]
