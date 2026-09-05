@@ -2831,5 +2831,38 @@
     "peak_liquidity_usd": 17721.030849754992,
     "last_checked_at": "2026-09-05T01:19:18.245869+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T02:20:30.444558+00:00",
+    "address": "9GW4GdGH1xoHRctM7nh2axmYxugofe5SvPjqsYM3MKFb",
+    "symbol": "PUMP",
+    "name": "I will pump it so hard",
+    "liquidity_usd": 17684.328285346386,
+    "source_listed_at": "2026-09-05T02:20:15",
+    "peak_liquidity_usd": 17684.328285346386,
+    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T02:20:30.444578+00:00",
+    "address": "2hWKQaw3H1CNwHiqdRe7zQLHiGagmR9XJjCuLA7cir86",
+    "symbol": "RF",
+    "name": "Republic Fund",
+    "liquidity_usd": 18181.97298418868,
+    "source_listed_at": "2026-09-05T02:19:56",
+    "peak_liquidity_usd": 18181.97298418868,
+    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T02:20:30.444586+00:00",
+    "address": "CD7rYMmFpzCRF4qmAfTeNYYMLQPuSx82JMXkLc2no11a",
+    "symbol": "ETF",
+    "name": "Exponential Trust Fund",
+    "liquidity_usd": 17508.59554822092,
+    "source_listed_at": "2026-09-05T02:19:36",
+    "peak_liquidity_usd": 17508.59554822092,
+    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "rug_flag": false
   }
 ]
