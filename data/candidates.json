@@ -2886,5 +2886,38 @@
     "peak_liquidity_usd": 57989.73566442486,
     "last_checked_at": "2026-09-05T03:20:45.497438+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T05:19:23.520256+00:00",
+    "address": "5mm8Qn5HCDaobBEKG2tgGdf4wBvKxepkKfyf3xFjpump",
+    "symbol": "1",
+    "name": "1",
+    "liquidity_usd": 5840.06704503642,
+    "source_listed_at": "2026-09-05T05:19:21",
+    "peak_liquidity_usd": 5840.06704503642,
+    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T05:19:23.520274+00:00",
+    "address": "DMCHuyTLmThS8yTh1uvQ5G2aiQmYR14yuaXdWmmhpump",
+    "symbol": "Venshi",
+    "name": "VENEZUELA POWER SHIELD",
+    "liquidity_usd": 75655.70802523263,
+    "source_listed_at": "2026-09-05T05:18:23",
+    "peak_liquidity_usd": 75655.70802523263,
+    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T05:19:23.520278+00:00",
+    "address": "42QV8fQjuhtrdMXTqW79rK1ZGbtSaTC92B3DDpW1jWd4",
+    "symbol": "ANSEM",
+    "name": "The Black Bull\u2060",
+    "liquidity_usd": 17315.408199724574,
+    "source_listed_at": "2026-09-05T05:17:56",
+    "peak_liquidity_usd": 17315.408199724574,
+    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "rug_flag": false
   }
 ]
