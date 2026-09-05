@@ -3203,7 +3203,7 @@
     "liquidity_usd": 69716.34008783022,
     "source_listed_at": "2026-09-05T21:18:16",
     "peak_liquidity_usd": 69716.34008783022,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
     "rug_flag": false
   },
   {
@@ -3237,6 +3237,28 @@
     "source_listed_at": "2026-09-05T21:17:45",
     "peak_liquidity_usd": 17591.36664900848,
     "last_checked_at": "2026-09-05T21:18:46.461658+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T22:19:23.110849+00:00",
+    "address": "N8ovoWgxwz6sDfRJ3awUvzUVinNA9bfmj6NvvjDK3fo",
+    "symbol": "OTC",
+    "name": "OTC",
+    "liquidity_usd": 18371.53082514787,
+    "source_listed_at": "2026-09-05T22:19:02",
+    "peak_liquidity_usd": 18371.53082514787,
+    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T22:19:23.110869+00:00",
+    "address": "LtgxLWfiMLfjQt71mrz9SXMJ3aPTdLYGXjGeLnGQTvt",
+    "symbol": "BILLGATES",
+    "name": "Bill Gates",
+    "liquidity_usd": 18594.047910949674,
+    "source_listed_at": "2026-09-05T22:18:59",
+    "peak_liquidity_usd": 18594.047910949674,
+    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
     "rug_flag": false
   }
 ]
