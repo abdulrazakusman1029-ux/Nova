@@ -3137,7 +3137,7 @@
     "liquidity_usd": 18108.308259690766,
     "source_listed_at": "2026-09-05T18:21:54",
     "peak_liquidity_usd": 18108.308259690766,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
     "rug_flag": false
   },
   {
@@ -3148,7 +3148,7 @@
     "liquidity_usd": 20843.481513445717,
     "source_listed_at": "2026-09-05T18:21:35",
     "peak_liquidity_usd": 20843.481513445717,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
     "rug_flag": false
   },
   {
@@ -3182,6 +3182,17 @@
     "source_listed_at": "2026-09-05T18:21:20",
     "peak_liquidity_usd": 17941.526407439076,
     "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T19:18:32.030181+00:00",
+    "address": "9bqgUSCWbNgvvihumAJBxpmbGnzb92tYUwHMJJPLUMP8",
+    "symbol": "TOLY",
+    "name": "Toly The Trencher",
+    "liquidity_usd": 18726.426992499342,
+    "source_listed_at": "2026-09-05T19:18:22",
+    "peak_liquidity_usd": 18726.426992499342,
+    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
     "rug_flag": false
   }
 ]
