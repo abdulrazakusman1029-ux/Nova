@@ -2941,5 +2941,49 @@
     "peak_liquidity_usd": 17342.4592384898,
     "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T07:19:21.278744+00:00",
+    "address": "Hqrqw5BgwyBTZX9R9i6LFrKJpHANGDm4XktXNasapump",
+    "symbol": "GTA 6 Coin",
+    "name": "GTA6",
+    "liquidity_usd": 11002.828287254208,
+    "source_listed_at": "2026-09-05T07:18:50",
+    "peak_liquidity_usd": 11002.828287254208,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T07:19:21.278768+00:00",
+    "address": "EgM3o5wupYKnmucNdMqryiYggrh4363mWRcZTP87G1Uk",
+    "symbol": "SEX",
+    "name": "Have Sex",
+    "liquidity_usd": 17361.19372186068,
+    "source_listed_at": "2026-09-05T07:18:14",
+    "peak_liquidity_usd": 17361.19372186068,
+    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T07:19:21.278774+00:00",
+    "address": "fSDKAEniyqsPDoHLvXHjRKsh5MtJXgCTN86PTMbpump",
+    "symbol": "LQX",
+    "name": "LiquidX",
+    "liquidity_usd": 11002.06816393257,
+    "source_listed_at": "2026-09-05T07:18:11",
+    "peak_liquidity_usd": 11002.06816393257,
+    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T07:19:21.278785+00:00",
+    "address": "CBNj4tFtMapsn1SQCRYp3Qxa1H7gLSxXTTnurNxjBEzZ",
+    "symbol": "TSLA AI",
+    "name": "Tesla",
+    "liquidity_usd": 24346.326686239543,
+    "source_listed_at": "2026-09-05T07:18:02",
+    "peak_liquidity_usd": 24346.326686239543,
+    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "rug_flag": false
   }
 ]
