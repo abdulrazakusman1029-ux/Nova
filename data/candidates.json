@@ -2488,7 +2488,7 @@
     "liquidity_usd": 22051.21602554269,
     "source_listed_at": "2026-09-03T10:22:34",
     "peak_liquidity_usd": 22051.21602554269,
-    "last_checked_at": "2026-09-03T10:22:38.451673+00:00",
+    "last_checked_at": "2026-09-05T09:19:44.125215+00:00",
     "rug_flag": false
   },
   {
@@ -2499,7 +2499,7 @@
     "liquidity_usd": 10696.21980375191,
     "source_listed_at": "2026-09-03T10:22:09",
     "peak_liquidity_usd": 10696.21980375191,
-    "last_checked_at": "2026-09-03T10:22:38.451673+00:00",
+    "last_checked_at": "2026-09-05T09:19:44.125215+00:00",
     "rug_flag": false
   },
   {
@@ -2947,11 +2947,11 @@
     "address": "Hqrqw5BgwyBTZX9R9i6LFrKJpHANGDm4XktXNasapump",
     "symbol": "GTA 6 Coin",
     "name": "GTA6",
-    "liquidity_usd": 11002.828287254208,
+    "liquidity_usd": 43.62036229742082,
     "source_listed_at": "2026-09-05T07:18:50",
     "peak_liquidity_usd": 11002.828287254208,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-05T09:19:44.125215+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-05T07:19:21.278768+00:00",
