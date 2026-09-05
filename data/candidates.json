@@ -2554,7 +2554,7 @@
     "liquidity_usd": 10790.34930368059,
     "source_listed_at": "2026-09-03T12:27:25",
     "peak_liquidity_usd": 10790.34930368059,
-    "last_checked_at": "2026-09-03T12:28:07.958095+00:00",
+    "last_checked_at": "2026-09-05T17:18:37.597097+00:00",
     "rug_flag": false
   },
   {
@@ -2565,7 +2565,7 @@
     "liquidity_usd": 17303.528076838207,
     "source_listed_at": "2026-09-03T13:22:16",
     "peak_liquidity_usd": 17303.528076838207,
-    "last_checked_at": "2026-09-03T13:22:38.838013+00:00",
+    "last_checked_at": "2026-09-05T17:18:37.597097+00:00",
     "rug_flag": false
   },
   {
@@ -3105,6 +3105,17 @@
     "source_listed_at": "2026-09-05T14:19:26",
     "peak_liquidity_usd": 69260.20615816687,
     "last_checked_at": "2026-09-05T14:19:32.037290+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T17:18:37.190977+00:00",
+    "address": "HKSsRAzsihV4ychDLYwKvkuojyhU8YzY8hvJXzqStLWF",
+    "symbol": "Ponsan",
+    "name": "Ponsancoin",
+    "liquidity_usd": 17614.116820145082,
+    "source_listed_at": "2026-09-05T17:17:53",
+    "peak_liquidity_usd": 17614.116820145082,
+    "last_checked_at": "2026-09-05T17:18:37.597097+00:00",
     "rug_flag": false
   }
 ]
