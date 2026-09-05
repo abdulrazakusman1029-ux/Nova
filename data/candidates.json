@@ -3062,5 +3062,38 @@
     "peak_liquidity_usd": 313788.18641990476,
     "last_checked_at": "2026-09-05T10:19:30.309532+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T12:24:42.440964+00:00",
+    "address": "5joPUAm96Kgp4A6GHEsLASVqTApdFaXgaUh2go77cExe",
+    "symbol": "YOMOGI",
+    "name": "Yomogicoin",
+    "liquidity_usd": 17402.10739251074,
+    "source_listed_at": "2026-09-05T12:24:36",
+    "peak_liquidity_usd": 17402.10739251074,
+    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T12:24:42.440983+00:00",
+    "address": "BMbikSu8uA3fkqVTXn5A84JXnSeHBzDbMzK1XhywgFHR",
+    "symbol": "\u6d77\u72f8",
+    "name": "\u6d77\u72f8\u58eb",
+    "liquidity_usd": 18091.245344054394,
+    "source_listed_at": "2026-09-05T12:24:25",
+    "peak_liquidity_usd": 18091.245344054394,
+    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T12:24:42.440991+00:00",
+    "address": "764pL9Zp1mVbNHEimxAnKreDnqUnj5S5AaGkXR1pump",
+    "symbol": "HOOD",
+    "name": "Robinhood",
+    "liquidity_usd": 133591.7265030015,
+    "source_listed_at": "2026-09-05T12:23:49",
+    "peak_liquidity_usd": 133591.7265030015,
+    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "rug_flag": false
   }
 ]
