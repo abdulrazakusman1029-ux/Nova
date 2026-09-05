@@ -2510,7 +2510,7 @@
     "liquidity_usd": 18051.274443662693,
     "source_listed_at": "2026-09-03T10:21:50",
     "peak_liquidity_usd": 18051.274443662693,
-    "last_checked_at": "2026-09-03T10:22:38.451673+00:00",
+    "last_checked_at": "2026-09-05T11:19:16.071629+00:00",
     "rug_flag": false
   },
   {
@@ -2521,7 +2521,7 @@
     "liquidity_usd": 17548.669953707038,
     "source_listed_at": "2026-09-03T11:20:04",
     "peak_liquidity_usd": 17548.669953707038,
-    "last_checked_at": "2026-09-03T11:20:17.261153+00:00",
+    "last_checked_at": "2026-09-05T11:19:16.071629+00:00",
     "rug_flag": false
   },
   {
@@ -3027,7 +3027,7 @@
     "liquidity_usd": 69003.30660635568,
     "source_listed_at": "2026-09-05T10:19:03",
     "peak_liquidity_usd": 69003.30660635568,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-05T11:19:16.071629+00:00",
     "rug_flag": false
   },
   {
