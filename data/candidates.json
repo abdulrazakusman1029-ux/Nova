@@ -2609,7 +2609,7 @@
     "liquidity_usd": 76830.31723786583,
     "source_listed_at": "2026-09-03T16:22:30",
     "peak_liquidity_usd": 76830.31723786583,
-    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
     "rug_flag": false
   },
   {
@@ -3259,6 +3259,28 @@
     "source_listed_at": "2026-09-05T22:18:59",
     "peak_liquidity_usd": 18594.047910949674,
     "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T23:18:40.439748+00:00",
+    "address": "HuxGLvDECiVWU8nDV5eaaFnbqfRBC5sAKvAX42szSSi1",
+    "symbol": "KEVINBACON",
+    "name": "Kevin Bacon",
+    "liquidity_usd": 17619.86500779493,
+    "source_listed_at": "2026-09-05T23:18:16",
+    "peak_liquidity_usd": 17619.86500779493,
+    "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T23:18:40.439814+00:00",
+    "address": "FzVPFQ1mKawoYPPuCG72LayRw8pWNr8F7t2j2S3kfDhU",
+    "symbol": "\u5927\u9ec4",
+    "name": "\u65e2\u966a\u8bfb\u53c8\u966a\u4e0a\u73ed\u7684\u5c0f\u72d7 \u8b66\u72ac",
+    "liquidity_usd": 17527.72825415467,
+    "source_listed_at": "2026-09-05T23:17:37",
+    "peak_liquidity_usd": 17527.72825415467,
+    "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
     "rug_flag": false
   }
 ]
