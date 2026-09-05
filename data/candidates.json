@@ -2466,7 +2466,7 @@
     "liquidity_usd": 17398.149518561644,
     "source_listed_at": "2026-09-03T07:21:30",
     "peak_liquidity_usd": 17398.149518561644,
-    "last_checked_at": "2026-09-03T07:22:11.359260+00:00",
+    "last_checked_at": "2026-09-05T03:20:45.497438+00:00",
     "rug_flag": false
   },
   {
@@ -2863,6 +2863,28 @@
     "source_listed_at": "2026-09-05T02:19:36",
     "peak_liquidity_usd": 17508.59554822092,
     "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T03:20:45.138086+00:00",
+    "address": "oCMLVBTCxWYxCnhGwGGUKpK2N5VRZ8mgk4zrM39pump",
+    "symbol": "Anthropic",
+    "name": "AnthropicAI",
+    "liquidity_usd": 10960.966899812698,
+    "source_listed_at": "2026-09-05T03:20:37",
+    "peak_liquidity_usd": 10960.966899812698,
+    "last_checked_at": "2026-09-05T03:20:45.497438+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-05T03:20:45.138107+00:00",
+    "address": "9ocHG2z62fWpmPPnzk7RPkF9UtQfNDd4m9jkywvWpump",
+    "symbol": "NVHFACE",
+    "name": "NVIDIA FACE",
+    "liquidity_usd": 57989.73566442486,
+    "source_listed_at": "2026-09-05T03:20:03",
+    "peak_liquidity_usd": 57989.73566442486,
+    "last_checked_at": "2026-09-05T03:20:45.497438+00:00",
     "rug_flag": false
   }
 ]
