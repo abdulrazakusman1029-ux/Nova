@@ -2631,7 +2631,7 @@
     "liquidity_usd": 6863.174110051066,
     "source_listed_at": "2026-09-03T18:24:40",
     "peak_liquidity_usd": 6863.174110051066,
-    "last_checked_at": "2026-09-03T18:24:48.335600+00:00",
+    "last_checked_at": "2026-09-06T01:19:02.508370+00:00",
     "rug_flag": false
   },
   {
@@ -3292,6 +3292,28 @@
     "source_listed_at": "2026-09-06T00:32:45",
     "peak_liquidity_usd": 18343.573771904623,
     "last_checked_at": "2026-09-06T00:33:31.924894+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T01:19:02.048788+00:00",
+    "address": "9LnJR84ix1gDXRB6FC4uZA9LXjszKJ6qJ7xpeSxKysN",
+    "symbol": "\u963f\u8c46",
+    "name": "\u6e21\u5384\u53f8",
+    "liquidity_usd": 17656.84028938418,
+    "source_listed_at": "2026-09-06T01:18:30",
+    "peak_liquidity_usd": 17656.84028938418,
+    "last_checked_at": "2026-09-06T01:19:02.508370+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T01:19:02.048814+00:00",
+    "address": "BCoFdXCh2RuzNJQo7s3DzswsSYhEuWyBpv3urMQ7fhKs",
+    "symbol": "RWA",
+    "name": "Real World AI",
+    "liquidity_usd": 17713.957422767606,
+    "source_listed_at": "2026-09-06T01:17:55",
+    "peak_liquidity_usd": 17713.957422767606,
+    "last_checked_at": "2026-09-06T01:19:02.508370+00:00",
     "rug_flag": false
   }
 ]
