@@ -2851,7 +2851,7 @@
     "liquidity_usd": 18181.97298418868,
     "source_listed_at": "2026-09-05T02:19:56",
     "peak_liquidity_usd": 18181.97298418868,
-    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "last_checked_at": "2026-09-06T21:19:27.489733+00:00",
     "rug_flag": false
   },
   {
@@ -2862,7 +2862,7 @@
     "liquidity_usd": 17508.59554822092,
     "source_listed_at": "2026-09-05T02:19:36",
     "peak_liquidity_usd": 17508.59554822092,
-    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "last_checked_at": "2026-09-06T21:19:27.489733+00:00",
     "rug_flag": false
   },
   {
@@ -3666,6 +3666,17 @@
     "source_listed_at": "2026-09-06T20:20:32",
     "peak_liquidity_usd": 17938.37622150001,
     "last_checked_at": "2026-09-06T20:20:42.275264+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T21:19:27.063528+00:00",
+    "address": "HfTYNJaodRRQvuHi6RyAZW6TrUmFi2Qh5kEG8tKcBAGS",
+    "symbol": "ASTROBOT",
+    "name": "ASTRA ROBOT",
+    "liquidity_usd": 79830.92684151408,
+    "source_listed_at": "2026-09-06T21:18:55",
+    "peak_liquidity_usd": 79830.92684151408,
+    "last_checked_at": "2026-09-06T21:19:27.489733+00:00",
     "rug_flag": false
   }
 ]
