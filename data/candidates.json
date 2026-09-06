@@ -2705,11 +2705,11 @@
     "address": "8u8qnz5zSXMiG2FMvf9KoCmNTrCQSPJ9ewhUGRJXjKMo",
     "symbol": "AEON",
     "name": "The Bitcoin Agent",
-    "liquidity_usd": 18771.363190663218,
+    "liquidity_usd": 3.864793294925793e-07,
     "source_listed_at": "2026-09-04T15:21:55",
     "peak_liquidity_usd": 18771.363190663218,
-    "last_checked_at": "2026-09-04T15:22:20.802052+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-06T11:19:44.140399+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-04T19:17:13.602065+00:00",
@@ -2719,7 +2719,7 @@
     "liquidity_usd": 12416.089055174514,
     "source_listed_at": "2026-09-04T19:17:07",
     "peak_liquidity_usd": 12416.089055174514,
-    "last_checked_at": "2026-09-04T19:17:14.138304+00:00",
+    "last_checked_at": "2026-09-06T11:19:44.140399+00:00",
     "rug_flag": false
   },
   {
@@ -2730,7 +2730,7 @@
     "liquidity_usd": 17711.823563895745,
     "source_listed_at": "2026-09-04T19:17:07",
     "peak_liquidity_usd": 17711.823563895745,
-    "last_checked_at": "2026-09-04T19:17:14.138304+00:00",
+    "last_checked_at": "2026-09-06T11:19:44.140399+00:00",
     "rug_flag": false
   },
   {
