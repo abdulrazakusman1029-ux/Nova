@@ -2785,7 +2785,7 @@
     "liquidity_usd": 17844.541521549374,
     "source_listed_at": "2026-09-04T22:19:53",
     "peak_liquidity_usd": 17844.541521549374,
-    "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
+    "last_checked_at": "2026-09-06T17:18:45.578087+00:00",
     "rug_flag": false
   },
   {
@@ -2796,7 +2796,7 @@
     "liquidity_usd": 18250.46516993861,
     "source_listed_at": "2026-09-04T22:19:49",
     "peak_liquidity_usd": 18250.46516993861,
-    "last_checked_at": "2026-09-04T22:19:58.696770+00:00",
+    "last_checked_at": "2026-09-06T17:18:45.578087+00:00",
     "rug_flag": false
   },
   {
@@ -3600,6 +3600,17 @@
     "source_listed_at": "2026-09-06T16:20:53",
     "peak_liquidity_usd": 6170.8186247053545,
     "last_checked_at": "2026-09-06T16:21:29.766701+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T17:18:45.187588+00:00",
+    "address": "4ouo8ADDfhbV85RG58yquPPuYFDxrCPAXokPve3TuTn4",
+    "symbol": "DONG",
+    "name": "DONG",
+    "liquidity_usd": 15925.127458937857,
+    "source_listed_at": "2026-09-06T17:18:37",
+    "peak_liquidity_usd": 15925.127458937857,
+    "last_checked_at": "2026-09-06T17:18:45.578087+00:00",
     "rug_flag": false
   }
 ]
