@@ -2807,7 +2807,7 @@
     "liquidity_usd": 68277.49935841272,
     "source_listed_at": "2026-09-04T23:18:14",
     "peak_liquidity_usd": 68277.49935841272,
-    "last_checked_at": "2026-09-04T23:18:31.472873+00:00",
+    "last_checked_at": "2026-09-06T18:22:16.406395+00:00",
     "rug_flag": false
   },
   {
@@ -3611,6 +3611,28 @@
     "source_listed_at": "2026-09-06T17:18:37",
     "peak_liquidity_usd": 15925.127458937857,
     "last_checked_at": "2026-09-06T17:18:45.578087+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T18:22:15.798139+00:00",
+    "address": "F6i1ujPjYyyrcRSbTUkR1JNXJzHk911jPgWMVycEbTVZ",
+    "symbol": "VALVA",
+    "name": "VALVA THE COW",
+    "liquidity_usd": 18073.961724542412,
+    "source_listed_at": "2026-09-06T18:21:46",
+    "peak_liquidity_usd": 18073.961724542412,
+    "last_checked_at": "2026-09-06T18:22:16.406395+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T18:22:15.798157+00:00",
+    "address": "5PUrjjeLjTw7eTuaursg9R5cZX8pQoJCGm3gZXBJpump",
+    "symbol": "WOFI",
+    "name": "WOFI",
+    "liquidity_usd": 11396.439533174527,
+    "source_listed_at": "2026-09-06T18:21:40",
+    "peak_liquidity_usd": 11396.439533174527,
+    "last_checked_at": "2026-09-06T18:22:16.406395+00:00",
     "rug_flag": false
   }
 ]
