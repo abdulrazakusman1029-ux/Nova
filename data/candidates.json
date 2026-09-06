@@ -2697,7 +2697,7 @@
     "liquidity_usd": 9926.16733274468,
     "source_listed_at": "2026-09-04T15:22:05",
     "peak_liquidity_usd": 9926.16733274468,
-    "last_checked_at": "2026-09-04T15:22:20.802052+00:00",
+    "last_checked_at": "2026-09-06T10:20:35.312425+00:00",
     "rug_flag": false
   },
   {
@@ -3457,6 +3457,28 @@
     "source_listed_at": "2026-09-06T08:20:16",
     "peak_liquidity_usd": 24667.820829609398,
     "last_checked_at": "2026-09-06T08:22:17.435180+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T10:20:34.867483+00:00",
+    "address": "DdWfG1FgiXVouTNpLr8gVCxhEAgZDe9TvZmJcfHTqT6o",
+    "symbol": "SHROOM",
+    "name": "MUSHROOM",
+    "liquidity_usd": 28834.698026198428,
+    "source_listed_at": "2026-09-06T10:20:25",
+    "peak_liquidity_usd": 28834.698026198428,
+    "last_checked_at": "2026-09-06T10:20:35.312425+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T10:20:34.867504+00:00",
+    "address": "8zgZj7VMF3YHp9N6QiXtbqBJu7muZgg8RkMTMYypump",
+    "symbol": "IOAF",
+    "name": "israeli oil asset fund",
+    "liquidity_usd": 11436.884317200767,
+    "source_listed_at": "2026-09-06T10:19:36",
+    "peak_liquidity_usd": 11436.884317200767,
+    "last_checked_at": "2026-09-06T10:20:35.312425+00:00",
     "rug_flag": false
   }
 ]
