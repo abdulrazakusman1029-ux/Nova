@@ -2774,7 +2774,7 @@
     "liquidity_usd": 68766.69363569262,
     "source_listed_at": "2026-09-04T21:19:31",
     "peak_liquidity_usd": 68766.69363569262,
-    "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
+    "last_checked_at": "2026-09-06T16:21:29.766701+00:00",
     "rug_flag": false
   },
   {
@@ -3578,6 +3578,28 @@
     "source_listed_at": "2026-09-06T13:19:30",
     "peak_liquidity_usd": 15331.901108722985,
     "last_checked_at": "2026-09-06T13:20:03.340881+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T16:21:29.369025+00:00",
+    "address": "He13SxJPuTK2baAxNjXFkUDvXST9gGanMbw1xzJpzPXK",
+    "symbol": "Qenis",
+    "name": "Qenis",
+    "liquidity_usd": 23814.53189497363,
+    "source_listed_at": "2026-09-06T16:21:18",
+    "peak_liquidity_usd": 23814.53189497363,
+    "last_checked_at": "2026-09-06T16:21:29.766701+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T16:21:29.369047+00:00",
+    "address": "4ngWgNTpwvfPFUBTfJX5apmgavNXrdKUyuhCqM1bPfv3",
+    "symbol": "LOOM",
+    "name": "loom",
+    "liquidity_usd": 6170.8186247053545,
+    "source_listed_at": "2026-09-06T16:20:53",
+    "peak_liquidity_usd": 6170.8186247053545,
+    "last_checked_at": "2026-09-06T16:21:29.766701+00:00",
     "rug_flag": false
   }
 ]
