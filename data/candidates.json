@@ -2664,7 +2664,7 @@
     "liquidity_usd": 70029.47201259038,
     "source_listed_at": "2026-09-04T10:22:03",
     "peak_liquidity_usd": 70029.47201259038,
-    "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "last_checked_at": "2026-09-06T03:21:16.389910+00:00",
     "rug_flag": false
   },
   {
@@ -2675,7 +2675,7 @@
     "liquidity_usd": 70029.85538955382,
     "source_listed_at": "2026-09-04T10:21:59",
     "peak_liquidity_usd": 70029.85538955382,
-    "last_checked_at": "2026-09-04T10:22:07.292774+00:00",
+    "last_checked_at": "2026-09-06T03:21:16.389910+00:00",
     "rug_flag": false
   },
   {
@@ -3325,6 +3325,17 @@
     "source_listed_at": "2026-09-06T02:20:13",
     "peak_liquidity_usd": 17729.522379412523,
     "last_checked_at": "2026-09-06T02:20:59.976308+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T03:21:15.949302+00:00",
+    "address": "FNcyJbFFjWnHZ6c2yeDjMNRCmcMd1i1MoUVqzVJJpump",
+    "symbol": "R2L",
+    "name": "Ready To Launch",
+    "liquidity_usd": 7826.76867424071,
+    "source_listed_at": "2026-09-06T03:21:10",
+    "peak_liquidity_usd": 7826.76867424071,
+    "last_checked_at": "2026-09-06T03:21:16.389910+00:00",
     "rug_flag": false
   }
 ]
