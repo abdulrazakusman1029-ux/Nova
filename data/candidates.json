@@ -3678,5 +3678,49 @@
     "peak_liquidity_usd": 79830.92684151408,
     "last_checked_at": "2026-09-06T21:19:27.489733+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T22:20:19.759656+00:00",
+    "address": "5RK9GkBLxkRHAv8NWCA86XWaWTKga1tafgCFnjtApump",
+    "symbol": "cat",
+    "name": "OG 4 mins ago",
+    "liquidity_usd": 71078.64422034887,
+    "source_listed_at": "2026-09-06T22:19:44",
+    "peak_liquidity_usd": 71078.64422034887,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T22:20:19.759676+00:00",
+    "address": "BRtGsXrJqqcGM5MX7At7YFyHJdoyZAgSxqRhGxH5pump",
+    "symbol": "cat",
+    "name": "OG 4 mins ago",
+    "liquidity_usd": 71078.64422034887,
+    "source_listed_at": "2026-09-06T22:19:44",
+    "peak_liquidity_usd": 71078.64422034887,
+    "last_checked_at": "2026-09-06T22:20:20.157410+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T22:20:19.759681+00:00",
+    "address": "42WAzhRR7ZbwXaPqkx7Rn5NArgWtf1fAiD9v8KXSs26a",
+    "symbol": "sponsor",
+    "name": "sponsor.family",
+    "liquidity_usd": 19116.673823536144,
+    "source_listed_at": "2026-09-06T22:19:31",
+    "peak_liquidity_usd": 19116.673823536144,
+    "last_checked_at": "2026-09-06T22:20:20.157410+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T22:20:19.759684+00:00",
+    "address": "ABopWVZvwSM4Bp2UAMkBV9U3F3vEWfD9fMEu5j4jpump",
+    "symbol": "cat",
+    "name": "OG 4 mins ago",
+    "liquidity_usd": 70755.88203212379,
+    "source_listed_at": "2026-09-06T22:19:28",
+    "peak_liquidity_usd": 70755.88203212379,
+    "last_checked_at": "2026-09-06T22:20:20.157410+00:00",
+    "rug_flag": false
   }
 ]
