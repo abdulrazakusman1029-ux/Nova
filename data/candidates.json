@@ -2829,7 +2829,7 @@
     "liquidity_usd": 17721.030849754992,
     "source_listed_at": "2026-09-05T01:17:57",
     "peak_liquidity_usd": 17721.030849754992,
-    "last_checked_at": "2026-09-05T01:19:18.245869+00:00",
+    "last_checked_at": "2026-09-06T20:20:42.275264+00:00",
     "rug_flag": false
   },
   {
@@ -2840,7 +2840,7 @@
     "liquidity_usd": 17684.328285346386,
     "source_listed_at": "2026-09-05T02:20:15",
     "peak_liquidity_usd": 17684.328285346386,
-    "last_checked_at": "2026-09-05T02:20:30.999844+00:00",
+    "last_checked_at": "2026-09-06T20:20:42.275264+00:00",
     "rug_flag": false
   },
   {
@@ -3655,6 +3655,17 @@
     "source_listed_at": "2026-09-06T19:18:01",
     "peak_liquidity_usd": 27080.801853964822,
     "last_checked_at": "2026-09-06T19:18:35.466705+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T20:20:41.875444+00:00",
+    "address": "5ezkpTCnSkiBTRVPmmKfF8bophJQdAUTpaLnm2YYcQiF",
+    "symbol": "Surfcat",
+    "name": "Surfcat",
+    "liquidity_usd": 17938.37622150001,
+    "source_listed_at": "2026-09-06T20:20:32",
+    "peak_liquidity_usd": 17938.37622150001,
+    "last_checked_at": "2026-09-06T20:20:42.275264+00:00",
     "rug_flag": false
   }
 ]
