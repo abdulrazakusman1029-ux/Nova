@@ -3381,5 +3381,49 @@
     "peak_liquidity_usd": 16369.972132798115,
     "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T06:25:15.972282+00:00",
+    "address": "4ZiFvUy5eyfMzfCXT9E9nBo7YWTAhBHr2vYnqemc1vSq",
+    "symbol": "PBL",
+    "name": "Pablo",
+    "liquidity_usd": 18412.95923330858,
+    "source_listed_at": "2026-09-06T06:25:09",
+    "peak_liquidity_usd": 18412.95923330858,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T06:25:15.972306+00:00",
+    "address": "ATJpwNfqoRNCHhz7WjgJ3Ljc8caL9iwgX3snuPMJpump",
+    "symbol": "USEFUL",
+    "name": "USEFUL COIN",
+    "liquidity_usd": 11340.465509388066,
+    "source_listed_at": "2026-09-06T06:25:08",
+    "peak_liquidity_usd": 11340.465509388066,
+    "last_checked_at": "2026-09-06T06:25:16.325817+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T06:25:15.972320+00:00",
+    "address": "8mH5ZkcbXSwbkbgWYHAz1YUshqYodYpMsifnQaSbCbsx",
+    "symbol": "ONLINE",
+    "name": "LastOnline",
+    "liquidity_usd": 18414.03335316095,
+    "source_listed_at": "2026-09-06T06:24:37",
+    "peak_liquidity_usd": 18414.03335316095,
+    "last_checked_at": "2026-09-06T06:25:16.325817+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T06:25:15.972327+00:00",
+    "address": "13AiGA8oVMEvuHHdyb1TSinhP64QwtvPU5BCaS4pmoon",
+    "symbol": "Lisadrag",
+    "name": "Lisa Sawadika Dragon",
+    "liquidity_usd": 99501.87738457086,
+    "source_listed_at": "2026-09-06T06:24:15",
+    "peak_liquidity_usd": 99501.87738457086,
+    "last_checked_at": "2026-09-06T06:25:16.325817+00:00",
+    "rug_flag": false
   }
 ]
