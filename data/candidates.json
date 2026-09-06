@@ -3337,5 +3337,49 @@
     "peak_liquidity_usd": 7826.76867424071,
     "last_checked_at": "2026-09-06T03:21:16.389910+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T05:19:49.029740+00:00",
+    "address": "TpaihPzQzEto3ayNgi3jd68Wn8gML1V6ECdDnuE4HJt",
+    "symbol": "ZBULLGIRLS",
+    "name": "ZolanaBullGirls",
+    "liquidity_usd": 18435.765280811764,
+    "source_listed_at": "2026-09-06T05:19:29",
+    "peak_liquidity_usd": 18435.765280811764,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T05:19:49.029760+00:00",
+    "address": "fjqaGAr1wznD8ohBhJnbPUPZJUxQsoHQvCxNLjUpump",
+    "symbol": "BEAST",
+    "name": "MrBeast",
+    "liquidity_usd": 286629.3550359635,
+    "source_listed_at": "2026-09-06T05:19:24",
+    "peak_liquidity_usd": 286629.3550359635,
+    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T05:19:49.029766+00:00",
+    "address": "AbeSa6y5sj7YcticPmp3iQjgLRKPJbxpqLtnWCDYehpn",
+    "symbol": "URCOIN",
+    "name": "ur coin",
+    "liquidity_usd": 14805.921972305625,
+    "source_listed_at": "2026-09-06T05:19:11",
+    "peak_liquidity_usd": 14805.921972305625,
+    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T05:19:49.029775+00:00",
+    "address": "Dpyev7BgX4kne8UKRQpuzv6QDbpEewn1XWi6sj61pump",
+    "symbol": "P",
+    "name": "Pushing P",
+    "liquidity_usd": 16369.972132798115,
+    "source_listed_at": "2026-09-06T05:18:56",
+    "peak_liquidity_usd": 16369.972132798115,
+    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
+    "rug_flag": false
   }
 ]
