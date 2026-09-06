@@ -3480,5 +3480,60 @@
     "peak_liquidity_usd": 11436.884317200767,
     "last_checked_at": "2026-09-06T10:20:35.312425+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T12:24:49.272067+00:00",
+    "address": "4xHXtkfVCxWQr5yzoGNWXDbZhCARRxkv9dGyeMM1Mfb2",
+    "symbol": "ELON",
+    "name": "ELON",
+    "liquidity_usd": 18506.37860834162,
+    "source_listed_at": "2026-09-06T12:24:25",
+    "peak_liquidity_usd": 18506.37860834162,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T12:24:49.272087+00:00",
+    "address": "WGBjMLZsDhMeFnsnTLVWfdUWMmmT8XqiWvCrpZvDyYJ",
+    "symbol": "STPU",
+    "name": "StormPump",
+    "liquidity_usd": 10839.053920764225,
+    "source_listed_at": "2026-09-06T12:24:24",
+    "peak_liquidity_usd": 10839.053920764225,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T12:24:49.272092+00:00",
+    "address": "C3mbCbB3hAFub5TkFTiaDzkfB6KeQvqzgA6nVDhppump",
+    "symbol": "Soly",
+    "name": "Soly",
+    "liquidity_usd": 71945.37628726983,
+    "source_listed_at": "2026-09-06T12:24:22",
+    "peak_liquidity_usd": 71945.37628726983,
+    "last_checked_at": "2026-09-06T12:24:49.721712+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T12:24:49.272095+00:00",
+    "address": "35KC9nKPWXiaFxDksRiPRg44upB3zfewsiMBqtiSpump",
+    "symbol": "Soly",
+    "name": "Soly",
+    "liquidity_usd": 71937.64048392429,
+    "source_listed_at": "2026-09-06T12:24:19",
+    "peak_liquidity_usd": 71937.64048392429,
+    "last_checked_at": "2026-09-06T12:24:49.721712+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T12:24:49.272098+00:00",
+    "address": "5FWsyJjPx72qz8Z3VsfqqR4sN4fSk2uGX4N1kwiHddmU",
+    "symbol": "ROBINCOIN",
+    "name": "ROBINCOIN",
+    "liquidity_usd": 18155.90369270839,
+    "source_listed_at": "2026-09-06T12:24:13",
+    "peak_liquidity_usd": 18155.90369270839,
+    "last_checked_at": "2026-09-06T12:24:49.721712+00:00",
+    "rug_flag": false
   }
 ]
