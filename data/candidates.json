@@ -3425,5 +3425,38 @@
     "peak_liquidity_usd": 99501.87738457086,
     "last_checked_at": "2026-09-06T06:25:16.325817+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T08:22:17.093342+00:00",
+    "address": "E54kWZ2gcY7V7GmYU5vEugAJkGr34SMrD3hkJgp2AMzs",
+    "symbol": "OBIT",
+    "name": "Obit Circle Protocol",
+    "liquidity_usd": 18302.01592901538,
+    "source_listed_at": "2026-09-06T08:21:55",
+    "peak_liquidity_usd": 18302.01592901538,
+    "last_checked_at": "2026-09-06T08:22:17.435180+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T08:22:17.093361+00:00",
+    "address": "BYZFsFfkVfXsj6whaAd1cmaPZ2PaKb6t5yLB53iMi6GL",
+    "symbol": "BEAST",
+    "name": "MrBeast",
+    "liquidity_usd": 20368.47361781138,
+    "source_listed_at": "2026-09-06T08:21:14",
+    "peak_liquidity_usd": 20368.47361781138,
+    "last_checked_at": "2026-09-06T08:22:17.435180+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T08:22:17.093365+00:00",
+    "address": "5rEu7nEvBdKvT18dUyQkcAUbcU7r2NjVvJRLzx6kpump",
+    "symbol": "SIGMAFROG",
+    "name": "Sigma The Frog",
+    "liquidity_usd": 24667.820829609398,
+    "source_listed_at": "2026-09-06T08:20:16",
+    "peak_liquidity_usd": 24667.820829609398,
+    "last_checked_at": "2026-09-06T08:22:17.435180+00:00",
+    "rug_flag": false
   }
 ]
