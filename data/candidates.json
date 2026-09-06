@@ -3535,5 +3535,49 @@
     "peak_liquidity_usd": 18155.90369270839,
     "last_checked_at": "2026-09-06T12:24:49.721712+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T13:20:03.021007+00:00",
+    "address": "9wjKrFtG1wv7JrHKMJHv2aCYk5fU6B6whcRpycdZC2SV",
+    "symbol": "level",
+    "name": "trylevel.fun",
+    "liquidity_usd": 18090.312075242793,
+    "source_listed_at": "2026-09-06T13:19:49",
+    "peak_liquidity_usd": 18090.312075242793,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T13:20:03.021023+00:00",
+    "address": "81DEu4AaExGGro9x9hjhNACTLzbbCeVrTwebeP5iMMo5",
+    "symbol": "STONK",
+    "name": "STONK",
+    "liquidity_usd": 16124.85558182792,
+    "source_listed_at": "2026-09-06T13:19:46",
+    "peak_liquidity_usd": 16124.85558182792,
+    "last_checked_at": "2026-09-06T13:20:03.340881+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T13:20:03.021027+00:00",
+    "address": "6ZaqNGTkVDxDqmmbEdZaBSQ48VZQY8wY6XEkdY3pump",
+    "symbol": "$1",
+    "name": "Trumpcoin",
+    "liquidity_usd": 15331.901108722985,
+    "source_listed_at": "2026-09-06T13:19:32",
+    "peak_liquidity_usd": 15331.901108722985,
+    "last_checked_at": "2026-09-06T13:20:03.340881+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T13:20:03.021031+00:00",
+    "address": "ArsJTATSQpXGDCJojocsggzpEJaWEjWvBxgT5h3pump",
+    "symbol": "NTDA",
+    "name": "National Trump Digital Accounts",
+    "liquidity_usd": 15331.901108722985,
+    "source_listed_at": "2026-09-06T13:19:30",
+    "peak_liquidity_usd": 15331.901108722985,
+    "last_checked_at": "2026-09-06T13:20:03.340881+00:00",
+    "rug_flag": false
   }
 ]
