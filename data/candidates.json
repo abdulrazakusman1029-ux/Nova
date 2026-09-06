@@ -2738,11 +2738,11 @@
     "address": "4vUxZ5n51q7vKRxEPZP55D4rrjt8oSPmtTJp6baqpump",
     "symbol": "Juror",
     "name": "The Nietzschean Juror",
-    "liquidity_usd": 10892.185884493161,
+    "liquidity_usd": 111.37110634276075,
     "source_listed_at": "2026-09-04T20:20:25",
     "peak_liquidity_usd": 10892.185884493161,
-    "last_checked_at": "2026-09-04T20:20:51.821188+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-06T15:20:19.214332+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-04T20:20:51.174974+00:00",
@@ -2752,7 +2752,7 @@
     "liquidity_usd": 17684.540148029773,
     "source_listed_at": "2026-09-04T20:20:25",
     "peak_liquidity_usd": 17684.540148029773,
-    "last_checked_at": "2026-09-04T20:20:51.821188+00:00",
+    "last_checked_at": "2026-09-06T15:20:19.214332+00:00",
     "rug_flag": false
   },
   {
@@ -2760,11 +2760,11 @@
     "address": "7dKsnWNFuC86jMAYeAVh65UFDs6PSCwHrHy6Cjbbh63A",
     "symbol": "\u5973\u53cb\u666f\u751c",
     "name": "\u6211\u7684\u5973\u53cb\u666f\u751c",
-    "liquidity_usd": 17357.17992030493,
+    "liquidity_usd": 3.309675162481879e-07,
     "source_listed_at": "2026-09-04T21:19:43",
     "peak_liquidity_usd": 17357.17992030493,
-    "last_checked_at": "2026-09-04T21:20:01.470496+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-06T15:20:19.214332+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-04T21:20:00.845334+00:00",
