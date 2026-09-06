@@ -1,4 +1,4 @@
-name: Nova discovery poll
+name: Nova discovery poll (Solana + Robinhood Chain)
 
 on:
   schedule:
@@ -29,12 +29,19 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run discovery poll
+      - name: Run discovery poll (Solana / Birdeye)
         env:
           BIRDEYE_API_KEY: ${{ secrets.BIRDEYE_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python3 nova_discovery.py --once
+
+      - name: Run discovery poll (Robinhood Chain / GeckoTerminal)
+        # No API key needed here — GeckoTerminal's public API is free and keyless.
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 nova_discovery_robinhood.py --once
 
       - name: Commit updated data files
         run: |
@@ -44,7 +51,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Discovery poll: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Discovery poll (Solana + Robinhood Chain): $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           fi
