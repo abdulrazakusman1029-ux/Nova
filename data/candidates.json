@@ -2587,7 +2587,7 @@
     "liquidity_usd": 469157.68951086054,
     "source_listed_at": "2026-09-03T16:22:32",
     "peak_liquidity_usd": 469157.68951086054,
-    "last_checked_at": "2026-09-03T17:21:03.781299+00:00",
+    "last_checked_at": "2026-09-06T00:33:31.924894+00:00",
     "rug_flag": false
   },
   {
@@ -2620,7 +2620,7 @@
     "liquidity_usd": 76830.31723786583,
     "source_listed_at": "2026-09-03T16:22:30",
     "peak_liquidity_usd": 76830.31723786583,
-    "last_checked_at": "2026-09-03T16:22:39.622500+00:00",
+    "last_checked_at": "2026-09-06T00:33:31.924894+00:00",
     "rug_flag": false
   },
   {
@@ -3281,6 +3281,17 @@
     "source_listed_at": "2026-09-05T23:17:37",
     "peak_liquidity_usd": 17527.72825415467,
     "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-06T00:33:31.307039+00:00",
+    "address": "ChVyhJcr8EAr68btMibMZdRKYJ1TpfrxueycuUyAvG4u",
+    "symbol": "NEX Ai",
+    "name": "Nexchain Ai",
+    "liquidity_usd": 18343.573771904623,
+    "source_listed_at": "2026-09-06T00:32:45",
+    "peak_liquidity_usd": 18343.573771904623,
+    "last_checked_at": "2026-09-06T00:33:31.924894+00:00",
     "rug_flag": false
   }
 ]
