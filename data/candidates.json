@@ -4206,5 +4206,38 @@
     "peak_liquidity_usd": 7997.60016,
     "last_checked_at": "2026-09-07T20:21:54.540268+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T21:21:24.614544+00:00",
+    "address": "5h7qNRoCLFXjYYdpNGvVv3Gizvn6Bxy2CkY55nY92gpC",
+    "symbol": "NiggaButt",
+    "name": "NiggaButt",
+    "liquidity_usd": 18488.301436769194,
+    "source_listed_at": "2026-09-07T21:21:14",
+    "peak_liquidity_usd": 18488.301436769194,
+    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T21:21:24.614567+00:00",
+    "address": "867s4tD8FTd7DUJH9yTFU3VDWC6oXZjRiwcNXsnweVMo",
+    "symbol": "NDAQ",
+    "name": "NarwhalDolphinAlligatorQuokka",
+    "liquidity_usd": 18081.352218971806,
+    "source_listed_at": "2026-09-07T21:21:06",
+    "peak_liquidity_usd": 18081.352218971806,
+    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T21:21:24.614574+00:00",
+    "address": "4nSVRnnPoP6HVTRpGuzWrW1k4W1eyDVd5J2fuu129H88",
+    "symbol": "LAPTOP",
+    "name": "Laptop",
+    "liquidity_usd": 48753.03655473622,
+    "source_listed_at": "2026-09-07T21:20:37",
+    "peak_liquidity_usd": 48753.03655473622,
+    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
+    "rug_flag": false
   }
 ]
