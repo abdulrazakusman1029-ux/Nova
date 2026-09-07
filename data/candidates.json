@@ -3753,7 +3753,7 @@
     "liquidity_usd": 71542.14704078216,
     "source_listed_at": "2026-09-07T00:33:10",
     "peak_liquidity_usd": 71542.14704078216,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
     "rug_flag": false
   },
   {
@@ -3919,6 +3919,28 @@
     "source_listed_at": "2026-09-07T04:21:59",
     "peak_liquidity_usd": 70620.93779063002,
     "last_checked_at": "2026-09-07T04:22:32.184891+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T05:21:17.461391+00:00",
+    "address": "4oLjBx6QhoAjqJvA4vbvwanmXhfbmcua6nchNoXWDa3Q",
+    "symbol": "\ud83d\ude4f",
+    "name": "god willing \ud83d\ude4f",
+    "liquidity_usd": 17977.30253914513,
+    "source_listed_at": "2026-09-07T05:20:48",
+    "peak_liquidity_usd": 17977.30253914513,
+    "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T05:21:17.461412+00:00",
+    "address": "8JLEnS73bZy5HABkgJ9zHhhVUrBu4qDuM1monNUikRpx",
+    "symbol": "pupfun",
+    "name": "pupfun",
+    "liquidity_usd": 18311.128730810746,
+    "source_listed_at": "2026-09-07T05:20:12",
+    "peak_liquidity_usd": 18311.128730810746,
+    "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
     "rug_flag": false
   }
 ]
