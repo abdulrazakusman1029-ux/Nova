@@ -2895,7 +2895,7 @@
     "liquidity_usd": 5840.06704503642,
     "source_listed_at": "2026-09-05T05:19:21",
     "peak_liquidity_usd": 5840.06704503642,
-    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "last_checked_at": "2026-09-07T08:25:14.594242+00:00",
     "rug_flag": false
   },
   {
@@ -3731,7 +3731,7 @@
     "liquidity_usd": 71442.02608569396,
     "source_listed_at": "2026-09-07T00:33:19",
     "peak_liquidity_usd": 71442.02608569396,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-07T08:25:14.594242+00:00",
     "rug_flag": false
   },
   {
@@ -3996,6 +3996,17 @@
     "source_listed_at": "2026-09-07T07:23:13",
     "peak_liquidity_usd": 29410.88891919687,
     "last_checked_at": "2026-09-07T07:24:04.781444+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T08:25:14.084710+00:00",
+    "address": "6D6kpc1dRrvVKSdJx8xT6yaWTekCythgC3DiubpKowUq",
+    "symbol": "GLOB",
+    "name": "glob",
+    "liquidity_usd": 17949.268788350677,
+    "source_listed_at": "2026-09-07T08:24:31",
+    "peak_liquidity_usd": 17949.268788350677,
+    "last_checked_at": "2026-09-07T08:25:14.594242+00:00",
     "rug_flag": false
   }
 ]
