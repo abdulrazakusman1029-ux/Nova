@@ -2917,7 +2917,7 @@
     "liquidity_usd": 17315.408199724574,
     "source_listed_at": "2026-09-05T05:17:56",
     "peak_liquidity_usd": 17315.408199724574,
-    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "last_checked_at": "2026-09-07T10:23:02.716847+00:00",
     "rug_flag": false
   },
   {
@@ -2928,7 +2928,7 @@
     "liquidity_usd": 17665.559517972906,
     "source_listed_at": "2026-09-05T06:22:59",
     "peak_liquidity_usd": 17665.559517972906,
-    "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
+    "last_checked_at": "2026-09-07T10:23:02.716847+00:00",
     "rug_flag": false
   },
   {
@@ -4029,6 +4029,17 @@
     "source_listed_at": "2026-09-07T09:23:14",
     "peak_liquidity_usd": 18302.503679249392,
     "last_checked_at": "2026-09-07T09:24:20.578246+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T10:23:02.260643+00:00",
+    "address": "7NVLAmuAkmpsM1kmZoNAjvQYYKXuE2VZnC7hWkD6BhnT",
+    "symbol": "ZMUSK",
+    "name": "Anonymous Musk",
+    "liquidity_usd": 18225.19876277731,
+    "source_listed_at": "2026-09-07T10:21:47",
+    "peak_liquidity_usd": 18225.19876277731,
+    "last_checked_at": "2026-09-07T10:23:02.716847+00:00",
     "rug_flag": false
   }
 ]
