@@ -2936,11 +2936,11 @@
     "address": "F8gVNVkUM8cwU5mDxPhgVF1mxY4GEgxtNwpiJ9ttV3ug",
     "symbol": "IBRL",
     "name": "I'll Be Rich Later",
-    "liquidity_usd": 17342.4592384898,
+    "liquidity_usd": 8.280571476753883e-07,
     "source_listed_at": "2026-09-05T06:22:57",
     "peak_liquidity_usd": 17342.4592384898,
-    "last_checked_at": "2026-09-05T06:24:27.505640+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-07T11:22:28.449875+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-05T07:19:21.278744+00:00",
@@ -2961,7 +2961,7 @@
     "liquidity_usd": 17361.19372186068,
     "source_listed_at": "2026-09-05T07:18:14",
     "peak_liquidity_usd": 17361.19372186068,
-    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "last_checked_at": "2026-09-07T11:22:28.449875+00:00",
     "rug_flag": false
   },
   {
@@ -2972,7 +2972,7 @@
     "liquidity_usd": 11002.06816393257,
     "source_listed_at": "2026-09-05T07:18:11",
     "peak_liquidity_usd": 11002.06816393257,
-    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "last_checked_at": "2026-09-07T11:22:28.449875+00:00",
     "rug_flag": false
   },
   {
