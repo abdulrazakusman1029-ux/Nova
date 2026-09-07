@@ -3764,7 +3764,7 @@
     "liquidity_usd": 71544.28027332883,
     "source_listed_at": "2026-09-07T00:33:02",
     "peak_liquidity_usd": 71544.28027332883,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
     "rug_flag": false
   },
   {
@@ -3808,7 +3808,7 @@
     "liquidity_usd": 11346.51072386724,
     "source_listed_at": "2026-09-07T01:20:12",
     "peak_liquidity_usd": 11346.51072386724,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
     "rug_flag": false
   },
   {
@@ -3875,6 +3875,17 @@
     "source_listed_at": "2026-09-07T02:21:19",
     "peak_liquidity_usd": 18457.326999940782,
     "last_checked_at": "2026-09-07T02:22:04.121170+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T03:22:45.108956+00:00",
+    "address": "6YGGWGu48nAZ3jikDsvNKJ4FNC3s3Z3AiKFd7xVT7Yr3",
+    "symbol": "KEEL",
+    "name": "Keel",
+    "liquidity_usd": 20074.426157613416,
+    "source_listed_at": "2026-09-07T03:22:40",
+    "peak_liquidity_usd": 20074.426157613416,
+    "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
     "rug_flag": false
   }
 ]
