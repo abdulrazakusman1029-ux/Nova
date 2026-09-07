@@ -3887,5 +3887,38 @@
     "peak_liquidity_usd": 20074.426157613416,
     "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T04:22:31.774571+00:00",
+    "address": "EPCXqcytq5wSkyQo6Qr83pDHUiFWKoweMR5RQ7Mg51Wk",
+    "symbol": "FWOB",
+    "name": "FWOB",
+    "liquidity_usd": 23728.63789128383,
+    "source_listed_at": "2026-09-07T04:22:13",
+    "peak_liquidity_usd": 23728.63789128383,
+    "last_checked_at": "2026-09-07T04:22:32.184891+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T04:22:31.774592+00:00",
+    "address": "2TYWqb8f2cjBHLhnU2fE3rMBWNcH4rmL89GcDtcApump",
+    "symbol": "IPG",
+    "name": "Bonded rugged send real ",
+    "liquidity_usd": 70620.93779063002,
+    "source_listed_at": "2026-09-07T04:21:59",
+    "peak_liquidity_usd": 70620.93779063002,
+    "last_checked_at": "2026-09-07T04:22:32.184891+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T04:22:31.774597+00:00",
+    "address": "7y1EH1Keut9XVpn2LKtvWa8BUoe5Ty1RXUHDqxKKpump",
+    "symbol": "IPG",
+    "name": "Bonded rugged send real ",
+    "liquidity_usd": 70620.93779063002,
+    "source_listed_at": "2026-09-07T04:21:59",
+    "peak_liquidity_usd": 70620.93779063002,
+    "last_checked_at": "2026-09-07T04:22:32.184891+00:00",
+    "rug_flag": false
   }
 ]
