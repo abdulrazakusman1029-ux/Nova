@@ -2950,7 +2950,7 @@
     "liquidity_usd": 43.62036229742082,
     "source_listed_at": "2026-09-05T07:18:50",
     "peak_liquidity_usd": 11002.828287254208,
-    "last_checked_at": "2026-09-05T09:19:44.125215+00:00",
+    "last_checked_at": "2026-09-07T16:22:22.307223+00:00",
     "rug_flag": true
   },
   {
@@ -3016,7 +3016,7 @@
     "liquidity_usd": 28633.38835769295,
     "source_listed_at": "2026-09-05T08:19:08",
     "peak_liquidity_usd": 28633.38835769295,
-    "last_checked_at": "2026-09-05T08:21:15.941201+00:00",
+    "last_checked_at": "2026-09-07T16:22:22.307223+00:00",
     "rug_flag": false
   },
   {
@@ -4139,6 +4139,17 @@
     "source_listed_at": "2026-09-07T15:22:04",
     "peak_liquidity_usd": 5554.669249132346,
     "last_checked_at": "2026-09-07T15:22:20.190596+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T16:22:21.678884+00:00",
+    "address": "F8t2Y8jFi66XW5N2P1zwMhkC6C7MVrEc3fa4QQuUC3rd",
+    "symbol": "\u65fa\u67f4",
+    "name": "WeChat Doge",
+    "liquidity_usd": 18022.909714298647,
+    "source_listed_at": "2026-09-07T16:21:57",
+    "peak_liquidity_usd": 18022.909714298647,
+    "last_checked_at": "2026-09-07T16:22:22.307223+00:00",
     "rug_flag": false
   }
 ]
