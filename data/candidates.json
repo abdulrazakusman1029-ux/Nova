@@ -3799,5 +3799,60 @@
     "peak_liquidity_usd": 11438.212077177908,
     "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T01:20:23.811966+00:00",
+    "address": "AHbRETPcjxb2sLGGyYZ7XBq2QtnvFAJB69ytFZvpump",
+    "symbol": "GTA6",
+    "name": "GTA VI",
+    "liquidity_usd": 11346.51072386724,
+    "source_listed_at": "2026-09-07T01:20:12",
+    "peak_liquidity_usd": 11346.51072386724,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T01:20:23.811983+00:00",
+    "address": "ByKKVdq8JgEKHemfzsW3y4K5gE9aRzMx4YwzMFwypump",
+    "symbol": "AAPL",
+    "name": "bonded one is fake chart btw",
+    "liquidity_usd": 70965.48731062096,
+    "source_listed_at": "2026-09-07T01:19:53",
+    "peak_liquidity_usd": 70965.48731062096,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T01:20:23.811987+00:00",
+    "address": "AqwozmmR8Kgb7HoWHKsjrsKRwGQjbY3pb5C831HGpump",
+    "symbol": "AAPL",
+    "name": "bonded one is fake chart btw",
+    "liquidity_usd": 71023.22164488322,
+    "source_listed_at": "2026-09-07T01:19:50",
+    "peak_liquidity_usd": 71023.22164488322,
+    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T01:20:23.811995+00:00",
+    "address": "8HxsRJY7zNP8bcWdjuunsbJDhDYZLxUeBxBh9A1Kpump",
+    "symbol": "AAPL",
+    "name": "bonded one is fake chart btw",
+    "liquidity_usd": 71343.56289366823,
+    "source_listed_at": "2026-09-07T01:19:45",
+    "peak_liquidity_usd": 71343.56289366823,
+    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T01:20:23.811998+00:00",
+    "address": "7onQsaXjy92QBB1K9TzMKc17dMZMoqVMWbvDV5eApump",
+    "symbol": "AAPL",
+    "name": "bonded one is fake chart",
+    "liquidity_usd": 71002.29302816831,
+    "source_listed_at": "2026-09-07T01:19:42",
+    "peak_liquidity_usd": 71002.29302816831,
+    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "rug_flag": false
   }
 ]
