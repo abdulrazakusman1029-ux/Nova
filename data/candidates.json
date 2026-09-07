@@ -2906,7 +2906,7 @@
     "liquidity_usd": 75655.70802523263,
     "source_listed_at": "2026-09-05T05:18:23",
     "peak_liquidity_usd": 75655.70802523263,
-    "last_checked_at": "2026-09-05T05:19:23.948156+00:00",
+    "last_checked_at": "2026-09-07T09:24:20.578246+00:00",
     "rug_flag": false
   },
   {
@@ -4007,6 +4007,28 @@
     "source_listed_at": "2026-09-07T08:24:31",
     "peak_liquidity_usd": 17949.268788350677,
     "last_checked_at": "2026-09-07T08:25:14.594242+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T09:24:20.141151+00:00",
+    "address": "FCqCAWV8YgJGDzzsYUETW9TwvFuQhmpFVWzhoTuh8gZy",
+    "symbol": "FINDER",
+    "name": "Lil Finder Guy",
+    "liquidity_usd": 17831.01915178936,
+    "source_listed_at": "2026-09-07T09:24:11",
+    "peak_liquidity_usd": 17831.01915178936,
+    "last_checked_at": "2026-09-07T09:24:20.578246+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T09:24:20.141193+00:00",
+    "address": "3Yf32cGU41DGmiYDGmMSBmJcEADSvMGEDAvruAPCGtrQ",
+    "symbol": "BEN",
+    "name": "BEN Stonks Coin",
+    "liquidity_usd": 18302.503679249392,
+    "source_listed_at": "2026-09-07T09:23:14",
+    "peak_liquidity_usd": 18302.503679249392,
+    "last_checked_at": "2026-09-07T09:24:20.578246+00:00",
     "rug_flag": false
   }
 ]
