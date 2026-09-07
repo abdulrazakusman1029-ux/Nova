@@ -4063,5 +4063,49 @@
     "peak_liquidity_usd": 15332.425095468672,
     "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T13:24:03.146787+00:00",
+    "address": "7k2bXTdgkurMhBepKRtK2Z7fZGF3TxdkLhoedC9ge67r",
+    "symbol": "FIX6900",
+    "name": "Fantasy Index 6900",
+    "liquidity_usd": 19641.861458288953,
+    "source_listed_at": "2026-09-07T13:23:38",
+    "peak_liquidity_usd": 19641.861458288953,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T13:24:03.146810+00:00",
+    "address": "Dt4YeznoDtwMfkrWBJiq9pYb9oEpEKqV1NniFTAmiUM6",
+    "symbol": "PIPEDOGAI",
+    "name": "PIPEDOGAI",
+    "liquidity_usd": 26997.397507393907,
+    "source_listed_at": "2026-09-07T13:23:12",
+    "peak_liquidity_usd": 26997.397507393907,
+    "last_checked_at": "2026-09-07T13:24:03.714224+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T13:24:03.146818+00:00",
+    "address": "7G9771qLTjwfwSvFxvVqb6anHfDcFUwEj7n9EZQVareg",
+    "symbol": "GOAF",
+    "name": "Global Oil Asset Fund",
+    "liquidity_usd": 19041.33382968905,
+    "source_listed_at": "2026-09-07T13:23:09",
+    "peak_liquidity_usd": 19041.33382968905,
+    "last_checked_at": "2026-09-07T13:24:03.714224+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T13:24:03.146824+00:00",
+    "address": "HE3M21VhQHRu9BANoPQyCd6W24GQ7gdhEefL7ayouP6L",
+    "symbol": "FIX6900",
+    "name": "Fantasy Index 6900",
+    "liquidity_usd": 19742.39106461139,
+    "source_listed_at": "2026-09-07T13:22:41",
+    "peak_liquidity_usd": 19742.39106461139,
+    "last_checked_at": "2026-09-07T13:24:03.714224+00:00",
+    "rug_flag": false
   }
 ]
