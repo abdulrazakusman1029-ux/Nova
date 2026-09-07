@@ -3722,5 +3722,82 @@
     "peak_liquidity_usd": 70755.88203212379,
     "last_checked_at": "2026-09-06T22:20:20.157410+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459600+00:00",
+    "address": "58sZBnGdGzozPoavNzgLkxY5YmrjpMwEqPFyJULqpump",
+    "symbol": "NASDUCK",
+    "name": "lets use our brains",
+    "liquidity_usd": 71442.02608569396,
+    "source_listed_at": "2026-09-07T00:33:19",
+    "peak_liquidity_usd": 71442.02608569396,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459617+00:00",
+    "address": "3vD6CoDCKruGys2tqSovCRTbHZ5cQdKwbuksEjXEpump",
+    "symbol": "NASDUCK",
+    "name": "we're trading memes",
+    "liquidity_usd": 71542.14704078216,
+    "source_listed_at": "2026-09-07T00:33:10",
+    "peak_liquidity_usd": 71542.14704078216,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459622+00:00",
+    "address": "7Wm8ePq9HHnVseUTT1FNZz45NaN4RHwmeUZ3Agykpump",
+    "symbol": "NASDUCK",
+    "name": "we're trading memes",
+    "liquidity_usd": 71542.14704078216,
+    "source_listed_at": "2026-09-07T00:33:10",
+    "peak_liquidity_usd": 71542.14704078216,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459625+00:00",
+    "address": "9yRyMvJn1w5FCt7FGcFCqE2pRooiJpdb3FHJ8nESpump",
+    "symbol": "NASDUCK",
+    "name": "the point is it's a nasduck",
+    "liquidity_usd": 71544.28027332883,
+    "source_listed_at": "2026-09-07T00:33:02",
+    "peak_liquidity_usd": 71544.28027332883,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459628+00:00",
+    "address": "CTUy9Hh4xrmcCQiN4igPrr1j1VFDpm7nvXHbQXX3pump",
+    "symbol": "NASDUCK",
+    "name": "the point is it's a nasduck",
+    "liquidity_usd": 71544.28027332883,
+    "source_listed_at": "2026-09-07T00:33:02",
+    "peak_liquidity_usd": 71544.28027332883,
+    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459631+00:00",
+    "address": "7mCfeZp9zUsmr5FbGAc99TtkJjsv4fyooP46wJEwNJX2",
+    "symbol": "CTO",
+    "name": "Vida Global CTO",
+    "liquidity_usd": 18139.225903072485,
+    "source_listed_at": "2026-09-07T00:32:45",
+    "peak_liquidity_usd": 18139.225903072485,
+    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T00:33:23.459634+00:00",
+    "address": "9TvTxXA6YRDxzpfCkdZEQHsWAdAxmrZDRNPuE2hpump",
+    "symbol": "ARROW",
+    "name": "ARROW",
+    "liquidity_usd": 11438.212077177908,
+    "source_listed_at": "2026-09-07T00:32:45",
+    "peak_liquidity_usd": 11438.212077177908,
+    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "rug_flag": false
   }
 ]
