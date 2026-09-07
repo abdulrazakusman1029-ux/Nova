@@ -3742,7 +3742,7 @@
     "liquidity_usd": 71542.14704078216,
     "source_listed_at": "2026-09-07T00:33:10",
     "peak_liquidity_usd": 71542.14704078216,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-07T06:29:42.072545+00:00",
     "rug_flag": false
   },
   {
@@ -3941,6 +3941,28 @@
     "source_listed_at": "2026-09-07T05:20:12",
     "peak_liquidity_usd": 18311.128730810746,
     "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T06:29:41.733840+00:00",
+    "address": "EEMXQE4YXEqA4rq2t5RPWsQQPDjpr8eGvfsYjLta93L8",
+    "symbol": "\u9690\u79c1\u72d7",
+    "name": "\u9690\u79c1\u72d7",
+    "liquidity_usd": 17885.51118824042,
+    "source_listed_at": "2026-09-07T06:29:34",
+    "peak_liquidity_usd": 17885.51118824042,
+    "last_checked_at": "2026-09-07T06:29:42.072545+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T06:29:41.733860+00:00",
+    "address": "2JhSiAjs3532mTS9dFNVVwsomZbjqPxbhDwS2MmU4Yuz",
+    "symbol": "Nasduck",
+    "name": "Nasduck",
+    "liquidity_usd": 37470.05778430693,
+    "source_listed_at": "2026-09-07T06:28:39",
+    "peak_liquidity_usd": 37470.05778430693,
+    "last_checked_at": "2026-09-07T06:29:42.072545+00:00",
     "rug_flag": false
   }
 ]
