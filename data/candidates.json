@@ -2983,7 +2983,7 @@
     "liquidity_usd": 24346.326686239543,
     "source_listed_at": "2026-09-05T07:18:02",
     "peak_liquidity_usd": 24346.326686239543,
-    "last_checked_at": "2026-09-05T07:19:21.889006+00:00",
+    "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
     "rug_flag": false
   },
   {
@@ -4040,6 +4040,28 @@
     "source_listed_at": "2026-09-07T10:21:47",
     "peak_liquidity_usd": 18225.19876277731,
     "last_checked_at": "2026-09-07T10:23:02.716847+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T12:28:30.249851+00:00",
+    "address": "FakpBDmw6ZKvUPBVNEieBXg1z65zAxxYTab9Mpwa6hgV",
+    "symbol": "HOODSHOP",
+    "name": "Robinhood Market",
+    "liquidity_usd": 17782.731764303186,
+    "source_listed_at": "2026-09-07T12:28:07",
+    "peak_liquidity_usd": 17782.731764303186,
+    "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T12:28:30.249868+00:00",
+    "address": "hArCita83U6FnYirAqBoWb7bU8kiK7FywwHQThEpump",
+    "symbol": "FOMO",
+    "name": "FOMO",
+    "liquidity_usd": 15332.425095468672,
+    "source_listed_at": "2026-09-07T12:27:28",
+    "peak_liquidity_usd": 15332.425095468672,
+    "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
     "rug_flag": false
   }
 ]
