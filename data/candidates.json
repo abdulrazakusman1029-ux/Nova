@@ -3071,7 +3071,7 @@
     "liquidity_usd": 17402.10739251074,
     "source_listed_at": "2026-09-05T12:24:36",
     "peak_liquidity_usd": 17402.10739251074,
-    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "last_checked_at": "2026-09-07T19:20:05.116675+00:00",
     "rug_flag": false
   },
   {
@@ -4172,6 +4172,28 @@
     "source_listed_at": "2026-09-07T17:20:24",
     "peak_liquidity_usd": 63362.94579471819,
     "last_checked_at": "2026-09-07T17:21:05.334955+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T19:20:04.496437+00:00",
+    "address": "6FhPL9vzvwmAQzrMopykxaCzpxEobVKmETNNUckWp9oQ",
+    "symbol": "\u725b\u6765",
+    "name": "\u725b\u6765",
+    "liquidity_usd": 17674.756577390897,
+    "source_listed_at": "2026-09-07T19:19:48",
+    "peak_liquidity_usd": 17674.756577390897,
+    "last_checked_at": "2026-09-07T19:20:05.116675+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T19:20:04.496455+00:00",
+    "address": "6GMMWu2XGYpNWtxzsxdgAcGBLMP2EwdG5ZxovWJGXVdR",
+    "symbol": "POPCAT",
+    "name": "PopCat",
+    "liquidity_usd": 18096.260763191953,
+    "source_listed_at": "2026-09-07T19:19:48",
+    "peak_liquidity_usd": 18096.260763191953,
+    "last_checked_at": "2026-09-07T19:20:05.116675+00:00",
     "rug_flag": false
   }
 ]
