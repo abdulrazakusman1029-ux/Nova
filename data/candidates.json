@@ -3137,7 +3137,7 @@
     "liquidity_usd": 18108.308259690766,
     "source_listed_at": "2026-09-05T18:21:54",
     "peak_liquidity_usd": 18108.308259690766,
-    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
+    "last_checked_at": "2026-09-07T23:20:11.152075+00:00",
     "rug_flag": false
   },
   {
@@ -3167,11 +3167,11 @@
     "address": "4SVHS2QCQ371mYaUHtjQkjm3UQyTmB5QJtfKrmHguirZ",
     "symbol": "BRO",
     "name": "i got you bro",
-    "liquidity_usd": 17636.039066652484,
+    "liquidity_usd": 3.6050974099435564e-07,
     "source_listed_at": "2026-09-05T18:21:22",
     "peak_liquidity_usd": 17636.039066652484,
-    "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-07T23:20:11.152075+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-05T18:22:19.175900+00:00",
@@ -3181,7 +3181,7 @@
     "liquidity_usd": 17941.526407439076,
     "source_listed_at": "2026-09-05T18:21:20",
     "peak_liquidity_usd": 17941.526407439076,
-    "last_checked_at": "2026-09-05T18:22:19.560868+00:00",
+    "last_checked_at": "2026-09-07T23:20:11.152075+00:00",
     "rug_flag": false
   },
   {
