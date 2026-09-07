@@ -3082,7 +3082,7 @@
     "liquidity_usd": 18091.245344054394,
     "source_listed_at": "2026-09-05T12:24:25",
     "peak_liquidity_usd": 18091.245344054394,
-    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "last_checked_at": "2026-09-07T20:21:54.540268+00:00",
     "rug_flag": false
   },
   {
@@ -3093,7 +3093,7 @@
     "liquidity_usd": 133591.7265030015,
     "source_listed_at": "2026-09-05T12:23:49",
     "peak_liquidity_usd": 133591.7265030015,
-    "last_checked_at": "2026-09-05T12:24:42.880242+00:00",
+    "last_checked_at": "2026-09-07T20:21:54.540268+00:00",
     "rug_flag": false
   },
   {
@@ -4194,6 +4194,17 @@
     "source_listed_at": "2026-09-07T19:19:48",
     "peak_liquidity_usd": 18096.260763191953,
     "last_checked_at": "2026-09-07T19:20:05.116675+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-07T20:21:54.103479+00:00",
+    "address": "5KTAs4KyPaeBg8X3qrNVFpYifPhuswr39bMSJjJumoon",
+    "symbol": "GTA6",
+    "name": "Grand Theft Auto VI",
+    "liquidity_usd": 7997.60016,
+    "source_listed_at": "2026-09-07T20:21:11",
+    "peak_liquidity_usd": 7997.60016,
+    "last_checked_at": "2026-09-07T20:21:54.540268+00:00",
     "rug_flag": false
   }
 ]
