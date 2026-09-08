@@ -3148,7 +3148,7 @@
     "liquidity_usd": 20843.481513445717,
     "source_listed_at": "2026-09-05T18:21:35",
     "peak_liquidity_usd": 20843.481513445717,
-    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
+    "last_checked_at": "2026-09-08T06:27:24.672331+00:00",
     "rug_flag": false
   },
   {
@@ -4248,7 +4248,7 @@
     "liquidity_usd": 69753.18503941946,
     "source_listed_at": "2026-09-08T00:32:52",
     "peak_liquidity_usd": 69753.18503941946,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-08T06:27:24.672331+00:00",
     "rug_flag": false
   },
   {
@@ -4447,6 +4447,17 @@
     "source_listed_at": "2026-09-08T05:21:11",
     "peak_liquidity_usd": 6997.679474142001,
     "last_checked_at": "2026-09-08T05:21:45.197904+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T06:27:24.299972+00:00",
+    "address": "ELNJE7nGA1Tur3SXm4z7NNP8EmVRkhS5rAkiXdh6kQJk",
+    "symbol": "UBER",
+    "name": "Uber Driver",
+    "liquidity_usd": 29881.60444478595,
+    "source_listed_at": "2026-09-08T06:26:27",
+    "peak_liquidity_usd": 29881.60444478595,
+    "last_checked_at": "2026-09-08T06:27:24.672331+00:00",
     "rug_flag": false
   }
 ]
