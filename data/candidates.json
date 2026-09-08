@@ -3236,7 +3236,7 @@
     "liquidity_usd": 17591.36664900848,
     "source_listed_at": "2026-09-05T21:17:45",
     "peak_liquidity_usd": 17591.36664900848,
-    "last_checked_at": "2026-09-05T21:18:46.461658+00:00",
+    "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
     "rug_flag": false
   },
   {
@@ -4490,7 +4490,7 @@
     "liquidity_usd": 17600.537061439496,
     "source_listed_at": "2026-09-08T09:23:39",
     "peak_liquidity_usd": 17600.537061439496,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
     "rug_flag": false
   },
   {
@@ -4524,6 +4524,17 @@
     "source_listed_at": "2026-09-08T09:22:22",
     "peak_liquidity_usd": 162887.57889638844,
     "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T10:23:28.544366+00:00",
+    "address": "95T4GHb2eZbfZb1oL5ioWF1YN9LCrn3uYB6mEar9CBM",
+    "symbol": "OTC",
+    "name": "onthecomputer",
+    "liquidity_usd": 18097.044553948668,
+    "source_listed_at": "2026-09-08T10:23:12",
+    "peak_liquidity_usd": 18097.044553948668,
+    "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
     "rug_flag": false
   }
 ]
