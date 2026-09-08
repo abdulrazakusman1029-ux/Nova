@@ -4481,5 +4481,49 @@
     "peak_liquidity_usd": 17855.35536687175,
     "last_checked_at": "2026-09-08T08:24:39.509158+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T09:23:44.960590+00:00",
+    "address": "5GmkFFcGfyuszsLPpoQ6kwQDniHN94SQYsD9yDKgXxjP",
+    "symbol": "QUOTED",
+    "name": "Quoted",
+    "liquidity_usd": 17600.537061439496,
+    "source_listed_at": "2026-09-08T09:23:39",
+    "peak_liquidity_usd": 17600.537061439496,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T09:23:44.960610+00:00",
+    "address": "Cq8MkgHEw6DwXpjjbTuhduPfUTArBUtqNmJCsjZ7mwcC",
+    "symbol": "STRC",
+    "name": "STRATEGY",
+    "liquidity_usd": 18011.328953482924,
+    "source_listed_at": "2026-09-08T09:23:00",
+    "peak_liquidity_usd": 18011.328953482924,
+    "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T09:23:44.960614+00:00",
+    "address": "ByHyn4oE28b7t4tj9FQySxhy7NKJXoYgwXZaSnyoFtyw",
+    "symbol": "LUNA",
+    "name": "LUNA",
+    "liquidity_usd": 80964.49825449832,
+    "source_listed_at": "2026-09-08T09:22:24",
+    "peak_liquidity_usd": 80964.49825449832,
+    "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T09:23:44.960618+00:00",
+    "address": "FdePp41dz282udganHiwVUwtQoXgoRAUX73cLiapump",
+    "symbol": "ROBIN",
+    "name": "Robin the Frog",
+    "liquidity_usd": 162887.57889638844,
+    "source_listed_at": "2026-09-08T09:22:22",
+    "peak_liquidity_usd": 162887.57889638844,
+    "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
+    "rug_flag": false
   }
 ]
