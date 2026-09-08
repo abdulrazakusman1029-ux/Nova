@@ -3269,7 +3269,7 @@
     "liquidity_usd": 17619.86500779493,
     "source_listed_at": "2026-09-05T23:18:16",
     "peak_liquidity_usd": 17619.86500779493,
-    "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
+    "last_checked_at": "2026-09-08T15:24:31.876043+00:00",
     "rug_flag": false
   },
   {
@@ -4634,6 +4634,28 @@
     "source_listed_at": "2026-09-08T14:24:10",
     "peak_liquidity_usd": 17892.776203549773,
     "last_checked_at": "2026-09-08T14:24:36.782931+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T15:24:31.360072+00:00",
+    "address": "4t6yg8cLQgFQkaVskAJn7rjFLZdDYkCHjdcd6KjVpump",
+    "symbol": "HDEC",
+    "name": "HUBBLE DECAGON",
+    "liquidity_usd": 97478.98519525108,
+    "source_listed_at": "2026-09-08T15:24:13",
+    "peak_liquidity_usd": 97478.98519525108,
+    "last_checked_at": "2026-09-08T15:24:31.876043+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T15:24:31.360089+00:00",
+    "address": "GUphefhwRJ3rPP2fgD7dsA9QqQU7ftDvQeVg4QdnXefw",
+    "symbol": "\u5927\u80a1\u4e1c",
+    "name": "\u5927\u80a1\u4e1c",
+    "liquidity_usd": 17515.293759363663,
+    "source_listed_at": "2026-09-08T15:24:09",
+    "peak_liquidity_usd": 17515.293759363663,
+    "last_checked_at": "2026-09-08T15:24:31.876043+00:00",
     "rug_flag": false
   }
 ]
