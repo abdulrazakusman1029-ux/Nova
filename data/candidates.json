@@ -4314,7 +4314,7 @@
     "liquidity_usd": 70304.63368121603,
     "source_listed_at": "2026-09-08T01:21:27",
     "peak_liquidity_usd": 70304.63368121603,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-08T04:22:47.237506+00:00",
     "rug_flag": false
   },
   {
@@ -4325,7 +4325,7 @@
     "liquidity_usd": 28874.119278229628,
     "source_listed_at": "2026-09-08T01:21:26",
     "peak_liquidity_usd": 28874.119278229628,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-08T04:22:47.237506+00:00",
     "rug_flag": false
   },
   {
@@ -4425,6 +4425,17 @@
     "source_listed_at": "2026-09-08T03:21:19",
     "peak_liquidity_usd": 45671.7725229276,
     "last_checked_at": "2026-09-08T03:22:29.502868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T04:22:46.816130+00:00",
+    "address": "J8LLSefxYjCs6t757WqJ7f8iYii3zoVTaSkLWY6MBAGS",
+    "symbol": "HORC",
+    "name": "HORMUZ RADAR CRAB",
+    "liquidity_usd": 83424.32537996573,
+    "source_listed_at": "2026-09-08T04:22:30",
+    "peak_liquidity_usd": 83424.32537996573,
+    "last_checked_at": "2026-09-08T04:22:47.237506+00:00",
     "rug_flag": false
   }
 ]
