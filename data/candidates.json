@@ -3324,7 +3324,7 @@
     "liquidity_usd": 17729.522379412523,
     "source_listed_at": "2026-09-06T02:20:13",
     "peak_liquidity_usd": 17729.522379412523,
-    "last_checked_at": "2026-09-06T02:20:59.976308+00:00",
+    "last_checked_at": "2026-09-08T18:25:35.172786+00:00",
     "rug_flag": false
   },
   {
@@ -4678,6 +4678,28 @@
     "source_listed_at": "2026-09-08T17:22:15",
     "peak_liquidity_usd": 17726.75013374014,
     "last_checked_at": "2026-09-08T17:22:29.801428+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T18:25:34.813515+00:00",
+    "address": "8hWmyAUUh7cgCw2EeTYm3neTewH8PvFPmbUJtsVhpump",
+    "symbol": "CRIMEDOG",
+    "name": "CRIMECAT IS AT 2M HELLO!?",
+    "liquidity_usd": 70129.17845123934,
+    "source_listed_at": "2026-09-08T18:25:03",
+    "peak_liquidity_usd": 70129.17845123934,
+    "last_checked_at": "2026-09-08T18:25:35.172786+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T18:25:34.813536+00:00",
+    "address": "GrYWcHocTKmwcNSKpGd8pSgGBKY8zNxBAQSEUvGRpump",
+    "symbol": "CRIMEDOG",
+    "name": "CRIMECAT IS AT 2M HELLO!?",
+    "liquidity_usd": 70129.17845123934,
+    "source_listed_at": "2026-09-08T18:25:03",
+    "peak_liquidity_usd": 70129.17845123934,
+    "last_checked_at": "2026-09-08T18:25:35.172786+00:00",
     "rug_flag": false
   }
 ]
