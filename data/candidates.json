@@ -4536,5 +4536,38 @@
     "peak_liquidity_usd": 18097.044553948668,
     "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T11:21:54.478047+00:00",
+    "address": "21tU4jxpYmXzVBZjvdk32AZda5nrpE78qaifXzJupump",
+    "symbol": "Pairoor",
+    "name": "Calloor went to 700k",
+    "liquidity_usd": 69498.51961208603,
+    "source_listed_at": "2026-09-08T11:21:35",
+    "peak_liquidity_usd": 69498.51961208603,
+    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T11:21:54.478070+00:00",
+    "address": "8UL4Vr2axVNgzUuDaGVJRo9Z8yxiJiJxBh7HFmuHpump",
+    "symbol": "Pairoor",
+    "name": "Calloor went to 700k",
+    "liquidity_usd": 69499.17176070444,
+    "source_listed_at": "2026-09-08T11:21:24",
+    "peak_liquidity_usd": 69499.17176070444,
+    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T11:21:54.478074+00:00",
+    "address": "6qag6eZ7NUbpJTZEh9MMadxyUC3koyKiUEDonCJ7pump",
+    "symbol": "Pairoor",
+    "name": "Calloor went to 700k",
+    "liquidity_usd": 69172.92016755133,
+    "source_listed_at": "2026-09-08T11:21:18",
+    "peak_liquidity_usd": 69172.92016755133,
+    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "rug_flag": false
   }
 ]
