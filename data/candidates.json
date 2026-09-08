@@ -3302,7 +3302,7 @@
     "liquidity_usd": 17656.84028938418,
     "source_listed_at": "2026-09-06T01:18:30",
     "peak_liquidity_usd": 17656.84028938418,
-    "last_checked_at": "2026-09-06T01:19:02.508370+00:00",
+    "last_checked_at": "2026-09-08T17:22:29.801428+00:00",
     "rug_flag": false
   },
   {
@@ -3313,7 +3313,7 @@
     "liquidity_usd": 17713.957422767606,
     "source_listed_at": "2026-09-06T01:17:55",
     "peak_liquidity_usd": 17713.957422767606,
-    "last_checked_at": "2026-09-06T01:19:02.508370+00:00",
+    "last_checked_at": "2026-09-08T17:22:29.801428+00:00",
     "rug_flag": false
   },
   {
@@ -4667,6 +4667,17 @@
     "source_listed_at": "2026-09-08T16:24:20",
     "peak_liquidity_usd": 10997.802283067504,
     "last_checked_at": "2026-09-08T16:24:40.072311+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T17:22:29.223961+00:00",
+    "address": "4qjiM2uJRq7yrkWCj1ouSg1dZPtuYk2gT3k73bMxrv1u",
+    "symbol": "4Stock",
+    "name": "4Stock coin",
+    "liquidity_usd": 17726.75013374014,
+    "source_listed_at": "2026-09-08T17:22:15",
+    "peak_liquidity_usd": 17726.75013374014,
+    "last_checked_at": "2026-09-08T17:22:29.801428+00:00",
     "rug_flag": false
   }
 ]
