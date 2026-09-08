@@ -3126,7 +3126,7 @@
     "liquidity_usd": 42.13872223582346,
     "source_listed_at": "2026-09-05T18:22:16",
     "peak_liquidity_usd": 11178.535579781808,
-    "last_checked_at": "2026-09-05T20:20:40.277763+00:00",
+    "last_checked_at": "2026-09-08T07:23:17.465214+00:00",
     "rug_flag": true
   },
   {
@@ -3192,7 +3192,7 @@
     "liquidity_usd": 18726.426992499342,
     "source_listed_at": "2026-09-05T19:18:22",
     "peak_liquidity_usd": 18726.426992499342,
-    "last_checked_at": "2026-09-05T19:18:32.443919+00:00",
+    "last_checked_at": "2026-09-08T07:23:17.465214+00:00",
     "rug_flag": false
   },
   {
@@ -4458,6 +4458,17 @@
     "source_listed_at": "2026-09-08T06:26:27",
     "peak_liquidity_usd": 29881.60444478595,
     "last_checked_at": "2026-09-08T06:27:24.672331+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T07:23:17.025044+00:00",
+    "address": "1kQTD2vfdbDxNpRayS9mfTeNJtKhbm3BNoFE9yERtR7",
+    "symbol": "nasansem",
+    "name": "The Black Nas Bull",
+    "liquidity_usd": 20494.454784277612,
+    "source_listed_at": "2026-09-08T07:22:01",
+    "peak_liquidity_usd": 20494.454784277612,
+    "last_checked_at": "2026-09-08T07:23:17.465214+00:00",
     "rug_flag": false
   }
 ]
