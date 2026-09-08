@@ -3379,7 +3379,7 @@
     "liquidity_usd": 16369.972132798115,
     "source_listed_at": "2026-09-06T05:18:56",
     "peak_liquidity_usd": 16369.972132798115,
-    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
+    "last_checked_at": "2026-09-08T20:22:02.861656+00:00",
     "rug_flag": false
   },
   {
@@ -4700,6 +4700,28 @@
     "source_listed_at": "2026-09-08T18:25:03",
     "peak_liquidity_usd": 70129.17845123934,
     "last_checked_at": "2026-09-08T18:25:35.172786+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T20:22:02.401832+00:00",
+    "address": "AyyuVPQ4dHhB9GExPPYzQQG6SUunQcriggKTfPjzJxcb",
+    "symbol": "SOLERO",
+    "name": "Solero",
+    "liquidity_usd": 18067.890465697765,
+    "source_listed_at": "2026-09-08T20:21:46",
+    "peak_liquidity_usd": 18067.890465697765,
+    "last_checked_at": "2026-09-08T20:22:02.861656+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T20:22:02.401866+00:00",
+    "address": "64VxjyMrjg9r3oCjE526P1guJDfGM2KFCK9MaUohhpoB",
+    "symbol": "Neon",
+    "name": "Neon",
+    "liquidity_usd": 17644.98174883403,
+    "source_listed_at": "2026-09-08T20:21:15",
+    "peak_liquidity_usd": 17644.98174883403,
+    "last_checked_at": "2026-09-08T20:22:02.861656+00:00",
     "rug_flag": false
   }
 ]
