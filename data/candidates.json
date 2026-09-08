@@ -4360,5 +4360,38 @@
     "peak_liquidity_usd": 7680.846861232246,
     "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T02:22:32.336954+00:00",
+    "address": "Cgw76WfxH837sesyjmUDnVgHgBGvFgzEDa7rd7sipump",
+    "symbol": "FAITH",
+    "name": "TOLY TWEETED",
+    "liquidity_usd": 70226.68453788356,
+    "source_listed_at": "2026-09-08T02:22:26",
+    "peak_liquidity_usd": 70226.68453788356,
+    "last_checked_at": "2026-09-08T02:22:32.752198+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T02:22:32.336978+00:00",
+    "address": "4HTT4aCaqqAcJQL2NahjmNdqp3GrFdL4ER8egQaLpump",
+    "symbol": "FAITH",
+    "name": "TOLY TWEETED",
+    "liquidity_usd": 70226.68453788356,
+    "source_listed_at": "2026-09-08T02:22:25",
+    "peak_liquidity_usd": 70226.68453788356,
+    "last_checked_at": "2026-09-08T02:22:32.752198+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T02:22:32.336985+00:00",
+    "address": "8EutyukGqjBwyEDoe1E5NsKRQwERDCe7vmQqHC7BWH3Z",
+    "symbol": "iPhone",
+    "name": "Apple\u82f9\u679c",
+    "liquidity_usd": 31435.30407811622,
+    "source_listed_at": "2026-09-08T02:22:08",
+    "peak_liquidity_usd": 31435.30407811622,
+    "last_checked_at": "2026-09-08T02:22:32.752198+00:00",
+    "rug_flag": false
   }
 ]
