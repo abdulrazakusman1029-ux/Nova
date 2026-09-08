@@ -3214,7 +3214,7 @@
     "liquidity_usd": 69403.01475774868,
     "source_listed_at": "2026-09-05T21:18:09",
     "peak_liquidity_usd": 69403.01475774868,
-    "last_checked_at": "2026-09-05T21:18:46.461658+00:00",
+    "last_checked_at": "2026-09-08T08:24:39.509158+00:00",
     "rug_flag": false
   },
   {
@@ -3225,7 +3225,7 @@
     "liquidity_usd": 17790.433191734468,
     "source_listed_at": "2026-09-05T21:18:01",
     "peak_liquidity_usd": 17790.433191734468,
-    "last_checked_at": "2026-09-05T21:18:46.461658+00:00",
+    "last_checked_at": "2026-09-08T08:24:39.509158+00:00",
     "rug_flag": false
   },
   {
@@ -4469,6 +4469,17 @@
     "source_listed_at": "2026-09-08T07:22:01",
     "peak_liquidity_usd": 20494.454784277612,
     "last_checked_at": "2026-09-08T07:23:17.465214+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T08:24:39.091286+00:00",
+    "address": "DmQo1UnMLH7tEA4rLhAhsZwuF85u3SZTZ1Ft4wExUJ4X",
+    "symbol": "PUGCOIN",
+    "name": "PUGCOIN",
+    "liquidity_usd": 17855.35536687175,
+    "source_listed_at": "2026-09-08T08:24:14",
+    "peak_liquidity_usd": 17855.35536687175,
+    "last_checked_at": "2026-09-08T08:24:39.509158+00:00",
     "rug_flag": false
   }
 ]
