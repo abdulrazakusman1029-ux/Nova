@@ -3247,7 +3247,7 @@
     "liquidity_usd": 18371.53082514787,
     "source_listed_at": "2026-09-05T22:19:02",
     "peak_liquidity_usd": 18371.53082514787,
-    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
+    "last_checked_at": "2026-09-08T14:24:36.782931+00:00",
     "rug_flag": false
   },
   {
@@ -3258,7 +3258,7 @@
     "liquidity_usd": 18594.047910949674,
     "source_listed_at": "2026-09-05T22:18:59",
     "peak_liquidity_usd": 18594.047910949674,
-    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
+    "last_checked_at": "2026-09-08T14:24:36.782931+00:00",
     "rug_flag": false
   },
   {
@@ -4623,6 +4623,17 @@
     "source_listed_at": "2026-09-08T13:23:42",
     "peak_liquidity_usd": 26450.240019386034,
     "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T14:24:36.327304+00:00",
+    "address": "4hriC4x7DkWBiouCE114RX4nwPn1VD7uncF2oce4vxqz",
+    "symbol": "BZZ",
+    "name": "The Swarm",
+    "liquidity_usd": 17892.776203549773,
+    "source_listed_at": "2026-09-08T14:24:10",
+    "peak_liquidity_usd": 17892.776203549773,
+    "last_checked_at": "2026-09-08T14:24:36.782931+00:00",
     "rug_flag": false
   }
 ]
