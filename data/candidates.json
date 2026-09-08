@@ -4239,5 +4239,60 @@
     "peak_liquidity_usd": 48753.03655473622,
     "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T00:32:57.315417+00:00",
+    "address": "8ojEHog9FsSxv7JK9VhHuH8HPmh3D5tTuse6msmbpump",
+    "symbol": "Shiro-chan",
+    "name": "LITERALLY FREE!",
+    "liquidity_usd": 69753.18503941946,
+    "source_listed_at": "2026-09-08T00:32:52",
+    "peak_liquidity_usd": 69753.18503941946,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T00:32:57.315437+00:00",
+    "address": "EeDtjPrLknHWy5jjVbdnYCB7tNM8rea96C14u7FJpump",
+    "symbol": "Shiro-chan",
+    "name": "LITERALLY FREE!",
+    "liquidity_usd": 69753.18503941946,
+    "source_listed_at": "2026-09-08T00:32:52",
+    "peak_liquidity_usd": 69753.18503941946,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T00:32:57.315448+00:00",
+    "address": "AcfrjAA8TKJwqyqvnrVYFrUTM56zNSbVW7TesNnrpump",
+    "symbol": "CHUMP",
+    "name": "Chump Coin",
+    "liquidity_usd": 7680.853250479971,
+    "source_listed_at": "2026-09-08T00:32:47",
+    "peak_liquidity_usd": 7680.853250479971,
+    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T00:32:57.315454+00:00",
+    "address": "C4jqY9CJDyHpA9feKUmb65i3i7D5gJhnWvHkhBkw47eU",
+    "symbol": "COMPUTE",
+    "name": "NVIDIA Compute",
+    "liquidity_usd": 17595.83124065348,
+    "source_listed_at": "2026-09-08T00:32:12",
+    "peak_liquidity_usd": 17595.83124065348,
+    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T00:32:57.315461+00:00",
+    "address": "4jN9A2XQ2K5iCYiJEfFhZXwqQmpDV4u8ktwN3UxKpump",
+    "symbol": "CHUMP",
+    "name": "Chump Coin",
+    "liquidity_usd": 5840.148619406362,
+    "source_listed_at": "2026-09-08T00:32:11",
+    "peak_liquidity_usd": 5840.148619406362,
+    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
+    "rug_flag": false
   }
 ]
