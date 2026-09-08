@@ -3203,7 +3203,7 @@
     "liquidity_usd": 69716.34008783022,
     "source_listed_at": "2026-09-05T21:18:16",
     "peak_liquidity_usd": 69716.34008783022,
-    "last_checked_at": "2026-09-05T22:19:23.590514+00:00",
+    "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
     "rug_flag": false
   },
   {
@@ -4601,6 +4601,28 @@
     "source_listed_at": "2026-09-08T12:28:12",
     "peak_liquidity_usd": 17952.97593939246,
     "last_checked_at": "2026-09-08T12:28:45.057793+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T13:24:06.776672+00:00",
+    "address": "8XTwW8vkdcjX8ix3N249soyYDtLFrKJBY4dZhAKKWCbf",
+    "symbol": "MEME",
+    "name": "Memecoin",
+    "liquidity_usd": 20488.220174982052,
+    "source_listed_at": "2026-09-08T13:24:00",
+    "peak_liquidity_usd": 20488.220174982052,
+    "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T13:24:06.776692+00:00",
+    "address": "B7bQ3n1JZ448WpPM1poiZpk3PUk5wLombp3HSx29jzyw",
+    "symbol": "GPTPONS",
+    "name": "Gpt Pons",
+    "liquidity_usd": 26450.240019386034,
+    "source_listed_at": "2026-09-08T13:23:42",
+    "peak_liquidity_usd": 26450.240019386034,
+    "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
     "rug_flag": false
   }
 ]
