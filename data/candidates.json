@@ -4393,5 +4393,38 @@
     "peak_liquidity_usd": 31435.30407811622,
     "last_checked_at": "2026-09-08T02:22:32.752198+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T03:22:28.983565+00:00",
+    "address": "8TSd8wyRrwPU2vTSDMVaWnqchk9vSnim8mHAPj18pump",
+    "symbol": "ChadGPT",
+    "name": "ChadGPT",
+    "liquidity_usd": 69435.40157966928,
+    "source_listed_at": "2026-09-08T03:22:26",
+    "peak_liquidity_usd": 69435.40157966928,
+    "last_checked_at": "2026-09-08T03:22:29.502868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T03:22:28.983588+00:00",
+    "address": "A1mV8nAFNCqvb7C5awndW2byNBWxANN1cXK1ZB6epump",
+    "symbol": "ChadGPT",
+    "name": "ChadGPT",
+    "liquidity_usd": 69435.40157966928,
+    "source_listed_at": "2026-09-08T03:22:26",
+    "peak_liquidity_usd": 69435.40157966928,
+    "last_checked_at": "2026-09-08T03:22:29.502868+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T03:22:28.983596+00:00",
+    "address": "6KtZeC61XWu4Nht9WAbrGraJpXxtDAKF4Zj1xMQFywa1",
+    "symbol": "STONK",
+    "name": "STONK",
+    "liquidity_usd": 45671.7725229276,
+    "source_listed_at": "2026-09-08T03:21:19",
+    "peak_liquidity_usd": 45671.7725229276,
+    "last_checked_at": "2026-09-08T03:22:29.502868+00:00",
+    "rug_flag": false
   }
 ]
