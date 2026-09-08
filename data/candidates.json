@@ -3332,11 +3332,11 @@
     "address": "FNcyJbFFjWnHZ6c2yeDjMNRCmcMd1i1MoUVqzVJJpump",
     "symbol": "R2L",
     "name": "Ready To Launch",
-    "liquidity_usd": 7826.76867424071,
+    "liquidity_usd": 267.5691524561786,
     "source_listed_at": "2026-09-06T03:21:10",
     "peak_liquidity_usd": 7826.76867424071,
-    "last_checked_at": "2026-09-06T03:21:16.389910+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-08T19:20:30.435563+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-06T05:19:49.029740+00:00",
@@ -3357,7 +3357,7 @@
     "liquidity_usd": 286629.3550359635,
     "source_listed_at": "2026-09-06T05:19:24",
     "peak_liquidity_usd": 286629.3550359635,
-    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
+    "last_checked_at": "2026-09-08T19:20:30.435563+00:00",
     "rug_flag": false
   },
   {
@@ -3365,11 +3365,11 @@
     "address": "AbeSa6y5sj7YcticPmp3iQjgLRKPJbxpqLtnWCDYehpn",
     "symbol": "URCOIN",
     "name": "ur coin",
-    "liquidity_usd": 14805.921972305625,
+    "liquidity_usd": 7.429323766088484e-07,
     "source_listed_at": "2026-09-06T05:19:11",
     "peak_liquidity_usd": 14805.921972305625,
-    "last_checked_at": "2026-09-06T05:19:49.370064+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-08T19:20:30.435563+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-06T05:19:49.029775+00:00",
