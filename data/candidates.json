@@ -4294,5 +4294,71 @@
     "peak_liquidity_usd": 5840.148619406362,
     "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801199+00:00",
+    "address": "5KTAmBU6m49hKHc8nceJTia6a5ia2WsnhvKHePoEpump",
+    "symbol": "S&P500",
+    "name": "SP500 for crypto",
+    "liquidity_usd": 69952.56656023988,
+    "source_listed_at": "2026-09-08T01:21:31",
+    "peak_liquidity_usd": 69952.56656023988,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801216+00:00",
+    "address": "F1mwXcavUQJPYQNZKFb8JCDudYmeNoUnS3KoVAxJpump",
+    "symbol": "S&P500",
+    "name": "SP500 for crypto",
+    "liquidity_usd": 70304.63368121603,
+    "source_listed_at": "2026-09-08T01:21:27",
+    "peak_liquidity_usd": 70304.63368121603,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801221+00:00",
+    "address": "BNrYE1KoQj7ZJufVZL32WU3XbhGdt3c7XgnCQzQoc3yd",
+    "symbol": "Mona Lisa",
+    "name": "Mona Lisa",
+    "liquidity_usd": 28874.119278229628,
+    "source_listed_at": "2026-09-08T01:21:26",
+    "peak_liquidity_usd": 28874.119278229628,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801224+00:00",
+    "address": "DAFP6667t1f2YPstxqo1aNdEawTxX2KMMyLGmJEKpump",
+    "symbol": "S&P500",
+    "name": "SP500 for crypto",
+    "liquidity_usd": 70297.7212284683,
+    "source_listed_at": "2026-09-08T01:21:21",
+    "peak_liquidity_usd": 70297.7212284683,
+    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801226+00:00",
+    "address": "kZm839QiaUcZ9Ah3BhFbhdKtka6MGdCf2kvgum9pump",
+    "symbol": "PONYX",
+    "name": "PONYX",
+    "liquidity_usd": 11186.7537411611,
+    "source_listed_at": "2026-09-08T01:21:05",
+    "peak_liquidity_usd": 11186.7537411611,
+    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T01:21:36.801230+00:00",
+    "address": "3zsQTJzcMZyB3bFct7F9iGvor3GX2udzYAvfK62Npump",
+    "symbol": "CHUMP",
+    "name": "Chump Coin",
+    "liquidity_usd": 7680.846861232246,
+    "source_listed_at": "2026-09-08T01:20:48",
+    "peak_liquidity_usd": 7680.846861232246,
+    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
+    "rug_flag": false
   }
 ]
