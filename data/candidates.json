@@ -3280,7 +3280,7 @@
     "liquidity_usd": 17527.72825415467,
     "source_listed_at": "2026-09-05T23:17:37",
     "peak_liquidity_usd": 17527.72825415467,
-    "last_checked_at": "2026-09-05T23:18:40.897681+00:00",
+    "last_checked_at": "2026-09-08T16:24:40.072311+00:00",
     "rug_flag": false
   },
   {
@@ -3291,7 +3291,7 @@
     "liquidity_usd": 18343.573771904623,
     "source_listed_at": "2026-09-06T00:32:45",
     "peak_liquidity_usd": 18343.573771904623,
-    "last_checked_at": "2026-09-06T00:33:31.924894+00:00",
+    "last_checked_at": "2026-09-08T16:24:40.072311+00:00",
     "rug_flag": false
   },
   {
@@ -4656,6 +4656,17 @@
     "source_listed_at": "2026-09-08T15:24:09",
     "peak_liquidity_usd": 17515.293759363663,
     "last_checked_at": "2026-09-08T15:24:31.876043+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T16:24:39.525242+00:00",
+    "address": "G2ciCtrLspKTeU1EZ8F2RvKEVPMd2DoE52LeXnKUERg5",
+    "symbol": "SGB",
+    "name": "SGBCOIN",
+    "liquidity_usd": 10997.802283067504,
+    "source_listed_at": "2026-09-08T16:24:20",
+    "peak_liquidity_usd": 10997.802283067504,
+    "last_checked_at": "2026-09-08T16:24:40.072311+00:00",
     "rug_flag": false
   }
 ]
