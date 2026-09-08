@@ -4569,5 +4569,38 @@
     "peak_liquidity_usd": 69172.92016755133,
     "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T12:28:44.530489+00:00",
+    "address": "8CkDw26UccXyuJmt5D2fdXStKFc4x7Wj3kVQQVu2a5y3",
+    "symbol": "SIGNAL",
+    "name": "The Signal",
+    "liquidity_usd": 21562.799343627332,
+    "source_listed_at": "2026-09-08T12:28:26",
+    "peak_liquidity_usd": 21562.799343627332,
+    "last_checked_at": "2026-09-08T12:28:45.057793+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T12:28:44.530508+00:00",
+    "address": "93g2CQHoCVW6hV4e2UME4xLPPJanfADZUpi6dxB4NAPo",
+    "symbol": "Taraxacum",
+    "name": "Taraxacum",
+    "liquidity_usd": 17954.846981028026,
+    "source_listed_at": "2026-09-08T12:28:16",
+    "peak_liquidity_usd": 17954.846981028026,
+    "last_checked_at": "2026-09-08T12:28:45.057793+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-08T12:28:44.530512+00:00",
+    "address": "6g3eraEvXKAxfCUz1Sm83p98sY7MdN77WTu697DWLBLt",
+    "symbol": "SIGNAL",
+    "name": "The Signal",
+    "liquidity_usd": 17952.97593939246,
+    "source_listed_at": "2026-09-08T12:28:12",
+    "peak_liquidity_usd": 17952.97593939246,
+    "last_checked_at": "2026-09-08T12:28:45.057793+00:00",
+    "rug_flag": false
   }
 ]
