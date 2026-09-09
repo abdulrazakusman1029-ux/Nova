@@ -4787,7 +4787,7 @@
     "liquidity_usd": 69508.0851626068,
     "source_listed_at": "2026-09-09T01:20:16",
     "peak_liquidity_usd": 69508.0851626068,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-09T02:22:38.345578+00:00",
     "rug_flag": false
   },
   {
@@ -4821,6 +4821,28 @@
     "source_listed_at": "2026-09-09T01:20:14",
     "peak_liquidity_usd": 17957.343170846285,
     "last_checked_at": "2026-09-09T01:20:35.019979+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T02:22:37.990510+00:00",
+    "address": "8UA2iia1MsYsvGvZrSXXkcE5rUyxJFF3nyCeCH9rHvv5",
+    "symbol": "CC",
+    "name": "Cashcow",
+    "liquidity_usd": 17047.733189595292,
+    "source_listed_at": "2026-09-09T02:22:01",
+    "peak_liquidity_usd": 17047.733189595292,
+    "last_checked_at": "2026-09-09T02:22:38.345578+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T02:22:37.990526+00:00",
+    "address": "BgERMEYWc9ExrUgkZMiHdhFw5r3bUFfxjGDk3ajpump",
+    "symbol": "LAPTOP",
+    "name": "LAPTOP",
+    "liquidity_usd": 196840.03384841615,
+    "source_listed_at": "2026-09-09T02:21:52",
+    "peak_liquidity_usd": 196840.03384841615,
+    "last_checked_at": "2026-09-09T02:22:38.345578+00:00",
     "rug_flag": false
   }
 ]
