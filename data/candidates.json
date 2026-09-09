@@ -3775,7 +3775,7 @@
     "liquidity_usd": 71544.28027332883,
     "source_listed_at": "2026-09-07T00:33:02",
     "peak_liquidity_usd": 71544.28027332883,
-    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "last_checked_at": "2026-09-09T18:25:33.328793+00:00",
     "rug_flag": false
   },
   {
@@ -3786,7 +3786,7 @@
     "liquidity_usd": 18139.225903072485,
     "source_listed_at": "2026-09-07T00:32:45",
     "peak_liquidity_usd": 18139.225903072485,
-    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "last_checked_at": "2026-09-09T18:25:33.328793+00:00",
     "rug_flag": false
   },
   {
@@ -4997,6 +4997,17 @@
     "source_listed_at": "2026-09-09T13:23:43",
     "peak_liquidity_usd": 11224.61686264637,
     "last_checked_at": "2026-09-09T13:23:57.801808+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T18:25:32.607880+00:00",
+    "address": "5DqXiiBrs4ks4wAKnhJRpNJDcDCDa7hPBm2da652kSix",
+    "symbol": "STONK",
+    "name": "STONK",
+    "liquidity_usd": 17876.90425267038,
+    "source_listed_at": "2026-09-09T18:25:24",
+    "peak_liquidity_usd": 17876.90425267038,
+    "last_checked_at": "2026-09-09T18:25:33.328793+00:00",
     "rug_flag": false
   }
 ]
