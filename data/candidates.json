@@ -3596,11 +3596,11 @@
     "address": "4ngWgNTpwvfPFUBTfJX5apmgavNXrdKUyuhCqM1bPfv3",
     "symbol": "LOOM",
     "name": "loom",
-    "liquidity_usd": 6170.8186247053545,
+    "liquidity_usd": 114.8581088228047,
     "source_listed_at": "2026-09-06T16:20:53",
     "peak_liquidity_usd": 6170.8186247053545,
-    "last_checked_at": "2026-09-06T16:21:29.766701+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-09T14:22:14.126770+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-06T17:18:45.187588+00:00",
@@ -3610,7 +3610,7 @@
     "liquidity_usd": 15925.127458937857,
     "source_listed_at": "2026-09-06T17:18:37",
     "peak_liquidity_usd": 15925.127458937857,
-    "last_checked_at": "2026-09-06T17:18:45.578087+00:00",
+    "last_checked_at": "2026-09-09T14:22:14.126770+00:00",
     "rug_flag": false
   },
   {
@@ -3621,7 +3621,7 @@
     "liquidity_usd": 18073.961724542412,
     "source_listed_at": "2026-09-06T18:21:46",
     "peak_liquidity_usd": 18073.961724542412,
-    "last_checked_at": "2026-09-06T18:22:16.406395+00:00",
+    "last_checked_at": "2026-09-09T14:22:14.126770+00:00",
     "rug_flag": false
   },
   {
