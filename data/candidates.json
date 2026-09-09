@@ -4778,5 +4778,49 @@
     "peak_liquidity_usd": 70028.63551274162,
     "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T01:20:34.348299+00:00",
+    "address": "8DuFdkRG9ZG1KqCXCGRHAjxLo8oXKWVzSB9EvAEnpump",
+    "symbol": "NGGA",
+    "name": "actually done right ",
+    "liquidity_usd": 69508.0851626068,
+    "source_listed_at": "2026-09-09T01:20:16",
+    "peak_liquidity_usd": 69508.0851626068,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T01:20:34.348320+00:00",
+    "address": "CQPkuPFs41PHb7wSoBT9L86GUZuC4cyNnZtVmN8cpump",
+    "symbol": "NGGA",
+    "name": "actually done right ",
+    "liquidity_usd": 69508.0851626068,
+    "source_listed_at": "2026-09-09T01:20:16",
+    "peak_liquidity_usd": 69508.0851626068,
+    "last_checked_at": "2026-09-09T01:20:35.019979+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T01:20:34.348325+00:00",
+    "address": "CVxkhGVaKAMsavtU5AJed6o7gtWnB9BHpGrddULppump",
+    "symbol": "COPDRG",
+    "name": "Copper Dragon",
+    "liquidity_usd": 89081.17229628823,
+    "source_listed_at": "2026-09-09T01:20:15",
+    "peak_liquidity_usd": 89081.17229628823,
+    "last_checked_at": "2026-09-09T01:20:35.019979+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T01:20:34.348329+00:00",
+    "address": "7xk4aVAaWjNSj5z3DWbGYCp1Nv3KWn8Z5ygmRSMN59JN",
+    "symbol": "STOCKLESS",
+    "name": "STOCKLESS",
+    "liquidity_usd": 17957.343170846285,
+    "source_listed_at": "2026-09-09T01:20:14",
+    "peak_liquidity_usd": 17957.343170846285,
+    "last_checked_at": "2026-09-09T01:20:35.019979+00:00",
+    "rug_flag": false
   }
 ]
