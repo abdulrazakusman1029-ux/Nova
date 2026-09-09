@@ -3764,7 +3764,7 @@
     "liquidity_usd": 71544.28027332883,
     "source_listed_at": "2026-09-07T00:33:02",
     "peak_liquidity_usd": 71544.28027332883,
-    "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
+    "last_checked_at": "2026-09-09T23:19:50.288315+00:00",
     "rug_flag": false
   },
   {
@@ -3808,7 +3808,7 @@
     "liquidity_usd": 11346.51072386724,
     "source_listed_at": "2026-09-07T01:20:12",
     "peak_liquidity_usd": 11346.51072386724,
-    "last_checked_at": "2026-09-07T03:22:45.444027+00:00",
+    "last_checked_at": "2026-09-09T23:19:50.288315+00:00",
     "rug_flag": false
   },
   {
@@ -3871,11 +3871,11 @@
     "address": "3n7bZQWddJoeDmPHrHC1wvdTR5H9vzxU9YKkHYZbRDSw",
     "symbol": "Brady",
     "name": "X Ray Sprite Creator",
-    "liquidity_usd": 18457.326999940782,
+    "liquidity_usd": 3.367213845294331e-07,
     "source_listed_at": "2026-09-07T02:21:19",
     "peak_liquidity_usd": 18457.326999940782,
-    "last_checked_at": "2026-09-07T02:22:04.121170+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-09T23:19:50.288315+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-07T03:22:45.108956+00:00",
