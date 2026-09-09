@@ -3797,7 +3797,7 @@
     "liquidity_usd": 11438.212077177908,
     "source_listed_at": "2026-09-07T00:32:45",
     "peak_liquidity_usd": 11438.212077177908,
-    "last_checked_at": "2026-09-07T00:33:24.044249+00:00",
+    "last_checked_at": "2026-09-09T19:20:12.049846+00:00",
     "rug_flag": false
   },
   {
@@ -3830,7 +3830,7 @@
     "liquidity_usd": 71023.22164488322,
     "source_listed_at": "2026-09-07T01:19:50",
     "peak_liquidity_usd": 71023.22164488322,
-    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "last_checked_at": "2026-09-09T19:20:12.049846+00:00",
     "rug_flag": false
   },
   {
@@ -5008,6 +5008,17 @@
     "source_listed_at": "2026-09-09T18:25:24",
     "peak_liquidity_usd": 17876.90425267038,
     "last_checked_at": "2026-09-09T18:25:33.328793+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T19:20:11.292731+00:00",
+    "address": "7BGgodPXW5GYDkCiQ3V4eqJbrawsctdPE9ieWLx6fq7c",
+    "symbol": "HORST",
+    "name": "Horst Staley",
+    "liquidity_usd": 17461.338589289004,
+    "source_listed_at": "2026-09-09T19:19:33",
+    "peak_liquidity_usd": 17461.338589289004,
+    "last_checked_at": "2026-09-09T19:20:12.049846+00:00",
     "rug_flag": false
   }
 ]
