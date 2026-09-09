@@ -3819,7 +3819,7 @@
     "liquidity_usd": 70965.48731062096,
     "source_listed_at": "2026-09-07T01:19:53",
     "peak_liquidity_usd": 70965.48731062096,
-    "last_checked_at": "2026-09-07T02:22:04.121170+00:00",
+    "last_checked_at": "2026-09-09T21:19:57.149498+00:00",
     "rug_flag": false
   },
   {
@@ -3863,7 +3863,7 @@
     "liquidity_usd": 10766.895883419393,
     "source_listed_at": "2026-09-07T02:21:55",
     "peak_liquidity_usd": 10766.895883419393,
-    "last_checked_at": "2026-09-07T02:22:04.121170+00:00",
+    "last_checked_at": "2026-09-09T21:19:57.149498+00:00",
     "rug_flag": false
   },
   {
@@ -5030,6 +5030,17 @@
     "source_listed_at": "2026-09-09T20:22:05",
     "peak_liquidity_usd": 5253.215320875723,
     "last_checked_at": "2026-09-09T20:22:19.597501+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T21:19:56.660838+00:00",
+    "address": "6hhAVk9iW5pQfmPYc7GB6B51ehLcY7FH8Yj1ZvcNGpne",
+    "symbol": "Fido",
+    "name": "fYd0jxhubt7zlEb!",
+    "liquidity_usd": 17295.09944581836,
+    "source_listed_at": "2026-09-09T21:19:48",
+    "peak_liquidity_usd": 17295.09944581836,
+    "last_checked_at": "2026-09-09T21:19:57.149498+00:00",
     "rug_flag": false
   }
 ]
