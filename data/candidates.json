@@ -3544,7 +3544,7 @@
     "liquidity_usd": 18090.312075242793,
     "source_listed_at": "2026-09-06T13:19:49",
     "peak_liquidity_usd": 18090.312075242793,
-    "last_checked_at": "2026-09-06T14:20:12.482424+00:00",
+    "last_checked_at": "2026-09-09T12:27:52.278434+00:00",
     "rug_flag": false
   },
   {
@@ -4953,6 +4953,28 @@
     "source_listed_at": "2026-09-09T09:23:09",
     "peak_liquidity_usd": 13151.588753902772,
     "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T12:27:51.821563+00:00",
+    "address": "MqqX1XqjUUX6wFzyysgipiKpYnRfdeZHyTfmNiPpump",
+    "symbol": "LAPTOP",
+    "name": "LAPTOP",
+    "liquidity_usd": 11230.695757005893,
+    "source_listed_at": "2026-09-09T12:27:17",
+    "peak_liquidity_usd": 11230.695757005893,
+    "last_checked_at": "2026-09-09T12:27:52.278434+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T12:27:51.821580+00:00",
+    "address": "9CUemZ45DX5cCdpjNvfC3GTP416tUpsbXj6AceCf6opW",
+    "symbol": "BODEN",
+    "name": "Hunter Boden",
+    "liquidity_usd": 17815.387857651207,
+    "source_listed_at": "2026-09-09T12:27:16",
+    "peak_liquidity_usd": 17815.387857651207,
+    "last_checked_at": "2026-09-09T12:27:52.278434+00:00",
     "rug_flag": false
   }
 ]
