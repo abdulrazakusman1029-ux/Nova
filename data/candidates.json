@@ -4888,5 +4888,38 @@
     "peak_liquidity_usd": 11025.792970286237,
     "last_checked_at": "2026-09-09T03:22:19.582206+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T04:22:30.758961+00:00",
+    "address": "Aw1V6vm3AVY1seSsAVwqCQB8MUGQgEZHjntV7vwLpump",
+    "symbol": "fgsdfg",
+    "name": "sdfdgds",
+    "liquidity_usd": 5776.844122239035,
+    "source_listed_at": "2026-09-09T04:22:17",
+    "peak_liquidity_usd": 5776.844122239035,
+    "last_checked_at": "2026-09-09T04:22:31.154036+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T04:22:30.758982+00:00",
+    "address": "CR4fMtCuMoaqZ6WaaSkKHBGByrFipSAtjrQWfa8Vpump",
+    "symbol": "dfsgdsfggf",
+    "name": "dsfg",
+    "liquidity_usd": 6735.477961192786,
+    "source_listed_at": "2026-09-09T04:21:49",
+    "peak_liquidity_usd": 6735.477961192786,
+    "last_checked_at": "2026-09-09T04:22:31.154036+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T04:22:30.758989+00:00",
+    "address": "BpJoiDaEPemqqt8Xrj4Eqht5pAWs2iz6jPbptd5Jfy2x",
+    "symbol": "PUMP+",
+    "name": "Pump Plus",
+    "liquidity_usd": 18097.09803095201,
+    "source_listed_at": "2026-09-09T04:21:46",
+    "peak_liquidity_usd": 18097.09803095201,
+    "last_checked_at": "2026-09-09T04:22:31.154036+00:00",
+    "rug_flag": false
   }
 ]
