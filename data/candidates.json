@@ -3841,7 +3841,7 @@
     "liquidity_usd": 71343.56289366823,
     "source_listed_at": "2026-09-07T01:19:45",
     "peak_liquidity_usd": 71343.56289366823,
-    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "last_checked_at": "2026-09-09T20:22:19.597501+00:00",
     "rug_flag": false
   },
   {
@@ -3852,7 +3852,7 @@
     "liquidity_usd": 71002.29302816831,
     "source_listed_at": "2026-09-07T01:19:42",
     "peak_liquidity_usd": 71002.29302816831,
-    "last_checked_at": "2026-09-07T01:20:24.696028+00:00",
+    "last_checked_at": "2026-09-09T20:22:19.597501+00:00",
     "rug_flag": false
   },
   {
@@ -5019,6 +5019,17 @@
     "source_listed_at": "2026-09-09T19:19:33",
     "peak_liquidity_usd": 17461.338589289004,
     "last_checked_at": "2026-09-09T19:20:12.049846+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T20:22:19.182920+00:00",
+    "address": "3nESmgWeDgNsje1pEdM4sMnwzKjskHPfCWN8pfVdpump",
+    "symbol": "Oof",
+    "name": "Oof",
+    "liquidity_usd": 5253.215320875723,
+    "source_listed_at": "2026-09-09T20:22:05",
+    "peak_liquidity_usd": 5253.215320875723,
+    "last_checked_at": "2026-09-09T20:22:19.597501+00:00",
     "rug_flag": false
   }
 ]
