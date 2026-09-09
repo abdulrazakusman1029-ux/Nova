@@ -4734,5 +4734,49 @@
     "peak_liquidity_usd": 11058.602173120888,
     "last_checked_at": "2026-09-08T21:20:03.418936+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T00:32:38.998539+00:00",
+    "address": "6VQaF7AGD8C74AJ4FyUNGY9qPTg835qmEa84QEk4pump",
+    "symbol": "Topless",
+    "name": "there is no top",
+    "liquidity_usd": 69677.32616722045,
+    "source_listed_at": "2026-09-09T00:32:35",
+    "peak_liquidity_usd": 69677.32616722045,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T00:32:38.998562+00:00",
+    "address": "D4oN3WaBQxtZL3wjPNDjehqdLwakhPRydRrTMAfepump",
+    "symbol": "Topless",
+    "name": "there is no top",
+    "liquidity_usd": 69650.91232375616,
+    "source_listed_at": "2026-09-09T00:32:31",
+    "peak_liquidity_usd": 69650.91232375616,
+    "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T00:32:38.998569+00:00",
+    "address": "BxmGV2yuvcNHw6zwfXmtdWN2e2FjA9KqnLXQDVubrmWe",
+    "symbol": "clit",
+    "name": "clitcoin",
+    "liquidity_usd": 18006.745860511324,
+    "source_listed_at": "2026-09-09T00:32:29",
+    "peak_liquidity_usd": 18006.745860511324,
+    "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T00:32:38.998576+00:00",
+    "address": "9QXtzqrd7yGLbkBHFaaoBjJP1vZLYqyU4RQqNkk1pump",
+    "symbol": "Topless",
+    "name": "Topless",
+    "liquidity_usd": 70028.63551274162,
+    "source_listed_at": "2026-09-09T00:32:20",
+    "peak_liquidity_usd": 70028.63551274162,
+    "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
+    "rug_flag": false
   }
 ]
