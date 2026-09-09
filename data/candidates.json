@@ -3566,7 +3566,7 @@
     "liquidity_usd": 15331.901108722985,
     "source_listed_at": "2026-09-06T13:19:32",
     "peak_liquidity_usd": 15331.901108722985,
-    "last_checked_at": "2026-09-06T13:20:03.340881+00:00",
+    "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
     "rug_flag": false
   },
   {
@@ -4931,6 +4931,28 @@
     "source_listed_at": "2026-09-09T05:21:25",
     "peak_liquidity_usd": 70350.85001705021,
     "last_checked_at": "2026-09-09T05:21:47.155887+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T09:23:43.745735+00:00",
+    "address": "72W7ZxSqJ2H8bZYht226o5bFNfukC8AxtMLPcYVaumN7",
+    "symbol": "CRIMECAT",
+    "name": "Crime Cat Gold",
+    "liquidity_usd": 20923.63736150428,
+    "source_listed_at": "2026-09-09T09:23:22",
+    "peak_liquidity_usd": 20923.63736150428,
+    "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T09:23:43.745752+00:00",
+    "address": "4XHjcwL7w5Zy9ac6527YEEZ3SJ8jmwR8oJ6KtA9NdjM6",
+    "symbol": "Apple\u82f9\u679c",
+    "name": "iPhone\u82f9\u679c",
+    "liquidity_usd": 13151.588753902772,
+    "source_listed_at": "2026-09-09T09:23:09",
+    "peak_liquidity_usd": 13151.588753902772,
+    "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
     "rug_flag": false
   }
 ]
