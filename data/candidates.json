@@ -5042,5 +5042,38 @@
     "peak_liquidity_usd": 17295.09944581836,
     "last_checked_at": "2026-09-09T21:19:57.149498+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T22:20:29.410753+00:00",
+    "address": "7Kx1WS4YQaratR3tXYJWUsoDq168HjC7RCRGpNKVGDkk",
+    "symbol": "baton",
+    "name": "baton",
+    "liquidity_usd": 17260.616303552117,
+    "source_listed_at": "2026-09-09T22:20:20",
+    "peak_liquidity_usd": 17260.616303552117,
+    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T22:20:29.410771+00:00",
+    "address": "6rmS4fPgxXiVDofXxfKENcxnyJ4priwxtV3H7BrX9kKx",
+    "symbol": "BATON",
+    "name": "BATON",
+    "liquidity_usd": 20071.469318714167,
+    "source_listed_at": "2026-09-09T22:20:06",
+    "peak_liquidity_usd": 20071.469318714167,
+    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T22:20:29.410775+00:00",
+    "address": "BALBtgw4KEyUwVpeLy3iut9ZRD7yFuy6nbHfE9TYta1e",
+    "symbol": "baton",
+    "name": "baton",
+    "liquidity_usd": 21280.348568557496,
+    "source_listed_at": "2026-09-09T22:19:57",
+    "peak_liquidity_usd": 21280.348568557496,
+    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "rug_flag": false
   }
 ]
