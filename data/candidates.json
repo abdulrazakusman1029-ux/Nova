@@ -4743,7 +4743,7 @@
     "liquidity_usd": 69677.32616722045,
     "source_listed_at": "2026-09-09T00:32:35",
     "peak_liquidity_usd": 69677.32616722045,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-09T05:21:47.155887+00:00",
     "rug_flag": false
   },
   {
@@ -4853,7 +4853,7 @@
     "liquidity_usd": 26887.98226668374,
     "source_listed_at": "2026-09-09T03:22:15",
     "peak_liquidity_usd": 26887.98226668374,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-09T05:21:47.155887+00:00",
     "rug_flag": false
   },
   {
@@ -4920,6 +4920,17 @@
     "source_listed_at": "2026-09-09T04:21:46",
     "peak_liquidity_usd": 18097.09803095201,
     "last_checked_at": "2026-09-09T04:22:31.154036+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T05:21:46.531520+00:00",
+    "address": "CDw5Xmqd7C61vc7eQQhqLPGMpcjJfS1zTwixBE4ypump",
+    "symbol": "Share",
+    "name": "Just buy one share of this asset",
+    "liquidity_usd": 70350.85001705021,
+    "source_listed_at": "2026-09-09T05:21:25",
+    "peak_liquidity_usd": 70350.85001705021,
+    "last_checked_at": "2026-09-09T05:21:47.155887+00:00",
     "rug_flag": false
   }
 ]
