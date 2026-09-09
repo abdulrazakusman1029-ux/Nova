@@ -4844,5 +4844,49 @@
     "peak_liquidity_usd": 196840.03384841615,
     "last_checked_at": "2026-09-09T02:22:38.345578+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T03:22:19.057992+00:00",
+    "address": "xHsoTzbFdCj4fR5NVrvH38SXBem6jWWWZ35G55yReCw",
+    "symbol": "STREAM",
+    "name": "Ponstream",
+    "liquidity_usd": 26887.98226668374,
+    "source_listed_at": "2026-09-09T03:22:15",
+    "peak_liquidity_usd": 26887.98226668374,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T03:22:19.058009+00:00",
+    "address": "8q9hfsTDB5PsaqAu9iG9ine8enWuF6cYLxrq9fB8pump",
+    "symbol": "Topless",
+    "name": "gooner + stock",
+    "liquidity_usd": 69634.33297076823,
+    "source_listed_at": "2026-09-09T03:22:14",
+    "peak_liquidity_usd": 69634.33297076823,
+    "last_checked_at": "2026-09-09T03:22:19.582206+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T03:22:19.058014+00:00",
+    "address": "RsLTPYoNdmHR5JGmcWQNZu9brVoQDagKdfCxkFWpump",
+    "symbol": "BEAST",
+    "name": "MrBeast",
+    "liquidity_usd": 11027.178445838206,
+    "source_listed_at": "2026-09-09T03:22:13",
+    "peak_liquidity_usd": 11027.178445838206,
+    "last_checked_at": "2026-09-09T03:22:19.582206+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-09T03:22:19.058017+00:00",
+    "address": "HFheeypmP1u8JJZPunpjfrC8PRwST1Ux22GsWfGpump",
+    "symbol": "NIKE",
+    "name": "Just Do It",
+    "liquidity_usd": 11025.792970286237,
+    "source_listed_at": "2026-09-09T03:21:50",
+    "peak_liquidity_usd": 11025.792970286237,
+    "last_checked_at": "2026-09-09T03:22:19.582206+00:00",
+    "rug_flag": false
   }
 ]
