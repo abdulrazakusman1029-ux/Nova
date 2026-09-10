@@ -4047,11 +4047,11 @@
     "address": "FakpBDmw6ZKvUPBVNEieBXg1z65zAxxYTab9Mpwa6hgV",
     "symbol": "HOODSHOP",
     "name": "Robinhood Market",
-    "liquidity_usd": 17782.731764303186,
+    "liquidity_usd": 3.1814375535254123e-07,
     "source_listed_at": "2026-09-07T12:28:07",
     "peak_liquidity_usd": 17782.731764303186,
-    "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-10T12:28:06.450228+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-07T12:28:30.249868+00:00",
@@ -4061,7 +4061,7 @@
     "liquidity_usd": 15332.425095468672,
     "source_listed_at": "2026-09-07T12:27:28",
     "peak_liquidity_usd": 15332.425095468672,
-    "last_checked_at": "2026-09-07T12:28:30.843899+00:00",
+    "last_checked_at": "2026-09-10T12:28:06.450228+00:00",
     "rug_flag": false
   },
   {
@@ -4083,7 +4083,7 @@
     "liquidity_usd": 26997.397507393907,
     "source_listed_at": "2026-09-07T13:23:12",
     "peak_liquidity_usd": 26997.397507393907,
-    "last_checked_at": "2026-09-07T13:24:03.714224+00:00",
+    "last_checked_at": "2026-09-10T12:28:06.450228+00:00",
     "rug_flag": false
   },
   {
