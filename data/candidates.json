@@ -3929,7 +3929,7 @@
     "liquidity_usd": 17977.30253914513,
     "source_listed_at": "2026-09-07T05:20:48",
     "peak_liquidity_usd": 17977.30253914513,
-    "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
+    "last_checked_at": "2026-09-10T03:22:52.543715+00:00",
     "rug_flag": false
   },
   {
@@ -3940,7 +3940,7 @@
     "liquidity_usd": 18311.128730810746,
     "source_listed_at": "2026-09-07T05:20:12",
     "peak_liquidity_usd": 18311.128730810746,
-    "last_checked_at": "2026-09-07T05:21:17.933576+00:00",
+    "last_checked_at": "2026-09-10T03:22:52.543715+00:00",
     "rug_flag": false
   },
   {
@@ -5129,6 +5129,17 @@
     "source_listed_at": "2026-09-10T02:22:14",
     "peak_liquidity_usd": 23352.752103428524,
     "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T03:22:52.027406+00:00",
+    "address": "5XTHVic5nMEbpV5JVBYqw9E664mvdhoJpLXuTsq3htUs",
+    "symbol": "Fly",
+    "name": "Flyhard",
+    "liquidity_usd": 17719.65180287558,
+    "source_listed_at": "2026-09-10T03:22:24",
+    "peak_liquidity_usd": 17719.65180287558,
+    "last_checked_at": "2026-09-10T03:22:52.543715+00:00",
     "rug_flag": false
   }
 ]
