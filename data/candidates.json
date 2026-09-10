@@ -4278,11 +4278,11 @@
     "address": "C4jqY9CJDyHpA9feKUmb65i3i7D5gJhnWvHkhBkw47eU",
     "symbol": "COMPUTE",
     "name": "NVIDIA Compute",
-    "liquidity_usd": 17595.83124065348,
+    "liquidity_usd": 0.0009951305856538153,
     "source_listed_at": "2026-09-08T00:32:12",
     "peak_liquidity_usd": 17595.83124065348,
-    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-10T21:19:03.158953+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T00:32:57.315461+00:00",
@@ -4292,7 +4292,7 @@
     "liquidity_usd": 5840.148619406362,
     "source_listed_at": "2026-09-08T00:32:11",
     "peak_liquidity_usd": 5840.148619406362,
-    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
+    "last_checked_at": "2026-09-10T21:19:03.158953+00:00",
     "rug_flag": false
   },
   {
@@ -4336,7 +4336,7 @@
     "liquidity_usd": 70297.7212284683,
     "source_listed_at": "2026-09-08T01:21:21",
     "peak_liquidity_usd": 70297.7212284683,
-    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
+    "last_checked_at": "2026-09-10T21:19:03.158953+00:00",
     "rug_flag": false
   },
   {
