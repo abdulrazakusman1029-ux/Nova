@@ -4344,11 +4344,11 @@
     "address": "kZm839QiaUcZ9Ah3BhFbhdKtka6MGdCf2kvgum9pump",
     "symbol": "PONYX",
     "name": "PONYX",
-    "liquidity_usd": 11186.7537411611,
+    "liquidity_usd": 296.9751405958216,
     "source_listed_at": "2026-09-08T01:21:05",
     "peak_liquidity_usd": 11186.7537411611,
-    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-10T22:19:57.775876+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T01:21:36.801230+00:00",
@@ -4358,7 +4358,7 @@
     "liquidity_usd": 7680.846861232246,
     "source_listed_at": "2026-09-08T01:20:48",
     "peak_liquidity_usd": 7680.846861232246,
-    "last_checked_at": "2026-09-08T01:21:37.347020+00:00",
+    "last_checked_at": "2026-09-10T22:19:57.775876+00:00",
     "rug_flag": false
   },
   {
@@ -4369,7 +4369,7 @@
     "liquidity_usd": 70226.68453788356,
     "source_listed_at": "2026-09-08T02:22:26",
     "peak_liquidity_usd": 70226.68453788356,
-    "last_checked_at": "2026-09-08T02:22:32.752198+00:00",
+    "last_checked_at": "2026-09-10T22:19:57.775876+00:00",
     "rug_flag": false
   },
   {
