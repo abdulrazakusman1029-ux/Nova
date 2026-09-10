@@ -5097,5 +5097,38 @@
     "peak_liquidity_usd": 51928.90454175632,
     "last_checked_at": "2026-09-10T01:20:31.791718+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T02:22:43.575197+00:00",
+    "address": "294jPQvSEBwuShvmKyYEMsd3ZjNB37ESpsyh3thbYKYz",
+    "symbol": "baton",
+    "name": "baton",
+    "liquidity_usd": 111024.93988757778,
+    "source_listed_at": "2026-09-10T02:22:26",
+    "peak_liquidity_usd": 111024.93988757778,
+    "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T02:22:43.575214+00:00",
+    "address": "CHCxS7DmJmSWwWyN5yFkYqodLLAnQuJ4jD1BzQ1zpS8u",
+    "symbol": "Collar",
+    "name": "Blue Collar",
+    "liquidity_usd": 17260.37383739991,
+    "source_listed_at": "2026-09-10T02:22:15",
+    "peak_liquidity_usd": 17260.37383739991,
+    "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T02:22:43.575221+00:00",
+    "address": "644jc1xRrr97b57SwbUMCFzrnNiMhnSEua5ZhN39vqVZ",
+    "symbol": "Plumber",
+    "name": "Plumber",
+    "liquidity_usd": 23352.752103428524,
+    "source_listed_at": "2026-09-10T02:22:14",
+    "peak_liquidity_usd": 23352.752103428524,
+    "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "rug_flag": false
   }
 ]
