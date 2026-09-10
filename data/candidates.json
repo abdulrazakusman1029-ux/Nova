@@ -3951,7 +3951,7 @@
     "liquidity_usd": 17885.51118824042,
     "source_listed_at": "2026-09-07T06:29:34",
     "peak_liquidity_usd": 17885.51118824042,
-    "last_checked_at": "2026-09-07T06:29:42.072545+00:00",
+    "last_checked_at": "2026-09-10T04:22:40.832373+00:00",
     "rug_flag": false
   },
   {
@@ -3962,7 +3962,7 @@
     "liquidity_usd": 37470.05778430693,
     "source_listed_at": "2026-09-07T06:28:39",
     "peak_liquidity_usd": 37470.05778430693,
-    "last_checked_at": "2026-09-07T06:29:42.072545+00:00",
+    "last_checked_at": "2026-09-10T04:22:40.832373+00:00",
     "rug_flag": false
   },
   {
@@ -5140,6 +5140,17 @@
     "source_listed_at": "2026-09-10T03:22:24",
     "peak_liquidity_usd": 17719.65180287558,
     "last_checked_at": "2026-09-10T03:22:52.543715+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T04:22:40.420922+00:00",
+    "address": "Hyrsj88HxSdxKiWRbKdvT9b95sFvWQzBmkT8aYLdbonk",
+    "symbol": "Appledrg",
+    "name": "Apple Dragon",
+    "liquidity_usd": 80529.45497766385,
+    "source_listed_at": "2026-09-10T04:22:30",
+    "peak_liquidity_usd": 80529.45497766385,
+    "last_checked_at": "2026-09-10T04:22:40.832373+00:00",
     "rug_flag": false
   }
 ]
