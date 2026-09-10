@@ -4270,7 +4270,7 @@
     "liquidity_usd": 7680.853250479971,
     "source_listed_at": "2026-09-08T00:32:47",
     "peak_liquidity_usd": 7680.853250479971,
-    "last_checked_at": "2026-09-08T00:32:57.863432+00:00",
+    "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
     "rug_flag": false
   },
   {
@@ -5151,6 +5151,28 @@
     "source_listed_at": "2026-09-10T04:22:30",
     "peak_liquidity_usd": 80529.45497766385,
     "last_checked_at": "2026-09-10T04:22:40.832373+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T20:20:27.502339+00:00",
+    "address": "2Nc8F4gzceoTh8jyhKZgK5wDTK1GWvopuoFgSYXpN7P2",
+    "symbol": "CARRY",
+    "name": "Carry Portal",
+    "liquidity_usd": 21061.033474952208,
+    "source_listed_at": "2026-09-10T20:20:01",
+    "peak_liquidity_usd": 21061.033474952208,
+    "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-10T20:20:27.502357+00:00",
+    "address": "JCHQ3eB5dPBVX359G8SiJfq67MiJ2qVtShwP5Ryyy1bH",
+    "symbol": "CARRY",
+    "name": "Carry Portal",
+    "liquidity_usd": 17360.650316597108,
+    "source_listed_at": "2026-09-10T20:19:55",
+    "peak_liquidity_usd": 17360.650316597108,
+    "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
     "rug_flag": false
   }
 ]
