@@ -4212,11 +4212,11 @@
     "address": "5h7qNRoCLFXjYYdpNGvVv3Gizvn6Bxy2CkY55nY92gpC",
     "symbol": "NiggaButt",
     "name": "NiggaButt",
-    "liquidity_usd": 18488.301436769194,
+    "liquidity_usd": 1.5985217876897681e-06,
     "source_listed_at": "2026-09-07T21:21:14",
     "peak_liquidity_usd": 18488.301436769194,
-    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-10T19:18:35.735261+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-07T21:21:24.614567+00:00",
@@ -4226,7 +4226,7 @@
     "liquidity_usd": 18081.352218971806,
     "source_listed_at": "2026-09-07T21:21:06",
     "peak_liquidity_usd": 18081.352218971806,
-    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
+    "last_checked_at": "2026-09-10T19:18:35.735261+00:00",
     "rug_flag": false
   },
   {
@@ -4237,7 +4237,7 @@
     "liquidity_usd": 48753.03655473622,
     "source_listed_at": "2026-09-07T21:20:37",
     "peak_liquidity_usd": 48753.03655473622,
-    "last_checked_at": "2026-09-07T21:21:25.116166+00:00",
+    "last_checked_at": "2026-09-10T19:18:35.735261+00:00",
     "rug_flag": false
   },
   {
