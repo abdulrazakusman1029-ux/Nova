@@ -3970,11 +3970,11 @@
     "address": "k9K6VZDFrEhNHLbpmVDhr5FN2BC6cRC4URepuFDU7Zg",
     "symbol": "Polymonkey",
     "name": "Polymonkey",
-    "liquidity_usd": 23099.02659411183,
+    "liquidity_usd": 3.6904884405975196e-07,
     "source_listed_at": "2026-09-07T07:23:51",
     "peak_liquidity_usd": 23099.02659411183,
-    "last_checked_at": "2026-09-07T07:24:04.781444+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-10T05:21:07.825961+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-07T07:24:04.234453+00:00",
@@ -3984,7 +3984,7 @@
     "liquidity_usd": 15745.950665210126,
     "source_listed_at": "2026-09-07T07:23:36",
     "peak_liquidity_usd": 15745.950665210126,
-    "last_checked_at": "2026-09-07T07:24:04.781444+00:00",
+    "last_checked_at": "2026-09-10T05:21:07.825961+00:00",
     "rug_flag": false
   },
   {
@@ -3995,7 +3995,7 @@
     "liquidity_usd": 29410.88891919687,
     "source_listed_at": "2026-09-07T07:23:13",
     "peak_liquidity_usd": 29410.88891919687,
-    "last_checked_at": "2026-09-07T07:24:04.781444+00:00",
+    "last_checked_at": "2026-09-10T05:21:07.825961+00:00",
     "rug_flag": false
   },
   {
