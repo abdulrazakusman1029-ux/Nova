@@ -4644,7 +4644,7 @@
     "liquidity_usd": 97478.98519525108,
     "source_listed_at": "2026-09-08T15:24:13",
     "peak_liquidity_usd": 97478.98519525108,
-    "last_checked_at": "2026-09-08T15:24:31.876043+00:00",
+    "last_checked_at": "2026-09-11T10:38:27.833949+00:00",
     "rug_flag": false
   },
   {
@@ -5294,6 +5294,28 @@
     "source_listed_at": "2026-09-11T09:22:04",
     "peak_liquidity_usd": 7612.481565652852,
     "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T10:38:27.510442+00:00",
+    "address": "3S22yjPRosNfqMakycHeupaZ9chiJgutSd8iVzaLadq1",
+    "symbol": "Binanc",
+    "name": "BinanceTown",
+    "liquidity_usd": 17459.837911798208,
+    "source_listed_at": "2026-09-11T10:38:04",
+    "peak_liquidity_usd": 17459.837911798208,
+    "last_checked_at": "2026-09-11T10:38:27.833949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T10:38:27.510460+00:00",
+    "address": "DTbRsVj5LhEuUeACVop1FgFtbqhTrntqjoGCKnpFahwj",
+    "symbol": "WOFI",
+    "name": "WOFI",
+    "liquidity_usd": 31174.53724369983,
+    "source_listed_at": "2026-09-11T10:37:01",
+    "peak_liquidity_usd": 31174.53724369983,
+    "last_checked_at": "2026-09-11T10:38:27.833949+00:00",
     "rug_flag": false
   }
 ]
