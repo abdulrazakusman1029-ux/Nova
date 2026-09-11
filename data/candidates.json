@@ -4432,11 +4432,11 @@
     "address": "J8LLSefxYjCs6t757WqJ7f8iYii3zoVTaSkLWY6MBAGS",
     "symbol": "HORC",
     "name": "HORMUZ RADAR CRAB",
-    "liquidity_usd": 83424.32537996573,
+    "liquidity_usd": 0.018617935654477755,
     "source_listed_at": "2026-09-08T04:22:30",
     "peak_liquidity_usd": 83424.32537996573,
-    "last_checked_at": "2026-09-08T04:22:47.237506+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-11T02:22:00.025217+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T05:21:44.783302+00:00",
@@ -4446,7 +4446,7 @@
     "liquidity_usd": 6997.679474142001,
     "source_listed_at": "2026-09-08T05:21:11",
     "peak_liquidity_usd": 6997.679474142001,
-    "last_checked_at": "2026-09-08T05:21:45.197904+00:00",
+    "last_checked_at": "2026-09-11T02:22:00.025217+00:00",
     "rug_flag": false
   },
   {
@@ -4457,7 +4457,7 @@
     "liquidity_usd": 29881.60444478595,
     "source_listed_at": "2026-09-08T06:26:27",
     "peak_liquidity_usd": 29881.60444478595,
-    "last_checked_at": "2026-09-08T06:27:24.672331+00:00",
+    "last_checked_at": "2026-09-11T02:22:00.025217+00:00",
     "rug_flag": false
   },
   {
