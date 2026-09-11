@@ -4490,7 +4490,7 @@
     "liquidity_usd": 17600.537061439496,
     "source_listed_at": "2026-09-08T09:23:39",
     "peak_liquidity_usd": 17600.537061439496,
-    "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
+    "last_checked_at": "2026-09-11T05:20:55.058943+00:00",
     "rug_flag": false
   },
   {
@@ -4520,11 +4520,11 @@
     "address": "FdePp41dz282udganHiwVUwtQoXgoRAUX73cLiapump",
     "symbol": "ROBIN",
     "name": "Robin the Frog",
-    "liquidity_usd": 162887.57889638844,
+    "liquidity_usd": 2065.369349495706,
     "source_listed_at": "2026-09-08T09:22:22",
     "peak_liquidity_usd": 162887.57889638844,
-    "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-11T05:20:55.058943+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T10:23:28.544366+00:00",
@@ -4534,7 +4534,7 @@
     "liquidity_usd": 18097.044553948668,
     "source_listed_at": "2026-09-08T10:23:12",
     "peak_liquidity_usd": 18097.044553948668,
-    "last_checked_at": "2026-09-08T10:23:29.051113+00:00",
+    "last_checked_at": "2026-09-11T05:20:55.058943+00:00",
     "rug_flag": false
   },
   {
