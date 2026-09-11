@@ -4545,7 +4545,7 @@
     "liquidity_usd": 69498.51961208603,
     "source_listed_at": "2026-09-08T11:21:35",
     "peak_liquidity_usd": 69498.51961208603,
-    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "last_checked_at": "2026-09-11T06:27:04.741367+00:00",
     "rug_flag": false
   },
   {
@@ -4556,7 +4556,7 @@
     "liquidity_usd": 69499.17176070444,
     "source_listed_at": "2026-09-08T11:21:24",
     "peak_liquidity_usd": 69499.17176070444,
-    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "last_checked_at": "2026-09-11T06:27:04.741367+00:00",
     "rug_flag": false
   },
   {
@@ -5228,6 +5228,17 @@
     "source_listed_at": "2026-09-11T04:22:37",
     "peak_liquidity_usd": 10162.381882014966,
     "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T06:27:04.260831+00:00",
+    "address": "HShYvs6CZQdqq6FPqjQPRiCmNdKmRmSonkVBvdg3CfgD",
+    "symbol": "Bonkers",
+    "name": "Bonkers",
+    "liquidity_usd": 16936.775936124093,
+    "source_listed_at": "2026-09-11T06:26:41",
+    "peak_liquidity_usd": 16936.775936124093,
+    "last_checked_at": "2026-09-11T06:27:04.741367+00:00",
     "rug_flag": false
   }
 ]
