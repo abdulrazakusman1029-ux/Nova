@@ -5326,7 +5326,7 @@
     "liquidity_usd": 7544.204772221754,
     "source_listed_at": "2026-09-11T11:21:11",
     "peak_liquidity_usd": 7544.204772221754,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
     "rug_flag": false
   },
   {
@@ -5360,6 +5360,28 @@
     "source_listed_at": "2026-09-11T11:20:38",
     "peak_liquidity_usd": 7550.154198803203,
     "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T12:27:29.048653+00:00",
+    "address": "E2JS4mc7rDLebiu3qSXRQaoewbNdfNLYGLzosZYvT7zL",
+    "symbol": "EMBER",
+    "name": "embercurve",
+    "liquidity_usd": 16955.951872416652,
+    "source_listed_at": "2026-09-11T12:27:18",
+    "peak_liquidity_usd": 16955.951872416652,
+    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T12:27:29.048681+00:00",
+    "address": "9ZLz8h6eodZ1zESfvuqz9P3gj99D2K953yWk1VNxjhhz",
+    "symbol": "\u5b59\u5c0f\u5723",
+    "name": "\u5b59\u5c0f\u5723",
+    "liquidity_usd": 29690.938892030466,
+    "source_listed_at": "2026-09-11T12:27:05",
+    "peak_liquidity_usd": 29690.938892030466,
+    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
     "rug_flag": false
   }
 ]
