@@ -4512,7 +4512,7 @@
     "liquidity_usd": 80964.49825449832,
     "source_listed_at": "2026-09-08T09:22:24",
     "peak_liquidity_usd": 80964.49825449832,
-    "last_checked_at": "2026-09-08T09:23:45.348988+00:00",
+    "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
     "rug_flag": false
   },
   {
@@ -5206,6 +5206,28 @@
     "source_listed_at": "2026-09-11T01:19:48",
     "peak_liquidity_usd": 17136.020399419307,
     "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T04:23:07.446652+00:00",
+    "address": "DSZYfrVoPPBFg6bbDVgf4CWm2iRmKfSuiGn6iL1FQiaS",
+    "symbol": "STONK",
+    "name": "STONK",
+    "liquidity_usd": 17901.113229591505,
+    "source_listed_at": "2026-09-11T04:23:02",
+    "peak_liquidity_usd": 17901.113229591505,
+    "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T04:23:07.446670+00:00",
+    "address": "Cvjr3JsidSibDD9GRPqC26rQKejXjRaCPnieG5boPdX4",
+    "symbol": "Stonker",
+    "name": "Stonker",
+    "liquidity_usd": 10162.381882014966,
+    "source_listed_at": "2026-09-11T04:22:37",
+    "peak_liquidity_usd": 10162.381882014966,
+    "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
     "rug_flag": false
   }
 ]
