@@ -4608,11 +4608,11 @@
     "address": "8XTwW8vkdcjX8ix3N249soyYDtLFrKJBY4dZhAKKWCbf",
     "symbol": "MEME",
     "name": "Memecoin",
-    "liquidity_usd": 20488.220174982052,
+    "liquidity_usd": 5.376551212956341e-07,
     "source_listed_at": "2026-09-08T13:24:00",
     "peak_liquidity_usd": 20488.220174982052,
-    "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-11T10:22:29.886970+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T13:24:06.776692+00:00",
@@ -4622,7 +4622,7 @@
     "liquidity_usd": 26450.240019386034,
     "source_listed_at": "2026-09-08T13:23:42",
     "peak_liquidity_usd": 26450.240019386034,
-    "last_checked_at": "2026-09-08T13:24:07.221695+00:00",
+    "last_checked_at": "2026-09-11T10:22:29.886970+00:00",
     "rug_flag": false
   },
   {
@@ -4633,7 +4633,7 @@
     "liquidity_usd": 17892.776203549773,
     "source_listed_at": "2026-09-08T14:24:10",
     "peak_liquidity_usd": 17892.776203549773,
-    "last_checked_at": "2026-09-08T14:24:36.782931+00:00",
+    "last_checked_at": "2026-09-11T10:22:29.886970+00:00",
     "rug_flag": false
   },
   {
