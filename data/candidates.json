@@ -5174,5 +5174,38 @@
     "peak_liquidity_usd": 17360.650316597108,
     "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T01:20:47.977679+00:00",
+    "address": "J5FQiaSZA3NSX1MRaRfiiZEsDihW8nV6YgMCmGJTpump",
+    "symbol": "Acang",
+    "name": "ACACIA OIL ANGOLA CRAB",
+    "liquidity_usd": 74957.20794142773,
+    "source_listed_at": "2026-09-11T01:20:41",
+    "peak_liquidity_usd": 74957.20794142773,
+    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T01:20:47.977695+00:00",
+    "address": "A2JsAkqy4MSXzPTykKRGch3xotmzNn1u8ohftZ5Nn2Yy",
+    "symbol": "4MEME",
+    "name": "4MEME",
+    "liquidity_usd": 17322.41399647164,
+    "source_listed_at": "2026-09-11T01:19:54",
+    "peak_liquidity_usd": 17322.41399647164,
+    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T01:20:47.977699+00:00",
+    "address": "2uWSYeayUAq3g3spfR1HmQqUiyW35P8DgsNLZjioLXuf",
+    "symbol": "BULLCATE",
+    "name": "Bullcate",
+    "liquidity_usd": 17136.020399419307,
+    "source_listed_at": "2026-09-11T01:19:48",
+    "peak_liquidity_usd": 17136.020399419307,
+    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "rug_flag": false
   }
 ]
