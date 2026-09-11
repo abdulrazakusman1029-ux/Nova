@@ -122,6 +122,19 @@ CANDIDATES_JSON = DATA_DIR / "candidates.json"
 CANDIDATES_CSV = DATA_DIR / "candidates.csv"
 USAGE_FILE = DATA_DIR / "cu_usage.json"
 
+# --- Supabase sync (optional) ------------------------------------------
+# data/candidates.json + git stays the source of truth for this script —
+# nothing here changes that. This is a mirror: if SUPABASE_URL and
+# SUPABASE_ANON_KEY are both set (as GitHub Actions secrets, or local env
+# vars), each poll that changes anything also upserts the current
+# candidate list + this month's usage into Supabase, so you can query them
+# from anywhere instead of only from the repo's data/ files. If either is
+# unset, or a request fails, this is a no-op / a logged warning — it never
+# stops the discovery poll itself from finishing and saving locally.
+SUPABASE_URL = os.environ.get("SUPABASE_URL", "").rstrip("/")
+SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY", "")
+SUPABASE_ENABLED = bool(SUPABASE_URL and SUPABASE_ANON_KEY)
+
 
 # ----------------------------------------------------------------------
 # Compute-unit budget tracking, so the script never gets you locked out
@@ -169,6 +182,84 @@ def _load_candidates():
 def _save_candidates(candidates):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     CANDIDATES_JSON.write_text(json.dumps(candidates, indent=2))
+
+
+# ----------------------------------------------------------------------
+# Supabase sync (optional mirror — see SUPABASE_ENABLED above)
+# ----------------------------------------------------------------------
+
+def _supabase_request(method, path, body=None, extra_headers=None):
+    """Shared REST call to Supabase's PostgREST endpoint. Never raises —
+    same defensive stance as the Birdeye/Telegram calls above: a sync
+    failure should be logged and skipped, not take the poll down."""
+    url = f"{SUPABASE_URL}/rest/v1/{path}"
+    data = json.dumps(body).encode("utf-8") if body is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("apikey", SUPABASE_ANON_KEY)
+    req.add_header("Authorization", f"Bearer {SUPABASE_ANON_KEY}")
+    req.add_header("Content-Type", "application/json")
+    for k, v in (extra_headers or {}).items():
+        req.add_header(k, v)
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            resp.read()
+        return True
+    except urllib.error.HTTPError as e:
+        body_text = ""
+        try:
+            body_text = e.read().decode("utf-8", "ignore")[:300]
+        except Exception:
+            pass
+        log(f"WARNING: Supabase sync failed ({method} {path}): HTTP {e.code} {body_text}")
+        return False
+    except Exception as e:
+        log(f"WARNING: Supabase sync failed ({method} {path}): {e}")
+        return False
+
+
+def _candidate_to_supabase_row(c):
+    return {
+        "chain": "solana",
+        "address": c.get("address", ""),
+        "token_address": c.get("address", ""),  # on Solana the candidate address IS the token mint
+        "dex": "",
+        "symbol": c.get("symbol", ""),
+        "name": c.get("name", ""),
+        "liquidity_usd": _as_float(c.get("liquidity_usd")),
+        "first_liquidity_usd": _as_float(c.get("first_liquidity_usd") or c.get("liquidity_usd")),
+        "peak_liquidity_usd": _as_float(c.get("peak_liquidity_usd")),
+        "listed_at": c.get("source_listed_at", ""),
+        "discovered_at": c.get("discovered_at") or None,
+        "last_checked_at": c.get("last_checked_at") or None,
+        "rug_flag": bool(c.get("rug_flag")),
+    }
+
+
+def supa_push_candidates(candidates):
+    """Upsert the full current candidate list. Called only when something
+    actually changed this poll (new candidates and/or a rug-check update),
+    same gate as the local _save_candidates() call."""
+    if not SUPABASE_ENABLED or not candidates:
+        return
+    rows = [_candidate_to_supabase_row(c) for c in candidates]
+    ok = _supabase_request(
+        "POST", "nova_candidates?on_conflict=chain,address", body=rows,
+        extra_headers={"Prefer": "resolution=merge-duplicates,return=minimal"},
+    )
+    if ok:
+        log(f"Supabase: synced {len(rows)} candidate(s).")
+
+
+def supa_push_usage(usage):
+    if not SUPABASE_ENABLED:
+        return
+    row = {"script": "solana", "usage": usage}
+    ok = _supabase_request(
+        "POST", "nova_usage?on_conflict=script", body=row,
+        extra_headers={"Prefer": "resolution=merge-duplicates,return=minimal"},
+    )
+    if ok:
+        log("Supabase: synced usage.")
 
 
 # ----------------------------------------------------------------------
@@ -582,6 +673,23 @@ def run_once(api_key, candidates, usage, dry_run=False):
 
     if found_new or checked:
         _save_candidates(candidates)
+
+    if not dry_run:
+        # Push to Supabase on every real poll, not gated on found_new/checked
+        # like the local save above — the rug-check eligibility window means
+        # a poll can easily find nothing to recheck (e.g. every candidate is
+        # older than RUG_CHECK_WINDOW_HOURS) while candidates.json still has
+        # data Supabase has never seen. Pushing unconditionally means the
+        # very first real poll after this is deployed fully backfills the
+        # existing candidate list with no separate migration step needed,
+        # and every later poll keeps it in sync even on a "nothing changed"
+        # cycle. The upsert is idempotent, so re-sending unchanged rows is
+        # harmless — just a few hundred KB once an hour.
+        supa_push_candidates(candidates)
+        # Usage changes on essentially every real poll (a new_listing call
+        # alone bumps it), so sync it whenever the poll made any Birdeye
+        # calls at all, not just when candidates changed.
+        supa_push_usage(usage)
 
     return candidates
 
