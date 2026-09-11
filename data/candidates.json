@@ -4600,7 +4600,7 @@
     "liquidity_usd": 17952.97593939246,
     "source_listed_at": "2026-09-08T12:28:12",
     "peak_liquidity_usd": 17952.97593939246,
-    "last_checked_at": "2026-09-08T12:28:45.057793+00:00",
+    "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
     "rug_flag": false
   },
   {
@@ -5272,6 +5272,28 @@
     "source_listed_at": "2026-09-11T08:23:24",
     "peak_liquidity_usd": 10178.940794795893,
     "last_checked_at": "2026-09-11T08:23:55.226075+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T09:22:29.454854+00:00",
+    "address": "EEfL3iqFFUU5iymhE7Z7bNaBPvrgNv1zCA4zeVv7pump",
+    "symbol": "PEG",
+    "name": "get usdc not stupid stocks",
+    "liquidity_usd": 7606.574763721352,
+    "source_listed_at": "2026-09-11T09:22:04",
+    "peak_liquidity_usd": 7606.574763721352,
+    "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T09:22:29.454878+00:00",
+    "address": "GqrM4n61M71wXBraYVF6e5akQjKjvnXH45G8fPhvpump",
+    "symbol": "PEG",
+    "name": "get usdc not stupid stocks",
+    "liquidity_usd": 7612.481565652852,
+    "source_listed_at": "2026-09-11T09:22:04",
+    "peak_liquidity_usd": 7612.481565652852,
+    "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
     "rug_flag": false
   }
 ]
