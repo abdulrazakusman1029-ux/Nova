@@ -5317,5 +5317,49 @@
     "peak_liquidity_usd": 31174.53724369983,
     "last_checked_at": "2026-09-11T10:38:27.833949+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T11:21:32.973972+00:00",
+    "address": "3hq8ck2f18nETzb9Suj3vNFPXo4QRMEYmAjYUV6Gpump",
+    "symbol": "DLMM",
+    "name": "every1 gonna see this btw",
+    "liquidity_usd": 7544.204772221754,
+    "source_listed_at": "2026-09-11T11:21:11",
+    "peak_liquidity_usd": 7544.204772221754,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T11:21:32.973992+00:00",
+    "address": "FP5mGAq45UJwRhAJA36NBeZpEGt643GCdbgXKQCvpump",
+    "symbol": "DLMM",
+    "name": "every1 gonna see this btw",
+    "liquidity_usd": 7544.204772221754,
+    "source_listed_at": "2026-09-11T11:21:11",
+    "peak_liquidity_usd": 7544.204772221754,
+    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T11:21:32.973995+00:00",
+    "address": "4SgzS5Y6cUoqEF5xcC8Pp4cWLy39EpeHYo8PtNyMpump",
+    "symbol": "DLMM",
+    "name": "EVERY1 GONNA SEE THIS",
+    "liquidity_usd": 7550.154198803203,
+    "source_listed_at": "2026-09-11T11:20:38",
+    "peak_liquidity_usd": 7550.154198803203,
+    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T11:21:32.973998+00:00",
+    "address": "FECBFowd2mdyaJAHHuPeg38Mv1hvF9U8YieCSC34pump",
+    "symbol": "DLMM",
+    "name": "EVERY1 GONNA SEE THIS",
+    "liquidity_usd": 7550.154198803203,
+    "source_listed_at": "2026-09-11T11:20:38",
+    "peak_liquidity_usd": 7550.154198803203,
+    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "rug_flag": false
   }
 ]
