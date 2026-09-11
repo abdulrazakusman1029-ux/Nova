@@ -5383,5 +5383,71 @@
     "peak_liquidity_usd": 29690.938892030466,
     "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669392+00:00",
+    "address": "9Nk7XEXXeqmTpZZnFTMzaMNEMGfkER5DXxDnJjgTFM5n",
+    "symbol": "OPAI",
+    "name": "OPAI",
+    "liquidity_usd": 17612.828666480407,
+    "source_listed_at": "2026-09-11T14:22:56",
+    "peak_liquidity_usd": 17612.828666480407,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669425+00:00",
+    "address": "21pKdcnNb3qxbgN44mwx61PqYpxZ7PhyHk9J4xgCmrR8",
+    "symbol": "blue",
+    "name": "bleuchip.in",
+    "liquidity_usd": 17362.480325515342,
+    "source_listed_at": "2026-09-11T14:22:39",
+    "peak_liquidity_usd": 17362.480325515342,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669433+00:00",
+    "address": "4Ph11nHvr7JHBJTBYsQf9TLE2RMQRs75tghVTH9Gpump",
+    "symbol": "ADELL",
+    "name": "A Dell",
+    "liquidity_usd": 53038.666864062,
+    "source_listed_at": "2026-09-11T14:22:38",
+    "peak_liquidity_usd": 53038.666864062,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669439+00:00",
+    "address": "8cGmZenyFTfqDCaCzCKPwZutqJkfJzQFUj3Xnxf6pump",
+    "symbol": "ADELL",
+    "name": "A Dell",
+    "liquidity_usd": 53038.666864062,
+    "source_listed_at": "2026-09-11T14:22:38",
+    "peak_liquidity_usd": 53038.666864062,
+    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669445+00:00",
+    "address": "Hk3T1fRr43K32GdnU6BMd5dPUgyYTUYpB3bbrzEspump",
+    "symbol": "ADELL",
+    "name": "A Dell",
+    "liquidity_usd": 53038.666864062,
+    "source_listed_at": "2026-09-11T14:22:38",
+    "peak_liquidity_usd": 53038.666864062,
+    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T14:23:00.669451+00:00",
+    "address": "CVzWpWDAjcvsvVNDjhNaxVN57FAg9M1tXbwi94NEMSbR",
+    "symbol": "Bananaut",
+    "name": "The Bananaut STONKS",
+    "liquidity_usd": 17729.518859842472,
+    "source_listed_at": "2026-09-11T14:22:26",
+    "peak_liquidity_usd": 17729.518859842472,
+    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "rug_flag": false
   }
 ]
