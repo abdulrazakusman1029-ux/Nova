@@ -4567,7 +4567,7 @@
     "liquidity_usd": 69172.92016755133,
     "source_listed_at": "2026-09-08T11:21:18",
     "peak_liquidity_usd": 69172.92016755133,
-    "last_checked_at": "2026-09-08T11:21:55.072848+00:00",
+    "last_checked_at": "2026-09-11T07:22:08.994673+00:00",
     "rug_flag": false
   },
   {
@@ -5239,6 +5239,28 @@
     "source_listed_at": "2026-09-11T06:26:41",
     "peak_liquidity_usd": 16936.775936124093,
     "last_checked_at": "2026-09-11T06:27:04.741367+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T07:22:08.651675+00:00",
+    "address": "2Yi9UK495S3TUc4nkuDMRj8dz78nmcvRYELWSqUBHZy1",
+    "symbol": "TIA",
+    "name": "TIA",
+    "liquidity_usd": 10095.716577082923,
+    "source_listed_at": "2026-09-11T07:22:00",
+    "peak_liquidity_usd": 10095.716577082923,
+    "last_checked_at": "2026-09-11T07:22:08.994673+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T07:22:08.651717+00:00",
+    "address": "2Q5uQdtXwugUDone2UK9irYwa9a9EBzfaKYcfUDHmoon",
+    "symbol": "MAVROBOT",
+    "name": "MAVEN ROBOT",
+    "liquidity_usd": 84180.52467890325,
+    "source_listed_at": "2026-09-11T07:21:46",
+    "peak_liquidity_usd": 84180.52467890325,
+    "last_checked_at": "2026-09-11T07:22:08.994673+00:00",
     "rug_flag": false
   }
 ]
