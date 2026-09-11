@@ -120,6 +120,18 @@ CANDIDATES_JSON = DATA_DIR / "candidates_robinhood.json"
 CANDIDATES_CSV = DATA_DIR / "candidates_robinhood.csv"
 USAGE_FILE = DATA_DIR / "rate_usage_robinhood.json"
 
+# --- Supabase sync (optional) ------------------------------------------
+# Same mirror as the Solana script: candidates_robinhood.json + git stays
+# the source of truth. If SUPABASE_URL and SUPABASE_ANON_KEY are both set,
+# each poll that changes anything also upserts into the shared
+# nova_candidates / nova_usage tables (this script's rows use chain =
+# "robinhood", so they never collide with the Solana script's rows). A
+# missing credential or a failed request is a no-op / a logged warning —
+# it never stops this poll from finishing and saving locally.
+SUPABASE_URL = os.environ.get("SUPABASE_URL", "").rstrip("/")
+SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY", "")
+SUPABASE_ENABLED = bool(SUPABASE_URL and SUPABASE_ANON_KEY)
+
 
 def log(msg):
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}", flush=True)
@@ -162,6 +174,87 @@ def _load_candidates():
 def _save_candidates(candidates):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     CANDIDATES_JSON.write_text(json.dumps(candidates, indent=2))
+
+
+# ----------------------------------------------------------------------
+# Supabase sync (optional mirror — see SUPABASE_ENABLED above)
+# ----------------------------------------------------------------------
+
+def _supabase_request(method, path, body=None, extra_headers=None):
+    """Shared REST call to Supabase's PostgREST endpoint. Never raises —
+    same defensive stance as every GeckoTerminal/Telegram call in this
+    file: a sync failure should be logged and skipped, not take the poll
+    down."""
+    url = f"{SUPABASE_URL}/rest/v1/{path}"
+    data = json.dumps(body).encode("utf-8") if body is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("apikey", SUPABASE_ANON_KEY)
+    req.add_header("Authorization", f"Bearer {SUPABASE_ANON_KEY}")
+    req.add_header("Content-Type", "application/json")
+    for k, v in (extra_headers or {}).items():
+        req.add_header(k, v)
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            resp.read()
+        return True
+    except urllib.error.HTTPError as e:
+        body_text = ""
+        try:
+            body_text = e.read().decode("utf-8", "ignore")[:300]
+        except Exception:
+            pass
+        log(f"WARNING: Supabase sync failed ({method} {path}): HTTP {e.code} {body_text}")
+        return False
+    except Exception as e:
+        log(f"WARNING: Supabase sync failed ({method} {path}): {e}")
+        return False
+
+
+def _candidate_to_supabase_row(c):
+    return {
+        "chain": CHAIN_LABEL,
+        "address": c.get("address", ""),
+        "token_address": c.get("token_address", ""),
+        "dex": c.get("dex", ""),
+        "symbol": c.get("symbol", ""),
+        "name": c.get("name", ""),
+        "liquidity_usd": _as_float(c.get("liquidity_usd")),
+        "first_liquidity_usd": _as_float(c.get("first_liquidity_usd") or c.get("liquidity_usd")),
+        "peak_liquidity_usd": _as_float(c.get("peak_liquidity_usd")),
+        "liquidity_history": c.get("liquidity_history") or [],
+        "listed_at": c.get("pool_created_at", ""),
+        "discovered_at": c.get("discovered_at") or None,
+        "last_checked_at": c.get("last_checked_at") or None,
+        "rug_flag": bool(c.get("rug_flag")),
+        "analysis": c.get("analysis"),
+    }
+
+
+def supa_push_candidates(candidates):
+    """Upsert the full current candidate list. Called only when something
+    actually changed this poll, same gate as the local _save_candidates()
+    call."""
+    if not SUPABASE_ENABLED or not candidates:
+        return
+    rows = [_candidate_to_supabase_row(c) for c in candidates]
+    ok = _supabase_request(
+        "POST", "nova_candidates?on_conflict=chain,address", body=rows,
+        extra_headers={"Prefer": "resolution=merge-duplicates,return=minimal"},
+    )
+    if ok:
+        log(f"Supabase: synced {len(rows)} candidate(s).")
+
+
+def supa_push_usage(usage):
+    if not SUPABASE_ENABLED:
+        return
+    row = {"script": "robinhood", "usage": usage}
+    ok = _supabase_request(
+        "POST", "nova_usage?on_conflict=script", body=row,
+        extra_headers={"Prefer": "resolution=merge-duplicates,return=minimal"},
+    )
+    if ok:
+        log("Supabase: synced usage.")
 
 
 def _append_candidates(rows):
@@ -761,9 +854,19 @@ def run_once(candidates, usage, dry_run=False):
         usage["calls_total"] = usage.get("calls_total", 0) + calls_this_poll
         usage["last_poll_calls"] = calls_this_poll
         _save_usage(usage)
+        supa_push_usage(usage)
 
     if found_new or checked:
         _save_candidates(candidates)
+
+    if not dry_run:
+        # Unconditional, same reasoning as the Solana script: the rug-check
+        # eligibility window can leave a poll with nothing local to save
+        # while Supabase still hasn't seen the full candidate list yet.
+        # Pushing every real poll means the first run after this is
+        # deployed backfills everything with no separate step, and the
+        # idempotent upsert makes re-sending unchanged rows harmless.
+        supa_push_candidates(candidates)
 
     return candidates
 
