@@ -4754,7 +4754,7 @@
     "liquidity_usd": 69650.91232375616,
     "source_listed_at": "2026-09-09T00:32:31",
     "peak_liquidity_usd": 69650.91232375616,
-    "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
+    "last_checked_at": "2026-09-11T22:20:47.530616+00:00",
     "rug_flag": false
   },
   {
@@ -4765,7 +4765,7 @@
     "liquidity_usd": 18006.745860511324,
     "source_listed_at": "2026-09-09T00:32:29",
     "peak_liquidity_usd": 18006.745860511324,
-    "last_checked_at": "2026-09-09T00:32:39.416570+00:00",
+    "last_checked_at": "2026-09-11T22:20:47.530616+00:00",
     "rug_flag": false
   },
   {
@@ -5459,6 +5459,17 @@
     "source_listed_at": "2026-09-11T15:21:21",
     "peak_liquidity_usd": 17491.393006934348,
     "last_checked_at": "2026-09-11T15:21:49.777909+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-11T22:20:47.156583+00:00",
+    "address": "xmav5PVREXPvuor6kTc6rNxWGpwXsJgerSMxjBmpump",
+    "symbol": "GitHub",
+    "name": "GitHub",
+    "liquidity_usd": 10934.376778606915,
+    "source_listed_at": "2026-09-11T22:20:35",
+    "peak_liquidity_usd": 10934.376778606915,
+    "last_checked_at": "2026-09-11T22:20:47.530616+00:00",
     "rug_flag": false
   }
 ]
