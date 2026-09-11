@@ -4707,11 +4707,11 @@
     "address": "AyyuVPQ4dHhB9GExPPYzQQG6SUunQcriggKTfPjzJxcb",
     "symbol": "SOLERO",
     "name": "Solero",
-    "liquidity_usd": 18067.890465697765,
+    "liquidity_usd": 3.311253743005446e-07,
     "source_listed_at": "2026-09-08T20:21:46",
     "peak_liquidity_usd": 18067.890465697765,
-    "last_checked_at": "2026-09-08T20:22:02.861656+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-11T17:20:45.242835+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-08T20:22:02.401866+00:00",
@@ -4721,7 +4721,7 @@
     "liquidity_usd": 17644.98174883403,
     "source_listed_at": "2026-09-08T20:21:15",
     "peak_liquidity_usd": 17644.98174883403,
-    "last_checked_at": "2026-09-08T20:22:02.861656+00:00",
+    "last_checked_at": "2026-09-11T17:20:45.242835+00:00",
     "rug_flag": false
   },
   {
@@ -4732,7 +4732,7 @@
     "liquidity_usd": 11058.602173120888,
     "source_listed_at": "2026-09-08T21:20:01",
     "peak_liquidity_usd": 11058.602173120888,
-    "last_checked_at": "2026-09-08T21:20:03.418936+00:00",
+    "last_checked_at": "2026-09-11T17:20:45.242835+00:00",
     "rug_flag": false
   },
   {
