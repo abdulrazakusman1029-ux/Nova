@@ -4941,7 +4941,7 @@
     "liquidity_usd": 20923.63736150428,
     "source_listed_at": "2026-09-09T09:23:22",
     "peak_liquidity_usd": 20923.63736150428,
-    "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
+    "last_checked_at": "2026-09-12T09:20:30.560210+00:00",
     "rug_flag": false
   },
   {
@@ -4952,7 +4952,7 @@
     "liquidity_usd": 13151.588753902772,
     "source_listed_at": "2026-09-09T09:23:09",
     "peak_liquidity_usd": 13151.588753902772,
-    "last_checked_at": "2026-09-09T09:23:44.186604+00:00",
+    "last_checked_at": "2026-09-12T09:20:30.560210+00:00",
     "rug_flag": false
   },
   {
@@ -5470,6 +5470,17 @@
     "source_listed_at": "2026-09-11T22:20:35",
     "peak_liquidity_usd": 10934.376778606915,
     "last_checked_at": "2026-09-11T22:20:47.530616+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T09:20:30.008978+00:00",
+    "address": "VU2bhxpVGutQrKhnAfUQvDFKt4NUV6XUsDbrctypump",
+    "symbol": "NIKE",
+    "name": "Just Do It",
+    "liquidity_usd": 10928.715398932762,
+    "source_listed_at": "2026-09-12T09:20:03",
+    "peak_liquidity_usd": 10928.715398932762,
+    "last_checked_at": "2026-09-12T09:20:30.560210+00:00",
     "rug_flag": false
   }
 ]
