@@ -5161,7 +5161,7 @@
     "liquidity_usd": 21061.033474952208,
     "source_listed_at": "2026-09-10T20:20:01",
     "peak_liquidity_usd": 21061.033474952208,
-    "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
+    "last_checked_at": "2026-09-12T20:22:03.571810+00:00",
     "rug_flag": false
   },
   {
@@ -5172,7 +5172,7 @@
     "liquidity_usd": 17360.650316597108,
     "source_listed_at": "2026-09-10T20:19:55",
     "peak_liquidity_usd": 17360.650316597108,
-    "last_checked_at": "2026-09-10T20:20:27.950850+00:00",
+    "last_checked_at": "2026-09-12T20:22:03.571810+00:00",
     "rug_flag": false
   },
   {
@@ -5613,6 +5613,17 @@
     "source_listed_at": "2026-09-12T18:21:11",
     "peak_liquidity_usd": 82182.76929702835,
     "last_checked_at": "2026-09-12T18:22:15.779862+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T20:22:02.857689+00:00",
+    "address": "5yuAVTnuw5mA2gBL241X4Wd4rKTWXcDi1TqdgFBupump",
+    "symbol": "Wmorad",
+    "name": "WMO RADAR",
+    "liquidity_usd": 74275.7913901901,
+    "source_listed_at": "2026-09-12T20:21:48",
+    "peak_liquidity_usd": 74275.7913901901,
+    "last_checked_at": "2026-09-12T20:22:03.571810+00:00",
     "rug_flag": false
   }
 ]
