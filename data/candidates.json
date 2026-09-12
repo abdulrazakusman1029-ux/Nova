@@ -5515,5 +5515,49 @@
     "peak_liquidity_usd": 17378.585786879266,
     "last_checked_at": "2026-09-12T12:24:45.494892+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T14:20:38.944431+00:00",
+    "address": "8uH3XwM9PveifeBs71kCLhxZK5ki5X2iE2kiE7DYBWwX",
+    "symbol": "FRONTIER",
+    "name": "We Must Pace the Frontier",
+    "liquidity_usd": 17408.34061199557,
+    "source_listed_at": "2026-09-12T14:20:21",
+    "peak_liquidity_usd": 17408.34061199557,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T14:20:38.944457+00:00",
+    "address": "HP8xSrEKqVmvg68HyecC5tDiLutKGBBcbUDjo7UbsEZ3",
+    "symbol": "Frontier",
+    "name": "We Must Pace the Frontier",
+    "liquidity_usd": 17182.371588269478,
+    "source_listed_at": "2026-09-12T14:20:18",
+    "peak_liquidity_usd": 17182.371588269478,
+    "last_checked_at": "2026-09-12T14:20:39.405384+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T14:20:38.944463+00:00",
+    "address": "3tMiQRRcPDRmgJLfWToSbHMwEkLhrhc7oXgDYtt8pump",
+    "symbol": "NVDA",
+    "name": "NVIDIA",
+    "liquidity_usd": 10921.610381199695,
+    "source_listed_at": "2026-09-12T14:20:15",
+    "peak_liquidity_usd": 10921.610381199695,
+    "last_checked_at": "2026-09-12T14:20:39.405384+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T14:20:38.944466+00:00",
+    "address": "DR63BvXetwxCbxbYkceLN5gTho4YFDmtFwcNk2xLpump",
+    "symbol": "FOMOGPT",
+    "name": "FOMOGPT",
+    "liquidity_usd": 16975.38897923516,
+    "source_listed_at": "2026-09-12T14:19:40",
+    "peak_liquidity_usd": 16975.38897923516,
+    "last_checked_at": "2026-09-12T14:20:39.405384+00:00",
+    "rug_flag": false
   }
 ]
