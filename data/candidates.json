@@ -5183,7 +5183,7 @@
     "liquidity_usd": 74957.20794142773,
     "source_listed_at": "2026-09-11T01:20:41",
     "peak_liquidity_usd": 74957.20794142773,
-    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
     "rug_flag": false
   },
   {
@@ -5624,6 +5624,28 @@
     "source_listed_at": "2026-09-12T20:21:48",
     "peak_liquidity_usd": 74275.7913901901,
     "last_checked_at": "2026-09-12T20:22:03.571810+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T21:20:36.559612+00:00",
+    "address": "9qqzMjvbiFNhqyXeQzaHRJYPHSvhwUjxdTWMWTmTAtTx",
+    "symbol": "TWINE",
+    "name": "TWINE",
+    "liquidity_usd": 17299.94207760708,
+    "source_listed_at": "2026-09-12T21:20:10",
+    "peak_liquidity_usd": 17299.94207760708,
+    "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T21:20:36.559638+00:00",
+    "address": "2SBBQ7pdGFUMNn5pzSsXHipY7or3QWdJbv6mUkTeGkrB",
+    "symbol": "kemo",
+    "name": "kemo",
+    "liquidity_usd": 17845.541893022473,
+    "source_listed_at": "2026-09-12T21:19:59",
+    "peak_liquidity_usd": 17845.541893022473,
+    "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
     "rug_flag": false
   }
 ]
