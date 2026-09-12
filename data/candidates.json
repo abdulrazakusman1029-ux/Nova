@@ -5062,7 +5062,7 @@
     "liquidity_usd": 20071.469318714167,
     "source_listed_at": "2026-09-09T22:20:06",
     "peak_liquidity_usd": 20071.469318714167,
-    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "last_checked_at": "2026-09-12T15:19:45.229231+00:00",
     "rug_flag": false
   },
   {
@@ -5073,7 +5073,7 @@
     "liquidity_usd": 21280.348568557496,
     "source_listed_at": "2026-09-09T22:19:57",
     "peak_liquidity_usd": 21280.348568557496,
-    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "last_checked_at": "2026-09-12T15:19:45.229231+00:00",
     "rug_flag": false
   },
   {
@@ -5521,11 +5521,11 @@
     "address": "8uH3XwM9PveifeBs71kCLhxZK5ki5X2iE2kiE7DYBWwX",
     "symbol": "FRONTIER",
     "name": "We Must Pace the Frontier",
-    "liquidity_usd": 17408.34061199557,
+    "liquidity_usd": 0.000275094685556033,
     "source_listed_at": "2026-09-12T14:20:21",
     "peak_liquidity_usd": 17408.34061199557,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-12T15:19:45.229231+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-12T14:20:38.944457+00:00",
