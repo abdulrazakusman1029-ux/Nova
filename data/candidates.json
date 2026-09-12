@@ -5084,7 +5084,7 @@
     "liquidity_usd": 20570.94470595584,
     "source_listed_at": "2026-09-10T00:27:46",
     "peak_liquidity_usd": 20570.94470595584,
-    "last_checked_at": "2026-09-10T00:27:51.875328+00:00",
+    "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
     "rug_flag": false
   },
   {
@@ -5558,6 +5558,28 @@
     "source_listed_at": "2026-09-12T14:19:40",
     "peak_liquidity_usd": 16975.38897923516,
     "last_checked_at": "2026-09-12T14:20:39.405384+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T16:20:58.534451+00:00",
+    "address": "5JNgRWA7K1hj67ddfoxNVvtvCYM67dqzzYZVm17KTPWa",
+    "symbol": "life",
+    "name": "life",
+    "liquidity_usd": 17340.25420625125,
+    "source_listed_at": "2026-09-12T16:20:50",
+    "peak_liquidity_usd": 17340.25420625125,
+    "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T16:20:58.534473+00:00",
+    "address": "31f7LyvPj4LJFBxDTaJgMpGFjpX8mdCYLW84MhcBnAYG",
+    "symbol": "PAPERHANDS",
+    "name": "Edward Paperhands",
+    "liquidity_usd": 17336.775707949277,
+    "source_listed_at": "2026-09-12T16:20:41",
+    "peak_liquidity_usd": 17336.775707949277,
+    "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
     "rug_flag": false
   }
 ]
