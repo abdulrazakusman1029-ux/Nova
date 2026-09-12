@@ -5227,7 +5227,7 @@
     "liquidity_usd": 10162.381882014966,
     "source_listed_at": "2026-09-11T04:22:37",
     "peak_liquidity_usd": 10162.381882014966,
-    "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
+    "last_checked_at": "2026-09-12T23:19:52.558657+00:00",
     "rug_flag": false
   },
   {
@@ -5238,7 +5238,7 @@
     "liquidity_usd": 16936.775936124093,
     "source_listed_at": "2026-09-11T06:26:41",
     "peak_liquidity_usd": 16936.775936124093,
-    "last_checked_at": "2026-09-11T06:27:04.741367+00:00",
+    "last_checked_at": "2026-09-12T23:19:52.558657+00:00",
     "rug_flag": false
   },
   {
@@ -5646,6 +5646,17 @@
     "source_listed_at": "2026-09-12T21:19:59",
     "peak_liquidity_usd": 17845.541893022473,
     "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T23:19:52.167329+00:00",
+    "address": "FzqthShQ8AAaSPdGo93Hq7TbiyzdCQ1owDyjdnXn7Q7V",
+    "symbol": "TWINE",
+    "name": "TWINE",
+    "liquidity_usd": 17376.957471678783,
+    "source_listed_at": "2026-09-12T23:19:23",
+    "peak_liquidity_usd": 17376.957471678783,
+    "last_checked_at": "2026-09-12T23:19:52.558657+00:00",
     "rug_flag": false
   }
 ]
