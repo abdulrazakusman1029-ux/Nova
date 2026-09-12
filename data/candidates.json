@@ -5026,11 +5026,11 @@
     "address": "3nESmgWeDgNsje1pEdM4sMnwzKjskHPfCWN8pfVdpump",
     "symbol": "Oof",
     "name": "Oof",
-    "liquidity_usd": 5253.215320875723,
+    "liquidity_usd": 88.58054467654064,
     "source_listed_at": "2026-09-09T20:22:05",
     "peak_liquidity_usd": 5253.215320875723,
-    "last_checked_at": "2026-09-09T20:22:19.597501+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-12T13:19:44.029283+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-09T21:19:56.660838+00:00",
@@ -5040,7 +5040,7 @@
     "liquidity_usd": 17295.09944581836,
     "source_listed_at": "2026-09-09T21:19:48",
     "peak_liquidity_usd": 17295.09944581836,
-    "last_checked_at": "2026-09-09T21:19:57.149498+00:00",
+    "last_checked_at": "2026-09-12T13:19:44.029283+00:00",
     "rug_flag": false
   },
   {
@@ -5051,7 +5051,7 @@
     "liquidity_usd": 17260.616303552117,
     "source_listed_at": "2026-09-09T22:20:20",
     "peak_liquidity_usd": 17260.616303552117,
-    "last_checked_at": "2026-09-09T22:20:29.742545+00:00",
+    "last_checked_at": "2026-09-12T13:19:44.029283+00:00",
     "rug_flag": false
   },
   {
