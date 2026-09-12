@@ -5191,11 +5191,11 @@
     "address": "A2JsAkqy4MSXzPTykKRGch3xotmzNn1u8ohftZ5Nn2Yy",
     "symbol": "4MEME",
     "name": "4MEME",
-    "liquidity_usd": 17322.41399647164,
+    "liquidity_usd": 3.7659818881290897e-07,
     "source_listed_at": "2026-09-11T01:19:54",
     "peak_liquidity_usd": 17322.41399647164,
-    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-12T22:19:55.992120+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-11T01:20:47.977699+00:00",
@@ -5205,7 +5205,7 @@
     "liquidity_usd": 17136.020399419307,
     "source_listed_at": "2026-09-11T01:19:48",
     "peak_liquidity_usd": 17136.020399419307,
-    "last_checked_at": "2026-09-11T01:20:48.330766+00:00",
+    "last_checked_at": "2026-09-12T22:19:55.992120+00:00",
     "rug_flag": false
   },
   {
@@ -5216,7 +5216,7 @@
     "liquidity_usd": 17901.113229591505,
     "source_listed_at": "2026-09-11T04:23:02",
     "peak_liquidity_usd": 17901.113229591505,
-    "last_checked_at": "2026-09-11T04:23:07.910097+00:00",
+    "last_checked_at": "2026-09-12T22:19:55.992120+00:00",
     "rug_flag": false
   },
   {
