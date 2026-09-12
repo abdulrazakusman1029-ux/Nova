@@ -5117,7 +5117,7 @@
     "liquidity_usd": 17260.37383739991,
     "source_listed_at": "2026-09-10T02:22:15",
     "peak_liquidity_usd": 17260.37383739991,
-    "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "last_checked_at": "2026-09-12T18:22:15.779862+00:00",
     "rug_flag": false
   },
   {
@@ -5591,6 +5591,28 @@
     "source_listed_at": "2026-09-12T17:18:41",
     "peak_liquidity_usd": 17848.491868494828,
     "last_checked_at": "2026-09-12T17:19:01.041790+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T18:22:15.265156+00:00",
+    "address": "ErpVacpG3YcuwKipExa8Q5ScSTnL3A4U3f2WyZjBDUKo",
+    "symbol": "Tulip",
+    "name": "Tulip Coin",
+    "liquidity_usd": 17617.078841866667,
+    "source_listed_at": "2026-09-12T18:22:08",
+    "peak_liquidity_usd": 17617.078841866667,
+    "last_checked_at": "2026-09-12T18:22:15.779862+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T18:22:15.265177+00:00",
+    "address": "FZ1QDLE9DkVg9DVryre8j4qmmge7kbiAaPMuvVZLbonk",
+    "symbol": "Wrebat",
+    "name": "Wrexham Red Win",
+    "liquidity_usd": 82182.76929702835,
+    "source_listed_at": "2026-09-12T18:21:11",
+    "peak_liquidity_usd": 82182.76929702835,
+    "last_checked_at": "2026-09-12T18:22:15.779862+00:00",
     "rug_flag": false
   }
 ]
