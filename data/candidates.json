@@ -5095,7 +5095,7 @@
     "liquidity_usd": 51928.90454175632,
     "source_listed_at": "2026-09-10T01:20:11",
     "peak_liquidity_usd": 51928.90454175632,
-    "last_checked_at": "2026-09-10T01:20:31.791718+00:00",
+    "last_checked_at": "2026-09-12T17:19:01.041790+00:00",
     "rug_flag": false
   },
   {
@@ -5106,7 +5106,7 @@
     "liquidity_usd": 111024.93988757778,
     "source_listed_at": "2026-09-10T02:22:26",
     "peak_liquidity_usd": 111024.93988757778,
-    "last_checked_at": "2026-09-10T02:22:44.071995+00:00",
+    "last_checked_at": "2026-09-12T17:19:01.041790+00:00",
     "rug_flag": false
   },
   {
@@ -5580,6 +5580,17 @@
     "source_listed_at": "2026-09-12T16:20:41",
     "peak_liquidity_usd": 17336.775707949277,
     "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T17:19:00.517696+00:00",
+    "address": "3CMUkFwm9cx2n4mvRn5griQnyf7m6wiN9XJqiB5PqPre",
+    "symbol": "HODL",
+    "name": "HODL",
+    "liquidity_usd": 17848.491868494828,
+    "source_listed_at": "2026-09-12T17:18:41",
+    "peak_liquidity_usd": 17848.491868494828,
+    "last_checked_at": "2026-09-12T17:19:01.041790+00:00",
     "rug_flag": false
   }
 ]
