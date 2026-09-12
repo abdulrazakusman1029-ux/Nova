@@ -5007,7 +5007,7 @@
     "liquidity_usd": 17876.90425267038,
     "source_listed_at": "2026-09-09T18:25:24",
     "peak_liquidity_usd": 17876.90425267038,
-    "last_checked_at": "2026-09-09T18:25:33.328793+00:00",
+    "last_checked_at": "2026-09-12T12:24:45.494892+00:00",
     "rug_flag": false
   },
   {
@@ -5018,7 +5018,7 @@
     "liquidity_usd": 17461.338589289004,
     "source_listed_at": "2026-09-09T19:19:33",
     "peak_liquidity_usd": 17461.338589289004,
-    "last_checked_at": "2026-09-09T19:20:12.049846+00:00",
+    "last_checked_at": "2026-09-12T12:24:45.494892+00:00",
     "rug_flag": false
   },
   {
@@ -5503,6 +5503,17 @@
     "source_listed_at": "2026-09-12T10:18:33",
     "peak_liquidity_usd": 22539.54134862147,
     "last_checked_at": "2026-09-12T10:20:03.556887+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T12:24:44.941187+00:00",
+    "address": "3C3t6KP67uS5Aak1LdQJGhDEfsAvS7dQxpVX2YGrSHM7",
+    "symbol": "FoMo",
+    "name": "FoMo",
+    "liquidity_usd": 17378.585786879266,
+    "source_listed_at": "2026-09-12T12:24:22",
+    "peak_liquidity_usd": 17378.585786879266,
+    "last_checked_at": "2026-09-12T12:24:45.494892+00:00",
     "rug_flag": false
   }
 ]
