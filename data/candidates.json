@@ -4963,7 +4963,7 @@
     "liquidity_usd": 11230.695757005893,
     "source_listed_at": "2026-09-09T12:27:17",
     "peak_liquidity_usd": 11230.695757005893,
-    "last_checked_at": "2026-09-09T12:27:52.278434+00:00",
+    "last_checked_at": "2026-09-12T10:20:03.556887+00:00",
     "rug_flag": false
   },
   {
@@ -5481,6 +5481,28 @@
     "source_listed_at": "2026-09-12T09:20:03",
     "peak_liquidity_usd": 10928.715398932762,
     "last_checked_at": "2026-09-12T09:20:30.560210+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T10:20:03.226736+00:00",
+    "address": "EcM9MgPKZsQLThgaDzKu6L8fYVx6aCoyke6eifa1NYyq",
+    "symbol": "SOL4EX",
+    "name": "Sol4EX",
+    "liquidity_usd": 14364.582509737402,
+    "source_listed_at": "2026-09-12T10:18:44",
+    "peak_liquidity_usd": 14364.582509737402,
+    "last_checked_at": "2026-09-12T10:20:03.556887+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-12T10:20:03.226787+00:00",
+    "address": "7M5W3PzuKDymkC3f17Sr86d7mfAGBr9hLWsDrtrbX3eA",
+    "symbol": "PAD",
+    "name": "PAD",
+    "liquidity_usd": 22539.54134862147,
+    "source_listed_at": "2026-09-12T10:18:33",
+    "peak_liquidity_usd": 22539.54134862147,
+    "last_checked_at": "2026-09-12T10:20:03.556887+00:00",
     "rug_flag": false
   }
 ]
