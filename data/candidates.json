@@ -5268,11 +5268,11 @@
     "address": "Agd2etQ4UkSD4bfBC6GGpTUgfyDWo8zF4FHxoQ6CXNdJ",
     "symbol": "HASHTOWN",
     "name": "GPU Mining World",
-    "liquidity_usd": 10178.940794795893,
+    "liquidity_usd": 3.197436479646221e-07,
     "source_listed_at": "2026-09-11T08:23:24",
     "peak_liquidity_usd": 10178.940794795893,
-    "last_checked_at": "2026-09-11T08:23:55.226075+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-13T01:19:23.128216+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-11T09:22:29.454854+00:00",
@@ -5282,7 +5282,7 @@
     "liquidity_usd": 7606.574763721352,
     "source_listed_at": "2026-09-11T09:22:04",
     "peak_liquidity_usd": 7606.574763721352,
-    "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
+    "last_checked_at": "2026-09-13T01:19:23.128216+00:00",
     "rug_flag": false
   },
   {
@@ -5293,7 +5293,7 @@
     "liquidity_usd": 7612.481565652852,
     "source_listed_at": "2026-09-11T09:22:04",
     "peak_liquidity_usd": 7612.481565652852,
-    "last_checked_at": "2026-09-11T09:22:29.901110+00:00",
+    "last_checked_at": "2026-09-13T01:19:23.128216+00:00",
     "rug_flag": false
   },
   {
