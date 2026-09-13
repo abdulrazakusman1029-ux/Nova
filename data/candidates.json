@@ -5535,7 +5535,7 @@
     "liquidity_usd": 17182.371588269478,
     "source_listed_at": "2026-09-12T14:20:18",
     "peak_liquidity_usd": 17182.371588269478,
-    "last_checked_at": "2026-09-12T14:20:39.405384+00:00",
+    "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
     "rug_flag": false
   },
   {
@@ -5910,6 +5910,28 @@
     "source_listed_at": "2026-09-13T15:19:37",
     "peak_liquidity_usd": 17117.116959161995,
     "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T16:21:26.949694+00:00",
+    "address": "MumxDfVma9KXyzLeSQKRfh2f4cJoetUa7do9zcEpump",
+    "symbol": "Grok Ai",
+    "name": "Grok Ai",
+    "liquidity_usd": 10804.633343571797,
+    "source_listed_at": "2026-09-13T16:21:15",
+    "peak_liquidity_usd": 10804.633343571797,
+    "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T16:21:26.949715+00:00",
+    "address": "ANGPQf91ZqTWoyaEYLxV65F5oMPHFV6fPt2sbapkpump",
+    "symbol": "PANDA",
+    "name": "panda",
+    "liquidity_usd": 10801.191284694694,
+    "source_listed_at": "2026-09-13T16:20:42",
+    "peak_liquidity_usd": 10801.191284694694,
+    "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
     "rug_flag": false
   }
 ]
