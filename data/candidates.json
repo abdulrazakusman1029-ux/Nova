@@ -5521,10 +5521,10 @@
     "address": "8uH3XwM9PveifeBs71kCLhxZK5ki5X2iE2kiE7DYBWwX",
     "symbol": "FRONTIER",
     "name": "We Must Pace the Frontier",
-    "liquidity_usd": 0.000275094685556033,
+    "liquidity_usd": 0.0002717574811495311,
     "source_listed_at": "2026-09-12T14:20:21",
     "peak_liquidity_usd": 17408.34061199557,
-    "last_checked_at": "2026-09-12T15:19:45.229231+00:00",
+    "last_checked_at": "2026-09-13T19:18:37.526598+00:00",
     "rug_flag": true
   },
   {
@@ -5568,7 +5568,7 @@
     "liquidity_usd": 17340.25420625125,
     "source_listed_at": "2026-09-12T16:20:50",
     "peak_liquidity_usd": 17340.25420625125,
-    "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
+    "last_checked_at": "2026-09-13T19:18:37.526598+00:00",
     "rug_flag": false
   },
   {
@@ -5579,7 +5579,7 @@
     "liquidity_usd": 17336.775707949277,
     "source_listed_at": "2026-09-12T16:20:41",
     "peak_liquidity_usd": 17336.775707949277,
-    "last_checked_at": "2026-09-12T16:20:58.976753+00:00",
+    "last_checked_at": "2026-09-13T19:18:37.526598+00:00",
     "rug_flag": false
   },
   {
