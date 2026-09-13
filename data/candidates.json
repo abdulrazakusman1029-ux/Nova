@@ -5977,5 +5977,38 @@
     "peak_liquidity_usd": 17197.64972024319,
     "last_checked_at": "2026-09-13T18:23:10.240949+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T20:20:59.245946+00:00",
+    "address": "C3WmeCEDJgCPSPegA5RNi1z6GJcj56so5ykdVLoSpump",
+    "symbol": "OpenAI",
+    "name": "OpenAI",
+    "liquidity_usd": 10845.285374644593,
+    "source_listed_at": "2026-09-13T20:20:32",
+    "peak_liquidity_usd": 10845.285374644593,
+    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T20:20:59.245968+00:00",
+    "address": "GLWZyVoewEmPyjV3ShSum3ZTcyyrKqiyvctvEHtF1uy6",
+    "symbol": "POWA",
+    "name": "POWA",
+    "liquidity_usd": 17283.842287630367,
+    "source_listed_at": "2026-09-13T20:20:28",
+    "peak_liquidity_usd": 17283.842287630367,
+    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T20:20:59.245976+00:00",
+    "address": "A8j1u1aqG2K3HVNVGeWeRTFYe3uZjM65bT7Gz7XxWZAb",
+    "symbol": "FlybooK",
+    "name": "FlybooK",
+    "liquidity_usd": 17278.955419113772,
+    "source_listed_at": "2026-09-13T20:20:11",
+    "peak_liquidity_usd": 17278.955419113772,
+    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
+    "rug_flag": false
   }
 ]
