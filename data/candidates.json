@@ -5337,7 +5337,7 @@
     "liquidity_usd": 7544.204772221754,
     "source_listed_at": "2026-09-11T11:21:11",
     "peak_liquidity_usd": 7544.204772221754,
-    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "last_checked_at": "2026-09-13T03:21:26.141152+00:00",
     "rug_flag": false
   },
   {
@@ -5679,6 +5679,28 @@
     "source_listed_at": "2026-09-13T02:20:44",
     "peak_liquidity_usd": 10968.925508962617,
     "last_checked_at": "2026-09-13T02:21:18.219597+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T03:21:25.568215+00:00",
+    "address": "m9izX97Ew9yd7ekSsWPkMqboskbTLUkYws3xCCipump",
+    "symbol": "GTA 6 Coin",
+    "name": "GTA6",
+    "liquidity_usd": 10922.062887237182,
+    "source_listed_at": "2026-09-13T03:21:20",
+    "peak_liquidity_usd": 10922.062887237182,
+    "last_checked_at": "2026-09-13T03:21:26.141152+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T03:21:25.568237+00:00",
+    "address": "4NUsHmbmXdzgBetydE2PhTJP4KsF1gBd54D59Vq521Cv",
+    "symbol": "BROKER",
+    "name": "Doge Broker",
+    "liquidity_usd": 26222.82401029566,
+    "source_listed_at": "2026-09-13T03:20:13",
+    "peak_liquidity_usd": 26222.82401029566,
+    "last_checked_at": "2026-09-13T03:21:26.141152+00:00",
     "rug_flag": false
   }
 ]
