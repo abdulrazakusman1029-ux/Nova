@@ -5389,10 +5389,10 @@
     "address": "9Nk7XEXXeqmTpZZnFTMzaMNEMGfkER5DXxDnJjgTFM5n",
     "symbol": "OPAI",
     "name": "OPAI",
-    "liquidity_usd": 0.0009645854881262245,
+    "liquidity_usd": 0.0009449146020541972,
     "source_listed_at": "2026-09-11T14:22:56",
     "peak_liquidity_usd": 17612.828666480407,
-    "last_checked_at": "2026-09-11T16:22:51.263199+00:00",
+    "last_checked_at": "2026-09-13T13:20:09.681363+00:00",
     "rug_flag": true
   },
   {
@@ -5469,7 +5469,7 @@
     "liquidity_usd": 10934.376778606915,
     "source_listed_at": "2026-09-11T22:20:35",
     "peak_liquidity_usd": 10934.376778606915,
-    "last_checked_at": "2026-09-11T22:20:47.530616+00:00",
+    "last_checked_at": "2026-09-13T13:20:09.681363+00:00",
     "rug_flag": false
   },
   {
@@ -5480,7 +5480,7 @@
     "liquidity_usd": 10928.715398932762,
     "source_listed_at": "2026-09-12T09:20:03",
     "peak_liquidity_usd": 10928.715398932762,
-    "last_checked_at": "2026-09-12T09:20:30.560210+00:00",
+    "last_checked_at": "2026-09-13T13:20:09.681363+00:00",
     "rug_flag": false
   },
   {
