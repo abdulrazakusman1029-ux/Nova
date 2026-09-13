@@ -5403,7 +5403,7 @@
     "liquidity_usd": 17362.480325515342,
     "source_listed_at": "2026-09-11T14:22:39",
     "peak_liquidity_usd": 17362.480325515342,
-    "last_checked_at": "2026-09-11T15:21:49.777909+00:00",
+    "last_checked_at": "2026-09-13T11:20:02.079944+00:00",
     "rug_flag": false
   },
   {
@@ -5447,7 +5447,7 @@
     "liquidity_usd": 17729.518859842472,
     "source_listed_at": "2026-09-11T14:22:26",
     "peak_liquidity_usd": 17729.518859842472,
-    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "last_checked_at": "2026-09-13T11:20:02.079944+00:00",
     "rug_flag": false
   },
   {
@@ -5855,6 +5855,17 @@
     "source_listed_at": "2026-09-13T10:23:30",
     "peak_liquidity_usd": 11616.792206023174,
     "last_checked_at": "2026-09-13T10:24:36.257782+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T11:20:01.587085+00:00",
+    "address": "2dpSDU7yYKqiLdEMRrEyL4d3iTnxJsa15SVLY3HWobB3",
+    "symbol": "EAVE",
+    "name": "EarthVerse",
+    "liquidity_usd": 11261.019337754486,
+    "source_listed_at": "2026-09-13T11:19:36",
+    "peak_liquidity_usd": 11261.019337754486,
+    "last_checked_at": "2026-09-13T11:20:02.079944+00:00",
     "rug_flag": false
   }
 ]
