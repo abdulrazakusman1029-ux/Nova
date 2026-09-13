@@ -5702,5 +5702,49 @@
     "peak_liquidity_usd": 26222.82401029566,
     "last_checked_at": "2026-09-13T03:21:26.141152+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T04:21:24.025017+00:00",
+    "address": "4TMd6waa1qroUX5Z4nKJZtDYkMTvjcNHTUiJCyEgoXjm",
+    "symbol": "SSWAPP",
+    "name": "Soft Swap Prime",
+    "liquidity_usd": 10163.147982480847,
+    "source_listed_at": "2026-09-13T04:21:19",
+    "peak_liquidity_usd": 10163.147982480847,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T04:21:24.025037+00:00",
+    "address": "3B5sL78fAftaM9gB3QPbRjt9UoTForVC2k7w1d9qFsek",
+    "symbol": "LEVERSTONK",
+    "name": "LEVERSTONK",
+    "liquidity_usd": 9541.379966480268,
+    "source_listed_at": "2026-09-13T04:20:56",
+    "peak_liquidity_usd": 9541.379966480268,
+    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T04:21:24.025042+00:00",
+    "address": "Hrtw4c3LKGd9UFBLakEKb31h1BbZuBQa1ak3uwpEpump",
+    "symbol": "CHILLCAT",
+    "name": "CHILLCAT",
+    "liquidity_usd": 5944.614022929772,
+    "source_listed_at": "2026-09-13T04:20:56",
+    "peak_liquidity_usd": 5944.614022929772,
+    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T04:21:24.025045+00:00",
+    "address": "z43XHBfEBVsUmVeK9n1dtNqoCWDdg1pUMm5fcFqpump",
+    "symbol": "THEADORE",
+    "name": "SLEAZE BOG IN THE HOUSE",
+    "liquidity_usd": 6220.101683163986,
+    "source_listed_at": "2026-09-13T04:20:56",
+    "peak_liquidity_usd": 6220.101683163986,
+    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "rug_flag": false
   }
 ]
