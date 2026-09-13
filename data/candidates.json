@@ -5370,7 +5370,7 @@
     "liquidity_usd": 16955.951872416652,
     "source_listed_at": "2026-09-11T12:27:18",
     "peak_liquidity_usd": 16955.951872416652,
-    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
+    "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
     "rug_flag": false
   },
   {
@@ -5800,6 +5800,28 @@
     "source_listed_at": "2026-09-13T07:19:31",
     "peak_liquidity_usd": 17221.399564782445,
     "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T08:22:03.219521+00:00",
+    "address": "7j9QfH8gMGbJqcYWDXSF263Sam73mtGvu1Ltmih64cC5",
+    "symbol": "CATGIRL",
+    "name": "Cat Girl",
+    "liquidity_usd": 33111.52864042328,
+    "source_listed_at": "2026-09-13T08:21:48",
+    "peak_liquidity_usd": 33111.52864042328,
+    "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T08:22:03.219548+00:00",
+    "address": "43r2uaAEuvDdZo6DVqQamJjvsinWxTijYZfz46G5p8FP",
+    "symbol": "gigalon",
+    "name": "GAGILON",
+    "liquidity_usd": 17094.24874950443,
+    "source_listed_at": "2026-09-13T08:20:51",
+    "peak_liquidity_usd": 17094.24874950443,
+    "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
     "rug_flag": false
   }
 ]
