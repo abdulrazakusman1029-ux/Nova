@@ -5381,7 +5381,7 @@
     "liquidity_usd": 29690.938892030466,
     "source_listed_at": "2026-09-11T12:27:05",
     "peak_liquidity_usd": 29690.938892030466,
-    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
+    "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
     "rug_flag": false
   },
   {
@@ -5822,6 +5822,28 @@
     "source_listed_at": "2026-09-13T08:20:51",
     "peak_liquidity_usd": 17094.24874950443,
     "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T09:45:01.234775+00:00",
+    "address": "HrMEmeA3HG3og1PGoUjrAUK32fr1yeEsUJm2RnAFQUE6",
+    "symbol": "LONGGPTCAT",
+    "name": "LongGptCat",
+    "liquidity_usd": 16950.98604707875,
+    "source_listed_at": "2026-09-13T09:44:50",
+    "peak_liquidity_usd": 16950.98604707875,
+    "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T09:45:01.234794+00:00",
+    "address": "2rsjDCG5W6XFu4Z8ACRkpqy1D3yiw6KGCbZC6h6QLkdP",
+    "symbol": "\u732a\u732a\u4fa0",
+    "name": "GG BOND",
+    "liquidity_usd": 17285.018956701195,
+    "source_listed_at": "2026-09-13T09:44:47",
+    "peak_liquidity_usd": 17285.018956701195,
+    "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
     "rug_flag": false
   }
 ]
