@@ -5425,7 +5425,7 @@
     "liquidity_usd": 53038.666864062,
     "source_listed_at": "2026-09-11T14:22:38",
     "peak_liquidity_usd": 53038.666864062,
-    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "last_checked_at": "2026-09-13T10:24:36.257782+00:00",
     "rug_flag": false
   },
   {
@@ -5436,7 +5436,7 @@
     "liquidity_usd": 53038.666864062,
     "source_listed_at": "2026-09-11T14:22:38",
     "peak_liquidity_usd": 53038.666864062,
-    "last_checked_at": "2026-09-11T14:23:01.246500+00:00",
+    "last_checked_at": "2026-09-13T10:24:36.257782+00:00",
     "rug_flag": false
   },
   {
@@ -5844,6 +5844,17 @@
     "source_listed_at": "2026-09-13T09:44:47",
     "peak_liquidity_usd": 17285.018956701195,
     "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T10:24:35.891710+00:00",
+    "address": "5ABoEHd2U94BJtz4RHB2meco9ioy5iUq84yejbQhYqyP",
+    "symbol": "gigalon",
+    "name": "gigalon",
+    "liquidity_usd": 11616.792206023174,
+    "source_listed_at": "2026-09-13T10:23:30",
+    "peak_liquidity_usd": 11616.792206023174,
+    "last_checked_at": "2026-09-13T10:24:36.257782+00:00",
     "rug_flag": false
   }
 ]
