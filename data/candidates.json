@@ -5249,7 +5249,7 @@
     "liquidity_usd": 10095.716577082923,
     "source_listed_at": "2026-09-11T07:22:00",
     "peak_liquidity_usd": 10095.716577082923,
-    "last_checked_at": "2026-09-11T07:22:08.994673+00:00",
+    "last_checked_at": "2026-09-13T00:29:09.534802+00:00",
     "rug_flag": false
   },
   {
@@ -5260,7 +5260,7 @@
     "liquidity_usd": 84180.52467890325,
     "source_listed_at": "2026-09-11T07:21:46",
     "peak_liquidity_usd": 84180.52467890325,
-    "last_checked_at": "2026-09-11T07:22:08.994673+00:00",
+    "last_checked_at": "2026-09-13T00:29:09.534802+00:00",
     "rug_flag": false
   },
   {
@@ -5657,6 +5657,17 @@
     "source_listed_at": "2026-09-12T23:19:23",
     "peak_liquidity_usd": 17376.957471678783,
     "last_checked_at": "2026-09-12T23:19:52.558657+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T00:29:09.150230+00:00",
+    "address": "Byo1q7HsZenzVh2Ga9hv8C8YaHGcqMQsRndjUQvLyzGV",
+    "symbol": "TCAT",
+    "name": "4StockArtificial Cat",
+    "liquidity_usd": 36282.114111395415,
+    "source_listed_at": "2026-09-13T00:28:39",
+    "peak_liquidity_usd": 36282.114111395415,
+    "last_checked_at": "2026-09-13T00:29:09.534802+00:00",
     "rug_flag": false
   }
 ]
