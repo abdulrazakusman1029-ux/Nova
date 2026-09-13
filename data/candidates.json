@@ -5513,7 +5513,7 @@
     "liquidity_usd": 17378.585786879266,
     "source_listed_at": "2026-09-12T12:24:22",
     "peak_liquidity_usd": 17378.585786879266,
-    "last_checked_at": "2026-09-12T12:24:45.494892+00:00",
+    "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
     "rug_flag": false
   },
   {
@@ -5888,6 +5888,28 @@
     "source_listed_at": "2026-09-13T14:20:48",
     "peak_liquidity_usd": 17082.074680220245,
     "last_checked_at": "2026-09-13T14:21:00.190286+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T15:20:21.810405+00:00",
+    "address": "93KswyKsGKUcJVNfBzNyFABJNnywUYfdyFkVDW8UeFDW",
+    "symbol": "CHINAPAD",
+    "name": "chinapad",
+    "liquidity_usd": 17019.598504299043,
+    "source_listed_at": "2026-09-13T15:20:11",
+    "peak_liquidity_usd": 17019.598504299043,
+    "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T15:20:21.810427+00:00",
+    "address": "AFbEMe2XrgwTzN2DKX1caQo5bQkja1FJwfMstRAqXYmL",
+    "symbol": "chode",
+    "name": "Chode",
+    "liquidity_usd": 17117.116959161995,
+    "source_listed_at": "2026-09-13T15:19:37",
+    "peak_liquidity_usd": 17117.116959161995,
+    "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
     "rug_flag": false
   }
 ]
