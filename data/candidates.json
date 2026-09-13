@@ -5326,7 +5326,7 @@
     "liquidity_usd": 7544.204772221754,
     "source_listed_at": "2026-09-11T11:21:11",
     "peak_liquidity_usd": 7544.204772221754,
-    "last_checked_at": "2026-09-11T12:27:29.412281+00:00",
+    "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
     "rug_flag": false
   },
   {
@@ -5778,6 +5778,28 @@
     "source_listed_at": "2026-09-13T06:29:14",
     "peak_liquidity_usd": 10928.645955196784,
     "last_checked_at": "2026-09-13T06:30:00.424547+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T07:20:13.967521+00:00",
+    "address": "F9FLGh3v7xEUo42dfFn39qdnnLdLwG283cwfEAwL1VYd",
+    "symbol": "ASI",
+    "name": "Artificial Superintelligence",
+    "liquidity_usd": 17218.5067640449,
+    "source_listed_at": "2026-09-13T07:20:08",
+    "peak_liquidity_usd": 17218.5067640449,
+    "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T07:20:13.967554+00:00",
+    "address": "4syu5cEJy5RgbDaxz9ZvgWHivESc8V3cK238HUNNXCRy",
+    "symbol": "ASI",
+    "name": "ASI",
+    "liquidity_usd": 17221.399564782445,
+    "source_listed_at": "2026-09-13T07:19:31",
+    "peak_liquidity_usd": 17221.399564782445,
+    "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
     "rug_flag": false
   }
 ]
