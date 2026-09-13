@@ -5348,7 +5348,7 @@
     "liquidity_usd": 7550.154198803203,
     "source_listed_at": "2026-09-11T11:20:38",
     "peak_liquidity_usd": 7550.154198803203,
-    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "last_checked_at": "2026-09-13T06:30:00.424547+00:00",
     "rug_flag": false
   },
   {
@@ -5359,7 +5359,7 @@
     "liquidity_usd": 7550.154198803203,
     "source_listed_at": "2026-09-11T11:20:38",
     "peak_liquidity_usd": 7550.154198803203,
-    "last_checked_at": "2026-09-11T11:21:33.473432+00:00",
+    "last_checked_at": "2026-09-13T06:30:00.424547+00:00",
     "rug_flag": false
   },
   {
@@ -5767,6 +5767,17 @@
     "source_listed_at": "2026-09-13T05:19:05",
     "peak_liquidity_usd": 10374.994555704276,
     "last_checked_at": "2026-09-13T05:19:43.254445+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T06:29:59.909609+00:00",
+    "address": "4iUK5iLZTZKC7Ve4pF9a7SxmTzCiknDVLuGeZakQpump",
+    "symbol": "NTDA",
+    "name": "NTDA",
+    "liquidity_usd": 10928.645955196784,
+    "source_listed_at": "2026-09-13T06:29:14",
+    "peak_liquidity_usd": 10928.645955196784,
+    "last_checked_at": "2026-09-13T06:30:00.424547+00:00",
     "rug_flag": false
   }
 ]
