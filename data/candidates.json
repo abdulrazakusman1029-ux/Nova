@@ -5414,7 +5414,7 @@
     "liquidity_usd": 53038.666864062,
     "source_listed_at": "2026-09-11T14:22:38",
     "peak_liquidity_usd": 53038.666864062,
-    "last_checked_at": "2026-09-11T15:21:49.777909+00:00",
+    "last_checked_at": "2026-09-13T12:25:14.541432+00:00",
     "rug_flag": false
   },
   {
@@ -5458,7 +5458,7 @@
     "liquidity_usd": 17491.393006934348,
     "source_listed_at": "2026-09-11T15:21:21",
     "peak_liquidity_usd": 17491.393006934348,
-    "last_checked_at": "2026-09-11T15:21:49.777909+00:00",
+    "last_checked_at": "2026-09-13T12:25:14.541432+00:00",
     "rug_flag": false
   },
   {
@@ -5866,6 +5866,17 @@
     "source_listed_at": "2026-09-13T11:19:36",
     "peak_liquidity_usd": 11261.019337754486,
     "last_checked_at": "2026-09-13T11:20:02.079944+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T12:25:14.075909+00:00",
+    "address": "6N157YhbbWPVhJoDpHY2EsurhtcmXsXxEQWQWsmFQPyf",
+    "symbol": "Fugui",
+    "name": "\u5bcc\u8d35",
+    "liquidity_usd": 17357.348409148508,
+    "source_listed_at": "2026-09-13T12:24:54",
+    "peak_liquidity_usd": 17357.348409148508,
+    "last_checked_at": "2026-09-13T12:25:14.541432+00:00",
     "rug_flag": false
   }
 ]
