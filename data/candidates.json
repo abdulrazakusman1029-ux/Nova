@@ -5933,5 +5933,38 @@
     "peak_liquidity_usd": 10801.191284694694,
     "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T17:19:33.432110+00:00",
+    "address": "C3Yem9r3rHRV2K8BsK12HGf8nvtzxDNJ4bCLCUhxo2WA",
+    "symbol": "CHARLEy",
+    "name": "Charley Davidson",
+    "liquidity_usd": 17173.0407958961,
+    "source_listed_at": "2026-09-13T17:19:01",
+    "peak_liquidity_usd": 17173.0407958961,
+    "last_checked_at": "2026-09-13T17:19:33.822314+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T17:19:33.432138+00:00",
+    "address": "HMELtBezBfdtaR1DDDAYzAZFqGCH2m8ccKo5cXHtPEsN",
+    "symbol": "CHARLEY",
+    "name": "Charley Davidson",
+    "liquidity_usd": 17154.57798678804,
+    "source_listed_at": "2026-09-13T17:19:00",
+    "peak_liquidity_usd": 17154.57798678804,
+    "last_checked_at": "2026-09-13T17:19:33.822314+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-13T17:19:33.432144+00:00",
+    "address": "BEQL1JVLyLTHt4PEWGkokDY42jJQGuZ3KdzUEwp9n674",
+    "symbol": "CHARLEY",
+    "name": "Charley DavidsoN",
+    "liquidity_usd": 17260.21273491233,
+    "source_listed_at": "2026-09-13T17:18:57",
+    "peak_liquidity_usd": 17260.21273491233,
+    "last_checked_at": "2026-09-13T17:19:33.822314+00:00",
+    "rug_flag": false
   }
 ]
