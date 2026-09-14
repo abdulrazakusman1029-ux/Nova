@@ -5216,7 +5216,7 @@
     "liquidity_usd": 17901.113229591505,
     "source_listed_at": "2026-09-11T04:23:02",
     "peak_liquidity_usd": 17901.113229591505,
-    "last_checked_at": "2026-09-12T22:19:55.992120+00:00",
+    "last_checked_at": "2026-09-14T03:22:56.688541+00:00",
     "rug_flag": false
   },
   {
@@ -5645,7 +5645,7 @@
     "liquidity_usd": 17845.541893022473,
     "source_listed_at": "2026-09-12T21:19:59",
     "peak_liquidity_usd": 17845.541893022473,
-    "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
+    "last_checked_at": "2026-09-14T03:22:56.688541+00:00",
     "rug_flag": false
   },
   {
@@ -6086,6 +6086,17 @@
     "source_listed_at": "2026-09-14T02:22:13",
     "peak_liquidity_usd": 7418.368245641396,
     "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T03:22:56.313981+00:00",
+    "address": "DGFFEiZfL6woGM8cRRJSaeygHdZ34JAGD44W8Hk4WEQS",
+    "symbol": "POORGOAT",
+    "name": "The Poor Goat",
+    "liquidity_usd": 31337.035043099862,
+    "source_listed_at": "2026-09-14T03:21:56",
+    "peak_liquidity_usd": 31337.035043099862,
+    "last_checked_at": "2026-09-14T03:22:56.688541+00:00",
     "rug_flag": false
   }
 ]
