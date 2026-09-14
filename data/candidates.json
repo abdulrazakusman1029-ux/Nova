@@ -6186,5 +6186,82 @@
     "peak_liquidity_usd": 9998.79792,
     "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616089+00:00",
+    "address": "GVyRx4x6vjTk6pJjQrQAtNW3jZfrFTxd7CNJ7udMtUjW",
+    "symbol": "4Stock",
+    "name": "4Stock",
+    "liquidity_usd": 14915.584627863716,
+    "source_listed_at": "2026-09-14T09:24:04",
+    "peak_liquidity_usd": 14915.584627863716,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616120+00:00",
+    "address": "9eWcLBHYCa23XApyVBYjZ1i4NWKWBhAkDefexZ5Pbonk",
+    "symbol": "CURMIC",
+    "name": "CURIE MICROSCOPE",
+    "liquidity_usd": 82903.79173208425,
+    "source_listed_at": "2026-09-14T09:23:53",
+    "peak_liquidity_usd": 82903.79173208425,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616127+00:00",
+    "address": "CPyR7sxGSwuuo1SJUCTfjRvNLk24vMG6i8UCkfL6XeTo",
+    "symbol": "BabyCate",
+    "name": "BabyCate",
+    "liquidity_usd": 17287.436089392697,
+    "source_listed_at": "2026-09-14T09:23:41",
+    "peak_liquidity_usd": 17287.436089392697,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616133+00:00",
+    "address": "FFnx8PmFvcq58HNijFNa62K67Hr61YCgZvqkRn6xHGAY",
+    "symbol": "BIKETYSON",
+    "name": "Bike Tyson Gold",
+    "liquidity_usd": 20977.227769695288,
+    "source_listed_at": "2026-09-14T09:23:37",
+    "peak_liquidity_usd": 20977.227769695288,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616139+00:00",
+    "address": "6AbjuTrSQQXUriDwYvGwNvxKX6KUaLQQ1XguSYynpump",
+    "symbol": "BabyCate",
+    "name": "BabyCate",
+    "liquidity_usd": 7134.293698177126,
+    "source_listed_at": "2026-09-14T09:23:34",
+    "peak_liquidity_usd": 7134.293698177126,
+    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616144+00:00",
+    "address": "3NW5uKXYkf4yaR8y4hA8qDJUf4Lzp1EiRVPDKCaB8PrP",
+    "symbol": "NINA",
+    "name": "Nina The Monkey",
+    "liquidity_usd": 17223.03748462727,
+    "source_listed_at": "2026-09-14T09:23:31",
+    "peak_liquidity_usd": 17223.03748462727,
+    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T09:24:32.616150+00:00",
+    "address": "2ZJ36azbsUwrxN1AoeRochtfV2RevMvoU6dC2jpmBiqL",
+    "symbol": "BabyCate",
+    "name": "BabyCate",
+    "liquidity_usd": 17285.249377548054,
+    "source_listed_at": "2026-09-14T09:23:17",
+    "peak_liquidity_usd": 17285.249377548054,
+    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "rug_flag": false
   }
 ]
