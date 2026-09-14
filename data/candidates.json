@@ -5667,7 +5667,7 @@
     "liquidity_usd": 36282.114111395415,
     "source_listed_at": "2026-09-13T00:28:39",
     "peak_liquidity_usd": 36282.114111395415,
-    "last_checked_at": "2026-09-13T00:29:09.534802+00:00",
+    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
     "rug_flag": false
   },
   {
@@ -6163,6 +6163,28 @@
     "source_listed_at": "2026-09-14T06:29:01",
     "peak_liquidity_usd": 20309.970038959273,
     "last_checked_at": "2026-09-14T06:29:31.766551+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T07:23:43.052769+00:00",
+    "address": "AWi7TajntFiNd6AbJcfPjNwsHpoiu7o92N71xxDG78qj",
+    "symbol": "QQQI",
+    "name": "QQQI",
+    "liquidity_usd": 23175.896436398736,
+    "source_listed_at": "2026-09-14T07:22:24",
+    "peak_liquidity_usd": 23175.896436398736,
+    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T07:23:43.052791+00:00",
+    "address": "6Rc1HSdT5fgeYMg2at5cMunZFJrrzCyfYZVqRqHcAMxk",
+    "symbol": "PSDB",
+    "name": "PSDB",
+    "liquidity_usd": 9998.79792,
+    "source_listed_at": "2026-09-14T07:22:09",
+    "peak_liquidity_usd": 9998.79792,
+    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
     "rug_flag": false
   }
 ]
