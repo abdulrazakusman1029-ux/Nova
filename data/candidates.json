@@ -6054,5 +6054,38 @@
     "peak_liquidity_usd": 16916.079303076895,
     "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T02:22:44.671021+00:00",
+    "address": "5oNroxwM7tyy87LqSmLQfxEsKnsVkviW9yphz982pump",
+    "symbol": "POORGOAT",
+    "name": "POOR GOAT",
+    "liquidity_usd": 7199.668868954198,
+    "source_listed_at": "2026-09-14T02:22:27",
+    "peak_liquidity_usd": 7199.668868954198,
+    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T02:22:44.671046+00:00",
+    "address": "AFxz2rRSi4AKvuwfPjR9qXM13iyM9sArtR3iUXwLpump",
+    "symbol": "Benz",
+    "name": "Mercedes-Benz",
+    "liquidity_usd": 10746.4103918369,
+    "source_listed_at": "2026-09-14T02:22:21",
+    "peak_liquidity_usd": 10746.4103918369,
+    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T02:22:44.671050+00:00",
+    "address": "3THFkzmAGpCmDWChU5CeFdxHpYGvzjpBULjEiJrXpump",
+    "symbol": "Slop",
+    "name": "Slopcoin",
+    "liquidity_usd": 7418.368245641396,
+    "source_listed_at": "2026-09-14T02:22:13",
+    "peak_liquidity_usd": 7418.368245641396,
+    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "rug_flag": false
   }
 ]
