@@ -6228,7 +6228,7 @@
     "liquidity_usd": 20977.227769695288,
     "source_listed_at": "2026-09-14T09:23:37",
     "peak_liquidity_usd": 20977.227769695288,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
     "rug_flag": false
   },
   {
@@ -6262,6 +6262,28 @@
     "source_listed_at": "2026-09-14T09:23:17",
     "peak_liquidity_usd": 17285.249377548054,
     "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T10:22:59.818491+00:00",
+    "address": "E8yenMFbkcbNUPJgA2RsAhGKUB89Z7wXhocekxnPdpW9",
+    "symbol": "WOW",
+    "name": "WoW Gold",
+    "liquidity_usd": 22350.0230754219,
+    "source_listed_at": "2026-09-14T10:22:28",
+    "peak_liquidity_usd": 22350.0230754219,
+    "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T10:22:59.818529+00:00",
+    "address": "FaWDrBLxzQBNUGjXPEe3uxXZH8fMGKL3ZV4crSqBUomt",
+    "symbol": "AMC",
+    "name": "a meme cat",
+    "liquidity_usd": 26530.61015915327,
+    "source_listed_at": "2026-09-14T10:22:10",
+    "peak_liquidity_usd": 26530.61015915327,
+    "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
     "rug_flag": false
   }
 ]
