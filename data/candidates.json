@@ -5733,7 +5733,7 @@
     "liquidity_usd": 5944.614022929772,
     "source_listed_at": "2026-09-13T04:20:56",
     "peak_liquidity_usd": 5944.614022929772,
-    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "last_checked_at": "2026-09-14T17:20:43.459972+00:00",
     "rug_flag": false
   },
   {
@@ -5744,7 +5744,7 @@
     "liquidity_usd": 6220.101683163986,
     "source_listed_at": "2026-09-13T04:20:56",
     "peak_liquidity_usd": 6220.101683163986,
-    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "last_checked_at": "2026-09-14T17:20:43.459972+00:00",
     "rug_flag": false
   },
   {
@@ -6405,6 +6405,17 @@
     "source_listed_at": "2026-09-14T16:21:51",
     "peak_liquidity_usd": 89638.8002370202,
     "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T17:20:42.817068+00:00",
+    "address": "3dSgoUhotJ2KC8YdnBmY6wErbMNGZfLjumAz4S3hpump",
+    "symbol": "Runner",
+    "name": "Runner",
+    "liquidity_usd": 5533.90576373713,
+    "source_listed_at": "2026-09-14T17:20:13",
+    "peak_liquidity_usd": 5533.90576373713,
+    "last_checked_at": "2026-09-14T17:20:43.459972+00:00",
     "rug_flag": false
   }
 ]
