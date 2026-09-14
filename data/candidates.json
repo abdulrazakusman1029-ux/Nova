@@ -5774,11 +5774,11 @@
     "address": "4iUK5iLZTZKC7Ve4pF9a7SxmTzCiknDVLuGeZakQpump",
     "symbol": "NTDA",
     "name": "NTDA",
-    "liquidity_usd": 10928.645955196784,
+    "liquidity_usd": 79.24685636008518,
     "source_listed_at": "2026-09-13T06:29:14",
     "peak_liquidity_usd": 10928.645955196784,
-    "last_checked_at": "2026-09-13T06:30:00.424547+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-14T21:20:58.015874+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-13T07:20:13.967521+00:00",
@@ -5788,7 +5788,7 @@
     "liquidity_usd": 17218.5067640449,
     "source_listed_at": "2026-09-13T07:20:08",
     "peak_liquidity_usd": 17218.5067640449,
-    "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
+    "last_checked_at": "2026-09-14T21:20:58.015874+00:00",
     "rug_flag": false
   },
   {
@@ -5799,7 +5799,7 @@
     "liquidity_usd": 17221.399564782445,
     "source_listed_at": "2026-09-13T07:19:31",
     "peak_liquidity_usd": 17221.399564782445,
-    "last_checked_at": "2026-09-13T07:20:14.327626+00:00",
+    "last_checked_at": "2026-09-14T21:20:58.015874+00:00",
     "rug_flag": false
   },
   {
