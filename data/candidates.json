@@ -5609,11 +5609,11 @@
     "address": "FZ1QDLE9DkVg9DVryre8j4qmmge7kbiAaPMuvVZLbonk",
     "symbol": "Wrebat",
     "name": "Wrexham Red Win",
-    "liquidity_usd": 82182.76929702835,
+    "liquidity_usd": 0.046786726743750805,
     "source_listed_at": "2026-09-12T18:21:11",
     "peak_liquidity_usd": 82182.76929702835,
-    "last_checked_at": "2026-09-12T18:22:15.779862+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-14T01:21:11.468922+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-12T20:22:02.857689+00:00",
@@ -5623,7 +5623,7 @@
     "liquidity_usd": 74275.7913901901,
     "source_listed_at": "2026-09-12T20:21:48",
     "peak_liquidity_usd": 74275.7913901901,
-    "last_checked_at": "2026-09-12T20:22:03.571810+00:00",
+    "last_checked_at": "2026-09-14T01:21:11.468922+00:00",
     "rug_flag": false
   },
   {
@@ -5634,7 +5634,7 @@
     "liquidity_usd": 17299.94207760708,
     "source_listed_at": "2026-09-12T21:20:10",
     "peak_liquidity_usd": 17299.94207760708,
-    "last_checked_at": "2026-09-12T21:20:37.093097+00:00",
+    "last_checked_at": "2026-09-14T01:21:11.468922+00:00",
     "rug_flag": false
   },
   {
