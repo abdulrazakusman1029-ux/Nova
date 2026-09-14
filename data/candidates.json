@@ -5766,7 +5766,7 @@
     "liquidity_usd": 10374.994555704276,
     "source_listed_at": "2026-09-13T05:19:05",
     "peak_liquidity_usd": 10374.994555704276,
-    "last_checked_at": "2026-09-13T05:19:43.254445+00:00",
+    "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
     "rug_flag": false
   },
   {
@@ -6460,6 +6460,28 @@
     "source_listed_at": "2026-09-14T19:22:42",
     "peak_liquidity_usd": 11080.019238015042,
     "last_checked_at": "2026-09-14T19:23:00.401088+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T20:21:45.997228+00:00",
+    "address": "FJE33fFTYxVHjRXb6WFyUvNdN224fzLyFkrhBqyRKAyT",
+    "symbol": "BINAFFLECK",
+    "name": "BIN AFFLECK",
+    "liquidity_usd": 5359.134124913805,
+    "source_listed_at": "2026-09-14T20:21:24",
+    "peak_liquidity_usd": 5359.134124913805,
+    "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T20:21:45.997263+00:00",
+    "address": "F4wemYGaHgvPF12QXzcyj1kCyowLuMTufAzGDrs8oN6p",
+    "symbol": "FINE",
+    "name": "This is Fine",
+    "liquidity_usd": 20705.34553875481,
+    "source_listed_at": "2026-09-14T20:21:23",
+    "peak_liquidity_usd": 20705.34553875481,
+    "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
     "rug_flag": false
   }
 ]
