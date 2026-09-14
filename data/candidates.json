@@ -5711,7 +5711,7 @@
     "liquidity_usd": 10163.147982480847,
     "source_listed_at": "2026-09-13T04:21:19",
     "peak_liquidity_usd": 10163.147982480847,
-    "last_checked_at": "2026-09-13T05:19:43.254445+00:00",
+    "last_checked_at": "2026-09-14T18:24:57.202663+00:00",
     "rug_flag": false
   },
   {
@@ -6416,6 +6416,28 @@
     "source_listed_at": "2026-09-14T17:20:13",
     "peak_liquidity_usd": 5533.90576373713,
     "last_checked_at": "2026-09-14T17:20:43.459972+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T18:24:56.789028+00:00",
+    "address": "DWv4eNw6c6zJinTLBNcVb1iNxkb27HNWpFRsi4dkB1BZ",
+    "symbol": "beep",
+    "name": "beep",
+    "liquidity_usd": 17525.435986464603,
+    "source_listed_at": "2026-09-14T18:24:50",
+    "peak_liquidity_usd": 17525.435986464603,
+    "last_checked_at": "2026-09-14T18:24:57.202663+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T18:24:56.789054+00:00",
+    "address": "3dwk61Lu2GcJtHiphAVFJiSmWwVXvHnhGHAq6C21rkFq",
+    "symbol": "ATOMIC",
+    "name": "Atomic Check",
+    "liquidity_usd": 8669.325899817291,
+    "source_listed_at": "2026-09-14T18:24:38",
+    "peak_liquidity_usd": 8669.325899817291,
+    "last_checked_at": "2026-09-14T18:24:57.202663+00:00",
     "rug_flag": false
   }
 ]
