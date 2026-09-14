@@ -6351,5 +6351,38 @@
     "peak_liquidity_usd": 7508.842844393477,
     "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T14:24:47.328297+00:00",
+    "address": "JBHiPb6JoheX8TstLC4EWeySTeRjT3Bg4BtikUzuQVYC",
+    "symbol": "AFOB",
+    "name": "All Finance on Binance",
+    "liquidity_usd": 17243.304751211985,
+    "source_listed_at": "2026-09-14T14:24:43",
+    "peak_liquidity_usd": 17243.304751211985,
+    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T14:24:47.328319+00:00",
+    "address": "FXtizt5ccRZSyJmFo2FigcEBBUqUFTGzGvUsaMNQBoKr",
+    "symbol": "AFOB",
+    "name": "All Finance on Binance",
+    "liquidity_usd": 17257.384696772162,
+    "source_listed_at": "2026-09-14T14:24:04",
+    "peak_liquidity_usd": 17257.384696772162,
+    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T14:24:47.328323+00:00",
+    "address": "D7UMHf4nmB32isRYsW4szSLkA2Km8LcC1XnXed5Mpump",
+    "symbol": "SLINGOOR",
+    "name": "LMAO BOSS \ud83d\ude02 ",
+    "liquidity_usd": 8713.956591609203,
+    "source_listed_at": "2026-09-14T14:23:48",
+    "peak_liquidity_usd": 8713.956591609203,
+    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "rug_flag": false
   }
 ]
