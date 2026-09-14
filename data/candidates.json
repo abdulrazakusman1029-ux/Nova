@@ -6206,7 +6206,7 @@
     "liquidity_usd": 82903.79173208425,
     "source_listed_at": "2026-09-14T09:23:53",
     "peak_liquidity_usd": 82903.79173208425,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
     "rug_flag": false
   },
   {
@@ -6306,6 +6306,28 @@
     "source_listed_at": "2026-09-14T11:21:46",
     "peak_liquidity_usd": 17552.460151034913,
     "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T12:28:42.375005+00:00",
+    "address": "6CS6VZbDcDMCYaz756iJc9S2iqodFJkxiFLhoWD9pump",
+    "symbol": "LEGO",
+    "name": "LEGO",
+    "liquidity_usd": 10923.035519826291,
+    "source_listed_at": "2026-09-14T12:28:36",
+    "peak_liquidity_usd": 10923.035519826291,
+    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T12:28:42.375035+00:00",
+    "address": "5L6xpAkefSHgEQx4PWPXaQ4wNARy4QtqW6ypyz3eYDPr",
+    "symbol": "baton",
+    "name": "baton",
+    "liquidity_usd": 17868.541260000722,
+    "source_listed_at": "2026-09-14T12:28:21",
+    "peak_liquidity_usd": 17868.541260000722,
+    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
     "rug_flag": false
   }
 ]
