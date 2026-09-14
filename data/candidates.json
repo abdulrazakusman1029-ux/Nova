@@ -5238,7 +5238,7 @@
     "liquidity_usd": 16936.775936124093,
     "source_listed_at": "2026-09-11T06:26:41",
     "peak_liquidity_usd": 16936.775936124093,
-    "last_checked_at": "2026-09-12T23:19:52.558657+00:00",
+    "last_checked_at": "2026-09-14T05:21:31.588954+00:00",
     "rug_flag": false
   },
   {
@@ -6130,6 +6130,28 @@
     "source_listed_at": "2026-09-14T04:22:22",
     "peak_liquidity_usd": 17642.363100146613,
     "last_checked_at": "2026-09-14T04:23:18.143552+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T05:21:31.274753+00:00",
+    "address": "AVjsppSmTn3D3GW3Uure9kCusjmWbzvot14uYFJmKDwY",
+    "symbol": "PNL",
+    "name": "Rob Track Record",
+    "liquidity_usd": 21213.550112837485,
+    "source_listed_at": "2026-09-14T05:21:09",
+    "peak_liquidity_usd": 21213.550112837485,
+    "last_checked_at": "2026-09-14T05:21:31.588954+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T05:21:31.274774+00:00",
+    "address": "BM9rmtvHB9g5hQAmg5q5H6DA9qm7krARaGFczLiS8FWJ",
+    "symbol": "Knob",
+    "name": "KNOB",
+    "liquidity_usd": 17584.309717524942,
+    "source_listed_at": "2026-09-14T05:19:55",
+    "peak_liquidity_usd": 17584.309717524942,
+    "last_checked_at": "2026-09-14T05:21:31.588954+00:00",
     "rug_flag": false
   }
 ]
