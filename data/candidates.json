@@ -6021,5 +6021,38 @@
     "peak_liquidity_usd": 18303.221193612684,
     "last_checked_at": "2026-09-13T23:19:14.508596+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T00:29:36.960885+00:00",
+    "address": "AT6F7JuefW8ywui1mB5jmPiJKZq5zjaM2u5MAnKAbtB6",
+    "symbol": "PTWINE",
+    "name": "PTWINE",
+    "liquidity_usd": 16828.032610634582,
+    "source_listed_at": "2026-09-14T00:29:24",
+    "peak_liquidity_usd": 16828.032610634582,
+    "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T00:29:36.960907+00:00",
+    "address": "MGAkPP1VL7iS5GkXSWK7qoUrhstfr1tuARcNbN4Z1Ww",
+    "symbol": "JANE",
+    "name": "Jane",
+    "liquidity_usd": 16823.704664952333,
+    "source_listed_at": "2026-09-14T00:29:09",
+    "peak_liquidity_usd": 16823.704664952333,
+    "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T00:29:36.960912+00:00",
+    "address": "4kq5syYekWyc753CcyFTUfZkNaNQhGtvpvxtQAp44ZKP",
+    "symbol": "Jane",
+    "name": "Jane",
+    "liquidity_usd": 16916.079303076895,
+    "source_listed_at": "2026-09-14T00:29:06",
+    "peak_liquidity_usd": 16916.079303076895,
+    "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
+    "rug_flag": false
   }
 ]
