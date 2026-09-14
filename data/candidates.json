@@ -5722,7 +5722,7 @@
     "liquidity_usd": 9541.379966480268,
     "source_listed_at": "2026-09-13T04:20:56",
     "peak_liquidity_usd": 9541.379966480268,
-    "last_checked_at": "2026-09-13T04:21:24.360215+00:00",
+    "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
     "rug_flag": false
   },
   {
@@ -6383,6 +6383,28 @@
     "source_listed_at": "2026-09-14T14:23:48",
     "peak_liquidity_usd": 8713.956591609203,
     "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T16:22:28.946416+00:00",
+    "address": "38NsvnnSKTZq9igyz7SDVKd6Fters9N9HMrnWiBMYXZN",
+    "symbol": "Json",
+    "name": "Json",
+    "liquidity_usd": 6177.703779675499,
+    "source_listed_at": "2026-09-14T16:22:21",
+    "peak_liquidity_usd": 6177.703779675499,
+    "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T16:22:28.946453+00:00",
+    "address": "dA8bGNMPWBS4PUqfvdGXA6U2myCkbqBstBzzEQipump",
+    "symbol": "ARCTIC",
+    "name": "ARCTIC ROVANIEMI",
+    "liquidity_usd": 89638.8002370202,
+    "source_listed_at": "2026-09-14T16:21:51",
+    "peak_liquidity_usd": 89638.8002370202,
+    "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
     "rug_flag": false
   }
 ]
