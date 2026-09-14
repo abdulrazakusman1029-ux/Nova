@@ -6098,5 +6098,38 @@
     "peak_liquidity_usd": 31337.035043099862,
     "last_checked_at": "2026-09-14T03:22:56.688541+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T04:23:17.646945+00:00",
+    "address": "GfhrmQ1pgsfa41ikjQHe5vYphKz37kUt8iSVMXwbKBEU",
+    "symbol": "Humanity",
+    "name": "Team Humanity",
+    "liquidity_usd": 17156.361137726843,
+    "source_listed_at": "2026-09-14T04:22:59",
+    "peak_liquidity_usd": 17156.361137726843,
+    "last_checked_at": "2026-09-14T04:23:18.143552+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T04:23:17.646988+00:00",
+    "address": "4WPnLQ61Z91HZ47GbGJwTw3VedTdQkdQ2hMdG8XyWPQd",
+    "symbol": "BEAST",
+    "name": "MrBeast",
+    "liquidity_usd": 110988.06787538872,
+    "source_listed_at": "2026-09-14T04:22:24",
+    "peak_liquidity_usd": 110988.06787538872,
+    "last_checked_at": "2026-09-14T04:23:18.143552+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T04:23:17.646996+00:00",
+    "address": "58uc9qZS3pfB5BvqBSK3ssvCm1qYFLgWaxFFd1TeokFT",
+    "symbol": "TEAMHMANIT",
+    "name": "TEAMHUMANITY",
+    "liquidity_usd": 17642.363100146613,
+    "source_listed_at": "2026-09-14T04:22:22",
+    "peak_liquidity_usd": 17642.363100146613,
+    "last_checked_at": "2026-09-14T04:23:18.143552+00:00",
+    "rug_flag": false
   }
 ]
