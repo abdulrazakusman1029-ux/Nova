@@ -6483,5 +6483,38 @@
     "peak_liquidity_usd": 20705.34553875481,
     "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T22:22:29.169159+00:00",
+    "address": "5MA88CiS9eoRn9xP4hRyGDgkyoJb9Kwku5YzYNprBbbB",
+    "symbol": "shabbalon",
+    "name": "shabbalon.sol",
+    "liquidity_usd": 5516.922105012441,
+    "source_listed_at": "2026-09-14T22:22:26",
+    "peak_liquidity_usd": 5516.922105012441,
+    "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T22:22:29.169183+00:00",
+    "address": "D4fogEsQrkSA7HPW38Yw5sGyZU4M1iBsFFPt7JBdqiWY",
+    "symbol": "Baby",
+    "name": "Roblox Baby",
+    "liquidity_usd": 5582.55247759399,
+    "source_listed_at": "2026-09-14T22:22:18",
+    "peak_liquidity_usd": 5582.55247759399,
+    "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T22:22:29.169188+00:00",
+    "address": "EuL11cmAWK9NrBHDV2sXyYhYZ6yDpYjVPXCgUscVaKUV",
+    "symbol": "WET",
+    "name": "WETCOIN",
+    "liquidity_usd": 23816.235891167347,
+    "source_listed_at": "2026-09-14T22:22:14",
+    "peak_liquidity_usd": 23816.235891167347,
+    "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "rug_flag": false
   }
 ]
