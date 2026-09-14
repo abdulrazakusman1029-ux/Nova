@@ -6195,7 +6195,7 @@
     "liquidity_usd": 14915.584627863716,
     "source_listed_at": "2026-09-14T09:24:04",
     "peak_liquidity_usd": 14915.584627863716,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
     "rug_flag": false
   },
   {
@@ -6328,6 +6328,28 @@
     "source_listed_at": "2026-09-14T12:28:21",
     "peak_liquidity_usd": 17868.541260000722,
     "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T13:25:21.520964+00:00",
+    "address": "FLY1CdMttjBbYNvvktCZhvCyTzFDHiuy6yfEgpuZpump",
+    "symbol": "BlackCate",
+    "name": "BlackCate",
+    "liquidity_usd": 5781.756827421168,
+    "source_listed_at": "2026-09-14T13:24:39",
+    "peak_liquidity_usd": 5781.756827421168,
+    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T13:25:21.520985+00:00",
+    "address": "GXg2qqWgaJtQDWgAGkGUh5DNW8GBCNGb81UVat36pump",
+    "symbol": "YOMOGI",
+    "name": "Yomogi Coin",
+    "liquidity_usd": 7508.842844393477,
+    "source_listed_at": "2026-09-14T13:24:36",
+    "peak_liquidity_usd": 7508.842844393477,
+    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
     "rug_flag": false
   }
 ]
