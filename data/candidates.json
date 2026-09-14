@@ -6217,7 +6217,7 @@
     "liquidity_usd": 17287.436089392697,
     "source_listed_at": "2026-09-14T09:23:41",
     "peak_liquidity_usd": 17287.436089392697,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
     "rug_flag": false
   },
   {
@@ -6284,6 +6284,28 @@
     "source_listed_at": "2026-09-14T10:22:10",
     "peak_liquidity_usd": 26530.61015915327,
     "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T11:22:46.400154+00:00",
+    "address": "3YxLW48rJc7ii6L7d5nFYPmVRmjWknLRyMTKye7zThqq",
+    "symbol": "NVIDIA",
+    "name": "NVIDIA MEME Token",
+    "liquidity_usd": 22463.804420802287,
+    "source_listed_at": "2026-09-14T11:22:01",
+    "peak_liquidity_usd": 22463.804420802287,
+    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-14T11:22:46.400179+00:00",
+    "address": "CYi7YrSmFZzYhWb9ANGbRpvpB1vPt8n4DBbos4ak9MT6",
+    "symbol": "b\u795e",
+    "name": "b\u795e",
+    "liquidity_usd": 17552.460151034913,
+    "source_listed_at": "2026-09-14T11:21:46",
+    "peak_liquidity_usd": 17552.460151034913,
+    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
     "rug_flag": false
   }
 ]
