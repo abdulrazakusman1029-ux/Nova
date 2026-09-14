@@ -5807,11 +5807,11 @@
     "address": "7j9QfH8gMGbJqcYWDXSF263Sam73mtGvu1Ltmih64cC5",
     "symbol": "CATGIRL",
     "name": "Cat Girl",
-    "liquidity_usd": 33111.52864042328,
+    "liquidity_usd": 0.005375552753063871,
     "source_listed_at": "2026-09-13T08:21:48",
     "peak_liquidity_usd": 33111.52864042328,
-    "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-14T23:19:45.095182+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-13T08:22:03.219548+00:00",
@@ -5821,7 +5821,7 @@
     "liquidity_usd": 17094.24874950443,
     "source_listed_at": "2026-09-13T08:20:51",
     "peak_liquidity_usd": 17094.24874950443,
-    "last_checked_at": "2026-09-13T08:22:03.740340+00:00",
+    "last_checked_at": "2026-09-14T23:19:45.095182+00:00",
     "rug_flag": false
   },
   {
@@ -5832,7 +5832,7 @@
     "liquidity_usd": 16950.98604707875,
     "source_listed_at": "2026-09-13T09:44:50",
     "peak_liquidity_usd": 16950.98604707875,
-    "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
+    "last_checked_at": "2026-09-14T23:19:45.095182+00:00",
     "rug_flag": false
   },
   {
