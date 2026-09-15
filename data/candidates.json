@@ -6681,5 +6681,38 @@
     "peak_liquidity_usd": 7497.355353975,
     "last_checked_at": "2026-09-15T12:26:49.288020+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T13:23:24.489137+00:00",
+    "address": "px91d8HTbob6MGbkV9YnRCF1aD8zFWWYGGqAu8wHquC",
+    "symbol": "PreStocks",
+    "name": "PreStocks",
+    "liquidity_usd": 20083.61330005504,
+    "source_listed_at": "2026-09-15T13:23:16",
+    "peak_liquidity_usd": 20083.61330005504,
+    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T13:23:24.489159+00:00",
+    "address": "8r3iFkQ6NXApy5oMvFCcYkYfkWnDa6eJH8BCY9uLehnL",
+    "symbol": "stickman",
+    "name": "stickman",
+    "liquidity_usd": 17156.40969432192,
+    "source_listed_at": "2026-09-15T13:23:10",
+    "peak_liquidity_usd": 17156.40969432192,
+    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T13:23:24.489164+00:00",
+    "address": "9WPri25jFmkRU7sRFntgFbdNztNfPD2qiCcWMXD8Jtt1",
+    "symbol": "Aria",
+    "name": "Aria",
+    "liquidity_usd": 17244.923748605728,
+    "source_listed_at": "2026-09-15T13:23:01",
+    "peak_liquidity_usd": 17244.923748605728,
+    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
+    "rug_flag": false
   }
 ]
