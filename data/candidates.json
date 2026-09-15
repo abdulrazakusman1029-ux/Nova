@@ -5887,7 +5887,7 @@
     "liquidity_usd": 17082.074680220245,
     "source_listed_at": "2026-09-13T14:20:48",
     "peak_liquidity_usd": 17082.074680220245,
-    "last_checked_at": "2026-09-13T14:21:00.190286+00:00",
+    "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
     "rug_flag": false
   },
   {
@@ -6570,6 +6570,28 @@
     "source_listed_at": "2026-09-15T04:23:47",
     "peak_liquidity_usd": 10868.93863994664,
     "last_checked_at": "2026-09-15T04:23:53.393181+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T05:23:09.458510+00:00",
+    "address": "91F8EVU7VRQeAiYDWf3jbcPy5Z44yzd6HfpTp4YdXqJX",
+    "symbol": "Capsule",
+    "name": "Capsule",
+    "liquidity_usd": 17099.878770723935,
+    "source_listed_at": "2026-09-15T05:22:45",
+    "peak_liquidity_usd": 17099.878770723935,
+    "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T05:23:09.458531+00:00",
+    "address": "yqTaeMJLrFaP2AexRtbkuRFp3Haa9kek1nAbBCnpump",
+    "symbol": "POKEMON",
+    "name": "Pokemon",
+    "liquidity_usd": 10837.199451328797,
+    "source_listed_at": "2026-09-15T05:22:42",
+    "peak_liquidity_usd": 10837.199451328797,
+    "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
     "rug_flag": false
   }
 ]
