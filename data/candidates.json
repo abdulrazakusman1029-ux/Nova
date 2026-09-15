@@ -5480,7 +5480,7 @@
     "liquidity_usd": 10928.715398932762,
     "source_listed_at": "2026-09-12T09:20:03",
     "peak_liquidity_usd": 10928.715398932762,
-    "last_checked_at": "2026-09-13T13:20:09.681363+00:00",
+    "last_checked_at": "2026-09-15T03:23:58.068087+00:00",
     "rug_flag": false
   },
   {
@@ -6537,6 +6537,28 @@
     "source_listed_at": "2026-09-15T01:23:35",
     "peak_liquidity_usd": 16867.709449587317,
     "last_checked_at": "2026-09-15T01:24:04.715850+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T03:23:57.536081+00:00",
+    "address": "cMLK2NEBjnFfL455YELFrGFnGp4H3Cf31v58kUqpump",
+    "symbol": "America250",
+    "name": "America250",
+    "liquidity_usd": 10882.379876382902,
+    "source_listed_at": "2026-09-15T03:23:35",
+    "peak_liquidity_usd": 10882.379876382902,
+    "last_checked_at": "2026-09-15T03:23:58.068087+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T03:23:57.536110+00:00",
+    "address": "5PWZ562nnQDHd5VFxg5h2p4TpyStsabFX5EG2cYMBAGS",
+    "symbol": "RYBACRN",
+    "name": "RYBAKINA ASHE CROWN",
+    "liquidity_usd": 84694.16570794399,
+    "source_listed_at": "2026-09-15T03:23:29",
+    "peak_liquidity_usd": 84694.16570794399,
+    "last_checked_at": "2026-09-15T03:23:58.068087+00:00",
     "rug_flag": false
   }
 ]
