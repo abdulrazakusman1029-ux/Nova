@@ -6725,5 +6725,38 @@
     "peak_liquidity_usd": 17443.701526579796,
     "last_checked_at": "2026-09-15T14:23:05.877553+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T15:21:45.976156+00:00",
+    "address": "CoqYpu26bJXPFN1dZnj29MGJFsS25D5PPgWfyez7x87P",
+    "symbol": "STAMPY",
+    "name": "Stampy.fun",
+    "liquidity_usd": 16856.733008552004,
+    "source_listed_at": "2026-09-15T15:21:34",
+    "peak_liquidity_usd": 16856.733008552004,
+    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T15:21:45.976185+00:00",
+    "address": "5bYVafaUMCP7td9tSjafTbSDpLBfbAgAWLfWCgtXfgZJ",
+    "symbol": "BUTTER",
+    "name": "Butterfly",
+    "liquidity_usd": 5803.315128893035,
+    "source_listed_at": "2026-09-15T15:21:28",
+    "peak_liquidity_usd": 5803.315128893035,
+    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T15:21:45.976190+00:00",
+    "address": "2sXZZEN7uGPycj1KjjxdUMjziKbntsyJaFKU4kg7128E",
+    "symbol": "Gadsden",
+    "name": "Don't Tread on Me",
+    "liquidity_usd": 16873.719755335518,
+    "source_listed_at": "2026-09-15T15:21:09",
+    "peak_liquidity_usd": 16873.719755335518,
+    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "rug_flag": false
   }
 ]
