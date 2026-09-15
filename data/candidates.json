@@ -5920,7 +5920,7 @@
     "liquidity_usd": 10804.633343571797,
     "source_listed_at": "2026-09-13T16:21:15",
     "peak_liquidity_usd": 10804.633343571797,
-    "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
+    "last_checked_at": "2026-09-15T08:25:36.319621+00:00",
     "rug_flag": false
   },
   {
@@ -6614,6 +6614,28 @@
     "source_listed_at": "2026-09-15T07:24:09",
     "peak_liquidity_usd": 86629.55804613356,
     "last_checked_at": "2026-09-15T07:24:46.818477+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T08:25:35.931272+00:00",
+    "address": "35pZJHuL3WMTJu8FqitpeocH1wxy1hzjkneNh85uS95D",
+    "symbol": "$1",
+    "name": "Trump $1 Coin",
+    "liquidity_usd": 18040.37690827971,
+    "source_listed_at": "2026-09-15T08:25:14",
+    "peak_liquidity_usd": 18040.37690827971,
+    "last_checked_at": "2026-09-15T08:25:36.319621+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T08:25:35.931295+00:00",
+    "address": "7xRHXoSjok27kM9oyksDgY6c3Cnzngz1GTGCL74c4e7E",
+    "symbol": "BONK",
+    "name": "Bonk For Robinhood",
+    "liquidity_usd": 17019.813490569813,
+    "source_listed_at": "2026-09-15T08:24:52",
+    "peak_liquidity_usd": 17019.813490569813,
+    "last_checked_at": "2026-09-15T08:25:36.319621+00:00",
     "rug_flag": false
   }
 ]
