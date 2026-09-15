@@ -5983,11 +5983,11 @@
     "address": "C3WmeCEDJgCPSPegA5RNi1z6GJcj56so5ykdVLoSpump",
     "symbol": "OpenAI",
     "name": "OpenAI",
-    "liquidity_usd": 10845.285374644593,
+    "liquidity_usd": 53.36990501219386,
     "source_listed_at": "2026-09-13T20:20:32",
     "peak_liquidity_usd": 10845.285374644593,
-    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-15T16:22:28.253332+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-13T20:20:59.245968+00:00",
@@ -5997,7 +5997,7 @@
     "liquidity_usd": 17283.842287630367,
     "source_listed_at": "2026-09-13T20:20:28",
     "peak_liquidity_usd": 17283.842287630367,
-    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
+    "last_checked_at": "2026-09-15T16:22:28.253332+00:00",
     "rug_flag": false
   },
   {
@@ -6008,7 +6008,7 @@
     "liquidity_usd": 17278.955419113772,
     "source_listed_at": "2026-09-13T20:20:11",
     "peak_liquidity_usd": 17278.955419113772,
-    "last_checked_at": "2026-09-13T20:20:59.735374+00:00",
+    "last_checked_at": "2026-09-15T16:22:28.253332+00:00",
     "rug_flag": false
   },
   {
