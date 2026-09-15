@@ -5491,7 +5491,7 @@
     "liquidity_usd": 14364.582509737402,
     "source_listed_at": "2026-09-12T10:18:44",
     "peak_liquidity_usd": 14364.582509737402,
-    "last_checked_at": "2026-09-13T14:21:00.190286+00:00",
+    "last_checked_at": "2026-09-15T04:23:53.393181+00:00",
     "rug_flag": false
   },
   {
@@ -5502,7 +5502,7 @@
     "liquidity_usd": 22539.54134862147,
     "source_listed_at": "2026-09-12T10:18:33",
     "peak_liquidity_usd": 22539.54134862147,
-    "last_checked_at": "2026-09-13T14:21:00.190286+00:00",
+    "last_checked_at": "2026-09-15T04:23:53.393181+00:00",
     "rug_flag": false
   },
   {
@@ -6559,6 +6559,17 @@
     "source_listed_at": "2026-09-15T03:23:29",
     "peak_liquidity_usd": 84694.16570794399,
     "last_checked_at": "2026-09-15T03:23:58.068087+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T04:23:52.922122+00:00",
+    "address": "7xs26HS1Hy9DUcagb9XtWrKKHn8Rq1NrjqbMfJqbpump",
+    "symbol": "WOFI",
+    "name": "WOFI",
+    "liquidity_usd": 10868.93863994664,
+    "source_listed_at": "2026-09-15T04:23:47",
+    "peak_liquidity_usd": 10868.93863994664,
+    "last_checked_at": "2026-09-15T04:23:53.393181+00:00",
     "rug_flag": false
   }
 ]
