@@ -5601,7 +5601,7 @@
     "liquidity_usd": 17617.078841866667,
     "source_listed_at": "2026-09-12T18:22:08",
     "peak_liquidity_usd": 17617.078841866667,
-    "last_checked_at": "2026-09-13T23:19:14.508596+00:00",
+    "last_checked_at": "2026-09-15T17:19:53.688477+00:00",
     "rug_flag": false
   },
   {
@@ -6019,7 +6019,7 @@
     "liquidity_usd": 18303.221193612684,
     "source_listed_at": "2026-09-13T23:18:32",
     "peak_liquidity_usd": 18303.221193612684,
-    "last_checked_at": "2026-09-13T23:19:14.508596+00:00",
+    "last_checked_at": "2026-09-15T17:19:53.688477+00:00",
     "rug_flag": false
   },
   {
@@ -6757,6 +6757,17 @@
     "source_listed_at": "2026-09-15T15:21:09",
     "peak_liquidity_usd": 16873.719755335518,
     "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T17:19:53.192289+00:00",
+    "address": "CNwtDvGybqbkQhrE64AV1FeuFCRXDfC44KaKGCZaeWUp",
+    "symbol": "ANON",
+    "name": "Act Now Or Never ",
+    "liquidity_usd": 16752.566214262955,
+    "source_listed_at": "2026-09-15T17:19:35",
+    "peak_liquidity_usd": 16752.566214262955,
+    "last_checked_at": "2026-09-15T17:19:53.688477+00:00",
     "rug_flag": false
   }
 ]
