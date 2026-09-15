@@ -5843,7 +5843,7 @@
     "liquidity_usd": 17285.018956701195,
     "source_listed_at": "2026-09-13T09:44:47",
     "peak_liquidity_usd": 17285.018956701195,
-    "last_checked_at": "2026-09-13T09:45:01.801582+00:00",
+    "last_checked_at": "2026-09-15T00:30:30.402503+00:00",
     "rug_flag": false
   },
   {
@@ -5854,7 +5854,7 @@
     "liquidity_usd": 11616.792206023174,
     "source_listed_at": "2026-09-13T10:23:30",
     "peak_liquidity_usd": 11616.792206023174,
-    "last_checked_at": "2026-09-13T10:24:36.257782+00:00",
+    "last_checked_at": "2026-09-15T00:30:30.402503+00:00",
     "rug_flag": false
   },
   {
@@ -6515,6 +6515,17 @@
     "source_listed_at": "2026-09-14T22:22:14",
     "peak_liquidity_usd": 23816.235891167347,
     "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T00:30:29.832563+00:00",
+    "address": "E9f6ZSPBqNKKpHPKmRu7EuEEyZouGzihkngURMKa8aQx",
+    "symbol": "WAIFU",
+    "name": "Waifu",
+    "liquidity_usd": 17459.03964032111,
+    "source_listed_at": "2026-09-15T00:30:15",
+    "peak_liquidity_usd": 17459.03964032111,
+    "last_checked_at": "2026-09-15T00:30:30.402503+00:00",
     "rug_flag": false
   }
 ]
