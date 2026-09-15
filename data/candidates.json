@@ -5524,7 +5524,7 @@
     "liquidity_usd": 0.0002717574811495311,
     "source_listed_at": "2026-09-12T14:20:21",
     "peak_liquidity_usd": 17408.34061199557,
-    "last_checked_at": "2026-09-13T19:18:37.526598+00:00",
+    "last_checked_at": "2026-09-15T12:26:49.288020+00:00",
     "rug_flag": true
   },
   {
@@ -5975,7 +5975,7 @@
     "liquidity_usd": 17197.64972024319,
     "source_listed_at": "2026-09-13T18:22:58",
     "peak_liquidity_usd": 17197.64972024319,
-    "last_checked_at": "2026-09-13T18:23:10.240949+00:00",
+    "last_checked_at": "2026-09-15T12:26:49.288020+00:00",
     "rug_flag": false
   },
   {
@@ -6669,6 +6669,17 @@
     "source_listed_at": "2026-09-15T11:20:26",
     "peak_liquidity_usd": 22269.13621352466,
     "last_checked_at": "2026-09-15T11:21:27.234014+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T12:26:48.807466+00:00",
+    "address": "B5tCzrnYt7L5BrKPcDxXvEe14aAvnB8i9VtYv9Gkmoon",
+    "symbol": "IPO",
+    "name": "IPO",
+    "liquidity_usd": 7497.355353975,
+    "source_listed_at": "2026-09-15T12:26:12",
+    "peak_liquidity_usd": 7497.355353975,
+    "last_checked_at": "2026-09-15T12:26:49.288020+00:00",
     "rug_flag": false
   }
 ]
