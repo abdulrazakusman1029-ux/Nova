@@ -5620,11 +5620,11 @@
     "address": "5yuAVTnuw5mA2gBL241X4Wd4rKTWXcDi1TqdgFBupump",
     "symbol": "Wmorad",
     "name": "WMO RADAR",
-    "liquidity_usd": 74275.7913901901,
+    "liquidity_usd": 0.002175537854674995,
     "source_listed_at": "2026-09-12T20:21:48",
     "peak_liquidity_usd": 74275.7913901901,
-    "last_checked_at": "2026-09-14T01:21:11.468922+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-15T20:21:09.244941+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-12T21:20:36.559612+00:00",
@@ -5634,7 +5634,7 @@
     "liquidity_usd": 17299.94207760708,
     "source_listed_at": "2026-09-12T21:20:10",
     "peak_liquidity_usd": 17299.94207760708,
-    "last_checked_at": "2026-09-14T01:21:11.468922+00:00",
+    "last_checked_at": "2026-09-15T20:21:09.244941+00:00",
     "rug_flag": false
   },
   {
@@ -6063,7 +6063,7 @@
     "liquidity_usd": 7199.668868954198,
     "source_listed_at": "2026-09-14T02:22:27",
     "peak_liquidity_usd": 7199.668868954198,
-    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "last_checked_at": "2026-09-15T20:21:09.244941+00:00",
     "rug_flag": false
   },
   {
