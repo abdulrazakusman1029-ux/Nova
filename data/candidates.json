@@ -5513,7 +5513,7 @@
     "liquidity_usd": 17378.585786879266,
     "source_listed_at": "2026-09-12T12:24:22",
     "peak_liquidity_usd": 17378.585786879266,
-    "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
+    "last_checked_at": "2026-09-15T06:28:59.627188+00:00",
     "rug_flag": false
   },
   {
@@ -5898,7 +5898,7 @@
     "liquidity_usd": 17019.598504299043,
     "source_listed_at": "2026-09-13T15:20:11",
     "peak_liquidity_usd": 17019.598504299043,
-    "last_checked_at": "2026-09-13T15:20:22.220506+00:00",
+    "last_checked_at": "2026-09-15T06:28:59.627188+00:00",
     "rug_flag": false
   },
   {
@@ -6592,6 +6592,17 @@
     "source_listed_at": "2026-09-15T05:22:42",
     "peak_liquidity_usd": 10837.199451328797,
     "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T06:28:59.065531+00:00",
+    "address": "CSnF5ERQ1G5pRVHRsfmv9neX9Lb5ST1fj3vZWzY8pump",
+    "symbol": "BIKEMUSK",
+    "name": "Bike Musk",
+    "liquidity_usd": 7192.480608339365,
+    "source_listed_at": "2026-09-15T06:27:58",
+    "peak_liquidity_usd": 7192.480608339365,
+    "last_checked_at": "2026-09-15T06:28:59.627188+00:00",
     "rug_flag": false
   }
 ]
