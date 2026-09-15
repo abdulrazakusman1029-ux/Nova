@@ -6041,7 +6041,7 @@
     "liquidity_usd": 16823.704664952333,
     "source_listed_at": "2026-09-14T00:29:09",
     "peak_liquidity_usd": 16823.704664952333,
-    "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
+    "last_checked_at": "2026-09-15T19:20:33.908185+00:00",
     "rug_flag": false
   },
   {
@@ -6052,7 +6052,7 @@
     "liquidity_usd": 16916.079303076895,
     "source_listed_at": "2026-09-14T00:29:06",
     "peak_liquidity_usd": 16916.079303076895,
-    "last_checked_at": "2026-09-14T00:29:37.486683+00:00",
+    "last_checked_at": "2026-09-15T19:20:33.908185+00:00",
     "rug_flag": false
   },
   {
@@ -6790,6 +6790,17 @@
     "source_listed_at": "2026-09-15T18:22:26",
     "peak_liquidity_usd": 10650.087561765631,
     "last_checked_at": "2026-09-15T18:23:11.166884+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T19:20:33.320751+00:00",
+    "address": "HxFGz1BAEhcBYkkrUpudEP5ZASTWnjNp8pv6JjDjcsjY",
+    "symbol": "USDC",
+    "name": "FatCatBatRatWifHat",
+    "liquidity_usd": 5081.532372694434,
+    "source_listed_at": "2026-09-15T19:20:25",
+    "peak_liquidity_usd": 5081.532372694434,
+    "last_checked_at": "2026-09-15T19:20:33.908185+00:00",
     "rug_flag": false
   }
 ]
