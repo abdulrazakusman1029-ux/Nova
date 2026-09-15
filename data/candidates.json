@@ -6126,11 +6126,11 @@
     "address": "58uc9qZS3pfB5BvqBSK3ssvCm1qYFLgWaxFFd1TeokFT",
     "symbol": "TEAMHMANIT",
     "name": "TEAMHUMANITY",
-    "liquidity_usd": 17642.363100146613,
+    "liquidity_usd": 0.00030001408984869405,
     "source_listed_at": "2026-09-14T04:22:22",
     "peak_liquidity_usd": 17642.363100146613,
-    "last_checked_at": "2026-09-14T04:23:18.143552+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-15T23:19:51.062047+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T05:21:31.274753+00:00",
@@ -6140,7 +6140,7 @@
     "liquidity_usd": 21213.550112837485,
     "source_listed_at": "2026-09-14T05:21:09",
     "peak_liquidity_usd": 21213.550112837485,
-    "last_checked_at": "2026-09-14T05:21:31.588954+00:00",
+    "last_checked_at": "2026-09-15T23:19:51.062047+00:00",
     "rug_flag": false
   },
   {
@@ -6151,7 +6151,7 @@
     "liquidity_usd": 17584.309717524942,
     "source_listed_at": "2026-09-14T05:19:55",
     "peak_liquidity_usd": 17584.309717524942,
-    "last_checked_at": "2026-09-14T05:21:31.588954+00:00",
+    "last_checked_at": "2026-09-15T23:19:51.062047+00:00",
     "rug_flag": false
   },
   {
