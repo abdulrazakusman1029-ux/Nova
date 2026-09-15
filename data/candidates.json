@@ -5642,11 +5642,11 @@
     "address": "2SBBQ7pdGFUMNn5pzSsXHipY7or3QWdJbv6mUkTeGkrB",
     "symbol": "kemo",
     "name": "kemo",
-    "liquidity_usd": 17845.541893022473,
+    "liquidity_usd": 0.00018851208898591017,
     "source_listed_at": "2026-09-12T21:19:59",
     "peak_liquidity_usd": 17845.541893022473,
-    "last_checked_at": "2026-09-14T03:22:56.688541+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-15T21:20:24.370178+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-12T23:19:52.167329+00:00",
@@ -6071,11 +6071,11 @@
     "address": "AFxz2rRSi4AKvuwfPjR9qXM13iyM9sArtR3iUXwLpump",
     "symbol": "Benz",
     "name": "Mercedes-Benz",
-    "liquidity_usd": 10746.4103918369,
+    "liquidity_usd": 69.5922893604112,
     "source_listed_at": "2026-09-14T02:22:21",
     "peak_liquidity_usd": 10746.4103918369,
-    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-15T21:20:24.370178+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T02:22:44.671050+00:00",
@@ -6085,7 +6085,7 @@
     "liquidity_usd": 7418.368245641396,
     "source_listed_at": "2026-09-14T02:22:13",
     "peak_liquidity_usd": 7418.368245641396,
-    "last_checked_at": "2026-09-14T02:22:45.009497+00:00",
+    "last_checked_at": "2026-09-15T21:20:24.370178+00:00",
     "rug_flag": false
   },
   {
