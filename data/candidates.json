@@ -5931,7 +5931,7 @@
     "liquidity_usd": 10801.191284694694,
     "source_listed_at": "2026-09-13T16:20:42",
     "peak_liquidity_usd": 10801.191284694694,
-    "last_checked_at": "2026-09-13T16:21:27.430106+00:00",
+    "last_checked_at": "2026-09-15T09:24:32.226580+00:00",
     "rug_flag": false
   },
   {
@@ -5942,7 +5942,7 @@
     "liquidity_usd": 17173.0407958961,
     "source_listed_at": "2026-09-13T17:19:01",
     "peak_liquidity_usd": 17173.0407958961,
-    "last_checked_at": "2026-09-13T17:19:33.822314+00:00",
+    "last_checked_at": "2026-09-15T09:24:32.226580+00:00",
     "rug_flag": false
   },
   {
@@ -6636,6 +6636,17 @@
     "source_listed_at": "2026-09-15T08:24:52",
     "peak_liquidity_usd": 17019.813490569813,
     "last_checked_at": "2026-09-15T08:25:36.319621+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-15T09:24:31.875977+00:00",
+    "address": "2d4xZo72fDfFQaHTzqH3yJXWSnyEbh2H99EqJiUPpump",
+    "symbol": "DWH",
+    "name": "DOGEWIFHAT",
+    "liquidity_usd": 10657.691523986658,
+    "source_listed_at": "2026-09-15T09:23:30",
+    "peak_liquidity_usd": 10657.691523986658,
+    "last_checked_at": "2026-09-15T09:24:32.226580+00:00",
     "rug_flag": false
   }
 ]
