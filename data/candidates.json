@@ -6184,7 +6184,7 @@
     "liquidity_usd": 9998.79792,
     "source_listed_at": "2026-09-14T07:22:09",
     "peak_liquidity_usd": 9998.79792,
-    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
+    "last_checked_at": "2026-09-16T03:22:08.731687+00:00",
     "rug_flag": false
   },
   {
@@ -6239,7 +6239,7 @@
     "liquidity_usd": 7134.293698177126,
     "source_listed_at": "2026-09-14T09:23:34",
     "peak_liquidity_usd": 7134.293698177126,
-    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "last_checked_at": "2026-09-16T03:22:08.731687+00:00",
     "rug_flag": false
   },
   {
@@ -6841,11 +6841,11 @@
     "address": "4pHs9VBfjGfMawor5SB2ny4xRBPn1ePkdKjphAk9pump",
     "symbol": "HIMGAJRIA",
     "name": "Himgajria",
-    "liquidity_usd": 6318.405123508881,
+    "liquidity_usd": 0.14743912601834838,
     "source_listed_at": "2026-09-16T02:21:51",
     "peak_liquidity_usd": 6318.405123508881,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-16T03:22:08.731687+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-16T02:22:03.127024+00:00",
