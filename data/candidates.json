@@ -6404,7 +6404,7 @@
     "liquidity_usd": 89638.8002370202,
     "source_listed_at": "2026-09-14T16:21:51",
     "peak_liquidity_usd": 89638.8002370202,
-    "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
+    "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
     "rug_flag": false
   },
   {
@@ -7076,6 +7076,28 @@
     "source_listed_at": "2026-09-16T15:21:43",
     "peak_liquidity_usd": 17079.07770196208,
     "last_checked_at": "2026-09-16T15:22:18.509520+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T16:22:09.301335+00:00",
+    "address": "C7Z44CNAsM9e9iTcQs4W4Q5YP1w76Xyn7ZneFrAYVNnM",
+    "symbol": "GIN-CHAN",
+    "name": "Gin-chan Coin",
+    "liquidity_usd": 16755.68888192295,
+    "source_listed_at": "2026-09-16T16:21:55",
+    "peak_liquidity_usd": 16755.68888192295,
+    "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T16:22:09.301357+00:00",
+    "address": "3mNwnWyAbdrf77Js1wTGjKmRHJPmFJbpnr81CUaq9VKi",
+    "symbol": "BIG",
+    "name": "Big Ups",
+    "liquidity_usd": 7040.294525897441,
+    "source_listed_at": "2026-09-16T16:21:49",
+    "peak_liquidity_usd": 7040.294525897441,
+    "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
     "rug_flag": false
   }
 ]
