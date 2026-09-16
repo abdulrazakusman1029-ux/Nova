@@ -6437,7 +6437,7 @@
     "liquidity_usd": 8669.325899817291,
     "source_listed_at": "2026-09-14T18:24:38",
     "peak_liquidity_usd": 8669.325899817291,
-    "last_checked_at": "2026-09-14T18:24:57.202663+00:00",
+    "last_checked_at": "2026-09-16T18:23:59.621616+00:00",
     "rug_flag": false
   },
   {
@@ -6448,7 +6448,7 @@
     "liquidity_usd": 5451.046315013928,
     "source_listed_at": "2026-09-14T19:22:47",
     "peak_liquidity_usd": 5451.046315013928,
-    "last_checked_at": "2026-09-14T19:23:00.401088+00:00",
+    "last_checked_at": "2026-09-16T18:23:59.621616+00:00",
     "rug_flag": false
   },
   {
@@ -7109,6 +7109,17 @@
     "source_listed_at": "2026-09-16T17:19:24",
     "peak_liquidity_usd": 9913.336064508334,
     "last_checked_at": "2026-09-16T17:19:46.488135+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T18:23:59.240998+00:00",
+    "address": "CivHcgtTLVGLqwvLDgCLc7hV8yFiHMChCADxT9ZRLsyz",
+    "symbol": "MARSCOIN",
+    "name": "marscoin",
+    "liquidity_usd": 17000.1504023591,
+    "source_listed_at": "2026-09-16T18:23:36",
+    "peak_liquidity_usd": 17000.1504023591,
+    "last_checked_at": "2026-09-16T18:23:59.621616+00:00",
     "rug_flag": false
   }
 ]
