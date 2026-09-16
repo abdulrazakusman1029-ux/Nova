@@ -6272,7 +6272,7 @@
     "liquidity_usd": 22350.0230754219,
     "source_listed_at": "2026-09-14T10:22:28",
     "peak_liquidity_usd": 22350.0230754219,
-    "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
+    "last_checked_at": "2026-09-16T07:22:55.227030+00:00",
     "rug_flag": false
   },
   {
@@ -6283,7 +6283,7 @@
     "liquidity_usd": 26530.61015915327,
     "source_listed_at": "2026-09-14T10:22:10",
     "peak_liquidity_usd": 26530.61015915327,
-    "last_checked_at": "2026-09-14T10:23:00.209823+00:00",
+    "last_checked_at": "2026-09-16T07:22:55.227030+00:00",
     "rug_flag": false
   },
   {
@@ -6944,6 +6944,17 @@
     "source_listed_at": "2026-09-16T06:26:42",
     "peak_liquidity_usd": 16954.199431495374,
     "last_checked_at": "2026-09-16T06:27:48.404197+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T07:22:54.586532+00:00",
+    "address": "H88mQfuvCfoomJ4L5cCSemWg97bnjKpkwbcBLJQ6bonk",
+    "symbol": "Unheat",
+    "name": "Un Heatwave Shield\u26a1",
+    "liquidity_usd": 82026.75597612966,
+    "source_listed_at": "2026-09-16T07:22:34",
+    "peak_liquidity_usd": 82026.75597612966,
+    "last_checked_at": "2026-09-16T07:22:55.227030+00:00",
     "rug_flag": false
   }
 ]
