@@ -6195,7 +6195,7 @@
     "liquidity_usd": 14915.584627863716,
     "source_listed_at": "2026-09-14T09:24:04",
     "peak_liquidity_usd": 14915.584627863716,
-    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
+    "last_checked_at": "2026-09-16T12:27:35.939374+00:00",
     "rug_flag": false
   },
   {
@@ -6327,7 +6327,7 @@
     "liquidity_usd": 17868.541260000722,
     "source_listed_at": "2026-09-14T12:28:21",
     "peak_liquidity_usd": 17868.541260000722,
-    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
+    "last_checked_at": "2026-09-16T12:27:35.939374+00:00",
     "rug_flag": false
   },
   {
@@ -7032,6 +7032,17 @@
     "source_listed_at": "2026-09-16T11:21:59",
     "peak_liquidity_usd": 9885.995170546956,
     "last_checked_at": "2026-09-16T11:22:40.429797+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T12:27:35.487442+00:00",
+    "address": "AspMHgmUZDCNRdp5Lcup2YX9ArW3fTFwe9FMBqTz8hS4",
+    "symbol": "HKLTU",
+    "name": "HKLTU",
+    "liquidity_usd": 10390.555224692358,
+    "source_listed_at": "2026-09-16T12:27:17",
+    "peak_liquidity_usd": 10390.555224692358,
+    "last_checked_at": "2026-09-16T12:27:35.939374+00:00",
     "rug_flag": false
   }
 ]
