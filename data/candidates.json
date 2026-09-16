@@ -6492,7 +6492,7 @@
     "liquidity_usd": 5516.922105012441,
     "source_listed_at": "2026-09-14T22:22:26",
     "peak_liquidity_usd": 5516.922105012441,
-    "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
     "rug_flag": false
   },
   {
@@ -7120,6 +7120,28 @@
     "source_listed_at": "2026-09-16T18:23:36",
     "peak_liquidity_usd": 17000.1504023591,
     "last_checked_at": "2026-09-16T18:23:59.621616+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T20:22:15.230473+00:00",
+    "address": "3VkMZYjRyAx18mgjMoiwruo4qzEyKv59JqzwW4JVqgo7",
+    "symbol": "DAT",
+    "name": "Digital Ass and Tits",
+    "liquidity_usd": 5857.29273822523,
+    "source_listed_at": "2026-09-16T20:22:06",
+    "peak_liquidity_usd": 5857.29273822523,
+    "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T20:22:15.230496+00:00",
+    "address": "FdTpeY6DAbuVqqV3Q9BiFB4D7nibGFkk3esMMuNg9rAt",
+    "symbol": "ILY",
+    "name": "there is no meme, ily",
+    "liquidity_usd": 16796.281070334622,
+    "source_listed_at": "2026-09-16T20:21:52",
+    "peak_liquidity_usd": 16796.281070334622,
+    "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
     "rug_flag": false
   }
 ]
