@@ -6316,7 +6316,7 @@
     "liquidity_usd": 10923.035519826291,
     "source_listed_at": "2026-09-14T12:28:36",
     "peak_liquidity_usd": 10923.035519826291,
-    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
+    "last_checked_at": "2026-09-16T11:22:40.429797+00:00",
     "rug_flag": false
   },
   {
@@ -6987,7 +6987,7 @@
     "liquidity_usd": 16733.00066684729,
     "source_listed_at": "2026-09-16T10:22:53",
     "peak_liquidity_usd": 16733.00066684729,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-16T11:22:40.429797+00:00",
     "rug_flag": false
   },
   {
@@ -7021,6 +7021,17 @@
     "source_listed_at": "2026-09-16T10:22:03",
     "peak_liquidity_usd": 17131.31385004428,
     "last_checked_at": "2026-09-16T10:23:07.283738+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T11:22:39.847055+00:00",
+    "address": "3BTkCdUt9KK5cSxaFiRHXWaCS2Gh4bLyi8L6RgxJXwbR",
+    "symbol": "\u5b59\u5b87\u6668\u5956",
+    "name": "Justin Sun Prize",
+    "liquidity_usd": 9885.995170546956,
+    "source_listed_at": "2026-09-16T11:21:59",
+    "peak_liquidity_usd": 9885.995170546956,
+    "last_checked_at": "2026-09-16T11:22:40.429797+00:00",
     "rug_flag": false
   }
 ]
