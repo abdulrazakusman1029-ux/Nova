@@ -6250,7 +6250,7 @@
     "liquidity_usd": 17223.03748462727,
     "source_listed_at": "2026-09-14T09:23:31",
     "peak_liquidity_usd": 17223.03748462727,
-    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "last_checked_at": "2026-09-16T05:21:06.601740+00:00",
     "rug_flag": false
   },
   {
@@ -6261,7 +6261,7 @@
     "liquidity_usd": 17285.249377548054,
     "source_listed_at": "2026-09-14T09:23:17",
     "peak_liquidity_usd": 17285.249377548054,
-    "last_checked_at": "2026-09-14T09:24:32.996305+00:00",
+    "last_checked_at": "2026-09-16T05:21:06.601740+00:00",
     "rug_flag": false
   },
   {
@@ -6911,6 +6911,17 @@
     "source_listed_at": "2026-09-16T04:22:12",
     "peak_liquidity_usd": 39055.55232468321,
     "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T05:21:06.239234+00:00",
+    "address": "5hgLJPoyp899qvCFA2sQgYU8vn52xPxSQ1y1rZQ7KmL",
+    "symbol": "Architects",
+    "name": "Architects",
+    "liquidity_usd": 159610.17112248906,
+    "source_listed_at": "2026-09-16T05:20:34",
+    "peak_liquidity_usd": 159610.17112248906,
+    "last_checked_at": "2026-09-16T05:21:06.601740+00:00",
     "rug_flag": false
   }
 ]
