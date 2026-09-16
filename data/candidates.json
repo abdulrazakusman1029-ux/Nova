@@ -6206,7 +6206,7 @@
     "liquidity_usd": 82903.79173208425,
     "source_listed_at": "2026-09-14T09:23:53",
     "peak_liquidity_usd": 82903.79173208425,
-    "last_checked_at": "2026-09-14T12:28:42.948114+00:00",
+    "last_checked_at": "2026-09-16T09:22:23.164208+00:00",
     "rug_flag": false
   },
   {
@@ -6305,7 +6305,7 @@
     "liquidity_usd": 17552.460151034913,
     "source_listed_at": "2026-09-14T11:21:46",
     "peak_liquidity_usd": 17552.460151034913,
-    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
+    "last_checked_at": "2026-09-16T09:22:23.164208+00:00",
     "rug_flag": false
   },
   {
@@ -6966,6 +6966,17 @@
     "source_listed_at": "2026-09-16T08:23:13",
     "peak_liquidity_usd": 82684.47297935151,
     "last_checked_at": "2026-09-16T08:23:56.653829+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T09:22:22.699387+00:00",
+    "address": "NSNNDXuniyQUw2Bja3aUjuLJvMyeAAj7BHk5QMbpump",
+    "symbol": "USWS",
+    "name": "United States Water Supply",
+    "liquidity_usd": 10430.82859696677,
+    "source_listed_at": "2026-09-16T09:21:48",
+    "peak_liquidity_usd": 10430.82859696677,
+    "last_checked_at": "2026-09-16T09:22:23.164208+00:00",
     "rug_flag": false
   }
 ]
