@@ -6346,11 +6346,11 @@
     "address": "GXg2qqWgaJtQDWgAGkGUh5DNW8GBCNGb81UVat36pump",
     "symbol": "YOMOGI",
     "name": "Yomogi Coin",
-    "liquidity_usd": 7508.842844393477,
+    "liquidity_usd": 6.04134446117532,
     "source_listed_at": "2026-09-14T13:24:36",
     "peak_liquidity_usd": 7508.842844393477,
-    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-16T14:23:14.626975+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T14:24:47.328297+00:00",
@@ -6360,7 +6360,7 @@
     "liquidity_usd": 17243.304751211985,
     "source_listed_at": "2026-09-14T14:24:43",
     "peak_liquidity_usd": 17243.304751211985,
-    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "last_checked_at": "2026-09-16T14:23:14.626975+00:00",
     "rug_flag": false
   },
   {
@@ -6371,7 +6371,7 @@
     "liquidity_usd": 17257.384696772162,
     "source_listed_at": "2026-09-14T14:24:04",
     "peak_liquidity_usd": 17257.384696772162,
-    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "last_checked_at": "2026-09-16T14:23:14.626975+00:00",
     "rug_flag": false
   },
   {
