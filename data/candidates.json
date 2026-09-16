@@ -6382,7 +6382,7 @@
     "liquidity_usd": 8713.956591609203,
     "source_listed_at": "2026-09-14T14:23:48",
     "peak_liquidity_usd": 8713.956591609203,
-    "last_checked_at": "2026-09-14T14:24:47.778949+00:00",
+    "last_checked_at": "2026-09-16T15:22:18.509520+00:00",
     "rug_flag": false
   },
   {
@@ -6393,7 +6393,7 @@
     "liquidity_usd": 6177.703779675499,
     "source_listed_at": "2026-09-14T16:22:21",
     "peak_liquidity_usd": 6177.703779675499,
-    "last_checked_at": "2026-09-14T16:22:29.417012+00:00",
+    "last_checked_at": "2026-09-16T15:22:18.509520+00:00",
     "rug_flag": false
   },
   {
@@ -7065,6 +7065,17 @@
     "source_listed_at": "2026-09-16T13:23:16",
     "peak_liquidity_usd": 16684.125080703736,
     "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T15:22:18.061957+00:00",
+    "address": "Hw2r5WeSkmwVqZ4nfSKQjJwSgEXLMuMvu8936GKctGn4",
+    "symbol": "JAKEPOLE",
+    "name": "Jakepole",
+    "liquidity_usd": 17079.07770196208,
+    "source_listed_at": "2026-09-16T15:21:43",
+    "peak_liquidity_usd": 17079.07770196208,
+    "last_checked_at": "2026-09-16T15:22:18.509520+00:00",
     "rug_flag": false
   }
 ]
