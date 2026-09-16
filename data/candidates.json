@@ -6879,5 +6879,38 @@
     "peak_liquidity_usd": 6346.577919006179,
     "last_checked_at": "2026-09-16T02:22:03.696636+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T04:22:46.803684+00:00",
+    "address": "F7oAnwxbAVwvaF1RrbyzZC5YW34XgU5WmYSPBvyXQ9Xh",
+    "symbol": "TRUMP",
+    "name": "TRUMP",
+    "liquidity_usd": 30148.003903211484,
+    "source_listed_at": "2026-09-16T04:22:41",
+    "peak_liquidity_usd": 30148.003903211484,
+    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T04:22:46.803711+00:00",
+    "address": "FKDVWUKhpSnUtVLVgU4zWzAc78pFcfcR6ES8Yek6CpcB",
+    "symbol": "PAID",
+    "name": "Paid",
+    "liquidity_usd": 16582.676118071122,
+    "source_listed_at": "2026-09-16T04:22:16",
+    "peak_liquidity_usd": 16582.676118071122,
+    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T04:22:46.803716+00:00",
+    "address": "EVWAjxYaG2DXE4AM8BD5z6WCpwW4gwSLXpUexQbNpump",
+    "symbol": "Fool",
+    "name": "US official just gave us name",
+    "liquidity_usd": 39055.55232468321,
+    "source_listed_at": "2026-09-16T04:22:12",
+    "peak_liquidity_usd": 39055.55232468321,
+    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "rug_flag": false
   }
 ]
