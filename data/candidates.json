@@ -6456,11 +6456,11 @@
     "address": "eeECjW2cYbFrrHFMNrmgrTKXb7YMxbbo7zu2X8Kpump",
     "symbol": "USGR",
     "name": "United States Gold Reserve",
-    "liquidity_usd": 11080.019238015042,
+    "liquidity_usd": 3014.3388171882793,
     "source_listed_at": "2026-09-14T19:22:42",
     "peak_liquidity_usd": 11080.019238015042,
-    "last_checked_at": "2026-09-14T19:23:00.401088+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-16T19:20:42.087168+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T20:21:45.997228+00:00",
@@ -6470,7 +6470,7 @@
     "liquidity_usd": 5359.134124913805,
     "source_listed_at": "2026-09-14T20:21:24",
     "peak_liquidity_usd": 5359.134124913805,
-    "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
+    "last_checked_at": "2026-09-16T19:20:42.087168+00:00",
     "rug_flag": false
   },
   {
@@ -6481,7 +6481,7 @@
     "liquidity_usd": 20705.34553875481,
     "source_listed_at": "2026-09-14T20:21:23",
     "peak_liquidity_usd": 20705.34553875481,
-    "last_checked_at": "2026-09-14T20:21:46.398090+00:00",
+    "last_checked_at": "2026-09-16T19:20:42.087168+00:00",
     "rug_flag": false
   },
   {
