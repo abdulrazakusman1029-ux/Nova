@@ -6217,7 +6217,7 @@
     "liquidity_usd": 17287.436089392697,
     "source_listed_at": "2026-09-14T09:23:41",
     "peak_liquidity_usd": 17287.436089392697,
-    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
+    "last_checked_at": "2026-09-16T08:23:56.653829+00:00",
     "rug_flag": false
   },
   {
@@ -6294,7 +6294,7 @@
     "liquidity_usd": 22463.804420802287,
     "source_listed_at": "2026-09-14T11:22:01",
     "peak_liquidity_usd": 22463.804420802287,
-    "last_checked_at": "2026-09-14T11:22:46.996452+00:00",
+    "last_checked_at": "2026-09-16T08:23:56.653829+00:00",
     "rug_flag": false
   },
   {
@@ -6955,6 +6955,17 @@
     "source_listed_at": "2026-09-16T07:22:34",
     "peak_liquidity_usd": 82026.75597612966,
     "last_checked_at": "2026-09-16T07:22:55.227030+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T08:23:56.328366+00:00",
+    "address": "2CNco5YWNYnH85KXUFZWNtJhuJWzYXWqzgSprV1NBAGS",
+    "symbol": "Redanc",
+    "name": "Red Anchor",
+    "liquidity_usd": 82684.47297935151,
+    "source_listed_at": "2026-09-16T08:23:13",
+    "peak_liquidity_usd": 82684.47297935151,
+    "last_checked_at": "2026-09-16T08:23:56.653829+00:00",
     "rug_flag": false
   }
 ]
