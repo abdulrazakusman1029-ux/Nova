@@ -6338,7 +6338,7 @@
     "liquidity_usd": 5781.756827421168,
     "source_listed_at": "2026-09-14T13:24:39",
     "peak_liquidity_usd": 5781.756827421168,
-    "last_checked_at": "2026-09-14T13:25:21.967267+00:00",
+    "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
     "rug_flag": false
   },
   {
@@ -7043,6 +7043,28 @@
     "source_listed_at": "2026-09-16T12:27:17",
     "peak_liquidity_usd": 10390.555224692358,
     "last_checked_at": "2026-09-16T12:27:35.939374+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T13:23:47.077414+00:00",
+    "address": "Cq1RdG5ycSVsPFjX7T94z6hapPSt6xmQ5kEUepHyb9B7",
+    "symbol": "NVIDIA",
+    "name": "NVIDIA",
+    "liquidity_usd": 20350.711226297648,
+    "source_listed_at": "2026-09-16T13:23:30",
+    "peak_liquidity_usd": 20350.711226297648,
+    "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T13:23:47.077439+00:00",
+    "address": "YZNgq2pKjpEuuMCL6thtS7Cfjto7g4HofBocmrkWnov",
+    "symbol": "clockinu",
+    "name": "clocked inu",
+    "liquidity_usd": 16684.125080703736,
+    "source_listed_at": "2026-09-16T13:23:16",
+    "peak_liquidity_usd": 16684.125080703736,
+    "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
     "rug_flag": false
   }
 ]
