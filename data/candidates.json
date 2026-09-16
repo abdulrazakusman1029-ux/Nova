@@ -6802,5 +6802,38 @@
     "peak_liquidity_usd": 5081.532372694434,
     "last_checked_at": "2026-09-15T19:20:33.908185+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T01:20:33.502652+00:00",
+    "address": "AjP9rXZHMo7SSuPk4NzmFobSJbAVWFiT2MmxhPjGFuH5",
+    "symbol": "PAID",
+    "name": "Paid",
+    "liquidity_usd": 17084.514714787452,
+    "source_listed_at": "2026-09-16T01:20:26",
+    "peak_liquidity_usd": 17084.514714787452,
+    "last_checked_at": "2026-09-16T01:20:34.082713+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T01:20:33.502676+00:00",
+    "address": "DCdo2T6BCEC2xGkiryCxXypUM3ERh85F1ZBsNpojpump",
+    "symbol": "RASMR",
+    "name": "HE SHILLED IT ON STREAM",
+    "liquidity_usd": 39010.36665082469,
+    "source_listed_at": "2026-09-16T01:20:20",
+    "peak_liquidity_usd": 39010.36665082469,
+    "last_checked_at": "2026-09-16T01:20:34.082713+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T01:20:33.502681+00:00",
+    "address": "GX3KFhgKqYuXUTRfzPq8wFr6n8utHoXt9zR52F3ipump",
+    "symbol": "RASMR",
+    "name": "HE SHILLED IT ON STREAM",
+    "liquidity_usd": 39010.36665082469,
+    "source_listed_at": "2026-09-16T01:20:20",
+    "peak_liquidity_usd": 39010.36665082469,
+    "last_checked_at": "2026-09-16T01:20:34.082713+00:00",
+    "rug_flag": false
   }
 ]
