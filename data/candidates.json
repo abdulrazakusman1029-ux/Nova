@@ -6415,7 +6415,7 @@
     "liquidity_usd": 5533.90576373713,
     "source_listed_at": "2026-09-14T17:20:13",
     "peak_liquidity_usd": 5533.90576373713,
-    "last_checked_at": "2026-09-14T17:20:43.459972+00:00",
+    "last_checked_at": "2026-09-16T17:19:46.488135+00:00",
     "rug_flag": false
   },
   {
@@ -6426,7 +6426,7 @@
     "liquidity_usd": 17525.435986464603,
     "source_listed_at": "2026-09-14T18:24:50",
     "peak_liquidity_usd": 17525.435986464603,
-    "last_checked_at": "2026-09-14T18:24:57.202663+00:00",
+    "last_checked_at": "2026-09-16T17:19:46.488135+00:00",
     "rug_flag": false
   },
   {
@@ -7098,6 +7098,17 @@
     "source_listed_at": "2026-09-16T16:21:49",
     "peak_liquidity_usd": 7040.294525897441,
     "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T17:19:45.838559+00:00",
+    "address": "GeGpSmn8ZHMjeVwSBpNuD8DDsa7Hjtt8wU7FNyfbhZM8",
+    "symbol": "Mouse",
+    "name": "Xenocortical Mouse",
+    "liquidity_usd": 9913.336064508334,
+    "source_listed_at": "2026-09-16T17:19:24",
+    "peak_liquidity_usd": 9913.336064508334,
+    "last_checked_at": "2026-09-16T17:19:46.488135+00:00",
     "rug_flag": false
   }
 ]
