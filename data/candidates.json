@@ -6503,7 +6503,7 @@
     "liquidity_usd": 5582.55247759399,
     "source_listed_at": "2026-09-14T22:22:18",
     "peak_liquidity_usd": 5582.55247759399,
-    "last_checked_at": "2026-09-14T22:22:29.677587+00:00",
+    "last_checked_at": "2026-09-16T21:21:49.319235+00:00",
     "rug_flag": false
   },
   {
@@ -7142,6 +7142,28 @@
     "source_listed_at": "2026-09-16T20:21:52",
     "peak_liquidity_usd": 16796.281070334622,
     "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T21:21:48.886992+00:00",
+    "address": "HmHThPE3BDoVVRGb65NPRByGDoGwi3UeiqRy5MqAxFM8",
+    "symbol": "CLASHY",
+    "name": "Clashy ",
+    "liquidity_usd": 16711.874852036814,
+    "source_listed_at": "2026-09-16T21:21:32",
+    "peak_liquidity_usd": 16711.874852036814,
+    "last_checked_at": "2026-09-16T21:21:49.319235+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-16T21:21:48.887017+00:00",
+    "address": "7PEj8FxEjqNfmRsEzAXayUVRHfp8oVHpgKkajzHRWHRr",
+    "symbol": "xp",
+    "name": "xp",
+    "liquidity_usd": 16779.145694683055,
+    "source_listed_at": "2026-09-16T21:21:29",
+    "peak_liquidity_usd": 16779.145694683055,
+    "last_checked_at": "2026-09-16T21:21:49.319235+00:00",
     "rug_flag": false
   }
 ]
