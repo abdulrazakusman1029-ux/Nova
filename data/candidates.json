@@ -5667,7 +5667,7 @@
     "liquidity_usd": 36282.114111395415,
     "source_listed_at": "2026-09-13T00:28:39",
     "peak_liquidity_usd": 36282.114111395415,
-    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
+    "last_checked_at": "2026-09-16T00:27:56.345070+00:00",
     "rug_flag": false
   },
   {
@@ -6159,22 +6159,22 @@
     "address": "HdLoxssZutpRXYHz57uZ9SDFqGp4MSSQ4yLBpHN5oFvx",
     "symbol": "Light",
     "name": "Light",
-    "liquidity_usd": 20309.970038959273,
+    "liquidity_usd": 0.00019919720030222324,
     "source_listed_at": "2026-09-14T06:29:01",
     "peak_liquidity_usd": 20309.970038959273,
-    "last_checked_at": "2026-09-14T06:29:31.766551+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-16T00:27:56.345070+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T07:23:43.052769+00:00",
     "address": "AWi7TajntFiNd6AbJcfPjNwsHpoiu7o92N71xxDG78qj",
     "symbol": "QQQI",
     "name": "QQQI",
-    "liquidity_usd": 23175.896436398736,
+    "liquidity_usd": 1.9708815147207095e-06,
     "source_listed_at": "2026-09-14T07:22:24",
     "peak_liquidity_usd": 23175.896436398736,
-    "last_checked_at": "2026-09-14T07:23:43.581145+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-16T00:27:56.345070+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-14T07:23:43.052791+00:00",
