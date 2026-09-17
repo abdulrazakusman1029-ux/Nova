@@ -6910,7 +6910,7 @@
     "liquidity_usd": 39055.55232468321,
     "source_listed_at": "2026-09-16T04:22:12",
     "peak_liquidity_usd": 39055.55232468321,
-    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
     "rug_flag": false
   },
   {
@@ -7461,6 +7461,28 @@
     "source_listed_at": "2026-09-17T18:24:36",
     "peak_liquidity_usd": 5983.408917134041,
     "last_checked_at": "2026-09-17T18:24:59.704921+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T19:20:20.449219+00:00",
+    "address": "EbBFk1pDEke8djJeE5N1fX8kupHo6u4JDgsVKsSmnkGW",
+    "symbol": "freed\u2060",
+    "name": "You are freed\u2060",
+    "liquidity_usd": 5552.851508167412,
+    "source_listed_at": "2026-09-17T19:20:06",
+    "peak_liquidity_usd": 5552.851508167412,
+    "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T19:20:20.449249+00:00",
+    "address": "3A96kVRawMLzEkqduoojj3x1zx7QFTcWGaeo6VwK58Em",
+    "symbol": "Trumpet",
+    "name": "Donald Trumpet",
+    "liquidity_usd": 16279.9621106727,
+    "source_listed_at": "2026-09-17T19:19:51",
+    "peak_liquidity_usd": 16279.9621106727,
+    "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
     "rug_flag": false
   }
 ]
