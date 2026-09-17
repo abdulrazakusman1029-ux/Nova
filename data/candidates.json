@@ -6679,7 +6679,7 @@
     "liquidity_usd": 7497.355353975,
     "source_listed_at": "2026-09-15T12:26:12",
     "peak_liquidity_usd": 7497.355353975,
-    "last_checked_at": "2026-09-15T12:26:49.288020+00:00",
+    "last_checked_at": "2026-09-17T04:22:52.316570+00:00",
     "rug_flag": false
   },
   {
@@ -7197,6 +7197,28 @@
     "source_listed_at": "2026-09-17T02:21:49",
     "peak_liquidity_usd": 34179.09094923814,
     "last_checked_at": "2026-09-17T02:21:56.651353+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T04:22:51.785776+00:00",
+    "address": "7u4fDPsTWtcDqdrtmCTU7pBRyaKvbsa8613QSNLknRv8",
+    "symbol": "musebook",
+    "name": "musebook",
+    "liquidity_usd": 108949.19118117039,
+    "source_listed_at": "2026-09-17T04:22:19",
+    "peak_liquidity_usd": 108949.19118117039,
+    "last_checked_at": "2026-09-17T04:22:52.316570+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T04:22:51.785798+00:00",
+    "address": "8XFACsN63pf5JXwGxRMYE7qaAA5pdMb4Ts7nEJc3BAGS",
+    "symbol": "BRICOMP",
+    "name": "Brics Compass Puppet",
+    "liquidity_usd": 86313.29280465348,
+    "source_listed_at": "2026-09-17T04:22:13",
+    "peak_liquidity_usd": 86313.29280465348,
+    "last_checked_at": "2026-09-17T04:22:52.316570+00:00",
     "rug_flag": false
   }
 ]
