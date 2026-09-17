@@ -7352,5 +7352,49 @@
     "peak_liquidity_usd": 17688.467516546854,
     "last_checked_at": "2026-09-17T13:22:59.233595+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T14:24:15.631247+00:00",
+    "address": "FjizkbhSNnipQ1T8NJxu4M4tKV8qW5HZfNzwZEx1pump",
+    "symbol": "ZBULL",
+    "name": "Anonymous Bull",
+    "liquidity_usd": 6619.107904106727,
+    "source_listed_at": "2026-09-17T14:24:07",
+    "peak_liquidity_usd": 6619.107904106727,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T14:24:15.631268+00:00",
+    "address": "6t7yJFPCbEdnKiuxGQw8BpombcsKFz3qgeDosEajSTNK",
+    "symbol": "POKEMON",
+    "name": "POK\u00c9MON CARDS",
+    "liquidity_usd": 5618.742363433444,
+    "source_listed_at": "2026-09-17T14:24:05",
+    "peak_liquidity_usd": 5618.742363433444,
+    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T14:24:15.631273+00:00",
+    "address": "8JUMUXvRZLS8YdzukK2Bp27ApAjkngnf1hvEVeDMSVto",
+    "symbol": "Gungun",
+    "name": "Gungun",
+    "liquidity_usd": 17531.940573546308,
+    "source_listed_at": "2026-09-17T14:23:41",
+    "peak_liquidity_usd": 17531.940573546308,
+    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T14:24:15.631276+00:00",
+    "address": "ySxAFK99wJEHuS5EnKro7bovTVriNrLU5jqn9Rypump",
+    "symbol": "USDF",
+    "name": "United States Dividend Fund",
+    "liquidity_usd": 121572.80557344713,
+    "source_listed_at": "2026-09-17T14:23:41",
+    "peak_liquidity_usd": 121572.80557344713,
+    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "rug_flag": false
   }
 ]
