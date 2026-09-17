@@ -7528,5 +7528,38 @@
     "peak_liquidity_usd": 40509.10355047992,
     "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T23:18:22.182457+00:00",
+    "address": "1gXYUPbWmCww4quFvCYa2aJ16dfcAhAkjwAU5MXpump",
+    "symbol": "ELON",
+    "name": "Elon Coin",
+    "liquidity_usd": 10868.709864694938,
+    "source_listed_at": "2026-09-17T23:18:19",
+    "peak_liquidity_usd": 10868.709864694938,
+    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T23:18:22.182486+00:00",
+    "address": "E1JgJm8ABFe1GnEFRFwLtmkUj9CzzFpzcKfvDM8ipump",
+    "symbol": "WUF",
+    "name": "Wifout at 3M",
+    "liquidity_usd": 40953.02689077652,
+    "source_listed_at": "2026-09-17T23:18:02",
+    "peak_liquidity_usd": 40953.02689077652,
+    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T23:18:22.182494+00:00",
+    "address": "BWurNaay75bEGqVHChsnzRod1VPR6qHYm2f5qTXapump",
+    "symbol": "WUF",
+    "name": "Wifout at 3M",
+    "liquidity_usd": 40805.58889665873,
+    "source_listed_at": "2026-09-17T23:17:53",
+    "peak_liquidity_usd": 40805.58889665873,
+    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "rug_flag": false
   }
 ]
