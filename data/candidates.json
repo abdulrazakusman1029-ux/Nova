@@ -6698,11 +6698,11 @@
     "address": "8r3iFkQ6NXApy5oMvFCcYkYfkWnDa6eJH8BCY9uLehnL",
     "symbol": "stickman",
     "name": "stickman",
-    "liquidity_usd": 17156.40969432192,
+    "liquidity_usd": 0.0003531728362033556,
     "source_listed_at": "2026-09-15T13:23:10",
     "peak_liquidity_usd": 17156.40969432192,
-    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-17T06:27:59.669021+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-15T13:23:24.489164+00:00",
@@ -6712,7 +6712,7 @@
     "liquidity_usd": 17244.923748605728,
     "source_listed_at": "2026-09-15T13:23:01",
     "peak_liquidity_usd": 17244.923748605728,
-    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
+    "last_checked_at": "2026-09-17T06:27:59.669021+00:00",
     "rug_flag": false
   },
   {
@@ -6723,7 +6723,7 @@
     "liquidity_usd": 17443.701526579796,
     "source_listed_at": "2026-09-15T14:22:36",
     "peak_liquidity_usd": 17443.701526579796,
-    "last_checked_at": "2026-09-15T14:23:05.877553+00:00",
+    "last_checked_at": "2026-09-17T06:27:59.669021+00:00",
     "rug_flag": false
   },
   {
