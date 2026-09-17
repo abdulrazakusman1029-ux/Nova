@@ -6734,7 +6734,7 @@
     "liquidity_usd": 16856.733008552004,
     "source_listed_at": "2026-09-15T15:21:34",
     "peak_liquidity_usd": 16856.733008552004,
-    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "last_checked_at": "2026-09-17T07:23:35.898043+00:00",
     "rug_flag": false
   },
   {
@@ -6745,7 +6745,7 @@
     "liquidity_usd": 5803.315128893035,
     "source_listed_at": "2026-09-15T15:21:28",
     "peak_liquidity_usd": 5803.315128893035,
-    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "last_checked_at": "2026-09-17T07:23:35.898043+00:00",
     "rug_flag": false
   },
   {
@@ -7241,6 +7241,17 @@
     "source_listed_at": "2026-09-17T05:21:03",
     "peak_liquidity_usd": 88940.92398560031,
     "last_checked_at": "2026-09-17T05:21:39.223411+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T07:23:35.389926+00:00",
+    "address": "7sUDQrSo9mC7PWzzLvJ25xD2XukWsWERNhdFqsgf6QSZ",
+    "symbol": "ARGUS",
+    "name": "Argus",
+    "liquidity_usd": 49951.34157721159,
+    "source_listed_at": "2026-09-17T07:22:41",
+    "peak_liquidity_usd": 49951.34157721159,
+    "last_checked_at": "2026-09-17T07:23:35.898043+00:00",
     "rug_flag": false
   }
 ]
