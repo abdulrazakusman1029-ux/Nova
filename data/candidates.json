@@ -6643,11 +6643,11 @@
     "address": "2d4xZo72fDfFQaHTzqH3yJXWSnyEbh2H99EqJiUPpump",
     "symbol": "DWH",
     "name": "DOGEWIFHAT",
-    "liquidity_usd": 10657.691523986658,
+    "liquidity_usd": 2152.6673432057833,
     "source_listed_at": "2026-09-15T09:23:30",
     "peak_liquidity_usd": 10657.691523986658,
-    "last_checked_at": "2026-09-15T09:24:32.226580+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-17T03:22:13.900919+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-15T10:22:35.663275+00:00",
@@ -6657,7 +6657,7 @@
     "liquidity_usd": 13044.589511678492,
     "source_listed_at": "2026-09-15T10:21:43",
     "peak_liquidity_usd": 13044.589511678492,
-    "last_checked_at": "2026-09-15T10:22:36.079158+00:00",
+    "last_checked_at": "2026-09-17T03:22:13.900919+00:00",
     "rug_flag": false
   },
   {
@@ -6668,7 +6668,7 @@
     "liquidity_usd": 22269.13621352466,
     "source_listed_at": "2026-09-15T11:20:26",
     "peak_liquidity_usd": 22269.13621352466,
-    "last_checked_at": "2026-09-15T11:21:27.234014+00:00",
+    "last_checked_at": "2026-09-17T03:22:13.900919+00:00",
     "rug_flag": false
   },
   {
