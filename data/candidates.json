@@ -7253,5 +7253,38 @@
     "peak_liquidity_usd": 49951.34157721159,
     "last_checked_at": "2026-09-17T07:23:35.898043+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T08:24:18.418385+00:00",
+    "address": "FJMM924qwsHMu3uiAbVa7VuC2fiKqbVxSxj8pBec6kKZ",
+    "symbol": "tit",
+    "name": "\ud83d\udd25tit",
+    "liquidity_usd": 10180.478016509971,
+    "source_listed_at": "2026-09-17T08:23:43",
+    "peak_liquidity_usd": 10180.478016509971,
+    "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T08:24:18.418411+00:00",
+    "address": "33ZVEFGEeGusDUrq65d96p6QCp48WRunC7nepPHUsWTe",
+    "symbol": "BPUP",
+    "name": "Beanie Pup",
+    "liquidity_usd": 10026.164166508785,
+    "source_listed_at": "2026-09-17T08:23:40",
+    "peak_liquidity_usd": 10026.164166508785,
+    "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T08:24:18.418415+00:00",
+    "address": "ALHeP7tBGHmNv9XeLtR72JfYpAg51VuKTqoG3oTzoGPL",
+    "symbol": "tit",
+    "name": "tit",
+    "liquidity_usd": 14767.953047990528,
+    "source_listed_at": "2026-09-17T08:22:54",
+    "peak_liquidity_usd": 14767.953047990528,
+    "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "rug_flag": false
   }
 ]
