@@ -6690,7 +6690,7 @@
     "liquidity_usd": 20083.61330005504,
     "source_listed_at": "2026-09-15T13:23:16",
     "peak_liquidity_usd": 20083.61330005504,
-    "last_checked_at": "2026-09-15T13:23:25.021930+00:00",
+    "last_checked_at": "2026-09-17T05:21:39.223411+00:00",
     "rug_flag": false
   },
   {
@@ -7219,6 +7219,28 @@
     "source_listed_at": "2026-09-17T04:22:13",
     "peak_liquidity_usd": 86313.29280465348,
     "last_checked_at": "2026-09-17T04:22:52.316570+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T05:21:38.672770+00:00",
+    "address": "ErbbPDCsKs9mBE95FDTJaSjPdGgKTEhdSAShDmqLre9Q",
+    "symbol": "SNKB",
+    "name": "SNKB",
+    "liquidity_usd": 10089.9,
+    "source_listed_at": "2026-09-17T05:21:12",
+    "peak_liquidity_usd": 10089.9,
+    "last_checked_at": "2026-09-17T05:21:39.223411+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T05:21:38.672795+00:00",
+    "address": "2qPjxpaxHUxA8e1t2PT5xGrDUVwhqRi9dyrs7dSApump",
+    "symbol": "LAUCOMP",
+    "name": "LAUREN COMPASS",
+    "liquidity_usd": 88940.92398560031,
+    "source_listed_at": "2026-09-17T05:21:03",
+    "peak_liquidity_usd": 88940.92398560031,
+    "last_checked_at": "2026-09-17T05:21:39.223411+00:00",
     "rug_flag": false
   }
 ]
