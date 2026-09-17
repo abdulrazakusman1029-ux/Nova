@@ -6844,7 +6844,7 @@
     "liquidity_usd": 0.14743912601834838,
     "source_listed_at": "2026-09-16T02:21:51",
     "peak_liquidity_usd": 6318.405123508881,
-    "last_checked_at": "2026-09-16T03:22:08.731687+00:00",
+    "last_checked_at": "2026-09-17T17:19:32.765998+00:00",
     "rug_flag": true
   },
   {
@@ -6877,7 +6877,7 @@
     "liquidity_usd": 6346.577919006179,
     "source_listed_at": "2026-09-16T02:21:42",
     "peak_liquidity_usd": 6346.577919006179,
-    "last_checked_at": "2026-09-16T02:22:03.696636+00:00",
+    "last_checked_at": "2026-09-17T17:19:32.765998+00:00",
     "rug_flag": false
   },
   {
@@ -7439,6 +7439,17 @@
     "source_listed_at": "2026-09-17T16:22:37",
     "peak_liquidity_usd": 17535.717646998157,
     "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T17:19:32.420872+00:00",
+    "address": "6WcEKv5EAHzQS1dQMppdozahsQwN7NmuWayTHuMtpump",
+    "symbol": "KIRK",
+    "name": "Official Charlie Kirk",
+    "liquidity_usd": 10820.011928813397,
+    "source_listed_at": "2026-09-17T17:19:25",
+    "peak_liquidity_usd": 10820.011928813397,
+    "last_checked_at": "2026-09-17T17:19:32.765998+00:00",
     "rug_flag": false
   }
 ]
