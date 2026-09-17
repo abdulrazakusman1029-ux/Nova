@@ -7484,5 +7484,49 @@
     "peak_liquidity_usd": 16279.9621106727,
     "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T22:20:07.480689+00:00",
+    "address": "2hqb6LYgYcsMvJdaywztRhBNLRo7wC7fSe8NQUgPbYPA",
+    "symbol": "aura",
+    "name": "aura",
+    "liquidity_usd": 30364.37323559658,
+    "source_listed_at": "2026-09-17T22:20:01",
+    "peak_liquidity_usd": 30364.37323559658,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T22:20:07.480719+00:00",
+    "address": "7wvp4boBZjMrLeZD5EYZ2GunGk4uFHYrKAagWrQK4fcn",
+    "symbol": "Ronnie",
+    "name": "Ronnie",
+    "liquidity_usd": 17622.663866581534,
+    "source_listed_at": "2026-09-17T22:20:01",
+    "peak_liquidity_usd": 17622.663866581534,
+    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T22:20:07.480726+00:00",
+    "address": "6XxJc5k56iMnbX6pGuoytBwWwBPX5EN81gzUUECzpump",
+    "symbol": "SCAT",
+    "name": "Zcash Bio says Shielded",
+    "liquidity_usd": 40509.10355047992,
+    "source_listed_at": "2026-09-17T22:19:59",
+    "peak_liquidity_usd": 40509.10355047992,
+    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T22:20:07.480732+00:00",
+    "address": "744C6ihfi9MGZaQ2Gu7XYx8FXWr1nke9V2uCBwY1pump",
+    "symbol": "SCAT",
+    "name": "Zcash Bio says Shielded",
+    "liquidity_usd": 40509.10355047992,
+    "source_listed_at": "2026-09-17T22:19:59",
+    "peak_liquidity_usd": 40509.10355047992,
+    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "rug_flag": false
   }
 ]
