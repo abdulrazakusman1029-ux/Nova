@@ -6602,7 +6602,7 @@
     "liquidity_usd": 7192.480608339365,
     "source_listed_at": "2026-09-15T06:27:58",
     "peak_liquidity_usd": 7192.480608339365,
-    "last_checked_at": "2026-09-15T06:28:59.627188+00:00",
+    "last_checked_at": "2026-09-17T01:21:10.534078+00:00",
     "rug_flag": false
   },
   {
@@ -6613,7 +6613,7 @@
     "liquidity_usd": 86629.55804613356,
     "source_listed_at": "2026-09-15T07:24:09",
     "peak_liquidity_usd": 86629.55804613356,
-    "last_checked_at": "2026-09-15T07:24:46.818477+00:00",
+    "last_checked_at": "2026-09-17T01:21:10.534078+00:00",
     "rug_flag": false
   },
   {
@@ -7175,6 +7175,17 @@
     "source_listed_at": "2026-09-16T23:19:43",
     "peak_liquidity_usd": 21920.434976315555,
     "last_checked_at": "2026-09-16T23:20:05.073362+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T01:21:10.077013+00:00",
+    "address": "CQMo7KpgiqQKZFBxLEZ6yokfvibRT9XZVGYvRb58APFG",
+    "symbol": "Moth",
+    "name": "Mempool Moth",
+    "liquidity_usd": 17404.78338871499,
+    "source_listed_at": "2026-09-17T01:20:14",
+    "peak_liquidity_usd": 17404.78338871499,
+    "last_checked_at": "2026-09-17T01:21:10.534078+00:00",
     "rug_flag": false
   }
 ]
