@@ -6888,7 +6888,7 @@
     "liquidity_usd": 30148.003903211484,
     "source_listed_at": "2026-09-16T04:22:41",
     "peak_liquidity_usd": 30148.003903211484,
-    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "last_checked_at": "2026-09-17T18:24:59.704921+00:00",
     "rug_flag": false
   },
   {
@@ -6899,7 +6899,7 @@
     "liquidity_usd": 16582.676118071122,
     "source_listed_at": "2026-09-16T04:22:16",
     "peak_liquidity_usd": 16582.676118071122,
-    "last_checked_at": "2026-09-16T04:22:47.239112+00:00",
+    "last_checked_at": "2026-09-17T18:24:59.704921+00:00",
     "rug_flag": false
   },
   {
@@ -7450,6 +7450,17 @@
     "source_listed_at": "2026-09-17T17:19:25",
     "peak_liquidity_usd": 10820.011928813397,
     "last_checked_at": "2026-09-17T17:19:32.765998+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T18:24:59.157643+00:00",
+    "address": "8Px3vKvpYopzcpCAKCXvvMdGtnvdjciLReBnAnFuNkm4",
+    "symbol": "SOUL",
+    "name": "The Soul",
+    "liquidity_usd": 5983.408917134041,
+    "source_listed_at": "2026-09-17T18:24:36",
+    "peak_liquidity_usd": 5983.408917134041,
+    "last_checked_at": "2026-09-17T18:24:59.704921+00:00",
     "rug_flag": false
   }
 ]
