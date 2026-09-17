@@ -6756,7 +6756,7 @@
     "liquidity_usd": 16873.719755335518,
     "source_listed_at": "2026-09-15T15:21:09",
     "peak_liquidity_usd": 16873.719755335518,
-    "last_checked_at": "2026-09-15T15:21:46.359828+00:00",
+    "last_checked_at": "2026-09-17T09:22:38.475236+00:00",
     "rug_flag": false
   },
   {
@@ -7285,6 +7285,28 @@
     "source_listed_at": "2026-09-17T08:22:54",
     "peak_liquidity_usd": 14767.953047990528,
     "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T09:22:37.907429+00:00",
+    "address": "FskEcK1UDMapt5aDT7UQGWGqu27wWQzbBaYs4FMGHrmZ",
+    "symbol": "Lilly",
+    "name": "\ud83d\udd25Justice For Lilly",
+    "liquidity_usd": 10204.417465223616,
+    "source_listed_at": "2026-09-17T09:22:16",
+    "peak_liquidity_usd": 10204.417465223616,
+    "last_checked_at": "2026-09-17T09:22:38.475236+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T09:22:37.907452+00:00",
+    "address": "G8anY1Sozmdn6U8HDnbaSjst3HfYkur2859Bsku1BAGS",
+    "symbol": "UKCOMP",
+    "name": "UKRAINE DRONE COMPASS",
+    "liquidity_usd": 75521.48647283303,
+    "source_listed_at": "2026-09-17T09:22:14",
+    "peak_liquidity_usd": 75521.48647283303,
+    "last_checked_at": "2026-09-17T09:22:38.475236+00:00",
     "rug_flag": false
   }
 ]
