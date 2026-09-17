@@ -6866,7 +6866,7 @@
     "liquidity_usd": 6349.003090819914,
     "source_listed_at": "2026-09-16T02:21:42",
     "peak_liquidity_usd": 6349.003090819914,
-    "last_checked_at": "2026-09-16T02:22:03.696636+00:00",
+    "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
     "rug_flag": false
   },
   {
@@ -7361,7 +7361,7 @@
     "liquidity_usd": 6619.107904106727,
     "source_listed_at": "2026-09-17T14:24:07",
     "peak_liquidity_usd": 6619.107904106727,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
     "rug_flag": false
   },
   {
@@ -7395,6 +7395,17 @@
     "source_listed_at": "2026-09-17T14:23:41",
     "peak_liquidity_usd": 121572.80557344713,
     "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T15:22:31.073856+00:00",
+    "address": "AV9ZWwVsBRuyQXrd7n6k764rQck3K85PeEPLGh1pump",
+    "symbol": "ECTF",
+    "name": "E-Commerce Trust Fund",
+    "liquidity_usd": 10793.8823122851,
+    "source_listed_at": "2026-09-17T15:22:28",
+    "peak_liquidity_usd": 10793.8823122851,
+    "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
     "rug_flag": false
   }
 ]
