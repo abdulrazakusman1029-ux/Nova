@@ -6764,11 +6764,11 @@
     "address": "CNwtDvGybqbkQhrE64AV1FeuFCRXDfC44KaKGCZaeWUp",
     "symbol": "ANON",
     "name": "Act Now Or Never ",
-    "liquidity_usd": 16752.566214262955,
+    "liquidity_usd": 9.764276888584891e-05,
     "source_listed_at": "2026-09-15T17:19:35",
     "peak_liquidity_usd": 16752.566214262955,
-    "last_checked_at": "2026-09-15T17:19:53.688477+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-17T10:22:20.290532+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-15T18:23:10.628067+00:00",
@@ -6778,7 +6778,7 @@
     "liquidity_usd": 16977.23847849937,
     "source_listed_at": "2026-09-15T18:22:48",
     "peak_liquidity_usd": 16977.23847849937,
-    "last_checked_at": "2026-09-15T18:23:11.166884+00:00",
+    "last_checked_at": "2026-09-17T10:22:20.290532+00:00",
     "rug_flag": false
   },
   {
@@ -6789,7 +6789,7 @@
     "liquidity_usd": 10650.087561765631,
     "source_listed_at": "2026-09-15T18:22:26",
     "peak_liquidity_usd": 10650.087561765631,
-    "last_checked_at": "2026-09-15T18:23:11.166884+00:00",
+    "last_checked_at": "2026-09-17T10:22:20.290532+00:00",
     "rug_flag": false
   },
   {
