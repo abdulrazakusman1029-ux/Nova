@@ -6566,11 +6566,11 @@
     "address": "7xs26HS1Hy9DUcagb9XtWrKKHn8Rq1NrjqbMfJqbpump",
     "symbol": "WOFI",
     "name": "WOFI",
-    "liquidity_usd": 10868.93863994664,
+    "liquidity_usd": 1902.3255997518547,
     "source_listed_at": "2026-09-15T04:23:47",
     "peak_liquidity_usd": 10868.93863994664,
-    "last_checked_at": "2026-09-15T04:23:53.393181+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-17T00:28:12.508319+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-15T05:23:09.458510+00:00",
@@ -6580,7 +6580,7 @@
     "liquidity_usd": 17099.878770723935,
     "source_listed_at": "2026-09-15T05:22:45",
     "peak_liquidity_usd": 17099.878770723935,
-    "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
+    "last_checked_at": "2026-09-17T00:28:12.508319+00:00",
     "rug_flag": false
   },
   {
@@ -6591,7 +6591,7 @@
     "liquidity_usd": 10837.199451328797,
     "source_listed_at": "2026-09-15T05:22:42",
     "peak_liquidity_usd": 10837.199451328797,
-    "last_checked_at": "2026-09-15T05:23:10.017650+00:00",
+    "last_checked_at": "2026-09-17T00:28:12.508319+00:00",
     "rug_flag": false
   },
   {
