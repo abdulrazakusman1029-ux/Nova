@@ -7407,5 +7407,38 @@
     "peak_liquidity_usd": 10793.8823122851,
     "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T16:23:10.016243+00:00",
+    "address": "2KGprF3ShAMdMzAocEub8RWW13vnZhibuKjPRh6Ybonk",
+    "symbol": "Spxfrog",
+    "name": "SPACEX STARSHIP FROG",
+    "liquidity_usd": 83925.89785516393,
+    "source_listed_at": "2026-09-17T16:23:02",
+    "peak_liquidity_usd": 83925.89785516393,
+    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T16:23:10.016271+00:00",
+    "address": "7ApbSnN65Sfi8wyj6q9wtqjGuxV7cNHYcHtfMWMJsz9L",
+    "symbol": "OPAI",
+    "name": "\u304a\u3063\u3071\u3044",
+    "liquidity_usd": 17135.681651228035,
+    "source_listed_at": "2026-09-17T16:22:42",
+    "peak_liquidity_usd": 17135.681651228035,
+    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-17T16:23:10.016278+00:00",
+    "address": "7KJAJvhp5gNWoDgBqe9MNYDKUpsc7RsB1gLCnfBAcyky",
+    "symbol": "OPAI",
+    "name": "\u304a\u3063\u3071\u3044",
+    "liquidity_usd": 17535.717646998157,
+    "source_listed_at": "2026-09-17T16:22:37",
+    "peak_liquidity_usd": 17535.717646998157,
+    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "rug_flag": false
   }
 ]
