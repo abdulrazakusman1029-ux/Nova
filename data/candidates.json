@@ -6932,7 +6932,7 @@
     "liquidity_usd": 16483.168074893034,
     "source_listed_at": "2026-09-16T06:26:46",
     "peak_liquidity_usd": 16483.168074893034,
-    "last_checked_at": "2026-09-16T06:27:48.404197+00:00",
+    "last_checked_at": "2026-09-18T04:21:40.961253+00:00",
     "rug_flag": false
   },
   {
@@ -6943,7 +6943,7 @@
     "liquidity_usd": 16954.199431495374,
     "source_listed_at": "2026-09-16T06:26:42",
     "peak_liquidity_usd": 16954.199431495374,
-    "last_checked_at": "2026-09-16T06:27:48.404197+00:00",
+    "last_checked_at": "2026-09-18T04:21:40.961253+00:00",
     "rug_flag": false
   },
   {
@@ -7644,11 +7644,11 @@
     "address": "B5uBAmmvhiAoEDctwoiB8RR4hPYx8TVMF3hsHYUepump",
     "symbol": "MOON",
     "name": "MOONPAID",
-    "liquidity_usd": 5114.242279249167,
+    "liquidity_usd": 0.0,
     "source_listed_at": "2026-09-18T03:21:10",
     "peak_liquidity_usd": 5114.242279249167,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-18T04:21:40.961253+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-18T03:21:13.373482+00:00",
