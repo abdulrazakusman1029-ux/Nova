@@ -7064,7 +7064,7 @@
     "liquidity_usd": 16684.125080703736,
     "source_listed_at": "2026-09-16T13:23:16",
     "peak_liquidity_usd": 16684.125080703736,
-    "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
+    "last_checked_at": "2026-09-18T11:20:42.109581+00:00",
     "rug_flag": false
   },
   {
@@ -7075,7 +7075,7 @@
     "liquidity_usd": 17079.07770196208,
     "source_listed_at": "2026-09-16T15:21:43",
     "peak_liquidity_usd": 17079.07770196208,
-    "last_checked_at": "2026-09-16T15:22:18.509520+00:00",
+    "last_checked_at": "2026-09-18T11:20:42.109581+00:00",
     "rug_flag": false
   },
   {
@@ -7769,6 +7769,17 @@
     "source_listed_at": "2026-09-18T10:21:27",
     "peak_liquidity_usd": 5050.438527642301,
     "last_checked_at": "2026-09-18T10:21:51.733887+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T11:20:41.580658+00:00",
+    "address": "6ufA8P2Nn3y9SxFGFZ1QPAex2JvRPRUA6nKKDmYDqZ7s",
+    "symbol": "HCAT",
+    "name": "Hyper Cat",
+    "liquidity_usd": 18441.944372026825,
+    "source_listed_at": "2026-09-18T11:20:27",
+    "peak_liquidity_usd": 18441.944372026825,
+    "last_checked_at": "2026-09-18T11:20:42.109581+00:00",
     "rug_flag": false
   }
 ]
