@@ -7149,11 +7149,11 @@
     "address": "HmHThPE3BDoVVRGb65NPRByGDoGwi3UeiqRy5MqAxFM8",
     "symbol": "CLASHY",
     "name": "Clashy ",
-    "liquidity_usd": 16711.874852036814,
+    "liquidity_usd": 6.036430285771978e-05,
     "source_listed_at": "2026-09-16T21:21:32",
     "peak_liquidity_usd": 16711.874852036814,
-    "last_checked_at": "2026-09-16T21:21:49.319235+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-18T15:21:18.555879+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-16T21:21:48.887017+00:00",
@@ -7163,7 +7163,7 @@
     "liquidity_usd": 16779.145694683055,
     "source_listed_at": "2026-09-16T21:21:29",
     "peak_liquidity_usd": 16779.145694683055,
-    "last_checked_at": "2026-09-16T21:21:49.319235+00:00",
+    "last_checked_at": "2026-09-18T15:21:18.555879+00:00",
     "rug_flag": false
   },
   {
@@ -7174,7 +7174,7 @@
     "liquidity_usd": 21920.434976315555,
     "source_listed_at": "2026-09-16T23:19:43",
     "peak_liquidity_usd": 21920.434976315555,
-    "last_checked_at": "2026-09-16T23:20:05.073362+00:00",
+    "last_checked_at": "2026-09-18T15:21:18.555879+00:00",
     "rug_flag": false
   },
   {
