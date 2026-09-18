@@ -8001,5 +8001,49 @@
     "peak_liquidity_usd": 106172.31491439226,
     "last_checked_at": "2026-09-18T22:20:21.127601+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T23:20:18.078835+00:00",
+    "address": "8AffkncdzMDSarSCt1NKp3C27EnJypBmVKTdiw8qb4ij",
+    "symbol": "\u725b\u6765",
+    "name": "\u725b\u6765",
+    "liquidity_usd": 22498.451103153417,
+    "source_listed_at": "2026-09-18T23:20:13",
+    "peak_liquidity_usd": 22498.451103153417,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T23:20:18.078857+00:00",
+    "address": "6BDEjQkZDFExJ9gKHQurNXWxLY1dQybVyGSyBc4Gpump",
+    "symbol": "ATSUKO",
+    "name": "Atsukocoin",
+    "liquidity_usd": 11744.636267465145,
+    "source_listed_at": "2026-09-18T23:20:10",
+    "peak_liquidity_usd": 11744.636267465145,
+    "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T23:20:18.078862+00:00",
+    "address": "29kZTBMsmyFdD7tXGXveQT9nyQdUaLEudaMgqLEqpump",
+    "symbol": "DOTHL",
+    "name": "so much better than ephy",
+    "liquidity_usd": 7384.500679037381,
+    "source_listed_at": "2026-09-18T23:20:00",
+    "peak_liquidity_usd": 7384.500679037381,
+    "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T23:20:18.078865+00:00",
+    "address": "8rnJcm4jyP5jaXLYy2grQV7WG56HxTkYoBm39Kwppump",
+    "symbol": "DOTHL",
+    "name": "so much better than ephy",
+    "liquidity_usd": 7384.500679037381,
+    "source_listed_at": "2026-09-18T23:20:00",
+    "peak_liquidity_usd": 7384.500679037381,
+    "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "rug_flag": false
   }
 ]
