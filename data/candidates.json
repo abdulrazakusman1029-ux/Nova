@@ -7561,5 +7561,49 @@
     "peak_liquidity_usd": 40805.58889665873,
     "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T00:27:55.188014+00:00",
+    "address": "8ZSGuiGop5vN842DSjfarWcXisdTTtET6VfGeDjbpump",
+    "symbol": "WYND",
+    "name": "it's abt her being first jailed ",
+    "liquidity_usd": 40728.79820853849,
+    "source_listed_at": "2026-09-18T00:27:50",
+    "peak_liquidity_usd": 40728.79820853849,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T00:27:55.188038+00:00",
+    "address": "9wgKtRVdS54Jy9wGxAjCYSEAd1tNgXybGm9rW8GPpump",
+    "symbol": "WYND",
+    "name": "it's abt her being first jailed ",
+    "liquidity_usd": 40728.79820853849,
+    "source_listed_at": "2026-09-18T00:27:50",
+    "peak_liquidity_usd": 40728.79820853849,
+    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T00:27:55.188041+00:00",
+    "address": "HmDuPtftUTdHV7UhQgUFN2P7E2nXona7VV33pW2KejPo",
+    "symbol": "STOPAI",
+    "name": "Before AI Stops You",
+    "liquidity_usd": 17523.312879258603,
+    "source_listed_at": "2026-09-18T00:27:42",
+    "peak_liquidity_usd": 17523.312879258603,
+    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T00:27:55.188044+00:00",
+    "address": "FfAWjZXy1TfShpE5BsakvsZt2kK1uPpf4128TyWpt3tU",
+    "symbol": "SAVIOR",
+    "name": "Bonk Level Savior",
+    "liquidity_usd": 5812.229419800724,
+    "source_listed_at": "2026-09-18T00:27:41",
+    "peak_liquidity_usd": 5812.229419800724,
+    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "rug_flag": false
   }
 ]
