@@ -6921,7 +6921,7 @@
     "liquidity_usd": 159610.17112248906,
     "source_listed_at": "2026-09-16T05:20:34",
     "peak_liquidity_usd": 159610.17112248906,
-    "last_checked_at": "2026-09-16T05:21:06.601740+00:00",
+    "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
     "rug_flag": false
   },
   {
@@ -7615,6 +7615,28 @@
     "source_listed_at": "2026-09-18T01:20:02",
     "peak_liquidity_usd": 5391.465607032941,
     "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T02:22:53.793738+00:00",
+    "address": "BsuRqhiL5cEkmWLgnMZEkpEHKLXfeJNsbvmCmZAmxxmv",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "name": "BUNNY",
+    "liquidity_usd": 40727.915183842706,
+    "source_listed_at": "2026-09-18T02:22:44",
+    "peak_liquidity_usd": 40727.915183842706,
+    "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T02:22:53.793768+00:00",
+    "address": "eYRcLmpFAwMfoDeUdLV6kvHEKVmqchbrcCxavCyvYKa",
+    "symbol": "OTC",
+    "name": "OTC",
+    "liquidity_usd": 23874.824798009235,
+    "source_listed_at": "2026-09-18T02:22:15",
+    "peak_liquidity_usd": 23874.824798009235,
+    "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
     "rug_flag": false
   }
 ]
