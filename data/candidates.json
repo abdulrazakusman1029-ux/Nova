@@ -7825,5 +7825,38 @@
     "peak_liquidity_usd": 5084.979585255476,
     "last_checked_at": "2026-09-18T16:20:34.217439+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T19:19:58.119990+00:00",
+    "address": "9666EsHPYkcF38EQGiAgPj8ZxjQ3nXooDZwUR5Apump",
+    "symbol": "BOARD",
+    "name": "Board",
+    "liquidity_usd": 12201.851083497493,
+    "source_listed_at": "2026-09-18T19:19:50",
+    "peak_liquidity_usd": 12201.851083497493,
+    "last_checked_at": "2026-09-18T19:19:58.499550+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T19:19:58.120012+00:00",
+    "address": "CKPs11ZGXP8ZVSutfC8ryzu84SQgbit1fq5b4kn4BAGS",
+    "symbol": "CHETRO",
+    "name": "Chelsea Trophy",
+    "liquidity_usd": 103435.95489818769,
+    "source_listed_at": "2026-09-18T19:19:43",
+    "peak_liquidity_usd": 103435.95489818769,
+    "last_checked_at": "2026-09-18T19:19:58.499550+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T19:19:58.120016+00:00",
+    "address": "3YZ6nVNwMdgsS7zsuKq9YqeQqtRgGe3V6zJJ9Qjqpump",
+    "symbol": "NTDA",
+    "name": "NTDA",
+    "liquidity_usd": 12147.277309021909,
+    "source_listed_at": "2026-09-18T19:19:40",
+    "peak_liquidity_usd": 12147.277309021909,
+    "last_checked_at": "2026-09-18T19:19:58.499550+00:00",
+    "rug_flag": false
   }
 ]
