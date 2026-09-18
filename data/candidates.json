@@ -7086,7 +7086,7 @@
     "liquidity_usd": 16755.68888192295,
     "source_listed_at": "2026-09-16T16:21:55",
     "peak_liquidity_usd": 16755.68888192295,
-    "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
+    "last_checked_at": "2026-09-18T12:25:46.995877+00:00",
     "rug_flag": false
   },
   {
@@ -7780,6 +7780,28 @@
     "source_listed_at": "2026-09-18T11:20:27",
     "peak_liquidity_usd": 18441.944372026825,
     "last_checked_at": "2026-09-18T11:20:42.109581+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T12:25:46.559792+00:00",
+    "address": "3LrT1Cxdrv5nwZaqV2EEDVbJs3rSQdExSS5JGWNy691d",
+    "symbol": "BONKCAT",
+    "name": "BONKCAT",
+    "liquidity_usd": 20033.534683092188,
+    "source_listed_at": "2026-09-18T12:25:26",
+    "peak_liquidity_usd": 20033.534683092188,
+    "last_checked_at": "2026-09-18T12:25:46.995877+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T12:25:46.559817+00:00",
+    "address": "2Jtn2iQm2v77vZG1CPxAZ2yFYPUrDZore5prJBjRpump",
+    "symbol": "MBOWL",
+    "name": "Miley Bowl",
+    "liquidity_usd": 92117.39796635277,
+    "source_listed_at": "2026-09-18T12:25:18",
+    "peak_liquidity_usd": 92117.39796635277,
+    "last_checked_at": "2026-09-18T12:25:46.995877+00:00",
     "rug_flag": false
   }
 ]
