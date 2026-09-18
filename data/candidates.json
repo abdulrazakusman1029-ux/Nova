@@ -7042,7 +7042,7 @@
     "liquidity_usd": 10390.555224692358,
     "source_listed_at": "2026-09-16T12:27:17",
     "peak_liquidity_usd": 10390.555224692358,
-    "last_checked_at": "2026-09-16T12:27:35.939374+00:00",
+    "last_checked_at": "2026-09-18T10:21:51.733887+00:00",
     "rug_flag": false
   },
   {
@@ -7053,7 +7053,7 @@
     "liquidity_usd": 20350.711226297648,
     "source_listed_at": "2026-09-16T13:23:30",
     "peak_liquidity_usd": 20350.711226297648,
-    "last_checked_at": "2026-09-16T13:23:47.428341+00:00",
+    "last_checked_at": "2026-09-18T10:21:51.733887+00:00",
     "rug_flag": false
   },
   {
@@ -7758,6 +7758,17 @@
     "source_listed_at": "2026-09-18T09:21:13",
     "peak_liquidity_usd": 22224.491242967837,
     "last_checked_at": "2026-09-18T09:21:54.600485+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T10:21:51.247205+00:00",
+    "address": "GKxSAQdSz6aogCVFvcsV6vjaa5fJkxgBSZn13kuVpump",
+    "symbol": "CATNIP",
+    "name": "CATNIP",
+    "liquidity_usd": 5050.438527642301,
+    "source_listed_at": "2026-09-18T10:21:27",
+    "peak_liquidity_usd": 5050.438527642301,
+    "last_checked_at": "2026-09-18T10:21:51.733887+00:00",
     "rug_flag": false
   }
 ]
