@@ -7094,10 +7094,10 @@
     "address": "3mNwnWyAbdrf77Js1wTGjKmRHJPmFJbpnr81CUaq9VKi",
     "symbol": "BIG",
     "name": "Big Ups",
-    "liquidity_usd": 7040.294525897441,
+    "liquidity_usd": 2818.3065429813155,
     "source_listed_at": "2026-09-16T16:21:49",
     "peak_liquidity_usd": 7040.294525897441,
-    "last_checked_at": "2026-09-16T16:22:09.819614+00:00",
+    "last_checked_at": "2026-09-18T13:21:00.465995+00:00",
     "rug_flag": false
   },
   {
@@ -7108,7 +7108,7 @@
     "liquidity_usd": 9913.336064508334,
     "source_listed_at": "2026-09-16T17:19:24",
     "peak_liquidity_usd": 9913.336064508334,
-    "last_checked_at": "2026-09-16T17:19:46.488135+00:00",
+    "last_checked_at": "2026-09-18T13:21:00.465995+00:00",
     "rug_flag": false
   },
   {
@@ -7119,7 +7119,7 @@
     "liquidity_usd": 17000.1504023591,
     "source_listed_at": "2026-09-16T18:23:36",
     "peak_liquidity_usd": 17000.1504023591,
-    "last_checked_at": "2026-09-16T18:23:59.621616+00:00",
+    "last_checked_at": "2026-09-18T13:21:00.465995+00:00",
     "rug_flag": false
   },
   {
