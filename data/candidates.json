@@ -6998,7 +6998,7 @@
     "liquidity_usd": 69048.69125261388,
     "source_listed_at": "2026-09-16T10:22:52",
     "peak_liquidity_usd": 69048.69125261388,
-    "last_checked_at": "2026-09-16T10:23:07.283738+00:00",
+    "last_checked_at": "2026-09-18T06:26:26.025312+00:00",
     "rug_flag": false
   },
   {
@@ -7009,7 +7009,7 @@
     "liquidity_usd": 16559.947944128668,
     "source_listed_at": "2026-09-16T10:22:36",
     "peak_liquidity_usd": 16559.947944128668,
-    "last_checked_at": "2026-09-16T10:23:07.283738+00:00",
+    "last_checked_at": "2026-09-18T06:26:26.025312+00:00",
     "rug_flag": false
   },
   {
@@ -7681,6 +7681,17 @@
     "source_listed_at": "2026-09-18T03:20:20",
     "peak_liquidity_usd": 5365.48371715996,
     "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T06:26:25.514506+00:00",
+    "address": "8HLjExXAue5aiRWpdY1WqUZfeqDzkr9vfogWhWiWDTD5",
+    "symbol": "BNBS",
+    "name": "BNB standard",
+    "liquidity_usd": 18379.677899337046,
+    "source_listed_at": "2026-09-18T06:26:13",
+    "peak_liquidity_usd": 18379.677899337046,
+    "last_checked_at": "2026-09-18T06:26:26.025312+00:00",
     "rug_flag": false
   }
 ]
