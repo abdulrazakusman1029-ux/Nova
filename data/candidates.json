@@ -7638,5 +7638,49 @@
     "peak_liquidity_usd": 23874.824798009235,
     "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T03:21:13.373458+00:00",
+    "address": "B5uBAmmvhiAoEDctwoiB8RR4hPYx8TVMF3hsHYUepump",
+    "symbol": "MOON",
+    "name": "MOONPAID",
+    "liquidity_usd": 5114.242279249167,
+    "source_listed_at": "2026-09-18T03:21:10",
+    "peak_liquidity_usd": 5114.242279249167,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T03:21:13.373482+00:00",
+    "address": "GzYE5meJuyiokE1fDryMd6GQq21jqoU8mvjyDj7Lpump",
+    "symbol": "RAF",
+    "name": "RAF",
+    "liquidity_usd": 5792.249508078664,
+    "source_listed_at": "2026-09-18T03:20:56",
+    "peak_liquidity_usd": 5792.249508078664,
+    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T03:21:13.373485+00:00",
+    "address": "3Fdj1UpN1b3GZA6SLQvem6MzEPxeSZ5HnnKSLVB6SqRR",
+    "symbol": "CLAUDE",
+    "name": "Claude The God",
+    "liquidity_usd": 5563.010586140997,
+    "source_listed_at": "2026-09-18T03:20:33",
+    "peak_liquidity_usd": 5563.010586140997,
+    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T03:21:13.373487+00:00",
+    "address": "6fxugeHpfMH27vAY6RVxKMAaBZ35HQDPtsUMni9b84Gy",
+    "symbol": "Claude",
+    "name": "The Spectator",
+    "liquidity_usd": 5365.48371715996,
+    "source_listed_at": "2026-09-18T03:20:20",
+    "peak_liquidity_usd": 5365.48371715996,
+    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "rug_flag": false
   }
 ]
