@@ -7944,7 +7944,7 @@
     "liquidity_usd": 5778.7851039595225,
     "source_listed_at": "2026-09-18T21:20:21",
     "peak_liquidity_usd": 5778.7851039595225,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-18T22:20:21.127601+00:00",
     "rug_flag": false
   },
   {
@@ -7978,6 +7978,28 @@
     "source_listed_at": "2026-09-18T21:20:08",
     "peak_liquidity_usd": 8044.380163794493,
     "last_checked_at": "2026-09-18T21:20:32.269955+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T22:20:20.580166+00:00",
+    "address": "8oL2p2gTEyudrzFJ9i1tF5woDHkVfAPMa8LycFZf5ih6",
+    "symbol": "PokeLLM",
+    "name": "pokeLLM",
+    "liquidity_usd": 19244.64177665983,
+    "source_listed_at": "2026-09-18T22:20:08",
+    "peak_liquidity_usd": 19244.64177665983,
+    "last_checked_at": "2026-09-18T22:20:21.127601+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T22:20:20.580208+00:00",
+    "address": "65mvmkydjbiLAvAQuqWfMVRCNJ3UHhYwYmSr8i4Lpump",
+    "symbol": "Evryet",
+    "name": "Everest Loki Yeti",
+    "liquidity_usd": 106172.31491439226,
+    "source_listed_at": "2026-09-18T22:19:56",
+    "peak_liquidity_usd": 106172.31491439226,
+    "last_checked_at": "2026-09-18T22:20:21.127601+00:00",
     "rug_flag": false
   }
 ]
