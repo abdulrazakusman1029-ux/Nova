@@ -7869,5 +7869,115 @@
     "peak_liquidity_usd": 22556.368679619878,
     "last_checked_at": "2026-09-18T20:20:48.353810+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.687988+00:00",
+    "address": "GtubcHyqV7WTgiBgZzTqM9m5gVFvDJiLmHdMyKKQ2oao",
+    "symbol": "TOAD",
+    "name": "The Toad Pepe",
+    "liquidity_usd": 5317.15243569031,
+    "source_listed_at": "2026-09-18T21:20:27",
+    "peak_liquidity_usd": 5317.15243569031,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688029+00:00",
+    "address": "26X9FUKSpNKT4HCy35VYPGGQaA97p4sNif4LzvrkyHVN",
+    "symbol": "PFP",
+    "name": "PUMPFUN PEPE",
+    "liquidity_usd": 8380.025967086174,
+    "source_listed_at": "2026-09-18T21:20:26",
+    "peak_liquidity_usd": 8380.025967086174,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688035+00:00",
+    "address": "Dx4YhRaTbSSKxtdXR9gJqSxmCfc5mFzHgoak9YNkzMjm",
+    "symbol": "\u9f8d\u4eba",
+    "name": "\u9f8d\u4eba",
+    "liquidity_usd": 25876.79153180303,
+    "source_listed_at": "2026-09-18T21:20:24",
+    "peak_liquidity_usd": 25876.79153180303,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688038+00:00",
+    "address": "FBPijTL4YftLRXFm32ctC1xGhTkU4on7dU5LWHg5tWc9",
+    "symbol": "PEPE",
+    "name": "ShibaCumGMElonKishuTurboAss",
+    "liquidity_usd": 6673.357366086459,
+    "source_listed_at": "2026-09-18T21:20:23",
+    "peak_liquidity_usd": 6673.357366086459,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688041+00:00",
+    "address": "98cxdMion44T4JHFNhwLST4jijEQAQaxhirTEFtKnN3F",
+    "symbol": "APU",
+    "name": "APU APUSTAJA",
+    "liquidity_usd": 8244.343711006619,
+    "source_listed_at": "2026-09-18T21:20:22",
+    "peak_liquidity_usd": 8244.343711006619,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688045+00:00",
+    "address": "6UkHUfHVk5pbXETYgRYYW5M4G7FH38xxXKECtQhfPDjL",
+    "symbol": "PEPE",
+    "name": "ShibaCumGMElonKishuTurboAss",
+    "liquidity_usd": 5509.871125496655,
+    "source_listed_at": "2026-09-18T21:20:21",
+    "peak_liquidity_usd": 5509.871125496655,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688048+00:00",
+    "address": "B3qyJyAriAsDRzou63ZxNKS2FDFkxakj4nNQRkVzMHV3",
+    "symbol": "APU",
+    "name": "Apu",
+    "liquidity_usd": 5778.7851039595225,
+    "source_listed_at": "2026-09-18T21:20:21",
+    "peak_liquidity_usd": 5778.7851039595225,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688053+00:00",
+    "address": "BYFBzFaj94pCTpTqgm8LBX7zsh9nh8CKDYKjUi1Bpump",
+    "symbol": "Cat ",
+    "name": "Concealed Anonymous Traceless  ",
+    "liquidity_usd": 5073.612067741587,
+    "source_listed_at": "2026-09-18T21:20:17",
+    "peak_liquidity_usd": 5073.612067741587,
+    "last_checked_at": "2026-09-18T21:20:32.269955+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688056+00:00",
+    "address": "8J1GzHc2btDZMbukKK1EQg8eZYmhdT3PkKzV1aNhF2Wd",
+    "symbol": "ZEUS",
+    "name": "ZEUS",
+    "liquidity_usd": 7715.999506037357,
+    "source_listed_at": "2026-09-18T21:20:10",
+    "peak_liquidity_usd": 7715.999506037357,
+    "last_checked_at": "2026-09-18T21:20:32.269955+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T21:20:31.688060+00:00",
+    "address": "6AFgUShMDbmjv4oKPnaFiiRYwdMHsUWfgQJQXc6NCeyp",
+    "symbol": "FGM",
+    "name": "Feels Good To Pair Man",
+    "liquidity_usd": 8044.380163794493,
+    "source_listed_at": "2026-09-18T21:20:08",
+    "peak_liquidity_usd": 8044.380163794493,
+    "last_checked_at": "2026-09-18T21:20:32.269955+00:00",
+    "rug_flag": false
   }
 ]
