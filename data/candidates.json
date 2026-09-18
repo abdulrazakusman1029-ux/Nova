@@ -7493,7 +7493,7 @@
     "liquidity_usd": 30364.37323559658,
     "source_listed_at": "2026-09-17T22:20:01",
     "peak_liquidity_usd": 30364.37323559658,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
     "rug_flag": false
   },
   {
@@ -7570,7 +7570,7 @@
     "liquidity_usd": 40728.79820853849,
     "source_listed_at": "2026-09-18T00:27:50",
     "peak_liquidity_usd": 40728.79820853849,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
     "rug_flag": false
   },
   {
@@ -7604,6 +7604,17 @@
     "source_listed_at": "2026-09-18T00:27:41",
     "peak_liquidity_usd": 5812.229419800724,
     "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T01:20:26.757514+00:00",
+    "address": "DrCSCkfdTrubSXDeYGJTh7cY6KQ9gARADiNCKjnKjyZw",
+    "symbol": "SCAT",
+    "name": "Speed Cat",
+    "liquidity_usd": 5391.465607032941,
+    "source_listed_at": "2026-09-18T01:20:02",
+    "peak_liquidity_usd": 5391.465607032941,
+    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
     "rug_flag": false
   }
 ]
