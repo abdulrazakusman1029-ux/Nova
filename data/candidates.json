@@ -7726,5 +7726,38 @@
     "peak_liquidity_usd": 18475.247934921055,
     "last_checked_at": "2026-09-18T08:22:48.413094+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T09:21:54.098310+00:00",
+    "address": "AyWigkSDQjgPVWzoc8rYtmdUzVEWxZnYVbEWbrUjpump",
+    "symbol": "FIFASC",
+    "name": "Infantino Fifa Scroll",
+    "liquidity_usd": 75975.20163826308,
+    "source_listed_at": "2026-09-18T09:21:43",
+    "peak_liquidity_usd": 75975.20163826308,
+    "last_checked_at": "2026-09-18T09:21:54.600485+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T09:21:54.098331+00:00",
+    "address": "3j8igGs23bZEkdHxKG88ecek4XZgrUpnZtsZbz3XdDVf",
+    "symbol": "MCAT",
+    "name": "Mooncat Gold",
+    "liquidity_usd": 20850.332378380077,
+    "source_listed_at": "2026-09-18T09:21:32",
+    "peak_liquidity_usd": 20850.332378380077,
+    "last_checked_at": "2026-09-18T09:21:54.600485+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T09:21:54.098349+00:00",
+    "address": "8siSty9KUy91wPpw9sF3WA28BpYEqvEUXjoso2wQnVfZ",
+    "symbol": "Tilcayo",
+    "name": "Leopardus tilcayo",
+    "liquidity_usd": 22224.491242967837,
+    "source_listed_at": "2026-09-18T09:21:13",
+    "peak_liquidity_usd": 22224.491242967837,
+    "last_checked_at": "2026-09-18T09:21:54.600485+00:00",
+    "rug_flag": false
   }
 ]
