@@ -7185,7 +7185,7 @@
     "liquidity_usd": 17404.78338871499,
     "source_listed_at": "2026-09-17T01:20:14",
     "peak_liquidity_usd": 17404.78338871499,
-    "last_checked_at": "2026-09-17T01:21:10.534078+00:00",
+    "last_checked_at": "2026-09-18T16:20:34.217439+00:00",
     "rug_flag": false
   },
   {
@@ -7196,7 +7196,7 @@
     "liquidity_usd": 34179.09094923814,
     "source_listed_at": "2026-09-17T02:21:49",
     "peak_liquidity_usd": 34179.09094923814,
-    "last_checked_at": "2026-09-17T02:21:56.651353+00:00",
+    "last_checked_at": "2026-09-18T16:20:34.217439+00:00",
     "rug_flag": false
   },
   {
@@ -7813,6 +7813,17 @@
     "source_listed_at": "2026-09-18T14:20:45",
     "peak_liquidity_usd": 19041.59208447861,
     "last_checked_at": "2026-09-18T14:21:41.412647+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T16:20:33.846169+00:00",
+    "address": "5KXjJC6NLBCWKfaVsVTGRatsbGQvF4PREmEx8WqwcMvT",
+    "symbol": "Agrippa",
+    "name": "Agrippa",
+    "liquidity_usd": 5084.979585255476,
+    "source_listed_at": "2026-09-18T16:20:09",
+    "peak_liquidity_usd": 5084.979585255476,
+    "last_checked_at": "2026-09-18T16:20:34.217439+00:00",
     "rug_flag": false
   }
 ]
