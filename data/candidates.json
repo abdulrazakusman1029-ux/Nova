@@ -7130,7 +7130,7 @@
     "liquidity_usd": 5857.29273822523,
     "source_listed_at": "2026-09-16T20:22:06",
     "peak_liquidity_usd": 5857.29273822523,
-    "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
+    "last_checked_at": "2026-09-18T14:21:41.412647+00:00",
     "rug_flag": false
   },
   {
@@ -7141,7 +7141,7 @@
     "liquidity_usd": 16796.281070334622,
     "source_listed_at": "2026-09-16T20:21:52",
     "peak_liquidity_usd": 16796.281070334622,
-    "last_checked_at": "2026-09-16T20:22:15.654276+00:00",
+    "last_checked_at": "2026-09-18T14:21:41.412647+00:00",
     "rug_flag": false
   },
   {
@@ -7802,6 +7802,17 @@
     "source_listed_at": "2026-09-18T12:25:18",
     "peak_liquidity_usd": 92117.39796635277,
     "last_checked_at": "2026-09-18T12:25:46.995877+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-18T14:21:40.849943+00:00",
+    "address": "F9botycQgMjkH6XtBBopUs9EptS838RnLKhuE3bdNb54",
+    "symbol": "HABIBINU",
+    "name": "HABIBINU",
+    "liquidity_usd": 19041.59208447861,
+    "source_listed_at": "2026-09-18T14:20:45",
+    "peak_liquidity_usd": 19041.59208447861,
+    "last_checked_at": "2026-09-18T14:21:41.412647+00:00",
     "rug_flag": false
   }
 ]
