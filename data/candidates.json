@@ -7350,7 +7350,7 @@
     "liquidity_usd": 17688.467516546854,
     "source_listed_at": "2026-09-17T13:22:37",
     "peak_liquidity_usd": 17688.467516546854,
-    "last_checked_at": "2026-09-17T13:22:59.233595+00:00",
+    "last_checked_at": "2026-09-19T12:25:20.836690+00:00",
     "rug_flag": false
   },
   {
@@ -7372,7 +7372,7 @@
     "liquidity_usd": 5618.742363433444,
     "source_listed_at": "2026-09-17T14:24:05",
     "peak_liquidity_usd": 5618.742363433444,
-    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "last_checked_at": "2026-09-19T12:25:20.836690+00:00",
     "rug_flag": false
   },
   {
@@ -8275,6 +8275,17 @@
     "source_listed_at": "2026-09-19T11:18:58",
     "peak_liquidity_usd": 31673.185030072695,
     "last_checked_at": "2026-09-19T11:19:43.957645+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T12:25:20.258202+00:00",
+    "address": "6b5UbXk55DbSWB2GaYMeKNvchZZztjuW4KxnnUAaZvJP",
+    "symbol": "PsychoCat",
+    "name": "PsychoCat",
+    "liquidity_usd": 19062.72011902099,
+    "source_listed_at": "2026-09-19T12:24:56",
+    "peak_liquidity_usd": 19062.72011902099,
+    "last_checked_at": "2026-09-19T12:25:20.836690+00:00",
     "rug_flag": false
   }
 ]
