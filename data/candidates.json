@@ -7460,7 +7460,7 @@
     "liquidity_usd": 5983.408917134041,
     "source_listed_at": "2026-09-17T18:24:36",
     "peak_liquidity_usd": 5983.408917134041,
-    "last_checked_at": "2026-09-17T18:24:59.704921+00:00",
+    "last_checked_at": "2026-09-19T23:18:34.708040+00:00",
     "rug_flag": false
   },
   {
@@ -7471,7 +7471,7 @@
     "liquidity_usd": 5552.851508167412,
     "source_listed_at": "2026-09-17T19:20:06",
     "peak_liquidity_usd": 5552.851508167412,
-    "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
+    "last_checked_at": "2026-09-19T23:18:34.708040+00:00",
     "rug_flag": false
   },
   {
@@ -8495,6 +8495,17 @@
     "source_listed_at": "2026-09-19T21:19:12",
     "peak_liquidity_usd": 5221.392955130143,
     "last_checked_at": "2026-09-19T21:19:35.761745+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T23:18:33.967522+00:00",
+    "address": "FtvAeXW2W5NJP9NcDh4qB7BkvhtqwGmPpYHj28Jopump",
+    "symbol": "LUCY",
+    "name": "Neuralink Cat",
+    "liquidity_usd": 11933.411045831162,
+    "source_listed_at": "2026-09-19T23:18:17",
+    "peak_liquidity_usd": 11933.411045831162,
+    "last_checked_at": "2026-09-19T23:18:34.708040+00:00",
     "rug_flag": false
   }
 ]
