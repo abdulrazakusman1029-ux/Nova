@@ -7273,7 +7273,7 @@
     "liquidity_usd": 10026.164166508785,
     "source_listed_at": "2026-09-17T08:23:40",
     "peak_liquidity_usd": 10026.164166508785,
-    "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "last_checked_at": "2026-09-19T06:25:24.711913+00:00",
     "rug_flag": false
   },
   {
@@ -8098,7 +8098,7 @@
     "liquidity_usd": 19229.93488561969,
     "source_listed_at": "2026-09-19T04:20:45",
     "peak_liquidity_usd": 19229.93488561969,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T06:25:24.711913+00:00",
     "rug_flag": false
   },
   {
@@ -8106,11 +8106,11 @@
     "address": "GGLbsNwN5ZGDbRNaWdqVWRZAyi13NoKnW4B2yqnQwbfu",
     "symbol": "DICKINU",
     "name": "Can I Put This DicK Inu",
-    "liquidity_usd": 19232.5594669298,
+    "liquidity_usd": 0.0007252296983884241,
     "source_listed_at": "2026-09-19T04:20:43",
     "peak_liquidity_usd": 19232.5594669298,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-19T06:25:24.711913+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-19T04:21:08.843650+00:00",
