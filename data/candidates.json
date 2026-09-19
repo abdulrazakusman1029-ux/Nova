@@ -7900,7 +7900,7 @@
     "liquidity_usd": 25876.79153180303,
     "source_listed_at": "2026-09-18T21:20:24",
     "peak_liquidity_usd": 25876.79153180303,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T02:20:44.398168+00:00",
     "rug_flag": false
   },
   {
@@ -7911,7 +7911,7 @@
     "liquidity_usd": 6673.357366086459,
     "source_listed_at": "2026-09-18T21:20:23",
     "peak_liquidity_usd": 6673.357366086459,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T02:20:44.398168+00:00",
     "rug_flag": false
   },
   {
@@ -8077,6 +8077,17 @@
     "source_listed_at": "2026-09-19T01:20:14",
     "peak_liquidity_usd": 5386.825983359148,
     "last_checked_at": "2026-09-19T01:21:06.961846+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T02:20:43.995653+00:00",
+    "address": "F1NLYxRshZmEebvWqnDFBSXHcSDe2FYRjVyVeUpSpump",
+    "symbol": "aa",
+    "name": "aa",
+    "liquidity_usd": 5287.416000234697,
+    "source_listed_at": "2026-09-19T02:20:40",
+    "peak_liquidity_usd": 5287.416000234697,
+    "last_checked_at": "2026-09-19T02:20:44.398168+00:00",
     "rug_flag": false
   }
 ]
