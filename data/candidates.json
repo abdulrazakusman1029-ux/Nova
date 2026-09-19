@@ -8375,5 +8375,38 @@
     "peak_liquidity_usd": 5633.712816659137,
     "last_checked_at": "2026-09-19T16:20:56.826680+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T17:18:47.022719+00:00",
+    "address": "BK3T49djD62XsEJjzg6C43v9HjFJ8X24gqfF9pfZosBn",
+    "symbol": "CZAR",
+    "name": "The AI Czar",
+    "liquidity_usd": 5944.769672847824,
+    "source_listed_at": "2026-09-19T17:18:32",
+    "peak_liquidity_usd": 5944.769672847824,
+    "last_checked_at": "2026-09-19T17:18:47.356336+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T17:18:47.022747+00:00",
+    "address": "HmdsfpJ3WSzJ5Bd1So4XGUL5Fn3jhWicjCJK7U5zfZgi",
+    "symbol": "\ud83d\udcb2Exhale",
+    "name": "Exhale",
+    "liquidity_usd": 42559.98057180847,
+    "source_listed_at": "2026-09-19T17:18:19",
+    "peak_liquidity_usd": 42559.98057180847,
+    "last_checked_at": "2026-09-19T17:18:47.356336+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T17:18:47.022755+00:00",
+    "address": "2TmLuGtJcPHGGR9yyBKmUJ69KEUkKS8rUxbDPqYHpump",
+    "symbol": "ECTF",
+    "name": "E-Commerce Trust Fund",
+    "liquidity_usd": 12074.163951654135,
+    "source_listed_at": "2026-09-19T17:18:12",
+    "peak_liquidity_usd": 12074.163951654135,
+    "last_checked_at": "2026-09-19T17:18:47.356336+00:00",
+    "rug_flag": false
   }
 ]
