@@ -8243,5 +8243,38 @@
     "peak_liquidity_usd": 5995.934227126803,
     "last_checked_at": "2026-09-19T10:20:23.903229+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T11:19:43.133766+00:00",
+    "address": "69VkNtL171YS2bU2vfRE2GdCzqBr7MnFhD4Zx3yUbVAB",
+    "symbol": "MARTIN",
+    "name": "Martin",
+    "liquidity_usd": 19370.114434362997,
+    "source_listed_at": "2026-09-19T11:19:38",
+    "peak_liquidity_usd": 19370.114434362997,
+    "last_checked_at": "2026-09-19T11:19:43.957645+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T11:19:43.133811+00:00",
+    "address": "3y5E82h1o9VUDnM4RnRrg7MbF9jtdmkaJqqe1GjyiyMd",
+    "symbol": "TVS",
+    "name": "TVS",
+    "liquidity_usd": 16832.532775374788,
+    "source_listed_at": "2026-09-19T11:19:21",
+    "peak_liquidity_usd": 16832.532775374788,
+    "last_checked_at": "2026-09-19T11:19:43.957645+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T11:19:43.133822+00:00",
+    "address": "ASBxNwAFgwsQXt29wjLtSNWmFVe5L2HiGjb1Hq3Bpump",
+    "symbol": "CATEUS",
+    "name": "Cateus Maximus",
+    "liquidity_usd": 31673.185030072695,
+    "source_listed_at": "2026-09-19T11:18:58",
+    "peak_liquidity_usd": 31673.185030072695,
+    "last_checked_at": "2026-09-19T11:19:43.957645+00:00",
+    "rug_flag": false
   }
 ]
