@@ -8463,5 +8463,38 @@
     "peak_liquidity_usd": 5747.3769403473025,
     "last_checked_at": "2026-09-19T20:20:33.440698+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T21:19:35.449028+00:00",
+    "address": "7abd2be4PiZyp6Qtekoih1ieNZMeDbXegkq31m4MZ18h",
+    "symbol": "business",
+    "name": "its just business",
+    "liquidity_usd": 6484.392435743276,
+    "source_listed_at": "2026-09-19T21:19:22",
+    "peak_liquidity_usd": 6484.392435743276,
+    "last_checked_at": "2026-09-19T21:19:35.761745+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T21:19:35.449050+00:00",
+    "address": "4ZeaC5C9afezPrZrFBGsyzUuZJmQLEfDtdfL4NJm7WWn",
+    "symbol": "bizness",
+    "name": "its just bizness",
+    "liquidity_usd": 5601.421830020802,
+    "source_listed_at": "2026-09-19T21:19:20",
+    "peak_liquidity_usd": 5601.421830020802,
+    "last_checked_at": "2026-09-19T21:19:35.761745+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T21:19:35.449054+00:00",
+    "address": "9389ZX6AokEp9q83HhBimkx91io9BXtcpdUyT9RVpump",
+    "symbol": "pill",
+    "name": "pill",
+    "liquidity_usd": 5221.392955130143,
+    "source_listed_at": "2026-09-19T21:19:12",
+    "peak_liquidity_usd": 5221.392955130143,
+    "last_checked_at": "2026-09-19T21:19:35.761745+00:00",
+    "rug_flag": false
   }
 ]
