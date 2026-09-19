@@ -8089,5 +8089,60 @@
     "peak_liquidity_usd": 5287.416000234697,
     "last_checked_at": "2026-09-19T02:20:44.398168+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T04:21:08.843603+00:00",
+    "address": "EY3JSPqznkf1MZmBb28uh7W17X2mB1bcfRZUZSbc7ssC",
+    "symbol": "SAMO",
+    "name": "Samoyed\u3002",
+    "liquidity_usd": 19229.93488561969,
+    "source_listed_at": "2026-09-19T04:20:45",
+    "peak_liquidity_usd": 19229.93488561969,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T04:21:08.843635+00:00",
+    "address": "GGLbsNwN5ZGDbRNaWdqVWRZAyi13NoKnW4B2yqnQwbfu",
+    "symbol": "DICKINU",
+    "name": "Can I Put This DicK Inu",
+    "liquidity_usd": 19232.5594669298,
+    "source_listed_at": "2026-09-19T04:20:43",
+    "peak_liquidity_usd": 19232.5594669298,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T04:21:08.843650+00:00",
+    "address": "8puR9em4zghmPtG93huJPyagf8Uk8rDmFYCyVNoTGBss",
+    "symbol": "CAT",
+    "name": "Catcoin",
+    "liquidity_usd": 5358.409257203686,
+    "source_listed_at": "2026-09-19T04:20:31",
+    "peak_liquidity_usd": 5358.409257203686,
+    "last_checked_at": "2026-09-19T04:21:09.218228+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T04:21:08.843656+00:00",
+    "address": "CqACVZFjRou34pd9P7DVTh1Zg2ALC3EoYjYWWzrhMFjP",
+    "symbol": "USE",
+    "name": "United States of Europe",
+    "liquidity_usd": 5565.750409213721,
+    "source_listed_at": "2026-09-19T04:20:27",
+    "peak_liquidity_usd": 5565.750409213721,
+    "last_checked_at": "2026-09-19T04:21:09.218228+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T04:21:08.843663+00:00",
+    "address": "5AJUQHZAnfJWbXnZFPfQGLansQGPiQZ2Nj7rZyUVh4ED",
+    "symbol": "PAID",
+    "name": "Paid",
+    "liquidity_usd": 19331.824121810554,
+    "source_listed_at": "2026-09-19T04:20:13",
+    "peak_liquidity_usd": 19331.824121810554,
+    "last_checked_at": "2026-09-19T04:21:09.218228+00:00",
+    "rug_flag": false
   }
 ]
