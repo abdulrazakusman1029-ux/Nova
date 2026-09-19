@@ -8177,5 +8177,38 @@
     "peak_liquidity_usd": 5005.163045774374,
     "last_checked_at": "2026-09-19T05:19:54.414554+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T08:22:08.241944+00:00",
+    "address": "GmxKsQjXUVYob3yjKouBPAQaVmeongE2Xuovker6Y5W3",
+    "symbol": "inuzard",
+    "name": "inuzard",
+    "liquidity_usd": 19448.08766277716,
+    "source_listed_at": "2026-09-19T08:21:45",
+    "peak_liquidity_usd": 19448.08766277716,
+    "last_checked_at": "2026-09-19T08:22:08.613665+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T08:22:08.241966+00:00",
+    "address": "F8bms1XM2weoVSBrMJtmtyVgtHP3DCgBihTSDKLhXN3U",
+    "symbol": "Bitmoji",
+    "name": "Bitmoji Cult",
+    "liquidity_usd": 18648.23258847256,
+    "source_listed_at": "2026-09-19T08:21:34",
+    "peak_liquidity_usd": 18648.23258847256,
+    "last_checked_at": "2026-09-19T08:22:08.613665+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T08:22:08.241979+00:00",
+    "address": "AokvVJwMZ79sFPBoD8dqWK2vmJEd2cX1iUoopJTMSqLg",
+    "symbol": "Cheetozard",
+    "name": "Cheetozard",
+    "liquidity_usd": 5526.528620715671,
+    "source_listed_at": "2026-09-19T08:21:26",
+    "peak_liquidity_usd": 5526.528620715671,
+    "last_checked_at": "2026-09-19T08:22:08.613665+00:00",
+    "rug_flag": false
   }
 ]
