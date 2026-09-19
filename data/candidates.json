@@ -7383,7 +7383,7 @@
     "liquidity_usd": 17531.940573546308,
     "source_listed_at": "2026-09-17T14:23:41",
     "peak_liquidity_usd": 17531.940573546308,
-    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "last_checked_at": "2026-09-19T13:20:47.943593+00:00",
     "rug_flag": false
   },
   {
@@ -8286,6 +8286,28 @@
     "source_listed_at": "2026-09-19T12:24:56",
     "peak_liquidity_usd": 19062.72011902099,
     "last_checked_at": "2026-09-19T12:25:20.836690+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T13:20:47.499122+00:00",
+    "address": "3pe4a3MLVyorY7jH443QG1PVXcbW5qY2qsoWFW8gpump",
+    "symbol": "babie",
+    "name": "Babycate at 1M",
+    "liquidity_usd": 44744.726828698265,
+    "source_listed_at": "2026-09-19T13:20:43",
+    "peak_liquidity_usd": 44744.726828698265,
+    "last_checked_at": "2026-09-19T13:20:47.943593+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T13:20:47.499150+00:00",
+    "address": "5yBZR2wwNZofPN2uViKHVp7ijCNWn6cKT4yRxgTzpump",
+    "symbol": "babie",
+    "name": "Babycate at 1M",
+    "liquidity_usd": 44744.726828698265,
+    "source_listed_at": "2026-09-19T13:20:43",
+    "peak_liquidity_usd": 44744.726828698265,
+    "last_checked_at": "2026-09-19T13:20:47.943593+00:00",
     "rug_flag": false
   }
 ]
