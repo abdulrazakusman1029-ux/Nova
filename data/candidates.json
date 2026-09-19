@@ -7424,11 +7424,11 @@
     "address": "7ApbSnN65Sfi8wyj6q9wtqjGuxV7cNHYcHtfMWMJsz9L",
     "symbol": "OPAI",
     "name": "\u304a\u3063\u3071\u3044",
-    "liquidity_usd": 17135.681651228035,
+    "liquidity_usd": 6.09248317482095e-05,
     "source_listed_at": "2026-09-17T16:22:42",
     "peak_liquidity_usd": 17135.681651228035,
-    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-19T22:19:43.608824+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-17T16:23:10.016278+00:00",
@@ -7438,7 +7438,7 @@
     "liquidity_usd": 17535.717646998157,
     "source_listed_at": "2026-09-17T16:22:37",
     "peak_liquidity_usd": 17535.717646998157,
-    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "last_checked_at": "2026-09-19T22:19:43.608824+00:00",
     "rug_flag": false
   },
   {
@@ -7449,7 +7449,7 @@
     "liquidity_usd": 10820.011928813397,
     "source_listed_at": "2026-09-17T17:19:25",
     "peak_liquidity_usd": 10820.011928813397,
-    "last_checked_at": "2026-09-17T17:19:32.765998+00:00",
+    "last_checked_at": "2026-09-19T22:19:43.608824+00:00",
     "rug_flag": false
   },
   {
