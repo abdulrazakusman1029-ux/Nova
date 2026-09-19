@@ -7922,7 +7922,7 @@
     "liquidity_usd": 8244.343711006619,
     "source_listed_at": "2026-09-18T21:20:22",
     "peak_liquidity_usd": 8244.343711006619,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T01:21:06.961846+00:00",
     "rug_flag": false
   },
   {
@@ -8055,6 +8055,28 @@
     "source_listed_at": "2026-09-19T00:27:14",
     "peak_liquidity_usd": 5712.181228756827,
     "last_checked_at": "2026-09-19T00:27:30.531142+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T01:21:06.496001+00:00",
+    "address": "Hng6MQNWGmJEidXdDXqVzubB7FvMiyu5edG6i9rMmnfw",
+    "symbol": "\u3046\u3055\u304e",
+    "name": "Suica Rabbit",
+    "liquidity_usd": 17598.860964449792,
+    "source_listed_at": "2026-09-19T01:20:30",
+    "peak_liquidity_usd": 17598.860964449792,
+    "last_checked_at": "2026-09-19T01:21:06.961846+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T01:21:06.496028+00:00",
+    "address": "2q74ZzumsfY7FKESxHcVfxkk5Pk2bbqFKcNRDTpgSTNK",
+    "symbol": "RAITOON",
+    "name": "Raitoonzec",
+    "liquidity_usd": 5386.825983359148,
+    "source_listed_at": "2026-09-19T01:20:14",
+    "peak_liquidity_usd": 5386.825983359148,
+    "last_checked_at": "2026-09-19T01:21:06.961846+00:00",
     "rug_flag": false
   }
 ]
