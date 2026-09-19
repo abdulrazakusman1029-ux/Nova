@@ -8210,5 +8210,38 @@
     "peak_liquidity_usd": 5526.528620715671,
     "last_checked_at": "2026-09-19T08:22:08.613665+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T10:20:23.432640+00:00",
+    "address": "9HeKai4ArHQtqLjhdgva44uAGcfXkft5iyAjWEf2vLFK",
+    "symbol": "\ud83d\udcb2INHALE",
+    "name": "BLACK HOLE",
+    "liquidity_usd": 44526.01887463335,
+    "source_listed_at": "2026-09-19T10:19:47",
+    "peak_liquidity_usd": 44526.01887463335,
+    "last_checked_at": "2026-09-19T10:20:23.903229+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T10:20:23.432666+00:00",
+    "address": "Ex8mqks8zz85wgv3GD5b93gKC1HsqiZKs5CpLrTimqQp",
+    "symbol": "Cookie\u3002",
+    "name": "\u5e2e\u52a9\u60a3\u764c\u5973\u751f \u30022",
+    "liquidity_usd": 19018.370663225487,
+    "source_listed_at": "2026-09-19T10:19:44",
+    "peak_liquidity_usd": 19018.370663225487,
+    "last_checked_at": "2026-09-19T10:20:23.903229+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T10:20:23.432671+00:00",
+    "address": "3LGRoAFKusfQtfDRerYuezAibR3JDieshX4UvrR2Rtwf",
+    "symbol": "Mew",
+    "name": "RGB Mew",
+    "liquidity_usd": 5995.934227126803,
+    "source_listed_at": "2026-09-19T10:19:37",
+    "peak_liquidity_usd": 5995.934227126803,
+    "last_checked_at": "2026-09-19T10:20:23.903229+00:00",
+    "rug_flag": false
   }
 ]
