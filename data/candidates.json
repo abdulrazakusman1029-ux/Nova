@@ -7933,7 +7933,7 @@
     "liquidity_usd": 5509.871125496655,
     "source_listed_at": "2026-09-18T21:20:21",
     "peak_liquidity_usd": 5509.871125496655,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T00:27:30.531142+00:00",
     "rug_flag": false
   },
   {
@@ -8010,7 +8010,7 @@
     "liquidity_usd": 22498.451103153417,
     "source_listed_at": "2026-09-18T23:20:13",
     "peak_liquidity_usd": 22498.451103153417,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T00:27:30.531142+00:00",
     "rug_flag": false
   },
   {
@@ -8044,6 +8044,17 @@
     "source_listed_at": "2026-09-18T23:20:00",
     "peak_liquidity_usd": 7384.500679037381,
     "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T00:27:30.138840+00:00",
+    "address": "6wx7ymkYUgsEeh4PcdaW1RZ3bqoaC1CYVK2xnYXDpump",
+    "symbol": "pP",
+    "name": "PRAIDSM",
+    "liquidity_usd": 5712.181228756827,
+    "source_listed_at": "2026-09-19T00:27:14",
+    "peak_liquidity_usd": 5712.181228756827,
+    "last_checked_at": "2026-09-19T00:27:30.531142+00:00",
     "rug_flag": false
   }
 ]
