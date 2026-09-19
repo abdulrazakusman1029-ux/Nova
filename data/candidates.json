@@ -7361,7 +7361,7 @@
     "liquidity_usd": 6619.107904106727,
     "source_listed_at": "2026-09-17T14:24:07",
     "peak_liquidity_usd": 6619.107904106727,
-    "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
+    "last_checked_at": "2026-09-19T18:22:32.813213+00:00",
     "rug_flag": false
   },
   {
@@ -7394,7 +7394,7 @@
     "liquidity_usd": 121572.80557344713,
     "source_listed_at": "2026-09-17T14:23:41",
     "peak_liquidity_usd": 121572.80557344713,
-    "last_checked_at": "2026-09-17T14:24:15.988563+00:00",
+    "last_checked_at": "2026-09-19T18:22:32.813213+00:00",
     "rug_flag": false
   },
   {
@@ -8407,6 +8407,17 @@
     "source_listed_at": "2026-09-19T17:18:12",
     "peak_liquidity_usd": 12074.163951654135,
     "last_checked_at": "2026-09-19T17:18:47.356336+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T18:22:32.338212+00:00",
+    "address": "8fJvTvyP1S9FKKCiLuAMB2Efy4ggFgQ1Puz9eSsAtr6",
+    "symbol": "FOMO",
+    "name": "Fearless Of Missing Out",
+    "liquidity_usd": 5181.360735692666,
+    "source_listed_at": "2026-09-19T18:22:05",
+    "peak_liquidity_usd": 5181.360735692666,
+    "last_checked_at": "2026-09-19T18:22:32.813213+00:00",
     "rug_flag": false
   }
 ]
