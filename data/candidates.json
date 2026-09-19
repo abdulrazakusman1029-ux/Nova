@@ -8342,5 +8342,38 @@
     "peak_liquidity_usd": 220822.0086103125,
     "last_checked_at": "2026-09-19T15:19:47.422701+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T16:20:56.176039+00:00",
+    "address": "FD7WspWDs4BZAvrPTfemwdnrDYY8VKPWi2KtRr15pump",
+    "symbol": "Collector",
+    "name": "The Collector",
+    "liquidity_usd": 5387.303714844015,
+    "source_listed_at": "2026-09-19T16:20:47",
+    "peak_liquidity_usd": 5387.303714844015,
+    "last_checked_at": "2026-09-19T16:20:56.826680+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T16:20:56.176059+00:00",
+    "address": "3ecgDW5cumRBCkqdocCiwV7v1nj1HjqzPSHEH5qt7nPQ",
+    "symbol": "SCAT",
+    "name": "send the cat",
+    "liquidity_usd": 5244.241668396981,
+    "source_listed_at": "2026-09-19T16:20:43",
+    "peak_liquidity_usd": 5244.241668396981,
+    "last_checked_at": "2026-09-19T16:20:56.826680+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T16:20:56.176062+00:00",
+    "address": "7nani1izMMawoGWRD2K4bsgxVYGcXWxqi8ArxvcprBEy",
+    "symbol": "INUVEST",
+    "name": "inuvest",
+    "liquidity_usd": 5633.712816659137,
+    "source_listed_at": "2026-09-19T16:20:36",
+    "peak_liquidity_usd": 5633.712816659137,
+    "last_checked_at": "2026-09-19T16:20:56.826680+00:00",
+    "rug_flag": false
   }
 ]
