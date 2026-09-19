@@ -8419,5 +8419,38 @@
     "peak_liquidity_usd": 5181.360735692666,
     "last_checked_at": "2026-09-19T18:22:32.813213+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T19:17:35.022261+00:00",
+    "address": "8QYFKeQ98iGtTwUjxNtAFnfGADBjawZDCJ63PsbsSTNK",
+    "symbol": "LUFFY",
+    "name": "Monkey D. Luffy",
+    "liquidity_usd": 7124.071530011176,
+    "source_listed_at": "2026-09-19T19:17:28",
+    "peak_liquidity_usd": 7124.071530011176,
+    "last_checked_at": "2026-09-19T19:17:35.436118+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T19:17:35.022301+00:00",
+    "address": "3VTCSfte8govv8SfaS5aESwTtj8Mh9kUh26pa2StSTNK",
+    "symbol": "SNAPCOIN",
+    "name": "SnapCoin",
+    "liquidity_usd": 5161.720687383362,
+    "source_listed_at": "2026-09-19T19:17:24",
+    "peak_liquidity_usd": 5161.720687383362,
+    "last_checked_at": "2026-09-19T19:17:35.436118+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T19:17:35.022308+00:00",
+    "address": "CVfJZrhVyAKTLLtNqStG64aZ1xaUgroME3W1PDCsfKZ1",
+    "symbol": "MOONACHU",
+    "name": "MOONACHU",
+    "liquidity_usd": 7608.323185134982,
+    "source_listed_at": "2026-09-19T19:17:15",
+    "peak_liquidity_usd": 7608.323185134982,
+    "last_checked_at": "2026-09-19T19:17:35.436118+00:00",
+    "rug_flag": false
   }
 ]
