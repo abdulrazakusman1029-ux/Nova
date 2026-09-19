@@ -7405,7 +7405,7 @@
     "liquidity_usd": 10793.8823122851,
     "source_listed_at": "2026-09-17T15:22:28",
     "peak_liquidity_usd": 10793.8823122851,
-    "last_checked_at": "2026-09-17T15:22:31.408570+00:00",
+    "last_checked_at": "2026-09-19T20:20:33.440698+00:00",
     "rug_flag": false
   },
   {
@@ -7416,7 +7416,7 @@
     "liquidity_usd": 83925.89785516393,
     "source_listed_at": "2026-09-17T16:23:02",
     "peak_liquidity_usd": 83925.89785516393,
-    "last_checked_at": "2026-09-17T16:23:10.580880+00:00",
+    "last_checked_at": "2026-09-19T20:20:33.440698+00:00",
     "rug_flag": false
   },
   {
@@ -8451,6 +8451,17 @@
     "source_listed_at": "2026-09-19T19:17:15",
     "peak_liquidity_usd": 7608.323185134982,
     "last_checked_at": "2026-09-19T19:17:35.436118+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T20:20:33.115732+00:00",
+    "address": "95giexh2eSEsbWsLZX7EAehiNKkZPB5v4GKE2zPup6JV",
+    "symbol": "LOL",
+    "name": "lolcoin",
+    "liquidity_usd": 5747.3769403473025,
+    "source_listed_at": "2026-09-19T20:20:24",
+    "peak_liquidity_usd": 5747.3769403473025,
+    "last_checked_at": "2026-09-19T20:20:33.440698+00:00",
     "rug_flag": false
   }
 ]
