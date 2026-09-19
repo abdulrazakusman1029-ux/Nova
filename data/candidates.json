@@ -7262,7 +7262,7 @@
     "liquidity_usd": 10180.478016509971,
     "source_listed_at": "2026-09-17T08:23:43",
     "peak_liquidity_usd": 10180.478016509971,
-    "last_checked_at": "2026-09-17T08:24:18.825340+00:00",
+    "last_checked_at": "2026-09-19T03:21:12.787078+00:00",
     "rug_flag": false
   },
   {
@@ -7878,7 +7878,7 @@
     "liquidity_usd": 5317.15243569031,
     "source_listed_at": "2026-09-18T21:20:27",
     "peak_liquidity_usd": 5317.15243569031,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-19T03:21:12.787078+00:00",
     "rug_flag": false
   },
   {
@@ -7886,11 +7886,11 @@
     "address": "26X9FUKSpNKT4HCy35VYPGGQaA97p4sNif4LzvrkyHVN",
     "symbol": "PFP",
     "name": "PUMPFUN PEPE",
-    "liquidity_usd": 8380.025967086174,
+    "liquidity_usd": 98.01873350218901,
     "source_listed_at": "2026-09-18T21:20:26",
     "peak_liquidity_usd": 8380.025967086174,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-19T03:21:12.787078+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-18T21:20:31.688035+00:00",
