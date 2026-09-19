@@ -8144,5 +8144,38 @@
     "peak_liquidity_usd": 19331.824121810554,
     "last_checked_at": "2026-09-19T04:21:09.218228+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T05:19:54.047316+00:00",
+    "address": "Brg2QrSCj8uizUw7NxqiEiSEVeAgxAShuoXGF1SMmoon",
+    "symbol": "BEAST",
+    "name": "MrBeast",
+    "liquidity_usd": 6997.59465111,
+    "source_listed_at": "2026-09-19T05:19:33",
+    "peak_liquidity_usd": 6997.59465111,
+    "last_checked_at": "2026-09-19T05:19:54.414554+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T05:19:54.047337+00:00",
+    "address": "9DAv8YdEvHPnvUy8yByavXfTg2HP8xqhQPaLfdEPpump",
+    "symbol": "OKX",
+    "name": "okx",
+    "liquidity_usd": 54407.26468190611,
+    "source_listed_at": "2026-09-19T05:19:08",
+    "peak_liquidity_usd": 54407.26468190611,
+    "last_checked_at": "2026-09-19T05:19:54.414554+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-19T05:19:54.047341+00:00",
+    "address": "2n1Df7zdR5gQZznfsvatzJXaLwWSmnYox9nJTKmZHj2Y",
+    "symbol": "URANUS",
+    "name": "UranusCoin",
+    "liquidity_usd": 5005.163045774374,
+    "source_listed_at": "2026-09-19T05:19:00",
+    "peak_liquidity_usd": 5005.163045774374,
+    "last_checked_at": "2026-09-19T05:19:54.414554+00:00",
+    "rug_flag": false
   }
 ]
