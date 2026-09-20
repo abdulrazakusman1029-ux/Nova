@@ -8782,5 +8782,60 @@
     "peak_liquidity_usd": 43388.73847852517,
     "last_checked_at": "2026-09-20T11:19:35.603822+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T12:25:01.897469+00:00",
+    "address": "EyPWcsAfTPw4GEKg1ojZJFQUBS7VurSffruVrn8Tpump",
+    "symbol": "PTSD",
+    "name": "viral asf trenches meme",
+    "liquidity_usd": 43503.66921799736,
+    "source_listed_at": "2026-09-20T12:24:59",
+    "peak_liquidity_usd": 43503.66921799736,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T12:25:01.897498+00:00",
+    "address": "7WSgYot1rPGdcup34vLrxZoaKbk6DU9CP6v4J53qpump",
+    "symbol": "USDF",
+    "name": "USDF",
+    "liquidity_usd": 11605.17941263566,
+    "source_listed_at": "2026-09-20T12:24:57",
+    "peak_liquidity_usd": 11605.17941263566,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T12:25:01.897506+00:00",
+    "address": "G9BqfMtoDnWtJKSm8o7DAZYHV2NYXGBmaWL5qsmRFKDG",
+    "symbol": "ACHI",
+    "name": "Achi",
+    "liquidity_usd": 5010.425091548971,
+    "source_listed_at": "2026-09-20T12:24:48",
+    "peak_liquidity_usd": 5010.425091548971,
+    "last_checked_at": "2026-09-20T12:25:02.269837+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T12:25:01.897513+00:00",
+    "address": "EYo4m7c7Yo1MJnHv292NMqR7wM8VSwh4MJKcqhegvGxf",
+    "symbol": "XMAN",
+    "name": "Monero Man",
+    "liquidity_usd": 20577.223455142663,
+    "source_listed_at": "2026-09-20T12:24:35",
+    "peak_liquidity_usd": 20577.223455142663,
+    "last_checked_at": "2026-09-20T12:25:02.269837+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T12:25:01.897520+00:00",
+    "address": "7z86gxySp1DSzbS6PH41xZZvpqfvmz4xUcCfRqAspump",
+    "symbol": "PTSD",
+    "name": "viral asf trenches meme",
+    "liquidity_usd": 43714.89833691982,
+    "source_listed_at": "2026-09-20T12:24:30",
+    "peak_liquidity_usd": 43714.89833691982,
+    "last_checked_at": "2026-09-20T12:25:02.269837+00:00",
+    "rug_flag": false
   }
 ]
