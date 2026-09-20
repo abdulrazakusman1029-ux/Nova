@@ -8903,5 +8903,38 @@
     "peak_liquidity_usd": 18795.2209176236,
     "last_checked_at": "2026-09-20T14:19:53.240014+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T15:20:06.460003+00:00",
+    "address": "AfRLWzhRD8Tp2puzfZch9AHWy2K4FJZvErW32yCQTAMU",
+    "symbol": "F1CAT",
+    "name": "F1CAT",
+    "liquidity_usd": 6355.716650724766,
+    "source_listed_at": "2026-09-20T15:19:42",
+    "peak_liquidity_usd": 6355.716650724766,
+    "last_checked_at": "2026-09-20T15:20:06.890715+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T15:20:06.460031+00:00",
+    "address": "F4CrBbGzZEdi7xVuo6Yv1CXDuoAz1tGWoGqs5Pa4BqBS",
+    "symbol": "\ud83d\udcb2BUNNY",
+    "name": "BUNNY",
+    "liquidity_usd": 36758.91687148071,
+    "source_listed_at": "2026-09-20T15:19:33",
+    "peak_liquidity_usd": 36758.91687148071,
+    "last_checked_at": "2026-09-20T15:20:06.890715+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T15:20:06.460038+00:00",
+    "address": "EMwCvwXAu6NkByctBg7TZ98RKv8zXh6YF3pfs6zvpump",
+    "symbol": "Lobby",
+    "name": "Hotel Lobby",
+    "liquidity_usd": 11656.032477514484,
+    "source_listed_at": "2026-09-20T15:19:32",
+    "peak_liquidity_usd": 11656.032477514484,
+    "last_checked_at": "2026-09-20T15:20:06.890715+00:00",
+    "rug_flag": false
   }
 ]
