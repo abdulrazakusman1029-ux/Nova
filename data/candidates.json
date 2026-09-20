@@ -9002,5 +9002,38 @@
     "peak_liquidity_usd": 18741.48469777285,
     "last_checked_at": "2026-09-20T18:22:31.365201+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T19:17:47.668422+00:00",
+    "address": "CYWnW3wrfGZzUvMrvNtGEgxcKhEVcyTq87r8YEWSpump",
+    "symbol": "zkSNARKCAT",
+    "name": "zecpad.wtf",
+    "liquidity_usd": 5043.295270409544,
+    "source_listed_at": "2026-09-20T19:17:44",
+    "peak_liquidity_usd": 5043.295270409544,
+    "last_checked_at": "2026-09-20T19:17:48.254971+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T19:17:47.668450+00:00",
+    "address": "EPqpgVUAaAReaq55dJpLe6arJm67ob74v2YJGoUDvj72",
+    "symbol": "LEAPFROG",
+    "name": "Leap Into Froge",
+    "liquidity_usd": 5450.887003519352,
+    "source_listed_at": "2026-09-20T19:17:42",
+    "peak_liquidity_usd": 5450.887003519352,
+    "last_checked_at": "2026-09-20T19:17:48.254971+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T19:17:47.668457+00:00",
+    "address": "DQUBSvdjby4JUvY4G8ne6vysDgiqE6BpnPQ2h48cABSN",
+    "symbol": "Credits",
+    "name": "credits",
+    "liquidity_usd": 41662.31813406139,
+    "source_listed_at": "2026-09-20T19:17:19",
+    "peak_liquidity_usd": 41662.31813406139,
+    "last_checked_at": "2026-09-20T19:17:48.254971+00:00",
+    "rug_flag": false
   }
 ]
