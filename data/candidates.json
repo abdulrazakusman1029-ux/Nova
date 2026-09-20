@@ -8791,7 +8791,7 @@
     "liquidity_usd": 43503.66921799736,
     "source_listed_at": "2026-09-20T12:24:59",
     "peak_liquidity_usd": 43503.66921799736,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
     "rug_flag": false
   },
   {
@@ -8957,6 +8957,28 @@
     "source_listed_at": "2026-09-20T16:20:42",
     "peak_liquidity_usd": 5759.1731706535975,
     "last_checked_at": "2026-09-20T16:21:08.702948+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T17:19:22.858520+00:00",
+    "address": "2x1TsCVHQnvs2Equu99qbtNA72js56N7ywm31N3ASTNK",
+    "symbol": "CARDEX",
+    "name": "Poke Cardex",
+    "liquidity_usd": 5350.2190056817635,
+    "source_listed_at": "2026-09-20T17:19:11",
+    "peak_liquidity_usd": 5350.2190056817635,
+    "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T17:19:22.858552+00:00",
+    "address": "DGULgkjXp4KPvqafudESP9g4tKcozhVWRaWBD6PRBAGS",
+    "symbol": "AMZBOX",
+    "name": "Amazon Prime Box",
+    "liquidity_usd": 104465.11112760518,
+    "source_listed_at": "2026-09-20T17:18:53",
+    "peak_liquidity_usd": 104465.11112760518,
+    "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
     "rug_flag": false
   }
 ]
