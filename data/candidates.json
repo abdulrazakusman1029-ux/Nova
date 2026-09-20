@@ -8747,7 +8747,7 @@
     "liquidity_usd": 43351.78100850258,
     "source_listed_at": "2026-09-20T11:19:20",
     "peak_liquidity_usd": 43351.78100850258,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T18:22:31.365201+00:00",
     "rug_flag": false
   },
   {
@@ -8979,6 +8979,28 @@
     "source_listed_at": "2026-09-20T17:18:53",
     "peak_liquidity_usd": 104465.11112760518,
     "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T18:22:30.820402+00:00",
+    "address": "CWCLRtBJBpnenVAvQhwDHG9Js7eqrHyFNQ3mPeq7pump",
+    "symbol": "TYLER",
+    "name": "Tyler Raw Fund",
+    "liquidity_usd": 11758.513620424246,
+    "source_listed_at": "2026-09-20T18:22:29",
+    "peak_liquidity_usd": 11758.513620424246,
+    "last_checked_at": "2026-09-20T18:22:31.365201+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T18:22:30.820428+00:00",
+    "address": "A6cm97WDS5HGusix8fXejprDZ8SKawSeDF9DkqVpjPPP",
+    "symbol": "GOY",
+    "name": "GOY",
+    "liquidity_usd": 18741.48469777285,
+    "source_listed_at": "2026-09-20T18:22:27",
+    "peak_liquidity_usd": 18741.48469777285,
+    "last_checked_at": "2026-09-20T18:22:31.365201+00:00",
     "rug_flag": false
   }
 ]
