@@ -8837,5 +8837,60 @@
     "peak_liquidity_usd": 43714.89833691982,
     "last_checked_at": "2026-09-20T12:25:02.269837+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T13:20:34.356632+00:00",
+    "address": "BFmPesdfVosKwTGghZjqyDGMdDymYhCpEMEMinLEpump",
+    "symbol": "ChatGPT",
+    "name": "ChatGPT",
+    "liquidity_usd": 11643.238848458279,
+    "source_listed_at": "2026-09-20T13:20:25",
+    "peak_liquidity_usd": 11643.238848458279,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T13:20:34.356651+00:00",
+    "address": "9dbpy8e15nkV5ahVp3ozp2GhaLL5QuKPmaksgUYuid77",
+    "symbol": "BELUGA",
+    "name": "Beluga",
+    "liquidity_usd": 18465.866492104968,
+    "source_listed_at": "2026-09-20T13:20:09",
+    "peak_liquidity_usd": 18465.866492104968,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T13:20:34.356660+00:00",
+    "address": "CE5XVmbLzT6YiBi2DLWCvSHbMUj3kLMkt5HKMmboydEQ",
+    "symbol": "BELUGA",
+    "name": "Beluga",
+    "liquidity_usd": 18373.306979088742,
+    "source_listed_at": "2026-09-20T13:20:06",
+    "peak_liquidity_usd": 18373.306979088742,
+    "last_checked_at": "2026-09-20T13:20:34.889627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T13:20:34.356664+00:00",
+    "address": "DxB5dYzfspUmdTMYFZTZJXhKJVp8BDjkdH23y6UEpump",
+    "symbol": "POKEDEX",
+    "name": "POKEDEX",
+    "liquidity_usd": 5049.1858818575465,
+    "source_listed_at": "2026-09-20T13:20:06",
+    "peak_liquidity_usd": 5049.1858818575465,
+    "last_checked_at": "2026-09-20T13:20:34.889627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T13:20:34.356669+00:00",
+    "address": "7q4sYiAcTSrquLtwQ3ygwvotREVJgCRPmRLpkMNRpump",
+    "symbol": "WAR",
+    "name": "WARCOIN",
+    "liquidity_usd": 5908.153019774611,
+    "source_listed_at": "2026-09-20T13:19:56",
+    "peak_liquidity_usd": 5908.153019774611,
+    "last_checked_at": "2026-09-20T13:20:34.889627+00:00",
+    "rug_flag": false
   }
 ]
