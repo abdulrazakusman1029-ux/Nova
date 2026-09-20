@@ -7658,7 +7658,7 @@
     "liquidity_usd": 5792.249508078664,
     "source_listed_at": "2026-09-18T03:20:56",
     "peak_liquidity_usd": 5792.249508078664,
-    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "last_checked_at": "2026-09-20T21:19:59.822893+00:00",
     "rug_flag": false
   },
   {
@@ -7669,7 +7669,7 @@
     "liquidity_usd": 5563.010586140997,
     "source_listed_at": "2026-09-18T03:20:33",
     "peak_liquidity_usd": 5563.010586140997,
-    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
+    "last_checked_at": "2026-09-20T21:19:59.822893+00:00",
     "rug_flag": false
   },
   {
@@ -9034,6 +9034,17 @@
     "source_listed_at": "2026-09-20T19:17:19",
     "peak_liquidity_usd": 41662.31813406139,
     "last_checked_at": "2026-09-20T19:17:48.254971+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T21:19:59.364019+00:00",
+    "address": "3FRV6qtnDw8GoUQqzPP5zkqdD1b85L99HUbTDJEz4xHv",
+    "symbol": "BNBCAT",
+    "name": "BNBCatX",
+    "liquidity_usd": 23127.04661542555,
+    "source_listed_at": "2026-09-20T21:19:48",
+    "peak_liquidity_usd": 23127.04661542555,
+    "last_checked_at": "2026-09-20T21:19:59.822893+00:00",
     "rug_flag": false
   }
 ]
