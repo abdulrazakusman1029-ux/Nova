@@ -8604,7 +8604,7 @@
     "liquidity_usd": 18471.201910167834,
     "source_listed_at": "2026-09-20T05:19:46",
     "peak_liquidity_usd": 18471.201910167834,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T06:25:19.341302+00:00",
     "rug_flag": false
   },
   {
@@ -8615,7 +8615,7 @@
     "liquidity_usd": 43744.9789675365,
     "source_listed_at": "2026-09-20T05:19:46",
     "peak_liquidity_usd": 43744.9789675365,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T06:25:19.341302+00:00",
     "rug_flag": false
   },
   {
@@ -8649,6 +8649,17 @@
     "source_listed_at": "2026-09-20T05:19:35",
     "peak_liquidity_usd": 43745.3892075871,
     "last_checked_at": "2026-09-20T05:20:02.086101+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T06:25:18.944587+00:00",
+    "address": "BY7gF4P1QYDqVfALgg7QVCQQ5RNkpXSM4YBnwojuJxog",
+    "symbol": "URANUS",
+    "name": "Uranus",
+    "liquidity_usd": 25459.109729817093,
+    "source_listed_at": "2026-09-20T06:25:11",
+    "peak_liquidity_usd": 25459.109729817093,
+    "last_checked_at": "2026-09-20T06:25:19.341302+00:00",
     "rug_flag": false
   }
 ]
