@@ -8802,7 +8802,7 @@
     "liquidity_usd": 11605.17941263566,
     "source_listed_at": "2026-09-20T12:24:57",
     "peak_liquidity_usd": 11605.17941263566,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T16:21:08.702948+00:00",
     "rug_flag": false
   },
   {
@@ -8935,6 +8935,28 @@
     "source_listed_at": "2026-09-20T15:19:32",
     "peak_liquidity_usd": 11656.032477514484,
     "last_checked_at": "2026-09-20T15:20:06.890715+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T16:21:08.115438+00:00",
+    "address": "DqizniQzkFfcV4FcaKKagVrzQVqioqVPqWoLnzBwbMhj",
+    "symbol": "Pageboy",
+    "name": "Pageboy Cut",
+    "liquidity_usd": 6559.281742119931,
+    "source_listed_at": "2026-09-20T16:20:50",
+    "peak_liquidity_usd": 6559.281742119931,
+    "last_checked_at": "2026-09-20T16:21:08.702948+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T16:21:08.115461+00:00",
+    "address": "Uup47Lef8zVB94dZmTsTdMd1CB3tZERa4Bp9C5aSTNK",
+    "symbol": "Pageboy",
+    "name": "Pageboy Cut",
+    "liquidity_usd": 5759.1731706535975,
+    "source_listed_at": "2026-09-20T16:20:42",
+    "peak_liquidity_usd": 5759.1731706535975,
+    "last_checked_at": "2026-09-20T16:21:08.702948+00:00",
     "rug_flag": false
   }
 ]
