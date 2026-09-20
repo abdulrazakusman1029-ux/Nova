@@ -7526,7 +7526,7 @@
     "liquidity_usd": 40509.10355047992,
     "source_listed_at": "2026-09-17T22:19:59",
     "peak_liquidity_usd": 40509.10355047992,
-    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "last_checked_at": "2026-09-20T01:19:27.770445+00:00",
     "rug_flag": false
   },
   {
@@ -7537,7 +7537,7 @@
     "liquidity_usd": 10868.709864694938,
     "source_listed_at": "2026-09-17T23:18:19",
     "peak_liquidity_usd": 10868.709864694938,
-    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "last_checked_at": "2026-09-20T01:19:27.770445+00:00",
     "rug_flag": false
   },
   {
@@ -8506,6 +8506,17 @@
     "source_listed_at": "2026-09-19T23:18:17",
     "peak_liquidity_usd": 11933.411045831162,
     "last_checked_at": "2026-09-19T23:18:34.708040+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T01:19:27.266387+00:00",
+    "address": "c8us6yyNASBF5svCyzjfC2fxtgkNLn6syCyLb7x2zcw",
+    "symbol": "PLUPETTO",
+    "name": "Plupetto",
+    "liquidity_usd": 5707.441017844734,
+    "source_listed_at": "2026-09-20T01:18:49",
+    "peak_liquidity_usd": 5707.441017844734,
+    "last_checked_at": "2026-09-20T01:19:27.770445+00:00",
     "rug_flag": false
   }
 ]
