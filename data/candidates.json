@@ -8584,5 +8584,71 @@
     "peak_liquidity_usd": 18473.831604159357,
     "last_checked_at": "2026-09-20T04:21:41.786760+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677279+00:00",
+    "address": "GTYwFhUTdoqCLBdBqbbPrq1oe9DQtC98SZoZ7fcGVNsu",
+    "symbol": "ZPEPE",
+    "name": "Anonymous Pepe",
+    "liquidity_usd": 6775.903511807437,
+    "source_listed_at": "2026-09-20T05:19:47",
+    "peak_liquidity_usd": 6775.903511807437,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677308+00:00",
+    "address": "3E9KcjWVrgjxsNcSVjUVXQpCSWLieWKTkYfpVzrZTZDS",
+    "symbol": "fatcat",
+    "name": "fatcat \u3002\u3002",
+    "liquidity_usd": 18471.201910167834,
+    "source_listed_at": "2026-09-20T05:19:46",
+    "peak_liquidity_usd": 18471.201910167834,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677317+00:00",
+    "address": "BZBtypLvKBvuCbGraeUZrnVYTZWi6qfLsiqKzZFCpump",
+    "symbol": "fatcat",
+    "name": "no one uses OTC",
+    "liquidity_usd": 43744.9789675365,
+    "source_listed_at": "2026-09-20T05:19:46",
+    "peak_liquidity_usd": 43744.9789675365,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677324+00:00",
+    "address": "6V3coPAczjBvoKxNPBhavdyBsF6JXr4L9zFeXGqrXFs1",
+    "symbol": "claude",
+    "name": "Claude Ai",
+    "liquidity_usd": 25422.365135815806,
+    "source_listed_at": "2026-09-20T05:19:40",
+    "peak_liquidity_usd": 25422.365135815806,
+    "last_checked_at": "2026-09-20T05:20:02.086101+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677331+00:00",
+    "address": "8KNsZy2qztwCe8whF9yQ8uVJnhFsMUKYCHUzEihrLbFv",
+    "symbol": "Gucci",
+    "name": "$GUCCI",
+    "liquidity_usd": 11645.84943758404,
+    "source_listed_at": "2026-09-20T05:19:37",
+    "peak_liquidity_usd": 11645.84943758404,
+    "last_checked_at": "2026-09-20T05:20:02.086101+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T05:20:01.677338+00:00",
+    "address": "D7SJNxGeUGyajuJMDdfz3AC8uTUNZXMso4wPufespump",
+    "symbol": "fatcat",
+    "name": "no one uses OTC",
+    "liquidity_usd": 43745.3892075871,
+    "source_listed_at": "2026-09-20T05:19:35",
+    "peak_liquidity_usd": 43745.3892075871,
+    "last_checked_at": "2026-09-20T05:20:02.086101+00:00",
+    "rug_flag": false
   }
 ]
