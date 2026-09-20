@@ -8661,5 +8661,38 @@
     "peak_liquidity_usd": 25459.109729817093,
     "last_checked_at": "2026-09-20T06:25:19.341302+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T07:20:27.581173+00:00",
+    "address": "6WSo5P7PSVcNrEENdLfzw9ggdc4RMQBrNuq8ykHbti6C",
+    "symbol": "PAID",
+    "name": "Binance Square Paid",
+    "liquidity_usd": 22591.446063367894,
+    "source_listed_at": "2026-09-20T07:20:09",
+    "peak_liquidity_usd": 22591.446063367894,
+    "last_checked_at": "2026-09-20T07:20:28.082500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T07:20:27.581195+00:00",
+    "address": "3nECnyzfSgsfGmunS6otyYe1RJz2thrYz6WcFcuBpRD5",
+    "symbol": "SOYJAK",
+    "name": "Soyjak",
+    "liquidity_usd": 7255.836843801218,
+    "source_listed_at": "2026-09-20T07:19:24",
+    "peak_liquidity_usd": 7255.836843801218,
+    "last_checked_at": "2026-09-20T07:20:28.082500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T07:20:27.581199+00:00",
+    "address": "FJzSaPqmpSixV6pCmsemqNpC3vxBGcpfBobUNunuCX9U",
+    "symbol": "UP",
+    "name": "up",
+    "liquidity_usd": 26884.943225187853,
+    "source_listed_at": "2026-09-20T07:19:03",
+    "peak_liquidity_usd": 26884.943225187853,
+    "last_checked_at": "2026-09-20T07:20:28.082500+00:00",
+    "rug_flag": false
   }
 ]
