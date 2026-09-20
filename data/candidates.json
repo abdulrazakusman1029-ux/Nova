@@ -7581,7 +7581,7 @@
     "liquidity_usd": 40728.79820853849,
     "source_listed_at": "2026-09-18T00:27:50",
     "peak_liquidity_usd": 40728.79820853849,
-    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "last_checked_at": "2026-09-20T04:21:41.786760+00:00",
     "rug_flag": false
   },
   {
@@ -8561,6 +8561,28 @@
     "source_listed_at": "2026-09-20T03:20:53",
     "peak_liquidity_usd": 18900.070402067144,
     "last_checked_at": "2026-09-20T03:21:39.064796+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T04:21:41.467708+00:00",
+    "address": "Gdm8v9M5PfxF7LtKezpNMNwpCEoG3SZtMB3m5Bhebonk",
+    "symbol": "CFGHOST",
+    "name": "Cloud Ghost",
+    "liquidity_usd": 91302.53834953303,
+    "source_listed_at": "2026-09-20T04:21:38",
+    "peak_liquidity_usd": 91302.53834953303,
+    "last_checked_at": "2026-09-20T04:21:41.786760+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T04:21:41.467738+00:00",
+    "address": "siNJNEqgWZLrP76ut7onMeP52x7MUUHPfceUzMKJWQ2",
+    "symbol": "TBC",
+    "name": "The Boring Company",
+    "liquidity_usd": 18473.831604159357,
+    "source_listed_at": "2026-09-20T04:21:38",
+    "peak_liquidity_usd": 18473.831604159357,
+    "last_checked_at": "2026-09-20T04:21:41.786760+00:00",
     "rug_flag": false
   }
 ]
