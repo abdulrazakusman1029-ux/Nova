@@ -9046,5 +9046,49 @@
     "peak_liquidity_usd": 23127.04661542555,
     "last_checked_at": "2026-09-20T21:19:59.822893+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T23:19:21.164564+00:00",
+    "address": "EsuYnTXUitsDt3DRXBDqRqbZP7rvtp1z1DYWKaNffH1n",
+    "symbol": "choom",
+    "name": "choom",
+    "liquidity_usd": 5141.499672720043,
+    "source_listed_at": "2026-09-20T23:19:13",
+    "peak_liquidity_usd": 5141.499672720043,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T23:19:21.164580+00:00",
+    "address": "9FPFmAb1WJP2CxFpwYAhYdGRVyKd6xzFbS6YuF5qpump",
+    "symbol": "ZEBRAZC500",
+    "name": "ZEBRA ZEC 500",
+    "liquidity_usd": 5233.806556188267,
+    "source_listed_at": "2026-09-20T23:19:12",
+    "peak_liquidity_usd": 5233.806556188267,
+    "last_checked_at": "2026-09-20T23:19:21.498884+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T23:19:21.164585+00:00",
+    "address": "3hYevjGXcucY5ZGQ5gK6k5tDKxsAsbKTSpmzcdZ5bonk",
+    "symbol": "Hoodbot",
+    "name": "ROBINHOOD ROBOT",
+    "liquidity_usd": 93226.83574865108,
+    "source_listed_at": "2026-09-20T23:19:09",
+    "peak_liquidity_usd": 93226.83574865108,
+    "last_checked_at": "2026-09-20T23:19:21.498884+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T23:19:21.164588+00:00",
+    "address": "5paATGYj8Htc68NBKhv9Wr5YjbBw8vgXvmVWtGztfNDJ",
+    "symbol": "rupert",
+    "name": "rupert",
+    "liquidity_usd": 18776.3419531248,
+    "source_listed_at": "2026-09-20T23:19:06",
+    "peak_liquidity_usd": 18776.3419531248,
+    "last_checked_at": "2026-09-20T23:19:21.498884+00:00",
+    "rug_flag": false
   }
 ]
