@@ -7592,7 +7592,7 @@
     "liquidity_usd": 17523.312879258603,
     "source_listed_at": "2026-09-18T00:27:42",
     "peak_liquidity_usd": 17523.312879258603,
-    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
+    "last_checked_at": "2026-09-20T09:20:24.903451+00:00",
     "rug_flag": false
   },
   {
@@ -8715,6 +8715,28 @@
     "source_listed_at": "2026-09-20T08:20:42",
     "peak_liquidity_usd": 18858.77178159116,
     "last_checked_at": "2026-09-20T08:21:56.812685+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T09:20:24.505760+00:00",
+    "address": "6aDZ7MBk2ikxe5g7XVa9A48FfQ4FEGHQUWzsRhFmpump",
+    "symbol": "Caprad",
+    "name": "Capitol Meme Radar",
+    "liquidity_usd": 93650.01217010069,
+    "source_listed_at": "2026-09-20T09:20:09",
+    "peak_liquidity_usd": 93650.01217010069,
+    "last_checked_at": "2026-09-20T09:20:24.903451+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T09:20:24.505782+00:00",
+    "address": "CZt4yn1NZamoFnZqV1gjnt3HmszzPa4WLyQ1vVpy9F3P",
+    "symbol": "BEYOND",
+    "name": "The Age Of Beyond",
+    "liquidity_usd": 5236.471084123178,
+    "source_listed_at": "2026-09-20T09:19:30",
+    "peak_liquidity_usd": 5236.471084123178,
+    "last_checked_at": "2026-09-20T09:20:24.903451+00:00",
     "rug_flag": false
   }
 ]
