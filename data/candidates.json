@@ -7548,7 +7548,7 @@
     "liquidity_usd": 40953.02689077652,
     "source_listed_at": "2026-09-17T23:18:02",
     "peak_liquidity_usd": 40953.02689077652,
-    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "last_checked_at": "2026-09-20T03:21:39.064796+00:00",
     "rug_flag": false
   },
   {
@@ -7559,7 +7559,7 @@
     "liquidity_usd": 40805.58889665873,
     "source_listed_at": "2026-09-17T23:17:53",
     "peak_liquidity_usd": 40805.58889665873,
-    "last_checked_at": "2026-09-17T23:18:22.599853+00:00",
+    "last_checked_at": "2026-09-20T03:21:39.064796+00:00",
     "rug_flag": false
   },
   {
@@ -8550,6 +8550,17 @@
     "source_listed_at": "2026-09-20T02:20:15",
     "peak_liquidity_usd": 27296.74863836984,
     "last_checked_at": "2026-09-20T02:21:27.654364+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T03:21:38.608356+00:00",
+    "address": "2sgjNkrkksW4jDGpnxNekxH6vyS9kujVk2ph2HjCeKqM",
+    "symbol": "SENDING",
+    "name": "SENDING",
+    "liquidity_usd": 18900.070402067144,
+    "source_listed_at": "2026-09-20T03:20:53",
+    "peak_liquidity_usd": 18900.070402067144,
+    "last_checked_at": "2026-09-20T03:21:39.064796+00:00",
     "rug_flag": false
   }
 ]
