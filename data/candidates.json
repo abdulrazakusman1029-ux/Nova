@@ -7611,10 +7611,10 @@
     "address": "DrCSCkfdTrubSXDeYGJTh7cY6KQ9gARADiNCKjnKjyZw",
     "symbol": "SCAT",
     "name": "Speed Cat",
-    "liquidity_usd": 5391.465607032941,
+    "liquidity_usd": 5151.834096905688,
     "source_listed_at": "2026-09-18T01:20:02",
     "peak_liquidity_usd": 5391.465607032941,
-    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
+    "last_checked_at": "2026-09-20T20:20:11.883224+00:00",
     "rug_flag": false
   },
   {
@@ -7625,7 +7625,7 @@
     "liquidity_usd": 40727.915183842706,
     "source_listed_at": "2026-09-18T02:22:44",
     "peak_liquidity_usd": 40727.915183842706,
-    "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
+    "last_checked_at": "2026-09-20T20:20:11.883224+00:00",
     "rug_flag": false
   },
   {
@@ -7636,7 +7636,7 @@
     "liquidity_usd": 23874.824798009235,
     "source_listed_at": "2026-09-18T02:22:15",
     "peak_liquidity_usd": 23874.824798009235,
-    "last_checked_at": "2026-09-18T02:22:54.175405+00:00",
+    "last_checked_at": "2026-09-20T20:20:11.883224+00:00",
     "rug_flag": false
   },
   {
