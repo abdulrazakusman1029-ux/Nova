@@ -8846,7 +8846,7 @@
     "liquidity_usd": 11643.238848458279,
     "source_listed_at": "2026-09-20T13:20:25",
     "peak_liquidity_usd": 11643.238848458279,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T14:19:53.240014+00:00",
     "rug_flag": false
   },
   {
@@ -8857,7 +8857,7 @@
     "liquidity_usd": 18465.866492104968,
     "source_listed_at": "2026-09-20T13:20:09",
     "peak_liquidity_usd": 18465.866492104968,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T14:19:53.240014+00:00",
     "rug_flag": false
   },
   {
@@ -8891,6 +8891,17 @@
     "source_listed_at": "2026-09-20T13:19:56",
     "peak_liquidity_usd": 5908.153019774611,
     "last_checked_at": "2026-09-20T13:20:34.889627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T14:19:52.890929+00:00",
+    "address": "3njjJa2UtR5SVKnKexehjLTV4pqqCH4AuS8j7Nzaq9sw",
+    "symbol": "Kimbal",
+    "name": "Kimbal Coin",
+    "liquidity_usd": 18795.2209176236,
+    "source_listed_at": "2026-09-20T14:19:35",
+    "peak_liquidity_usd": 18795.2209176236,
+    "last_checked_at": "2026-09-20T14:19:53.240014+00:00",
     "rug_flag": false
   }
 ]
