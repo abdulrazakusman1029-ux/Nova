@@ -7479,11 +7479,11 @@
     "address": "3A96kVRawMLzEkqduoojj3x1zx7QFTcWGaeo6VwK58Em",
     "symbol": "Trumpet",
     "name": "Donald Trumpet",
-    "liquidity_usd": 16279.9621106727,
+    "liquidity_usd": 8.632120682729233e-05,
     "source_listed_at": "2026-09-17T19:19:51",
     "peak_liquidity_usd": 16279.9621106727,
-    "last_checked_at": "2026-09-17T19:20:20.867229+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-20T00:29:25.160029+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-17T22:20:07.480689+00:00",
@@ -7504,7 +7504,7 @@
     "liquidity_usd": 17622.663866581534,
     "source_listed_at": "2026-09-17T22:20:01",
     "peak_liquidity_usd": 17622.663866581534,
-    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "last_checked_at": "2026-09-20T00:29:25.160029+00:00",
     "rug_flag": false
   },
   {
@@ -7515,7 +7515,7 @@
     "liquidity_usd": 40509.10355047992,
     "source_listed_at": "2026-09-17T22:19:59",
     "peak_liquidity_usd": 40509.10355047992,
-    "last_checked_at": "2026-09-17T22:20:08.014760+00:00",
+    "last_checked_at": "2026-09-20T00:29:25.160029+00:00",
     "rug_flag": false
   },
   {
