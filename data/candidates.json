@@ -8593,7 +8593,7 @@
     "liquidity_usd": 6775.903511807437,
     "source_listed_at": "2026-09-20T05:19:47",
     "peak_liquidity_usd": 6775.903511807437,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-20T08:21:56.812685+00:00",
     "rug_flag": false
   },
   {
@@ -8693,6 +8693,28 @@
     "source_listed_at": "2026-09-20T07:19:03",
     "peak_liquidity_usd": 26884.943225187853,
     "last_checked_at": "2026-09-20T07:20:28.082500+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T08:21:56.220444+00:00",
+    "address": "5yUwpKUHw5Sooaa279sgaAuGtzkYHWYUVs3qbosWF1sn",
+    "symbol": "HOLT",
+    "name": "The Goose Killer",
+    "liquidity_usd": 18517.05740466848,
+    "source_listed_at": "2026-09-20T08:21:10",
+    "peak_liquidity_usd": 18517.05740466848,
+    "last_checked_at": "2026-09-20T08:21:56.812685+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T08:21:56.220463+00:00",
+    "address": "7W1Wws8EMjnWPxKkCkKDmsc5pGtpsq7cMW9H9ZxXzqPh",
+    "symbol": "Vmaxsolana",
+    "name": "vmax",
+    "liquidity_usd": 18858.77178159116,
+    "source_listed_at": "2026-09-20T08:20:42",
+    "peak_liquidity_usd": 18858.77178159116,
+    "last_checked_at": "2026-09-20T08:21:56.812685+00:00",
     "rug_flag": false
   }
 ]
