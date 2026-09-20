@@ -7647,7 +7647,7 @@
     "liquidity_usd": 0.0,
     "source_listed_at": "2026-09-18T03:21:10",
     "peak_liquidity_usd": 5114.242279249167,
-    "last_checked_at": "2026-09-18T04:21:40.961253+00:00",
+    "last_checked_at": "2026-09-20T22:20:23.300523+00:00",
     "rug_flag": true
   },
   {
@@ -7677,11 +7677,11 @@
     "address": "6fxugeHpfMH27vAY6RVxKMAaBZ35HQDPtsUMni9b84Gy",
     "symbol": "Claude",
     "name": "The Spectator",
-    "liquidity_usd": 5365.48371715996,
+    "liquidity_usd": 90.93560240146539,
     "source_listed_at": "2026-09-18T03:20:20",
     "peak_liquidity_usd": 5365.48371715996,
-    "last_checked_at": "2026-09-18T03:21:13.969950+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-20T22:20:23.300523+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-18T06:26:25.514506+00:00",
@@ -7691,7 +7691,7 @@
     "liquidity_usd": 18379.677899337046,
     "source_listed_at": "2026-09-18T06:26:13",
     "peak_liquidity_usd": 18379.677899337046,
-    "last_checked_at": "2026-09-18T06:26:26.025312+00:00",
+    "last_checked_at": "2026-09-20T22:20:23.300523+00:00",
     "rug_flag": false
   },
   {
