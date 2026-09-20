@@ -8738,5 +8738,49 @@
     "peak_liquidity_usd": 5236.471084123178,
     "last_checked_at": "2026-09-20T09:20:24.903451+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T11:19:35.120143+00:00",
+    "address": "dkZzyAoAgMuVqg6dWC3ew5FRZtqvc5y7znguKARpump",
+    "symbol": "KILROY",
+    "name": "Biggest War Meme",
+    "liquidity_usd": 43351.78100850258,
+    "source_listed_at": "2026-09-20T11:19:20",
+    "peak_liquidity_usd": 43351.78100850258,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T11:19:35.120172+00:00",
+    "address": "BW1bnHu5thfuLPj3qAHkXTCyP77W7EVMvptb81a3XAAM",
+    "symbol": "deFLOCK",
+    "name": "deFLOCK \u3002",
+    "liquidity_usd": 18358.573693215087,
+    "source_listed_at": "2026-09-20T11:18:35",
+    "peak_liquidity_usd": 18358.573693215087,
+    "last_checked_at": "2026-09-20T11:19:35.603822+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T11:19:35.120178+00:00",
+    "address": "cHPtwiAZMGXftkQgrf58armZ85AS8fatQH5uPSZpump",
+    "symbol": "STARBUCKS",
+    "name": "Starbucks Corporation",
+    "liquidity_usd": 11620.662450087744,
+    "source_listed_at": "2026-09-20T11:18:35",
+    "peak_liquidity_usd": 11620.662450087744,
+    "last_checked_at": "2026-09-20T11:19:35.603822+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T11:19:35.120184+00:00",
+    "address": "8znhbVYW7h1c4pPNy5iQq7L5FPHEagS3UxTR9ifLpump",
+    "symbol": "KILROY",
+    "name": "Biggest War Meme",
+    "liquidity_usd": 43388.73847852517,
+    "source_listed_at": "2026-09-20T11:18:27",
+    "peak_liquidity_usd": 43388.73847852517,
+    "last_checked_at": "2026-09-20T11:19:35.603822+00:00",
+    "rug_flag": false
   }
 ]
