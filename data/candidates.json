@@ -8518,5 +8518,38 @@
     "peak_liquidity_usd": 5707.441017844734,
     "last_checked_at": "2026-09-20T01:19:27.770445+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T02:21:27.236294+00:00",
+    "address": "FvGGSVdsZ4wcHp2mr3EhzpmJyhcbo5wCKUzHxSHnQAS",
+    "symbol": "Healed",
+    "name": "Healed",
+    "liquidity_usd": 19241.433699045912,
+    "source_listed_at": "2026-09-20T02:20:32",
+    "peak_liquidity_usd": 19241.433699045912,
+    "last_checked_at": "2026-09-20T02:21:27.654364+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T02:21:27.236322+00:00",
+    "address": "6hwBPwJpVRN8KFVdARFYTRRZ2F9gqtgqcLZK2cycHkpB",
+    "symbol": "OpenSea",
+    "name": "opensea",
+    "liquidity_usd": 33481.36025846934,
+    "source_listed_at": "2026-09-20T02:20:16",
+    "peak_liquidity_usd": 33481.36025846934,
+    "last_checked_at": "2026-09-20T02:21:27.654364+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-20T02:21:27.236331+00:00",
+    "address": "37RVEGxL9RxNtKnxLCiiEQYjt7uJ8HTQ94uc7WocuGkM",
+    "symbol": "ASKR",
+    "name": "heyaskr",
+    "liquidity_usd": 27296.74863836984,
+    "source_listed_at": "2026-09-20T02:20:15",
+    "peak_liquidity_usd": 27296.74863836984,
+    "last_checked_at": "2026-09-20T02:21:27.654364+00:00",
+    "rug_flag": false
   }
 ]
