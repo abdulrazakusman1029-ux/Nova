@@ -7493,7 +7493,7 @@
     "liquidity_usd": 30364.37323559658,
     "source_listed_at": "2026-09-17T22:20:01",
     "peak_liquidity_usd": 30364.37323559658,
-    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
+    "last_checked_at": "2026-09-20T10:20:09.040169+00:00",
     "rug_flag": false
   },
   {
@@ -7570,7 +7570,7 @@
     "liquidity_usd": 40728.79820853849,
     "source_listed_at": "2026-09-18T00:27:50",
     "peak_liquidity_usd": 40728.79820853849,
-    "last_checked_at": "2026-09-18T01:20:27.323955+00:00",
+    "last_checked_at": "2026-09-20T10:20:09.040169+00:00",
     "rug_flag": false
   },
   {
@@ -7600,11 +7600,11 @@
     "address": "FfAWjZXy1TfShpE5BsakvsZt2kK1uPpf4128TyWpt3tU",
     "symbol": "SAVIOR",
     "name": "Bonk Level Savior",
-    "liquidity_usd": 5812.229419800724,
+    "liquidity_usd": 12.942167694733703,
     "source_listed_at": "2026-09-18T00:27:41",
     "peak_liquidity_usd": 5812.229419800724,
-    "last_checked_at": "2026-09-18T00:27:55.662902+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-20T10:20:09.040169+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-18T01:20:26.757514+00:00",
