@@ -8021,7 +8021,7 @@
     "liquidity_usd": 11744.636267465145,
     "source_listed_at": "2026-09-18T23:20:10",
     "peak_liquidity_usd": 11744.636267465145,
-    "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "last_checked_at": "2026-09-21T23:14:14.138303+00:00",
     "rug_flag": false
   },
   {
@@ -8032,7 +8032,7 @@
     "liquidity_usd": 7384.500679037381,
     "source_listed_at": "2026-09-18T23:20:00",
     "peak_liquidity_usd": 7384.500679037381,
-    "last_checked_at": "2026-09-18T23:20:18.649617+00:00",
+    "last_checked_at": "2026-09-21T23:14:14.138303+00:00",
     "rug_flag": false
   },
   {
@@ -9177,6 +9177,17 @@
     "source_listed_at": "2026-09-21T19:21:20",
     "peak_liquidity_usd": 5964.141545989258,
     "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T23:14:13.694755+00:00",
+    "address": "DzWbAaYAWrfqsGEEhpFCk87Wbapom6iDtvbaVDtWwnvH",
+    "symbol": "WTF",
+    "name": "Watch This Fly",
+    "liquidity_usd": 5296.930680503286,
+    "source_listed_at": "2026-09-21T23:13:50",
+    "peak_liquidity_usd": 5296.930680503286,
+    "last_checked_at": "2026-09-21T23:14:14.138303+00:00",
     "rug_flag": false
   }
 ]
