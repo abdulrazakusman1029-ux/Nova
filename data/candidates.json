@@ -9145,5 +9145,38 @@
     "peak_liquidity_usd": 5346.853248569583,
     "last_checked_at": "2026-09-21T14:01:03.521753+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T19:21:28.936637+00:00",
+    "address": "5QuxCCmvoNrFMc2nPKcZxcfR4FQjSaQi2s3CYnVjpump",
+    "symbol": "dfsfsfsd",
+    "name": "its over",
+    "liquidity_usd": 5686.344086935989,
+    "source_listed_at": "2026-09-21T19:21:22",
+    "peak_liquidity_usd": 5686.344086935989,
+    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T19:21:28.936665+00:00",
+    "address": "7A5jC4STFBpLg9egbbYqGaNJsMZeshChpQWfHeM9Ru9c",
+    "symbol": "Jet",
+    "name": "The Boeing Pup",
+    "liquidity_usd": 5678.151862570416,
+    "source_listed_at": "2026-09-21T19:21:21",
+    "peak_liquidity_usd": 5678.151862570416,
+    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T19:21:28.936673+00:00",
+    "address": "C46nYpXJfsFEjh63GaWHpqYJcziR3jdrm8vQzpt4G3wn",
+    "symbol": "Fartleft",
+    "name": "The Fart Left",
+    "liquidity_usd": 5964.141545989258,
+    "source_listed_at": "2026-09-21T19:21:20",
+    "peak_liquidity_usd": 5964.141545989258,
+    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "rug_flag": false
   }
 ]
