@@ -9055,7 +9055,7 @@
     "liquidity_usd": 5141.499672720043,
     "source_listed_at": "2026-09-20T23:19:13",
     "peak_liquidity_usd": 5141.499672720043,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-21T00:28:54.615786+00:00",
     "rug_flag": false
   },
   {
@@ -9089,6 +9089,28 @@
     "source_listed_at": "2026-09-20T23:19:06",
     "peak_liquidity_usd": 18776.3419531248,
     "last_checked_at": "2026-09-20T23:19:21.498884+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T00:28:54.027299+00:00",
+    "address": "HaGg3ZuDQA5sMPtZVx78mdqZhetyGLXwztoDEpietkVP",
+    "symbol": "Garrett",
+    "name": "Garrett Bullish",
+    "liquidity_usd": 5501.391507425203,
+    "source_listed_at": "2026-09-21T00:28:45",
+    "peak_liquidity_usd": 5501.391507425203,
+    "last_checked_at": "2026-09-21T00:28:54.615786+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T00:28:54.027322+00:00",
+    "address": "GgZSBbKeWtrrAgQqsseC86Q6EmQVuD5VeeQfEUmeSTNK",
+    "symbol": "ZCOW",
+    "name": "Anonymous Cow",
+    "liquidity_usd": 5202.226269890908,
+    "source_listed_at": "2026-09-21T00:28:21",
+    "peak_liquidity_usd": 5202.226269890908,
+    "last_checked_at": "2026-09-21T00:28:54.615786+00:00",
     "rug_flag": false
   }
 ]
