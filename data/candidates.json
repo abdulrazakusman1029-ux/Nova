@@ -7702,7 +7702,7 @@
     "liquidity_usd": 87351.11032996346,
     "source_listed_at": "2026-09-18T07:20:46",
     "peak_liquidity_usd": 87351.11032996346,
-    "last_checked_at": "2026-09-18T07:21:38.794398+00:00",
+    "last_checked_at": "2026-09-21T06:15:20.128581+00:00",
     "rug_flag": false
   },
   {
@@ -9111,6 +9111,28 @@
     "source_listed_at": "2026-09-21T00:28:21",
     "peak_liquidity_usd": 5202.226269890908,
     "last_checked_at": "2026-09-21T00:28:54.615786+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T06:15:19.578362+00:00",
+    "address": "F6GMVhkSCSpHZyZmvR3Mtnq1mwNa1VU99Bee4625pump",
+    "symbol": "CFGHOST",
+    "name": "Cloud Ghost",
+    "liquidity_usd": 99530.7714394296,
+    "source_listed_at": "2026-09-21T06:14:53",
+    "peak_liquidity_usd": 99530.7714394296,
+    "last_checked_at": "2026-09-21T06:15:20.128581+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-21T06:15:19.578385+00:00",
+    "address": "6dnAYHCtKU2HMt2JucLSfqeh96Di4TKi3k57YhZkt35A",
+    "symbol": "Beni",
+    "name": "beniduboss",
+    "liquidity_usd": 11243.791621918588,
+    "source_listed_at": "2026-09-21T06:14:40",
+    "peak_liquidity_usd": 11243.791621918588,
+    "last_checked_at": "2026-09-21T06:15:20.128581+00:00",
     "rug_flag": false
   }
 ]
