@@ -8315,11 +8315,11 @@
     "address": "HXt7eacSJ7BcW1MpmQJwqiDH2f2WuNBW258UXo7fLVir",
     "symbol": "STONKWHEEL",
     "name": "Wheelcoin",
-    "liquidity_usd": 5940.713263633861,
+    "liquidity_usd": 134.101908239413,
     "source_listed_at": "2026-09-19T15:19:35",
     "peak_liquidity_usd": 5940.713263633861,
-    "last_checked_at": "2026-09-19T15:19:47.422701+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-22T14:47:06.057669+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-19T15:19:47.002577+00:00",
@@ -8329,7 +8329,7 @@
     "liquidity_usd": 5725.388459283513,
     "source_listed_at": "2026-09-19T15:19:23",
     "peak_liquidity_usd": 5725.388459283513,
-    "last_checked_at": "2026-09-19T15:19:47.422701+00:00",
+    "last_checked_at": "2026-09-22T14:47:06.057669+00:00",
     "rug_flag": false
   },
   {
@@ -8340,7 +8340,7 @@
     "liquidity_usd": 220822.0086103125,
     "source_listed_at": "2026-09-19T15:19:20",
     "peak_liquidity_usd": 220822.0086103125,
-    "last_checked_at": "2026-09-19T15:19:47.422701+00:00",
+    "last_checked_at": "2026-09-22T14:47:06.057669+00:00",
     "rug_flag": false
   },
   {
