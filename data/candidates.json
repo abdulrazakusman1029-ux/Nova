@@ -9211,5 +9211,38 @@
     "peak_liquidity_usd": 5130.946692849476,
     "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T09:53:33.116085+00:00",
+    "address": "AfUAbQJJ4hoKyKuZ926y4QPiLSevQskcHZdcWuhHtjoi",
+    "symbol": "anglecat",
+    "name": "Right Angle Cat \u3002",
+    "liquidity_usd": 19921.673426997604,
+    "source_listed_at": "2026-09-22T09:53:01",
+    "peak_liquidity_usd": 19921.673426997604,
+    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T09:53:33.116107+00:00",
+    "address": "AwKr75jBFYhd1F9sCHYWn3H53hqmPwSrhYK5Eyqwpump",
+    "symbol": "AI",
+    "name": "Artificial Inu",
+    "liquidity_usd": 12575.976137630125,
+    "source_listed_at": "2026-09-22T09:52:54",
+    "peak_liquidity_usd": 12575.976137630125,
+    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T09:53:33.116111+00:00",
+    "address": "FwyuQQRFEc7CdFMx9rqPEvPeGqzo3dthTbhZGA7GNXWJ",
+    "symbol": "ZSYS",
+    "name": "zeta system",
+    "liquidity_usd": 19882.952158904525,
+    "source_listed_at": "2026-09-22T09:52:47",
+    "peak_liquidity_usd": 19882.952158904525,
+    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "rug_flag": false
   }
 ]
