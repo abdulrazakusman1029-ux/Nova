@@ -8153,7 +8153,7 @@
     "liquidity_usd": 6997.59465111,
     "source_listed_at": "2026-09-19T05:19:33",
     "peak_liquidity_usd": 6997.59465111,
-    "last_checked_at": "2026-09-19T05:19:54.414554+00:00",
+    "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
     "rug_flag": false
   },
   {
@@ -9188,6 +9188,28 @@
     "source_listed_at": "2026-09-21T23:13:50",
     "peak_liquidity_usd": 5296.930680503286,
     "last_checked_at": "2026-09-21T23:14:14.138303+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T04:46:54.794317+00:00",
+    "address": "HSCJ76ezJeijbVneKkmDMC2959ywrr6AxtoiJnnLsr9C",
+    "symbol": "TANK",
+    "name": "\u0e23\u0e16\u0e16\u0e31\u0e07,",
+    "liquidity_usd": 20365.021264656218,
+    "source_listed_at": "2026-09-22T04:46:35",
+    "peak_liquidity_usd": 20365.021264656218,
+    "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T04:46:54.794340+00:00",
+    "address": "8hdwafJZYcHeGKUeNkCT7bMiTxaa2UZWCbLz6Ut3aPVd",
+    "symbol": "TANK",
+    "name": "\u0e23\u0e16\u0e16\u0e31\u0e07",
+    "liquidity_usd": 5130.946692849476,
+    "source_listed_at": "2026-09-22T04:46:24",
+    "peak_liquidity_usd": 5130.946692849476,
+    "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
     "rug_flag": false
   }
 ]
