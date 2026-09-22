@@ -9244,5 +9244,49 @@
     "peak_liquidity_usd": 19882.952158904525,
     "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T18:49:13.382264+00:00",
+    "address": "77eB9c1pMmAsLG6RDbp1hUWHpoUUrzNiffpjoiy6nFaG",
+    "symbol": "CLAUDISH",
+    "name": "CLAUDISH",
+    "liquidity_usd": 5655.64468083051,
+    "source_listed_at": "2026-09-22T18:49:06",
+    "peak_liquidity_usd": 5655.64468083051,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T18:49:13.382289+00:00",
+    "address": "8EEG8fSs6P3hd2HQLH4LZAwQeMBhKrKzHvZSssVtBhwS",
+    "symbol": "KICKED",
+    "name": "KICKED",
+    "liquidity_usd": 20086.347120501283,
+    "source_listed_at": "2026-09-22T18:49:05",
+    "peak_liquidity_usd": 20086.347120501283,
+    "last_checked_at": "2026-09-22T18:49:13.779194+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T18:49:13.382293+00:00",
+    "address": "8UAYWtyzdrvvfEZFchmZPcYtKHThLEQp4i7FDznWbonk",
+    "symbol": "ARSNLION",
+    "name": "ARSENAL LION",
+    "liquidity_usd": 105633.20473037958,
+    "source_listed_at": "2026-09-22T18:49:02",
+    "peak_liquidity_usd": 105633.20473037958,
+    "last_checked_at": "2026-09-22T18:49:13.779194+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-22T18:49:13.382296+00:00",
+    "address": "A81CAY8dBDxf1KRgC22te3AEHogow6fVR3acxcDrZF6S",
+    "symbol": "AI",
+    "name": "that's so ai",
+    "liquidity_usd": 6106.963308685419,
+    "source_listed_at": "2026-09-22T18:49:02",
+    "peak_liquidity_usd": 6106.963308685419,
+    "last_checked_at": "2026-09-22T18:49:13.779194+00:00",
+    "rug_flag": false
   }
 ]
