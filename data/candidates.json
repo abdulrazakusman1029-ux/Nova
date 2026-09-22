@@ -8505,7 +8505,7 @@
     "liquidity_usd": 11933.411045831162,
     "source_listed_at": "2026-09-19T23:18:17",
     "peak_liquidity_usd": 11933.411045831162,
-    "last_checked_at": "2026-09-19T23:18:34.708040+00:00",
+    "last_checked_at": "2026-09-22T22:02:12.834759+00:00",
     "rug_flag": false
   },
   {
@@ -8516,7 +8516,7 @@
     "liquidity_usd": 5707.441017844734,
     "source_listed_at": "2026-09-20T01:18:49",
     "peak_liquidity_usd": 5707.441017844734,
-    "last_checked_at": "2026-09-20T01:19:27.770445+00:00",
+    "last_checked_at": "2026-09-22T22:02:12.834759+00:00",
     "rug_flag": false
   },
   {
@@ -9250,11 +9250,11 @@
     "address": "77eB9c1pMmAsLG6RDbp1hUWHpoUUrzNiffpjoiy6nFaG",
     "symbol": "CLAUDISH",
     "name": "CLAUDISH",
-    "liquidity_usd": 5655.64468083051,
+    "liquidity_usd": 53.47202128510825,
     "source_listed_at": "2026-09-22T18:49:06",
     "peak_liquidity_usd": 5655.64468083051,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-09-22T22:02:12.834759+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-22T18:49:13.382289+00:00",
