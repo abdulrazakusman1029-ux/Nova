@@ -8967,7 +8967,7 @@
     "liquidity_usd": 5350.2190056817635,
     "source_listed_at": "2026-09-20T17:19:11",
     "peak_liquidity_usd": 5350.2190056817635,
-    "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
+    "last_checked_at": "2026-09-23T16:50:43.370577+00:00",
     "rug_flag": false
   },
   {
@@ -8978,7 +8978,7 @@
     "liquidity_usd": 104465.11112760518,
     "source_listed_at": "2026-09-20T17:18:53",
     "peak_liquidity_usd": 104465.11112760518,
-    "last_checked_at": "2026-09-20T17:19:23.231080+00:00",
+    "last_checked_at": "2026-09-23T16:50:43.370577+00:00",
     "rug_flag": false
   },
   {
@@ -9342,6 +9342,17 @@
     "source_listed_at": "2026-09-23T11:27:00",
     "peak_liquidity_usd": 5597.572176207332,
     "last_checked_at": "2026-09-23T11:27:28.039815+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T16:50:42.848449+00:00",
+    "address": "56oZenCiJWDoNb415jEWUTSs1L73jdFr2pGtR2DhHWPY",
+    "symbol": "BFM",
+    "name": "BotFamily",
+    "liquidity_usd": 19403.2567514989,
+    "source_listed_at": "2026-09-23T16:50:17",
+    "peak_liquidity_usd": 19403.2567514989,
+    "last_checked_at": "2026-09-23T16:50:43.370577+00:00",
     "rug_flag": false
   }
 ]
