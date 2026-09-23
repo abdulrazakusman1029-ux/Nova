@@ -8659,7 +8659,7 @@
     "liquidity_usd": 25459.109729817093,
     "source_listed_at": "2026-09-20T06:25:11",
     "peak_liquidity_usd": 25459.109729817093,
-    "last_checked_at": "2026-09-20T06:25:19.341302+00:00",
+    "last_checked_at": "2026-09-23T05:54:44.292717+00:00",
     "rug_flag": false
   },
   {
@@ -9309,6 +9309,28 @@
     "source_listed_at": "2026-09-23T00:24:45",
     "peak_liquidity_usd": 5040.461111632389,
     "last_checked_at": "2026-09-23T00:25:17.633102+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T05:54:43.801833+00:00",
+    "address": "3KVtGDR7wTidCbFh6DRjiyrnNHv6dGzQDvQc7NRbF69s",
+    "symbol": "musebook",
+    "name": "musebook",
+    "liquidity_usd": 20134.923365858744,
+    "source_listed_at": "2026-09-23T05:54:25",
+    "peak_liquidity_usd": 20134.923365858744,
+    "last_checked_at": "2026-09-23T05:54:44.292717+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T05:54:43.801859+00:00",
+    "address": "HFJNxWERTkNGknRsvQDLQRdDFR6k9KSjZwzZm2TUpump",
+    "symbol": "DigiCash",
+    "name": "DigiCash",
+    "liquidity_usd": 20240.059199670668,
+    "source_listed_at": "2026-09-23T05:53:23",
+    "peak_liquidity_usd": 20240.059199670668,
+    "last_checked_at": "2026-09-23T05:54:44.292717+00:00",
     "rug_flag": false
   }
 ]
