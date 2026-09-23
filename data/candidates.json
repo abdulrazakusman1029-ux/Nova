@@ -9354,5 +9354,38 @@
     "peak_liquidity_usd": 19403.2567514989,
     "last_checked_at": "2026-09-23T16:50:43.370577+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T20:16:53.427164+00:00",
+    "address": "82kBYcwRNu9BdRoVUwsJj9UbRtiGrg3XLCi7WsKDBegT",
+    "symbol": "24/7ers",
+    "name": "The 24/7ers",
+    "liquidity_usd": 6355.4902419671125,
+    "source_listed_at": "2026-09-23T20:16:47",
+    "peak_liquidity_usd": 6355.4902419671125,
+    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T20:16:53.427193+00:00",
+    "address": "4ABvWeBcmFGeTErunkDCzuzx5ELJEZKteCGZsnZtdmZK",
+    "symbol": "NightTrader",
+    "name": "NightTrader",
+    "liquidity_usd": 7750.789312085527,
+    "source_listed_at": "2026-09-23T20:16:46",
+    "peak_liquidity_usd": 7750.789312085527,
+    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T20:16:53.427199+00:00",
+    "address": "HgyhZzHUhsE2zUHA8bpQ4DsVdzS4kNLaZpcQ8Pv8qXs6",
+    "symbol": "WIGGA",
+    "name": "Wigga Hood",
+    "liquidity_usd": 5843.057673747018,
+    "source_listed_at": "2026-09-23T20:16:44",
+    "peak_liquidity_usd": 5843.057673747018,
+    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
+    "rug_flag": false
   }
 ]
