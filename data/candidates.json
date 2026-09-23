@@ -8527,7 +8527,7 @@
     "liquidity_usd": 19241.433699045912,
     "source_listed_at": "2026-09-20T02:20:32",
     "peak_liquidity_usd": 19241.433699045912,
-    "last_checked_at": "2026-09-20T02:21:27.654364+00:00",
+    "last_checked_at": "2026-09-23T00:25:17.633102+00:00",
     "rug_flag": false
   },
   {
@@ -9287,6 +9287,28 @@
     "source_listed_at": "2026-09-22T18:49:02",
     "peak_liquidity_usd": 6106.963308685419,
     "last_checked_at": "2026-09-22T18:49:13.779194+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T00:25:17.237761+00:00",
+    "address": "LgaApjz8oTrN3F3c9cFfTpoSTdVkEQxFycM1bsUSTNK",
+    "symbol": "APES",
+    "name": "Apes App",
+    "liquidity_usd": 8355.031928122178,
+    "source_listed_at": "2026-09-23T00:24:59",
+    "peak_liquidity_usd": 8355.031928122178,
+    "last_checked_at": "2026-09-23T00:25:17.633102+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-23T00:25:17.237788+00:00",
+    "address": "28Lsu3gc9MP7TvnUe36iBKbmtrNadawY5V3Nf81MfBwh",
+    "symbol": "tygr",
+    "name": "tygr",
+    "liquidity_usd": 5040.461111632389,
+    "source_listed_at": "2026-09-23T00:24:45",
+    "peak_liquidity_usd": 5040.461111632389,
+    "last_checked_at": "2026-09-23T00:25:17.633102+00:00",
     "rug_flag": false
   }
 ]
