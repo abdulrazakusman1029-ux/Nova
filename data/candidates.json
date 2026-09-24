@@ -9220,7 +9220,7 @@
     "liquidity_usd": 19921.673426997604,
     "source_listed_at": "2026-09-22T09:53:01",
     "peak_liquidity_usd": 19921.673426997604,
-    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "last_checked_at": "2026-09-24T22:18:59.903732+00:00",
     "rug_flag": false
   },
   {
@@ -9231,7 +9231,7 @@
     "liquidity_usd": 12575.976137630125,
     "source_listed_at": "2026-09-22T09:52:54",
     "peak_liquidity_usd": 12575.976137630125,
-    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "last_checked_at": "2026-09-24T22:18:59.903732+00:00",
     "rug_flag": false
   },
   {
@@ -9441,6 +9441,17 @@
     "source_listed_at": "2026-09-24T19:04:43",
     "peak_liquidity_usd": 5118.864307738015,
     "last_checked_at": "2026-09-24T19:04:55.528197+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-24T22:18:59.565359+00:00",
+    "address": "6mGDNfd74f6fzpBfwmsQyXYNJpyW4ufQnshgRJGqMZ2Q",
+    "symbol": "DB",
+    "name": "DillBits",
+    "liquidity_usd": 6084.368487913899,
+    "source_listed_at": "2026-09-24T22:18:36",
+    "peak_liquidity_usd": 6084.368487913899,
+    "last_checked_at": "2026-09-24T22:18:59.903732+00:00",
     "rug_flag": false
   }
 ]
