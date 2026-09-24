@@ -9198,7 +9198,7 @@
     "liquidity_usd": 20365.021264656218,
     "source_listed_at": "2026-09-22T04:46:35",
     "peak_liquidity_usd": 20365.021264656218,
-    "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
+    "last_checked_at": "2026-09-24T19:04:55.528197+00:00",
     "rug_flag": false
   },
   {
@@ -9209,7 +9209,7 @@
     "liquidity_usd": 5130.946692849476,
     "source_listed_at": "2026-09-22T04:46:24",
     "peak_liquidity_usd": 5130.946692849476,
-    "last_checked_at": "2026-09-22T04:46:55.272320+00:00",
+    "last_checked_at": "2026-09-24T19:04:55.528197+00:00",
     "rug_flag": false
   },
   {
@@ -9430,6 +9430,17 @@
     "source_listed_at": "2026-09-24T14:59:12",
     "peak_liquidity_usd": 19549.149512889984,
     "last_checked_at": "2026-09-24T14:59:40.610823+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-24T19:04:55.173055+00:00",
+    "address": "5yZdRBUQDcCEsgsFxnpYnHww9TvWG82pWnwatQW8bonk",
+    "symbol": "BASEBULL",
+    "name": "basebull",
+    "liquidity_usd": 5118.864307738015,
+    "source_listed_at": "2026-09-24T19:04:43",
+    "peak_liquidity_usd": 5118.864307738015,
+    "last_checked_at": "2026-09-24T19:04:55.528197+00:00",
     "rug_flag": false
   }
 ]
