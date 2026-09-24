@@ -9176,7 +9176,7 @@
     "liquidity_usd": 5964.141545989258,
     "source_listed_at": "2026-09-21T19:21:20",
     "peak_liquidity_usd": 5964.141545989258,
-    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "last_checked_at": "2026-09-24T14:59:40.610823+00:00",
     "rug_flag": false
   },
   {
@@ -9187,7 +9187,7 @@
     "liquidity_usd": 5296.930680503286,
     "source_listed_at": "2026-09-21T23:13:50",
     "peak_liquidity_usd": 5296.930680503286,
-    "last_checked_at": "2026-09-21T23:14:14.138303+00:00",
+    "last_checked_at": "2026-09-24T14:59:40.610823+00:00",
     "rug_flag": false
   },
   {
@@ -9419,6 +9419,17 @@
     "source_listed_at": "2026-09-24T04:39:28",
     "peak_liquidity_usd": 20006.090301685083,
     "last_checked_at": "2026-09-24T04:39:37.524185+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-24T14:59:40.115047+00:00",
+    "address": "6gMT9nqWgWjM7ZUeA7dgZVa4ZMkNXZ574XFrwMkGKbCA",
+    "symbol": "zDog",
+    "name": "Zama Dog",
+    "liquidity_usd": 19549.149512889984,
+    "source_listed_at": "2026-09-24T14:59:12",
+    "peak_liquidity_usd": 19549.149512889984,
+    "last_checked_at": "2026-09-24T14:59:40.610823+00:00",
     "rug_flag": false
   }
 ]
