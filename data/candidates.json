@@ -9140,11 +9140,11 @@
     "address": "CBoAgf17WsuB8hLDgxYWHTyaCrQdWX3eCToSEBkrEJz7",
     "symbol": "NPC",
     "name": "NPC",
-    "liquidity_usd": 5346.853248569583,
+    "liquidity_usd": 37.11762558088242,
     "source_listed_at": "2026-09-21T14:00:49",
     "peak_liquidity_usd": 5346.853248569583,
-    "last_checked_at": "2026-09-21T14:01:03.521753+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-24T09:56:04.011021+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-21T19:21:28.936637+00:00",
@@ -9154,7 +9154,7 @@
     "liquidity_usd": 5686.344086935989,
     "source_listed_at": "2026-09-21T19:21:22",
     "peak_liquidity_usd": 5686.344086935989,
-    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
+    "last_checked_at": "2026-09-24T09:56:04.011021+00:00",
     "rug_flag": false
   },
   {
@@ -9162,11 +9162,11 @@
     "address": "7A5jC4STFBpLg9egbbYqGaNJsMZeshChpQWfHeM9Ru9c",
     "symbol": "Jet",
     "name": "The Boeing Pup",
-    "liquidity_usd": 5678.151862570416,
+    "liquidity_usd": 15.828620990753732,
     "source_listed_at": "2026-09-21T19:21:21",
     "peak_liquidity_usd": 5678.151862570416,
-    "last_checked_at": "2026-09-21T19:21:29.490119+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-24T09:56:04.011021+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-21T19:21:28.936673+00:00",
