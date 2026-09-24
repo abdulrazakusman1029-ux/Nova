@@ -9121,7 +9121,7 @@
     "liquidity_usd": 99530.7714394296,
     "source_listed_at": "2026-09-21T06:14:53",
     "peak_liquidity_usd": 99530.7714394296,
-    "last_checked_at": "2026-09-21T06:15:20.128581+00:00",
+    "last_checked_at": "2026-09-24T04:39:37.524185+00:00",
     "rug_flag": false
   },
   {
@@ -9132,7 +9132,7 @@
     "liquidity_usd": 11243.791621918588,
     "source_listed_at": "2026-09-21T06:14:40",
     "peak_liquidity_usd": 11243.791621918588,
-    "last_checked_at": "2026-09-21T06:15:20.128581+00:00",
+    "last_checked_at": "2026-09-24T04:39:37.524185+00:00",
     "rug_flag": false
   },
   {
@@ -9408,6 +9408,17 @@
     "source_listed_at": "2026-09-23T23:38:02",
     "peak_liquidity_usd": 5876.129437624761,
     "last_checked_at": "2026-09-23T23:38:26.560673+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-24T04:39:36.986785+00:00",
+    "address": "BamfzEeuMeWBuSDMsYuR4378wRJc4bHkQwGEpSC4y355",
+    "symbol": "SOON",
+    "name": "sendor out of nowhere",
+    "liquidity_usd": 20006.090301685083,
+    "source_listed_at": "2026-09-24T04:39:28",
+    "peak_liquidity_usd": 20006.090301685083,
+    "last_checked_at": "2026-09-24T04:39:37.524185+00:00",
     "rug_flag": false
   }
 ]
