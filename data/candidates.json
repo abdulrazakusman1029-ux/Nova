@@ -9506,7 +9506,7 @@
     "liquidity_usd": 5024.17859684748,
     "source_listed_at": "2026-09-25T13:40:45",
     "peak_liquidity_usd": 5024.17859684748,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
     "rug_flag": false
   },
   {
@@ -9540,6 +9540,28 @@
     "source_listed_at": "2026-09-25T13:40:30",
     "peak_liquidity_usd": 43026.434688125344,
     "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T18:31:54.596256+00:00",
+    "address": "77yFULyYiH3ba2BZ8Z6ZzaZEtVQyCzrxzFNkZ8MGbuVy",
+    "symbol": "YASHMODE",
+    "name": "YASHMODE",
+    "liquidity_usd": 19537.09240893846,
+    "source_listed_at": "2026-09-25T18:31:47",
+    "peak_liquidity_usd": 19537.09240893846,
+    "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T18:31:54.596275+00:00",
+    "address": "97L9fmwrGEhGmbpig9KdfiVivAoW3NaqbWkQzG53moon",
+    "symbol": "ANTCRN",
+    "name": "ANTHROPIC VOTING CROWN",
+    "liquidity_usd": 118332.05103347947,
+    "source_listed_at": "2026-09-25T18:31:42",
+    "peak_liquidity_usd": 118332.05103347947,
+    "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
     "rug_flag": false
   }
 ]
