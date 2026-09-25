@@ -9484,7 +9484,7 @@
     "liquidity_usd": 6191.63782803924,
     "source_listed_at": "2026-09-25T13:40:55",
     "peak_liquidity_usd": 6191.63782803924,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-25T22:15:18.566511+00:00",
     "rug_flag": false
   },
   {
@@ -9495,7 +9495,7 @@
     "liquidity_usd": 5063.6297862879555,
     "source_listed_at": "2026-09-25T13:40:53",
     "peak_liquidity_usd": 5063.6297862879555,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-25T22:15:18.566511+00:00",
     "rug_flag": false
   },
   {
@@ -9562,6 +9562,17 @@
     "source_listed_at": "2026-09-25T18:31:42",
     "peak_liquidity_usd": 118332.05103347947,
     "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T22:15:18.248484+00:00",
+    "address": "5zFCJPMk2bwy51pSgQtzZiwLpnphUwNXLgXTfzevpump",
+    "symbol": "e/acc",
+    "name": "e/acc",
+    "liquidity_usd": 8437.302295730424,
+    "source_listed_at": "2026-09-25T22:15:16",
+    "peak_liquidity_usd": 8437.302295730424,
+    "last_checked_at": "2026-09-25T22:15:18.566511+00:00",
     "rug_flag": false
   }
 ]
