@@ -9475,5 +9475,71 @@
     "peak_liquidity_usd": 46351.321299508134,
     "last_checked_at": "2026-09-25T07:42:19.057271+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391673+00:00",
+    "address": "6Fuby5tyP2bLW1wGJK7T19PESXThhowSNKgibn4ff3pN",
+    "symbol": "LOANSCAPE",
+    "name": "Loanscape",
+    "liquidity_usd": 6191.63782803924,
+    "source_listed_at": "2026-09-25T13:40:55",
+    "peak_liquidity_usd": 6191.63782803924,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391696+00:00",
+    "address": "F2YRjzmMu4fWW3TqJocL6U7TL7HC7F4HW9Vy9XCWpump",
+    "symbol": "PBP",
+    "name": "Penis BackPack",
+    "liquidity_usd": 5063.6297862879555,
+    "source_listed_at": "2026-09-25T13:40:53",
+    "peak_liquidity_usd": 5063.6297862879555,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391700+00:00",
+    "address": "AGoXq7jNdyGb94q8DJjVSEwuBQkcrvi1VDZCsDatD1kQ",
+    "symbol": "NEARINU",
+    "name": "Near Dog",
+    "liquidity_usd": 5024.17859684748,
+    "source_listed_at": "2026-09-25T13:40:45",
+    "peak_liquidity_usd": 5024.17859684748,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391702+00:00",
+    "address": "G1SDZGjmMUz6CHa64GAZtx9iam5FCRCk5XndD3W8pump",
+    "symbol": "Claude",
+    "name": "Claude",
+    "liquidity_usd": 12846.182704773795,
+    "source_listed_at": "2026-09-25T13:40:39",
+    "peak_liquidity_usd": 12846.182704773795,
+    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391705+00:00",
+    "address": "Arqefcki7LiQqTbUTUWpjJgqpi2G7NJtaj4u5teJsM5s",
+    "symbol": "FOMO",
+    "name": "FOMO",
+    "liquidity_usd": 20890.770919704828,
+    "source_listed_at": "2026-09-25T13:40:31",
+    "peak_liquidity_usd": 20890.770919704828,
+    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T13:41:05.391707+00:00",
+    "address": "CVyajRKGxcbX8D8TxBK1TWWbsLZh5whHhyf8nvTfVTQk",
+    "symbol": "\ud83c\udf89\u9616\u5bb6\u6b22\u4e50",
+    "name": "\u82b1\u597d\u6708\u5706\u591c",
+    "liquidity_usd": 43026.434688125344,
+    "source_listed_at": "2026-09-25T13:40:30",
+    "peak_liquidity_usd": 43026.434688125344,
+    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "rug_flag": false
   }
 ]
