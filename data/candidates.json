@@ -9242,7 +9242,7 @@
     "liquidity_usd": 19882.952158904525,
     "source_listed_at": "2026-09-22T09:52:47",
     "peak_liquidity_usd": 19882.952158904525,
-    "last_checked_at": "2026-09-22T09:53:33.510629+00:00",
+    "last_checked_at": "2026-09-25T01:25:50.003097+00:00",
     "rug_flag": false
   },
   {
@@ -9264,7 +9264,7 @@
     "liquidity_usd": 20086.347120501283,
     "source_listed_at": "2026-09-22T18:49:05",
     "peak_liquidity_usd": 20086.347120501283,
-    "last_checked_at": "2026-09-22T18:49:13.779194+00:00",
+    "last_checked_at": "2026-09-25T01:25:50.003097+00:00",
     "rug_flag": false
   },
   {
@@ -9452,6 +9452,17 @@
     "source_listed_at": "2026-09-24T22:18:36",
     "peak_liquidity_usd": 6084.368487913899,
     "last_checked_at": "2026-09-24T22:18:59.903732+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-25T01:25:49.349212+00:00",
+    "address": "5UTTkLQHjNjjBUXiVd5tfpA5RFWA7bx92CGgYTZmq2qT",
+    "symbol": "Solana",
+    "name": "Solana",
+    "liquidity_usd": 5216.87182519268,
+    "source_listed_at": "2026-09-25T01:25:35",
+    "peak_liquidity_usd": 5216.87182519268,
+    "last_checked_at": "2026-09-25T01:25:50.003097+00:00",
     "rug_flag": false
   }
 ]
