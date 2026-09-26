@@ -9382,11 +9382,11 @@
     "address": "HgyhZzHUhsE2zUHA8bpQ4DsVdzS4kNLaZpcQ8Pv8qXs6",
     "symbol": "WIGGA",
     "name": "Wigga Hood",
-    "liquidity_usd": 5843.057673747018,
+    "liquidity_usd": 98.1071975945013,
     "source_listed_at": "2026-09-23T20:16:44",
     "peak_liquidity_usd": 5843.057673747018,
-    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-26T17:06:22.550038+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-23T23:38:26.097301+00:00",
@@ -9396,7 +9396,7 @@
     "liquidity_usd": 12364.766125975313,
     "source_listed_at": "2026-09-23T23:38:13",
     "peak_liquidity_usd": 12364.766125975313,
-    "last_checked_at": "2026-09-23T23:38:26.560673+00:00",
+    "last_checked_at": "2026-09-26T17:06:22.550038+00:00",
     "rug_flag": false
   },
   {
@@ -9404,11 +9404,11 @@
     "address": "8fNo9YCf1zhM86jYnboGofvtM2swtW4ZySgdPiaCcyrV",
     "symbol": "VENNYS",
     "name": "Venezuelan Gold Farmers",
-    "liquidity_usd": 5876.129437624761,
+    "liquidity_usd": 937.3507873389319,
     "source_listed_at": "2026-09-23T23:38:02",
     "peak_liquidity_usd": 5876.129437624761,
-    "last_checked_at": "2026-09-23T23:38:26.560673+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-26T17:06:22.550038+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-24T04:39:36.986785+00:00",
