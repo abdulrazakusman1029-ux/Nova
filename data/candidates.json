@@ -9374,7 +9374,7 @@
     "liquidity_usd": 7750.789312085527,
     "source_listed_at": "2026-09-23T20:16:46",
     "peak_liquidity_usd": 7750.789312085527,
-    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
+    "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
     "rug_flag": false
   },
   {
@@ -9584,6 +9584,28 @@
     "source_listed_at": "2026-09-26T01:28:52",
     "peak_liquidity_usd": 21199.742425559187,
     "last_checked_at": "2026-09-26T01:29:20.399116+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-26T13:00:48.725890+00:00",
+    "address": "6vFeDXfMacPscj9TCyjYRwUo4udpkZwzZKLpX7ximoon",
+    "symbol": "Patswft",
+    "name": "PATIENT SWIFT",
+    "liquidity_usd": 111847.64821027644,
+    "source_listed_at": "2026-09-26T13:00:13",
+    "peak_liquidity_usd": 111847.64821027644,
+    "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-26T13:00:48.725922+00:00",
+    "address": "9fwhRX5jEeorJ7EA66Hc5NMPqhtdyFnoeTB91fkopump",
+    "symbol": "Gemini",
+    "name": "Google Gemini",
+    "liquidity_usd": 12974.961336344353,
+    "source_listed_at": "2026-09-26T13:00:10",
+    "peak_liquidity_usd": 12974.961336344353,
+    "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
     "rug_flag": false
   }
 ]
