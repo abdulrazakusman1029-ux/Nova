@@ -9338,11 +9338,11 @@
     "address": "27S7Ae36FAWZpuRMqhGLgFFmHbHjbj76aBJUN1DdcAjp",
     "symbol": "lowcap",
     "name": "low cap",
-    "liquidity_usd": 5597.572176207332,
+    "liquidity_usd": 12.00013042642073,
     "source_listed_at": "2026-09-23T11:27:00",
     "peak_liquidity_usd": 5597.572176207332,
-    "last_checked_at": "2026-09-23T11:27:28.039815+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-26T07:35:25.219124+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-23T16:50:42.848449+00:00",
@@ -9352,7 +9352,7 @@
     "liquidity_usd": 19403.2567514989,
     "source_listed_at": "2026-09-23T16:50:17",
     "peak_liquidity_usd": 19403.2567514989,
-    "last_checked_at": "2026-09-23T16:50:43.370577+00:00",
+    "last_checked_at": "2026-09-26T07:35:25.219124+00:00",
     "rug_flag": false
   },
   {
@@ -9363,7 +9363,7 @@
     "liquidity_usd": 6355.4902419671125,
     "source_listed_at": "2026-09-23T20:16:47",
     "peak_liquidity_usd": 6355.4902419671125,
-    "last_checked_at": "2026-09-23T20:16:53.894691+00:00",
+    "last_checked_at": "2026-09-26T07:35:25.219124+00:00",
     "rug_flag": false
   },
   {
