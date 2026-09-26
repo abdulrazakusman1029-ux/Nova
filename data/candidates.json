@@ -9607,5 +9607,38 @@
     "peak_liquidity_usd": 12974.961336344353,
     "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-26T19:47:41.252751+00:00",
+    "address": "HWexHR2fz7f5fp27qy2jdUh6weLmPT9hMX1oAzbzrCni",
+    "symbol": "GHOST",
+    "name": "Ghost Pay",
+    "liquidity_usd": 21171.83127114372,
+    "source_listed_at": "2026-09-26T19:47:20",
+    "peak_liquidity_usd": 21171.83127114372,
+    "last_checked_at": "2026-09-26T19:47:41.720148+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-26T19:47:41.252776+00:00",
+    "address": "63s4xYmvPhCY7y6AVWFopMoUKKqHDPwhvrkTZfafWjza",
+    "symbol": "VC",
+    "name": "Venture Capital",
+    "liquidity_usd": 21458.927456268204,
+    "source_listed_at": "2026-09-26T19:47:19",
+    "peak_liquidity_usd": 21458.927456268204,
+    "last_checked_at": "2026-09-26T19:47:41.720148+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-26T19:47:41.252780+00:00",
+    "address": "8mKBdobXgNqtHFvRGgYQaMa7nfJHNcENtVP8JQcGpump",
+    "symbol": "t/acc",
+    "name": "Trump Accelerationism",
+    "liquidity_usd": 12980.380869020551,
+    "source_listed_at": "2026-09-26T19:47:05",
+    "peak_liquidity_usd": 129710.21076665315,
+    "last_checked_at": "2026-09-26T19:47:41.720148+00:00",
+    "rug_flag": true
   }
 ]
