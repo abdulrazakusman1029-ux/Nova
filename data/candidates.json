@@ -9739,5 +9739,38 @@
     "peak_liquidity_usd": 21456.127223755408,
     "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-27T22:04:04.427927+00:00",
+    "address": "BghLUe356PXLCXaDexp9r22vGNbPYUgWSR3Q8MJ4gE9T",
+    "symbol": "TOD",
+    "name": "tod",
+    "liquidity_usd": 6321.5970553752795,
+    "source_listed_at": "2026-09-27T22:04:00",
+    "peak_liquidity_usd": 6321.5970553752795,
+    "last_checked_at": "2026-09-27T22:04:05.003893+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-27T22:04:04.427953+00:00",
+    "address": "uBCYJJSv5MosTQeAwjyvEy25oKJZkEQd7MdEfqDUQwa",
+    "symbol": "GTA6 ",
+    "name": "GTA 6 Coin",
+    "liquidity_usd": 20752.745329897123,
+    "source_listed_at": "2026-09-27T22:03:57",
+    "peak_liquidity_usd": 20752.745329897123,
+    "last_checked_at": "2026-09-27T22:04:05.003893+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-27T22:04:04.427962+00:00",
+    "address": "2iJxMNeW8ZNirVc5Bhv6DtRQsWasW5aQdEThZACURLo4",
+    "symbol": "YIELDCAT",
+    "name": "Yieldcatio",
+    "liquidity_usd": 12235.582365176031,
+    "source_listed_at": "2026-09-27T22:03:53",
+    "peak_liquidity_usd": 12235.582365176031,
+    "last_checked_at": "2026-09-27T22:04:05.003893+00:00",
+    "rug_flag": false
   }
 ]
