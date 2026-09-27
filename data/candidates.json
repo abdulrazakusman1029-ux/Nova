@@ -9440,7 +9440,7 @@
     "liquidity_usd": 5118.864307738015,
     "source_listed_at": "2026-09-24T19:04:43",
     "peak_liquidity_usd": 5118.864307738015,
-    "last_checked_at": "2026-09-24T19:04:55.528197+00:00",
+    "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
     "rug_flag": false
   },
   {
@@ -9716,6 +9716,28 @@
     "source_listed_at": "2026-09-27T08:02:21",
     "peak_liquidity_usd": 28438.972033974802,
     "last_checked_at": "2026-09-27T08:03:03.871828+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-27T13:53:07.201232+00:00",
+    "address": "8QwNMm6cPiSreU43zdjzKoS9gi5yh4DCs97AE2mzwoAZ",
+    "symbol": "\u4eba\u6c11\u4ea4\u6613\u6240",
+    "name": "\u4eba\u6c11\u4ea4\u6613\u6240",
+    "liquidity_usd": 19351.671641807905,
+    "source_listed_at": "2026-09-27T13:52:58",
+    "peak_liquidity_usd": 19351.671641807905,
+    "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-27T13:53:07.201259+00:00",
+    "address": "GneXwGPdsN3PLtmXEZBcDKWCQNGEiUnzdZz8xdTJgiGC",
+    "symbol": "DRAINER",
+    "name": "IRL Crypto Drainer",
+    "liquidity_usd": 21456.127223755408,
+    "source_listed_at": "2026-09-27T13:52:56",
+    "peak_liquidity_usd": 21456.127223755408,
+    "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
     "rug_flag": false
   }
 ]
