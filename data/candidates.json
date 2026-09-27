@@ -9448,10 +9448,10 @@
     "address": "6mGDNfd74f6fzpBfwmsQyXYNJpyW4ufQnshgRJGqMZ2Q",
     "symbol": "DB",
     "name": "DillBits",
-    "liquidity_usd": 6084.368487913899,
+    "liquidity_usd": 3616.0249858272314,
     "source_listed_at": "2026-09-24T22:18:36",
     "peak_liquidity_usd": 6084.368487913899,
-    "last_checked_at": "2026-09-24T22:18:59.903732+00:00",
+    "last_checked_at": "2026-09-27T18:18:51.847436+00:00",
     "rug_flag": false
   },
   {
@@ -9462,7 +9462,7 @@
     "liquidity_usd": 5216.87182519268,
     "source_listed_at": "2026-09-25T01:25:35",
     "peak_liquidity_usd": 5216.87182519268,
-    "last_checked_at": "2026-09-25T01:25:50.003097+00:00",
+    "last_checked_at": "2026-09-27T18:18:51.847436+00:00",
     "rug_flag": false
   },
   {
@@ -9473,7 +9473,7 @@
     "liquidity_usd": 46351.321299508134,
     "source_listed_at": "2026-09-25T07:42:12",
     "peak_liquidity_usd": 46351.321299508134,
-    "last_checked_at": "2026-09-25T07:42:19.057271+00:00",
+    "last_checked_at": "2026-09-27T18:18:51.847436+00:00",
     "rug_flag": false
   },
   {
