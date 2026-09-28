@@ -9514,11 +9514,11 @@
     "address": "G1SDZGjmMUz6CHa64GAZtx9iam5FCRCk5XndD3W8pump",
     "symbol": "Claude",
     "name": "Claude",
-    "liquidity_usd": 12846.182704773795,
+    "liquidity_usd": 71.91067213670306,
     "source_listed_at": "2026-09-25T13:40:39",
     "peak_liquidity_usd": 12846.182704773795,
-    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-28T00:38:26.418663+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-25T13:41:05.391705+00:00",
@@ -9528,7 +9528,7 @@
     "liquidity_usd": 20890.770919704828,
     "source_listed_at": "2026-09-25T13:40:31",
     "peak_liquidity_usd": 20890.770919704828,
-    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "last_checked_at": "2026-09-28T00:38:26.418663+00:00",
     "rug_flag": false
   },
   {
@@ -9539,7 +9539,7 @@
     "liquidity_usd": 43026.434688125344,
     "source_listed_at": "2026-09-25T13:40:30",
     "peak_liquidity_usd": 43026.434688125344,
-    "last_checked_at": "2026-09-25T13:41:05.790254+00:00",
+    "last_checked_at": "2026-09-28T00:38:26.418663+00:00",
     "rug_flag": false
   },
   {
