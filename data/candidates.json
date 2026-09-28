@@ -9550,7 +9550,7 @@
     "liquidity_usd": 19537.09240893846,
     "source_listed_at": "2026-09-25T18:31:47",
     "peak_liquidity_usd": 19537.09240893846,
-    "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
+    "last_checked_at": "2026-09-28T15:21:31.007318+00:00",
     "rug_flag": false
   },
   {
@@ -9561,7 +9561,7 @@
     "liquidity_usd": 118332.05103347947,
     "source_listed_at": "2026-09-25T18:31:42",
     "peak_liquidity_usd": 118332.05103347947,
-    "last_checked_at": "2026-09-25T18:31:55.165826+00:00",
+    "last_checked_at": "2026-09-28T15:21:31.007318+00:00",
     "rug_flag": false
   },
   {
@@ -9793,6 +9793,17 @@
     "source_listed_at": "2026-09-28T06:45:26",
     "peak_liquidity_usd": 18134.118209008626,
     "last_checked_at": "2026-09-28T06:46:24.929437+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-28T15:21:30.552335+00:00",
+    "address": "7rQtAochc6Jqaz5Xt7o5hcYkBKfU882sGFu65zGnbonk",
+    "symbol": "RIOKICK",
+    "name": "RIO KICK\u26a1",
+    "liquidity_usd": 114130.82375316217,
+    "source_listed_at": "2026-09-28T15:21:08",
+    "peak_liquidity_usd": 114130.82375316217,
+    "last_checked_at": "2026-09-28T15:21:31.007318+00:00",
     "rug_flag": false
   }
 ]
