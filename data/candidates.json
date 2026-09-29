@@ -9594,7 +9594,7 @@
     "liquidity_usd": 111847.64821027644,
     "source_listed_at": "2026-09-26T13:00:13",
     "peak_liquidity_usd": 111847.64821027644,
-    "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
+    "last_checked_at": "2026-09-29T08:22:58.705237+00:00",
     "rug_flag": false
   },
   {
@@ -9605,7 +9605,7 @@
     "liquidity_usd": 12974.961336344353,
     "source_listed_at": "2026-09-26T13:00:10",
     "peak_liquidity_usd": 12974.961336344353,
-    "last_checked_at": "2026-09-26T13:00:49.060765+00:00",
+    "last_checked_at": "2026-09-29T08:22:58.705237+00:00",
     "rug_flag": false
   },
   {
@@ -9815,6 +9815,17 @@
     "source_listed_at": "2026-09-28T21:54:55",
     "peak_liquidity_usd": 6074.957974065869,
     "last_checked_at": "2026-09-28T21:55:00.358249+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T08:22:58.243168+00:00",
+    "address": "CgCZhB9qvv9SRADjQqd4iYF1vwaYbd9chZGZgiUCpump",
+    "symbol": "Leobell",
+    "name": "Leo Bell",
+    "liquidity_usd": 120681.67223558402,
+    "source_listed_at": "2026-09-29T08:22:30",
+    "peak_liquidity_usd": 120681.67223558402,
+    "last_checked_at": "2026-09-29T08:22:58.705237+00:00",
     "rug_flag": false
   }
 ]
