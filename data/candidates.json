@@ -9836,7 +9836,7 @@
     "liquidity_usd": 20177.015663840477,
     "source_listed_at": "2026-09-29T15:44:23",
     "peak_liquidity_usd": 20177.015663840477,
-    "last_checked_at": "",
+    "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
     "rug_flag": false
   },
   {
@@ -9870,6 +9870,28 @@
     "source_listed_at": "2026-09-29T15:44:01",
     "peak_liquidity_usd": 6371.034607756617,
     "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T20:42:36.942884+00:00",
+    "address": "AkX89JUPahpyf4pZVBZoadqJuJ6jH26kM1byr8uezxBE",
+    "symbol": "MUNZI",
+    "name": "MUNZI",
+    "liquidity_usd": 5273.056077937192,
+    "source_listed_at": "2026-09-29T20:42:20",
+    "peak_liquidity_usd": 5273.056077937192,
+    "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T20:42:36.942908+00:00",
+    "address": "2erQgV9yz5p2w8i9HcywTofcDEk4u8djHPwMHfhjetAs",
+    "symbol": "SIT",
+    "name": "Super Intelligence Token",
+    "liquidity_usd": 5069.829426869895,
+    "source_listed_at": "2026-09-29T20:42:19",
+    "peak_liquidity_usd": 5069.829426869895,
+    "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
     "rug_flag": false
   }
 ]
