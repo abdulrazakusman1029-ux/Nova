@@ -9827,5 +9827,49 @@
     "peak_liquidity_usd": 120681.67223558402,
     "last_checked_at": "2026-09-29T08:22:58.705237+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T15:44:27.343976+00:00",
+    "address": "DFc6pDcoQZGz3bfVCu9HnHSWbAwxeYNWrXrCBvMSoNS8",
+    "symbol": "\u8fbe\u6469\u9e70",
+    "name": "DAMO EAGLE",
+    "liquidity_usd": 20177.015663840477,
+    "source_listed_at": "2026-09-29T15:44:23",
+    "peak_liquidity_usd": 20177.015663840477,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T15:44:27.344005+00:00",
+    "address": "zAkeiPTB9Y1Dm3mtEXKer7aDQwe4HSzm3vWEL2X4uDm",
+    "symbol": "MSLT SG",
+    "name": "Midnight Slate Signal",
+    "liquidity_usd": 11810.939715103907,
+    "source_listed_at": "2026-09-29T15:44:23",
+    "peak_liquidity_usd": 11810.939715103907,
+    "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T15:44:27.344013+00:00",
+    "address": "5zTf6Ffri3hNLuofxB2xLoS15xaz9xNH47qdEcZnGEps",
+    "symbol": "SMIRK",
+    "name": "Michael Selig",
+    "liquidity_usd": 5168.402613091449,
+    "source_listed_at": "2026-09-29T15:44:17",
+    "peak_liquidity_usd": 5168.402613091449,
+    "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-29T15:44:27.344018+00:00",
+    "address": "HWw5o8gorE5mFtQ7KPz7Dkmz8FXHEgr63YF5PDF3si3Q",
+    "symbol": "BACKPAD",
+    "name": "Backpad",
+    "liquidity_usd": 6371.034607756617,
+    "source_listed_at": "2026-09-29T15:44:01",
+    "peak_liquidity_usd": 6371.034607756617,
+    "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "rug_flag": false
   }
 ]
