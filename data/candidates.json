@@ -9701,11 +9701,11 @@
     "address": "BNBiSwsfepfMWWJou3Cu2nKPW3EMQ46q2gaKcaJv2pFV",
     "symbol": "Dougherty",
     "name": "Jack Dougherty",
-    "liquidity_usd": 23634.546712670555,
+    "liquidity_usd": 3.833121401119785e-07,
     "source_listed_at": "2026-09-27T08:02:53",
     "peak_liquidity_usd": 23634.546712670555,
-    "last_checked_at": "2026-09-27T08:03:03.871828+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-30T06:38:34.395337+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-27T08:03:03.497681+00:00",
@@ -9715,7 +9715,7 @@
     "liquidity_usd": 28438.972033974802,
     "source_listed_at": "2026-09-27T08:02:21",
     "peak_liquidity_usd": 28438.972033974802,
-    "last_checked_at": "2026-09-27T08:03:03.871828+00:00",
+    "last_checked_at": "2026-09-30T06:38:34.395337+00:00",
     "rug_flag": false
   },
   {
@@ -9726,7 +9726,7 @@
     "liquidity_usd": 19351.671641807905,
     "source_listed_at": "2026-09-27T13:52:58",
     "peak_liquidity_usd": 19351.671641807905,
-    "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
+    "last_checked_at": "2026-09-30T06:38:34.395337+00:00",
     "rug_flag": false
   },
   {
