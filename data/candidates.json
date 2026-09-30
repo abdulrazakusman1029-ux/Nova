@@ -9904,5 +9904,38 @@
     "peak_liquidity_usd": 48667.211009231774,
     "last_checked_at": "2026-09-30T00:22:12.957097+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-30T19:12:41.904666+00:00",
+    "address": "ABE6GQdm4WRa32NkcBw8xa1ddFarvSC3Zrerb48Zv7bZ",
+    "symbol": "HarleyGaga",
+    "name": "Dr. Harleen Frances Quinzel",
+    "liquidity_usd": 12652.49873571673,
+    "source_listed_at": "2026-09-30T19:12:36",
+    "peak_liquidity_usd": 12652.49873571673,
+    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-30T19:12:41.904690+00:00",
+    "address": "zhCq9qyHc99D2KiDDd1wM8UiEqDKrSLcqT6jmJFYaCc",
+    "symbol": "e/accp",
+    "name": "Effective Accelerationism Pump",
+    "liquidity_usd": 10076.15335495196,
+    "source_listed_at": "2026-09-30T19:12:36",
+    "peak_liquidity_usd": 10076.15335495196,
+    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-30T19:12:41.904694+00:00",
+    "address": "EQbEz2ZW5cZsB4JfRoNm2gm8vgTvcGgnUB4gnwTxZT23",
+    "symbol": "BANDIT",
+    "name": "The PumpFun Heist",
+    "liquidity_usd": 20073.137997413007,
+    "source_listed_at": "2026-09-30T19:12:16",
+    "peak_liquidity_usd": 20073.137997413007,
+    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "rug_flag": false
   }
 ]
