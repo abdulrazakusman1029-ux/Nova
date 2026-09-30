@@ -9671,7 +9671,7 @@
     "liquidity_usd": 104730.38786639352,
     "source_listed_at": "2026-09-27T01:21:55",
     "peak_liquidity_usd": 104730.38786639352,
-    "last_checked_at": "2026-09-27T01:22:03.481216+00:00",
+    "last_checked_at": "2026-09-30T00:22:12.957097+00:00",
     "rug_flag": false
   },
   {
@@ -9682,7 +9682,7 @@
     "liquidity_usd": 6431.519160289381,
     "source_listed_at": "2026-09-27T01:21:53",
     "peak_liquidity_usd": 6431.519160289381,
-    "last_checked_at": "2026-09-27T01:22:03.481216+00:00",
+    "last_checked_at": "2026-09-30T00:22:12.957097+00:00",
     "rug_flag": false
   },
   {
@@ -9892,6 +9892,17 @@
     "source_listed_at": "2026-09-29T20:42:19",
     "peak_liquidity_usd": 5069.829426869895,
     "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-30T00:22:12.514528+00:00",
+    "address": "6EZ6BzHj3pZxDNrc9kbnuZnWer7TFEkScio5d9fNpfNi",
+    "symbol": "SI",
+    "name": "Super Intelligence",
+    "liquidity_usd": 48667.211009231774,
+    "source_listed_at": "2026-09-30T00:21:50",
+    "peak_liquidity_usd": 48667.211009231774,
+    "last_checked_at": "2026-09-30T00:22:12.957097+00:00",
     "rug_flag": false
   }
 ]
