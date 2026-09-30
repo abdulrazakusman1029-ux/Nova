@@ -9734,11 +9734,11 @@
     "address": "GneXwGPdsN3PLtmXEZBcDKWCQNGEiUnzdZz8xdTJgiGC",
     "symbol": "DRAINER",
     "name": "IRL Crypto Drainer",
-    "liquidity_usd": 21456.127223755408,
+    "liquidity_usd": 4.109511456229993e-07,
     "source_listed_at": "2026-09-27T13:52:56",
     "peak_liquidity_usd": 21456.127223755408,
-    "last_checked_at": "2026-09-27T13:53:07.906620+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-09-30T13:37:52.641870+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-27T22:04:04.427927+00:00",
@@ -9748,7 +9748,7 @@
     "liquidity_usd": 6321.5970553752795,
     "source_listed_at": "2026-09-27T22:04:00",
     "peak_liquidity_usd": 6321.5970553752795,
-    "last_checked_at": "2026-09-27T22:04:05.003893+00:00",
+    "last_checked_at": "2026-09-30T13:37:52.641870+00:00",
     "rug_flag": false
   },
   {
@@ -9759,7 +9759,7 @@
     "liquidity_usd": 20752.745329897123,
     "source_listed_at": "2026-09-27T22:03:57",
     "peak_liquidity_usd": 20752.745329897123,
-    "last_checked_at": "2026-09-27T22:04:05.003893+00:00",
+    "last_checked_at": "2026-09-30T13:37:52.641870+00:00",
     "rug_flag": false
   },
   {
