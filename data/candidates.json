@@ -9781,7 +9781,7 @@
     "liquidity_usd": 18125.478502014117,
     "source_listed_at": "2026-09-28T06:45:59",
     "peak_liquidity_usd": 18125.478502014117,
-    "last_checked_at": "2026-09-28T06:46:24.929437+00:00",
+    "last_checked_at": "2026-09-30T23:00:02.652037+00:00",
     "rug_flag": false
   },
   {
@@ -9792,7 +9792,7 @@
     "liquidity_usd": 18134.118209008626,
     "source_listed_at": "2026-09-28T06:45:26",
     "peak_liquidity_usd": 18134.118209008626,
-    "last_checked_at": "2026-09-28T06:46:24.929437+00:00",
+    "last_checked_at": "2026-09-30T23:00:02.652037+00:00",
     "rug_flag": false
   },
   {
@@ -9936,6 +9936,17 @@
     "source_listed_at": "2026-09-30T19:12:16",
     "peak_liquidity_usd": 20073.137997413007,
     "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-09-30T23:00:02.248503+00:00",
+    "address": "7W9Snz6upDRpTJPWFAMsUGpg9jML2nnjZzFWpq9UQgxo",
+    "symbol": "CLONES",
+    "name": "CLONES",
+    "liquidity_usd": 20033.73077496289,
+    "source_listed_at": "2026-09-30T22:59:43",
+    "peak_liquidity_usd": 20033.73077496289,
+    "last_checked_at": "2026-09-30T23:00:02.652037+00:00",
     "rug_flag": false
   }
 ]
