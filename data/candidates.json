@@ -10025,5 +10025,38 @@
     "peak_liquidity_usd": 12630.892994534757,
     "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T16:21:36.164127+00:00",
+    "address": "2Ubzudat9Aa3qHkq5bTqHPtZbYCrwPPz5S4bn6bPEUcq",
+    "symbol": "ARFURGROK",
+    "name": "Arfur Grok",
+    "liquidity_usd": 5291.675094467124,
+    "source_listed_at": "2026-10-01T16:21:22",
+    "peak_liquidity_usd": 5291.675094467124,
+    "last_checked_at": "2026-10-01T16:21:36.714988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T16:21:36.164157+00:00",
+    "address": "HLuK9uosRoHSs3S9vHcQgDnsHfQatSS1LgHD25MWX7u7",
+    "symbol": "NIKKI",
+    "name": "Nikki",
+    "liquidity_usd": 21853.677124935104,
+    "source_listed_at": "2026-10-01T16:21:21",
+    "peak_liquidity_usd": 21853.677124935104,
+    "last_checked_at": "2026-10-01T16:21:36.714988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T16:21:36.164163+00:00",
+    "address": "5faAH1eTDJ6xkCoRGHvhGHaE9LxMFLSy8pefaGK4gg1A",
+    "symbol": "ARFURGROK",
+    "name": "Arfur Grok",
+    "liquidity_usd": 10611.095092578613,
+    "source_listed_at": "2026-10-01T16:21:19",
+    "peak_liquidity_usd": 10611.095092578613,
+    "last_checked_at": "2026-10-01T16:21:36.714988+00:00",
+    "rug_flag": false
   }
 ]
