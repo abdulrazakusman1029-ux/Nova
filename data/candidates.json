@@ -9814,7 +9814,7 @@
     "liquidity_usd": 6074.957974065869,
     "source_listed_at": "2026-09-28T21:54:55",
     "peak_liquidity_usd": 6074.957974065869,
-    "last_checked_at": "2026-09-28T21:55:00.358249+00:00",
+    "last_checked_at": "2026-10-01T21:47:06.228576+00:00",
     "rug_flag": false
   },
   {
@@ -9957,7 +9957,7 @@
     "liquidity_usd": 73318.97311039275,
     "source_listed_at": "2026-10-01T02:03:36",
     "peak_liquidity_usd": 73318.97311039275,
-    "last_checked_at": "",
+    "last_checked_at": "2026-10-01T21:47:06.228576+00:00",
     "rug_flag": false
   },
   {
@@ -10057,6 +10057,17 @@
     "source_listed_at": "2026-10-01T16:21:19",
     "peak_liquidity_usd": 10611.095092578613,
     "last_checked_at": "2026-10-01T16:21:36.714988+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T21:47:05.711006+00:00",
+    "address": "82vcGhJAT8N3PdwCgZoTNqav6jFEiWqxtQafso7v6k5u",
+    "symbol": "PAIRS",
+    "name": "Pairlings",
+    "liquidity_usd": 19957.484824383464,
+    "source_listed_at": "2026-10-01T21:47:01",
+    "peak_liquidity_usd": 19957.484824383464,
+    "last_checked_at": "2026-10-01T21:47:06.228576+00:00",
     "rug_flag": false
   }
 ]
