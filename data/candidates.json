@@ -9948,5 +9948,49 @@
     "peak_liquidity_usd": 20033.73077496289,
     "last_checked_at": "2026-09-30T23:00:02.652037+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T02:03:51.025948+00:00",
+    "address": "5vLD6Z3Qt8MRWVsvBDpBsXF9311Q8hLhc2B1pgKGzzu",
+    "symbol": "MICRO",
+    "name": "Microcat",
+    "liquidity_usd": 73318.97311039275,
+    "source_listed_at": "2026-10-01T02:03:36",
+    "peak_liquidity_usd": 73318.97311039275,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T02:03:51.025990+00:00",
+    "address": "FFXudHXUeMRXrDdxVcNNNUk3jpJ2RRZuQGtZ3T8timAk",
+    "symbol": "SIC",
+    "name": "Super Intelligence Cat",
+    "liquidity_usd": 21291.83261598824,
+    "source_listed_at": "2026-10-01T02:03:30",
+    "peak_liquidity_usd": 21291.83261598824,
+    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T02:03:51.025996+00:00",
+    "address": "B37DiB1sGBppXnG3UHxaGjomM9NfMHqk2zJVufMipump",
+    "symbol": "OpenAI",
+    "name": "OpenAI",
+    "liquidity_usd": 12593.885721709341,
+    "source_listed_at": "2026-10-01T02:03:08",
+    "peak_liquidity_usd": 12593.885721709341,
+    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T02:03:51.026002+00:00",
+    "address": "6XhMz1QhNujX5QdSuPYAQ15Y3wBZuvWjyKXrzx9epump",
+    "symbol": "ACT II",
+    "name": "Act II : The SI Prophecy",
+    "liquidity_usd": 5089.88217335598,
+    "source_listed_at": "2026-10-01T02:03:04",
+    "peak_liquidity_usd": 5089.88217335598,
+    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
+    "rug_flag": false
   }
 ]
