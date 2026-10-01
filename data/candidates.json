@@ -9992,5 +9992,38 @@
     "peak_liquidity_usd": 5089.88217335598,
     "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T08:48:44.319690+00:00",
+    "address": "FyUtjcgrLG3J7U3VzugzNAc7eRHQ1PGLYRzAZ6mLoXLo",
+    "symbol": "SPP",
+    "name": "Spinning Partyhat Pigeon",
+    "liquidity_usd": 25929.558936723326,
+    "source_listed_at": "2026-10-01T08:48:29",
+    "peak_liquidity_usd": 25929.558936723326,
+    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T08:48:44.319711+00:00",
+    "address": "7kxkgFr1yRMnSq5mAPjUtKNfYs1hFQh59AZ4VomhEt33",
+    "symbol": "SPLURGE",
+    "name": "Splurge",
+    "liquidity_usd": 20003.380492489858,
+    "source_listed_at": "2026-10-01T08:48:09",
+    "peak_liquidity_usd": 20003.380492489858,
+    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-01T08:48:44.319715+00:00",
+    "address": "8UZZ9yTGZc7f64AasgUJBKMSnuggDiPQngB3N1e5qcye",
+    "symbol": "Mr Beast",
+    "name": "MrBeast",
+    "liquidity_usd": 12630.892994534757,
+    "source_listed_at": "2026-10-01T08:48:02",
+    "peak_liquidity_usd": 12630.892994534757,
+    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "rug_flag": false
   }
 ]
