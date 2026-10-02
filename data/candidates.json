@@ -9899,11 +9899,11 @@
     "address": "6EZ6BzHj3pZxDNrc9kbnuZnWer7TFEkScio5d9fNpfNi",
     "symbol": "SI",
     "name": "Super Intelligence",
-    "liquidity_usd": 48667.211009231774,
+    "liquidity_usd": 4.583655487036866e-07,
     "source_listed_at": "2026-09-30T00:21:50",
     "peak_liquidity_usd": 48667.211009231774,
-    "last_checked_at": "2026-09-30T00:22:12.957097+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-02T20:40:15.948183+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-30T19:12:41.904666+00:00",
@@ -9913,7 +9913,7 @@
     "liquidity_usd": 12652.49873571673,
     "source_listed_at": "2026-09-30T19:12:36",
     "peak_liquidity_usd": 12652.49873571673,
-    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "last_checked_at": "2026-10-02T20:40:15.948183+00:00",
     "rug_flag": false
   },
   {
@@ -9921,11 +9921,11 @@
     "address": "zhCq9qyHc99D2KiDDd1wM8UiEqDKrSLcqT6jmJFYaCc",
     "symbol": "e/accp",
     "name": "Effective Accelerationism Pump",
-    "liquidity_usd": 10076.15335495196,
+    "liquidity_usd": 0.0,
     "source_listed_at": "2026-09-30T19:12:36",
     "peak_liquidity_usd": 10076.15335495196,
-    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-02T20:40:15.948183+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-09-30T19:12:41.904694+00:00",
