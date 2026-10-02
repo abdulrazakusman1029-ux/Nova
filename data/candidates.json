@@ -9880,7 +9880,7 @@
     "liquidity_usd": 5273.056077937192,
     "source_listed_at": "2026-09-29T20:42:20",
     "peak_liquidity_usd": 5273.056077937192,
-    "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
+    "last_checked_at": "2026-10-02T15:44:30.340260+00:00",
     "rug_flag": false
   },
   {
@@ -9891,7 +9891,7 @@
     "liquidity_usd": 5069.829426869895,
     "source_listed_at": "2026-09-29T20:42:19",
     "peak_liquidity_usd": 5069.829426869895,
-    "last_checked_at": "2026-09-29T20:42:37.327909+00:00",
+    "last_checked_at": "2026-10-02T15:44:30.340260+00:00",
     "rug_flag": false
   },
   {
@@ -10079,6 +10079,17 @@
     "source_listed_at": "2026-10-02T08:25:09",
     "peak_liquidity_usd": 13113.99471249682,
     "last_checked_at": "2026-10-02T08:25:11.809612+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-02T15:44:29.850002+00:00",
+    "address": "H56BmZQoShpkc1UQx2C8zS3asZP4gEVciq3euSjSpump",
+    "symbol": "curtis",
+    "name": "curtis",
+    "liquidity_usd": 5026.4162460885145,
+    "source_listed_at": "2026-10-02T15:44:28",
+    "peak_liquidity_usd": 5026.4162460885145,
+    "last_checked_at": "2026-10-02T15:44:30.340260+00:00",
     "rug_flag": false
   }
 ]
