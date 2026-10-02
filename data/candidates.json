@@ -9847,7 +9847,7 @@
     "liquidity_usd": 11810.939715103907,
     "source_listed_at": "2026-09-29T15:44:23",
     "peak_liquidity_usd": 11810.939715103907,
-    "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "last_checked_at": "2026-10-02T08:25:11.809612+00:00",
     "rug_flag": false
   },
   {
@@ -9858,7 +9858,7 @@
     "liquidity_usd": 5168.402613091449,
     "source_listed_at": "2026-09-29T15:44:17",
     "peak_liquidity_usd": 5168.402613091449,
-    "last_checked_at": "2026-09-29T15:44:27.687595+00:00",
+    "last_checked_at": "2026-10-02T08:25:11.809612+00:00",
     "rug_flag": false
   },
   {
@@ -10068,6 +10068,17 @@
     "source_listed_at": "2026-10-01T21:47:01",
     "peak_liquidity_usd": 19957.484824383464,
     "last_checked_at": "2026-10-01T21:47:06.228576+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-02T08:25:11.234515+00:00",
+    "address": "9dAg81tDWr7SebEh6pBiYTpFJ2GJLuzetb4oPN5gtwB4",
+    "symbol": "Samsung",
+    "name": "Samsung Sam",
+    "liquidity_usd": 13113.99471249682,
+    "source_listed_at": "2026-10-02T08:25:09",
+    "peak_liquidity_usd": 13113.99471249682,
+    "last_checked_at": "2026-10-02T08:25:11.809612+00:00",
     "rug_flag": false
   }
 ]
