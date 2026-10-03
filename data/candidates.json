@@ -10135,5 +10135,49 @@
     "peak_liquidity_usd": 12790.512413455855,
     "last_checked_at": "2026-10-03T17:13:05.105574+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T19:49:56.295118+00:00",
+    "address": "G8zCwEvL2pUf3mbjCRsMcSFXagcqdFMg1geAMtWoamsT",
+    "symbol": "1",
+    "name": "1 day or day 1",
+    "liquidity_usd": 5236.1844657008905,
+    "source_listed_at": "2026-10-03T19:49:50",
+    "peak_liquidity_usd": 5236.1844657008905,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T19:49:56.295138+00:00",
+    "address": "549FicaQrSVox8Wqw44gtJ9AtDFgWEEei9maXYxQtPUZ",
+    "symbol": "CALLOUT",
+    "name": "call me out",
+    "liquidity_usd": 5024.0809323779395,
+    "source_listed_at": "2026-10-03T19:49:46",
+    "peak_liquidity_usd": 5024.0809323779395,
+    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T19:49:56.295141+00:00",
+    "address": "EmKu3SLs7SMrCQ7YgaGhGAH5a7969ExApCuuJv7C54LM",
+    "symbol": "good",
+    "name": "good token",
+    "liquidity_usd": 6024.4510771973155,
+    "source_listed_at": "2026-10-03T19:49:39",
+    "peak_liquidity_usd": 6024.4510771973155,
+    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T19:49:56.295144+00:00",
+    "address": "Et81Jw2WXDqGY51o62r7vV8j4fnNHMDf9faGY76aYk6W",
+    "symbol": "good",
+    "name": "Good Coin",
+    "liquidity_usd": 5119.405997255222,
+    "source_listed_at": "2026-10-03T19:49:38",
+    "peak_liquidity_usd": 5119.405997255222,
+    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
+    "rug_flag": false
   }
 ]
