@@ -10012,7 +10012,7 @@
     "liquidity_usd": 20003.380492489858,
     "source_listed_at": "2026-10-01T08:48:09",
     "peak_liquidity_usd": 20003.380492489858,
-    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "last_checked_at": "2026-10-03T17:13:05.105574+00:00",
     "rug_flag": false
   },
   {
@@ -10023,7 +10023,7 @@
     "liquidity_usd": 12630.892994534757,
     "source_listed_at": "2026-10-01T08:48:02",
     "peak_liquidity_usd": 12630.892994534757,
-    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "last_checked_at": "2026-10-03T17:13:05.105574+00:00",
     "rug_flag": false
   },
   {
@@ -10123,6 +10123,17 @@
     "source_listed_at": "2026-10-03T12:27:51",
     "peak_liquidity_usd": 20377.219999775698,
     "last_checked_at": "2026-10-03T12:28:11.663201+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T17:13:04.692346+00:00",
+    "address": "5Df2Bd32HuNsHAhwyDdzZZaQLFU5X9GcvYv2rVbNpump",
+    "symbol": "Tesla",
+    "name": "Tesla",
+    "liquidity_usd": 12790.512413455855,
+    "source_listed_at": "2026-10-03T17:12:39",
+    "peak_liquidity_usd": 12790.512413455855,
+    "last_checked_at": "2026-10-03T17:13:05.105574+00:00",
     "rug_flag": false
   }
 ]
