@@ -9990,7 +9990,7 @@
     "liquidity_usd": 5089.88217335598,
     "source_listed_at": "2026-10-01T02:03:04",
     "peak_liquidity_usd": 5089.88217335598,
-    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
+    "last_checked_at": "2026-10-03T12:28:11.663201+00:00",
     "rug_flag": false
   },
   {
@@ -10001,7 +10001,7 @@
     "liquidity_usd": 25929.558936723326,
     "source_listed_at": "2026-10-01T08:48:29",
     "peak_liquidity_usd": 25929.558936723326,
-    "last_checked_at": "2026-10-01T08:48:44.828857+00:00",
+    "last_checked_at": "2026-10-03T12:28:11.663201+00:00",
     "rug_flag": false
   },
   {
@@ -10112,6 +10112,17 @@
     "source_listed_at": "2026-10-03T00:25:31",
     "peak_liquidity_usd": 20124.02325993794,
     "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T12:28:11.276226+00:00",
+    "address": "AbvQkbLbEr9qQgK4fNNCHA46k3WdYXaAuGibHe1xzQ1D",
+    "symbol": "CLTR",
+    "name": "Collectors",
+    "liquidity_usd": 20377.219999775698,
+    "source_listed_at": "2026-10-03T12:27:51",
+    "peak_liquidity_usd": 20377.219999775698,
+    "last_checked_at": "2026-10-03T12:28:11.663201+00:00",
     "rug_flag": false
   }
 ]
