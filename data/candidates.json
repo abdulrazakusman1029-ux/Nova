@@ -9935,7 +9935,7 @@
     "liquidity_usd": 20073.137997413007,
     "source_listed_at": "2026-09-30T19:12:16",
     "peak_liquidity_usd": 20073.137997413007,
-    "last_checked_at": "2026-09-30T19:12:42.498414+00:00",
+    "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
     "rug_flag": false
   },
   {
@@ -10090,6 +10090,28 @@
     "source_listed_at": "2026-10-02T15:44:28",
     "peak_liquidity_usd": 5026.4162460885145,
     "last_checked_at": "2026-10-02T15:44:30.340260+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T00:25:55.771539+00:00",
+    "address": "CUyaDiHbRRv9yNEG1iXZdbU1xXUciPX5pfz4nuMebX3x",
+    "symbol": "WAGIE",
+    "name": "Wagie",
+    "liquidity_usd": 9579.438612881553,
+    "source_listed_at": "2026-10-03T00:25:38",
+    "peak_liquidity_usd": 9579.438612881553,
+    "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T00:25:55.771567+00:00",
+    "address": "Gcjt4vY1BvELtG582fXYqzyeax2R1veXGzDNSSZQeF2v",
+    "symbol": "BNDKS",
+    "name": "Boondocks Coin",
+    "liquidity_usd": 20122.543203087076,
+    "source_listed_at": "2026-10-03T00:25:31",
+    "peak_liquidity_usd": 20124.02325993794,
+    "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
     "rug_flag": false
   }
 ]
