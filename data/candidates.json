@@ -9943,11 +9943,11 @@
     "address": "7W9Snz6upDRpTJPWFAMsUGpg9jML2nnjZzFWpq9UQgxo",
     "symbol": "CLONES",
     "name": "CLONES",
-    "liquidity_usd": 20033.73077496289,
+    "liquidity_usd": 0.0005013830402410081,
     "source_listed_at": "2026-09-30T22:59:43",
     "peak_liquidity_usd": 20033.73077496289,
-    "last_checked_at": "2026-09-30T23:00:02.652037+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-03T06:25:22.224927+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-01T02:03:51.025948+00:00",
@@ -9968,7 +9968,7 @@
     "liquidity_usd": 21291.83261598824,
     "source_listed_at": "2026-10-01T02:03:30",
     "peak_liquidity_usd": 21291.83261598824,
-    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
+    "last_checked_at": "2026-10-03T06:25:22.224927+00:00",
     "rug_flag": false
   },
   {
@@ -9976,11 +9976,11 @@
     "address": "B37DiB1sGBppXnG3UHxaGjomM9NfMHqk2zJVufMipump",
     "symbol": "OpenAI",
     "name": "OpenAI",
-    "liquidity_usd": 12593.885721709341,
+    "liquidity_usd": 56.692368054183895,
     "source_listed_at": "2026-10-01T02:03:08",
     "peak_liquidity_usd": 12593.885721709341,
-    "last_checked_at": "2026-10-01T02:03:51.644542+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-03T06:25:22.224927+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-01T02:03:51.026002+00:00",
