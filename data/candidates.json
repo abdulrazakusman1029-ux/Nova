@@ -10179,5 +10179,38 @@
     "peak_liquidity_usd": 5119.405997255222,
     "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T22:51:00.552578+00:00",
+    "address": "9G38fqLiP9kTPtg1UoLZfaYokGdNaBYbGychtx1Cpump",
+    "symbol": "GWC",
+    "name": "AI is making wienerbot",
+    "liquidity_usd": 20510.27622804292,
+    "source_listed_at": "2026-10-03T22:50:58",
+    "peak_liquidity_usd": 20510.27622804292,
+    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T22:51:00.552598+00:00",
+    "address": "8gSeLvhRPLFuuADXvGY9NycY76FA9Nsjuv1Y1oTQpump",
+    "symbol": "GWC",
+    "name": "AI is making wienera",
+    "liquidity_usd": 20581.94751410588,
+    "source_listed_at": "2026-10-03T22:50:51",
+    "peak_liquidity_usd": 20581.94751410588,
+    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-03T22:51:00.552603+00:00",
+    "address": "B5CGoh8YgNsM4FGxua6dmMAtfu4JaHoHft1DmPLXpump",
+    "symbol": "GWC",
+    "name": "AI is making wienera",
+    "liquidity_usd": 20577.803406174018,
+    "source_listed_at": "2026-10-03T22:50:49",
+    "peak_liquidity_usd": 20577.803406174018,
+    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "rug_flag": false
   }
 ]
