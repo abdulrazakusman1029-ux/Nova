@@ -10152,11 +10152,11 @@
     "address": "549FicaQrSVox8Wqw44gtJ9AtDFgWEEei9maXYxQtPUZ",
     "symbol": "CALLOUT",
     "name": "call me out",
-    "liquidity_usd": 5024.0809323779395,
+    "liquidity_usd": 4.559233714127716e-08,
     "source_listed_at": "2026-10-03T19:49:46",
     "peak_liquidity_usd": 5024.0809323779395,
-    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-04T23:02:52.472933+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-03T19:49:56.295141+00:00",
@@ -10166,7 +10166,7 @@
     "liquidity_usd": 6024.4510771973155,
     "source_listed_at": "2026-10-03T19:49:39",
     "peak_liquidity_usd": 6024.4510771973155,
-    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
+    "last_checked_at": "2026-10-04T23:02:52.472933+00:00",
     "rug_flag": false
   },
   {
@@ -10177,7 +10177,7 @@
     "liquidity_usd": 5119.405997255222,
     "source_listed_at": "2026-10-03T19:49:38",
     "peak_liquidity_usd": 5119.405997255222,
-    "last_checked_at": "2026-10-03T19:49:56.622949+00:00",
+    "last_checked_at": "2026-10-04T23:02:52.472933+00:00",
     "rug_flag": false
   },
   {
