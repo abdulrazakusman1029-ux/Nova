@@ -10108,11 +10108,11 @@
     "address": "Gcjt4vY1BvELtG582fXYqzyeax2R1veXGzDNSSZQeF2v",
     "symbol": "BNDKS",
     "name": "Boondocks Coin",
-    "liquidity_usd": 20122.543203087076,
+    "liquidity_usd": 0.0006385848625440207,
     "source_listed_at": "2026-10-03T00:25:31",
     "peak_liquidity_usd": 20124.02325993794,
-    "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-04T19:33:34.027592+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-03T12:28:11.276226+00:00",
@@ -10122,7 +10122,7 @@
     "liquidity_usd": 20377.219999775698,
     "source_listed_at": "2026-10-03T12:27:51",
     "peak_liquidity_usd": 20377.219999775698,
-    "last_checked_at": "2026-10-03T12:28:11.663201+00:00",
+    "last_checked_at": "2026-10-04T19:33:34.027592+00:00",
     "rug_flag": false
   },
   {
@@ -10130,11 +10130,11 @@
     "address": "5Df2Bd32HuNsHAhwyDdzZZaQLFU5X9GcvYv2rVbNpump",
     "symbol": "Tesla",
     "name": "Tesla",
-    "liquidity_usd": 12790.512413455855,
+    "liquidity_usd": 74.16934026766475,
     "source_listed_at": "2026-10-03T17:12:39",
     "peak_liquidity_usd": 12790.512413455855,
-    "last_checked_at": "2026-10-03T17:13:05.105574+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-04T19:33:34.027592+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-03T19:49:56.295118+00:00",
