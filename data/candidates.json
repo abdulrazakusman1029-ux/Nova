@@ -10075,11 +10075,11 @@
     "address": "9dAg81tDWr7SebEh6pBiYTpFJ2GJLuzetb4oPN5gtwB4",
     "symbol": "Samsung",
     "name": "Samsung Sam",
-    "liquidity_usd": 13113.99471249682,
+    "liquidity_usd": 68.84054871739748,
     "source_listed_at": "2026-10-02T08:25:09",
     "peak_liquidity_usd": 13113.99471249682,
-    "last_checked_at": "2026-10-02T08:25:11.809612+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-04T15:19:18.909415+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-02T15:44:29.850002+00:00",
@@ -10089,7 +10089,7 @@
     "liquidity_usd": 5026.4162460885145,
     "source_listed_at": "2026-10-02T15:44:28",
     "peak_liquidity_usd": 5026.4162460885145,
-    "last_checked_at": "2026-10-02T15:44:30.340260+00:00",
+    "last_checked_at": "2026-10-04T15:19:18.909415+00:00",
     "rug_flag": false
   },
   {
@@ -10097,10 +10097,10 @@
     "address": "CUyaDiHbRRv9yNEG1iXZdbU1xXUciPX5pfz4nuMebX3x",
     "symbol": "WAGIE",
     "name": "Wagie",
-    "liquidity_usd": 9579.438612881553,
+    "liquidity_usd": 4262.6002797187,
     "source_listed_at": "2026-10-03T00:25:38",
     "peak_liquidity_usd": 9579.438612881553,
-    "last_checked_at": "2026-10-03T00:25:56.184762+00:00",
+    "last_checked_at": "2026-10-04T15:19:18.909415+00:00",
     "rug_flag": false
   },
   {
