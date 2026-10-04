@@ -10056,7 +10056,7 @@
     "liquidity_usd": 10611.095092578613,
     "source_listed_at": "2026-10-01T16:21:19",
     "peak_liquidity_usd": 10611.095092578613,
-    "last_checked_at": "2026-10-01T16:21:36.714988+00:00",
+    "last_checked_at": "2026-10-04T09:38:55.979255+00:00",
     "rug_flag": false
   },
   {
@@ -10067,7 +10067,7 @@
     "liquidity_usd": 19957.484824383464,
     "source_listed_at": "2026-10-01T21:47:01",
     "peak_liquidity_usd": 19957.484824383464,
-    "last_checked_at": "2026-10-01T21:47:06.228576+00:00",
+    "last_checked_at": "2026-10-04T09:38:55.979255+00:00",
     "rug_flag": false
   },
   {
@@ -10211,6 +10211,17 @@
     "source_listed_at": "2026-10-03T22:50:49",
     "peak_liquidity_usd": 20577.803406174018,
     "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-04T09:38:55.620625+00:00",
+    "address": "8nWKSzfDTGW5NsuwoCngwwn6enLpWts5UQwGhz1Ptmvc",
+    "symbol": "SIC",
+    "name": "Super Intelligence Cat",
+    "liquidity_usd": 42728.327599924145,
+    "source_listed_at": "2026-10-04T09:38:22",
+    "peak_liquidity_usd": 42728.327599924145,
+    "last_checked_at": "2026-10-04T09:38:55.979255+00:00",
     "rug_flag": false
   }
 ]
