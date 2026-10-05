@@ -10256,5 +10256,49 @@
     "peak_liquidity_usd": 26364.79000030465,
     "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T18:21:12.953313+00:00",
+    "address": "AhuLEQftGzrg5rR4BFjVZQKJFzBodYwGZRec4fLQ3kSp",
+    "symbol": "ORE",
+    "name": "just buy 1 ore",
+    "liquidity_usd": 5466.958150817783,
+    "source_listed_at": "2026-10-05T18:21:09",
+    "peak_liquidity_usd": 5466.958150817783,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T18:21:12.953334+00:00",
+    "address": "FviAErbBsq5ZXYBpjqch6BYqCBi3HJ583HQumQzHMtdb",
+    "symbol": "1",
+    "name": "just buy 1 ore",
+    "liquidity_usd": 6123.719180171371,
+    "source_listed_at": "2026-10-05T18:21:03",
+    "peak_liquidity_usd": 6123.719180171371,
+    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T18:21:12.953339+00:00",
+    "address": "4RfxR1dRbNsiMRM5rEmfMJ273yjkwqS5wmnxom1kdmYd",
+    "symbol": "GAS",
+    "name": "GAS COIN",
+    "liquidity_usd": 6034.95177716165,
+    "source_listed_at": "2026-10-05T18:20:44",
+    "peak_liquidity_usd": 6034.95177716165,
+    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T18:21:12.953364+00:00",
+    "address": "56mufkViFWgf99ByZgjUmKUEAyLx38c4X1ggecj1FdTp",
+    "symbol": "GAS",
+    "name": "Gascoin",
+    "liquidity_usd": 6393.155681726841,
+    "source_listed_at": "2026-10-05T18:20:44",
+    "peak_liquidity_usd": 6393.155681726841,
+    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
+    "rug_flag": false
   }
 ]
