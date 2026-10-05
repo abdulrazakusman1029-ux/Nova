@@ -10188,7 +10188,7 @@
     "liquidity_usd": 20510.27622804292,
     "source_listed_at": "2026-10-03T22:50:58",
     "peak_liquidity_usd": 20510.27622804292,
-    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "last_checked_at": "2026-10-05T01:54:59.275990+00:00",
     "rug_flag": false
   },
   {
@@ -10199,7 +10199,7 @@
     "liquidity_usd": 20581.94751410588,
     "source_listed_at": "2026-10-03T22:50:51",
     "peak_liquidity_usd": 20581.94751410588,
-    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "last_checked_at": "2026-10-05T01:54:59.275990+00:00",
     "rug_flag": false
   },
   {
@@ -10222,6 +10222,17 @@
     "source_listed_at": "2026-10-04T09:38:22",
     "peak_liquidity_usd": 42728.327599924145,
     "last_checked_at": "2026-10-04T09:38:55.979255+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T01:54:58.761655+00:00",
+    "address": "4Q9z1JzrPJxqwW5FirmtTkw8DyG4cTtemddDqGGLASf9",
+    "symbol": "ACTII",
+    "name": "Act II: The SI Prophecy",
+    "liquidity_usd": 5433.068879697934,
+    "source_listed_at": "2026-10-05T01:54:44",
+    "peak_liquidity_usd": 5433.068879697934,
+    "last_checked_at": "2026-10-05T01:54:59.275990+00:00",
     "rug_flag": false
   }
 ]
