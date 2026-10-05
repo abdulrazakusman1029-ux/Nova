@@ -10210,7 +10210,7 @@
     "liquidity_usd": 20577.803406174018,
     "source_listed_at": "2026-10-03T22:50:49",
     "peak_liquidity_usd": 20577.803406174018,
-    "last_checked_at": "2026-10-03T22:51:01.095346+00:00",
+    "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
     "rug_flag": false
   },
   {
@@ -10233,6 +10233,28 @@
     "source_listed_at": "2026-10-05T01:54:44",
     "peak_liquidity_usd": 5433.068879697934,
     "last_checked_at": "2026-10-05T01:54:59.275990+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T08:54:09.259596+00:00",
+    "address": "8jpG7EgtHggacVYG5y2dXe4bmhGgXgg4tciXXz7R2bgF",
+    "symbol": "INSTINCT",
+    "name": "Instinct",
+    "liquidity_usd": 20634.540417768098,
+    "source_listed_at": "2026-10-05T08:53:56",
+    "peak_liquidity_usd": 20634.540417768098,
+    "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-05T08:54:09.259621+00:00",
+    "address": "7s5oioTXVD99XMtoDCBxVzN7bavpckSSq7QS1nAGdzKL",
+    "symbol": "SIF",
+    "name": "Super Intelligence Force",
+    "liquidity_usd": 26364.79000030465,
+    "source_listed_at": "2026-10-05T08:53:48",
+    "peak_liquidity_usd": 26364.79000030465,
+    "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
     "rug_flag": false
   }
 ]
