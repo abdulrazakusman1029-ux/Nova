@@ -10133,7 +10133,7 @@
     "liquidity_usd": 74.16934026766475,
     "source_listed_at": "2026-10-03T17:12:39",
     "peak_liquidity_usd": 12790.512413455855,
-    "last_checked_at": "2026-10-04T19:33:34.027592+00:00",
+    "last_checked_at": "2026-10-06T15:04:30.327383+00:00",
     "rug_flag": true
   },
   {
@@ -10155,7 +10155,7 @@
     "liquidity_usd": 4.559233714127716e-08,
     "source_listed_at": "2026-10-03T19:49:46",
     "peak_liquidity_usd": 5024.0809323779395,
-    "last_checked_at": "2026-10-04T23:02:52.472933+00:00",
+    "last_checked_at": "2026-10-06T15:04:30.327383+00:00",
     "rug_flag": true
   },
   {
@@ -10332,6 +10332,17 @@
     "source_listed_at": "2026-10-06T07:29:36",
     "peak_liquidity_usd": 12840.921936222057,
     "last_checked_at": "2026-10-06T07:30:03.354266+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-06T15:04:29.780045+00:00",
+    "address": "EDYYF2nDBnNph5KLLkGySjoNjstV8qvJvwRhuud2nkG6",
+    "symbol": "CABINET",
+    "name": "Non-Canonical Cabinet",
+    "liquidity_usd": 5472.870399643697,
+    "source_listed_at": "2026-10-06T15:04:12",
+    "peak_liquidity_usd": 5472.870399643697,
+    "last_checked_at": "2026-10-06T15:04:30.327383+00:00",
     "rug_flag": false
   }
 ]
