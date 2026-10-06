@@ -10232,7 +10232,7 @@
     "liquidity_usd": 5433.068879697934,
     "source_listed_at": "2026-10-05T01:54:44",
     "peak_liquidity_usd": 5433.068879697934,
-    "last_checked_at": "2026-10-05T01:54:59.275990+00:00",
+    "last_checked_at": "2026-10-06T23:47:56.262081+00:00",
     "rug_flag": false
   },
   {
@@ -10243,7 +10243,7 @@
     "liquidity_usd": 20634.540417768098,
     "source_listed_at": "2026-10-05T08:53:56",
     "peak_liquidity_usd": 20634.540417768098,
-    "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
+    "last_checked_at": "2026-10-06T23:47:56.262081+00:00",
     "rug_flag": false
   },
   {
@@ -10354,6 +10354,17 @@
     "source_listed_at": "2026-10-06T20:12:54",
     "peak_liquidity_usd": 5163.356702624409,
     "last_checked_at": "2026-10-06T20:13:00.476687+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-06T23:47:55.802008+00:00",
+    "address": "42bccASkkdwyk6RggcJuGerxAwYzW6TKuMxw293gSCMF",
+    "symbol": "$RUNNER",
+    "name": "The Runner Man",
+    "liquidity_usd": 7131.615418555512,
+    "source_listed_at": "2026-10-06T23:47:48",
+    "peak_liquidity_usd": 7131.615418555512,
+    "last_checked_at": "2026-10-06T23:47:56.262081+00:00",
     "rug_flag": false
   }
 ]
