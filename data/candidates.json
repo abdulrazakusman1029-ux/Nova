@@ -10144,7 +10144,7 @@
     "liquidity_usd": 3.137005247258059e-08,
     "source_listed_at": "2026-10-03T19:49:50",
     "peak_liquidity_usd": 5236.1844657008905,
-    "last_checked_at": "2026-10-04T02:32:41.229076+00:00",
+    "last_checked_at": "2026-10-06T00:45:47.694942+00:00",
     "rug_flag": true
   },
   {
@@ -10221,7 +10221,7 @@
     "liquidity_usd": 42728.327599924145,
     "source_listed_at": "2026-10-04T09:38:22",
     "peak_liquidity_usd": 42728.327599924145,
-    "last_checked_at": "2026-10-04T09:38:55.979255+00:00",
+    "last_checked_at": "2026-10-06T00:45:47.694942+00:00",
     "rug_flag": false
   },
   {
@@ -10262,11 +10262,11 @@
     "address": "AhuLEQftGzrg5rR4BFjVZQKJFzBodYwGZRec4fLQ3kSp",
     "symbol": "ORE",
     "name": "just buy 1 ore",
-    "liquidity_usd": 5466.958150817783,
+    "liquidity_usd": 59.115208784272276,
     "source_listed_at": "2026-10-05T18:21:09",
     "peak_liquidity_usd": 5466.958150817783,
-    "last_checked_at": "",
-    "rug_flag": false
+    "last_checked_at": "2026-10-06T00:45:47.694942+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-05T18:21:12.953334+00:00",
