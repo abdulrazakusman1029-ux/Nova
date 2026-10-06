@@ -10300,5 +10300,38 @@
     "peak_liquidity_usd": 6393.155681726841,
     "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-06T07:30:02.628755+00:00",
+    "address": "6QmTGZJyqg3PVy2sigHrvmyWAvrURbK8Jw4DNyjwmoon",
+    "symbol": "Abckoala",
+    "name": "Abc Scrape Koala",
+    "liquidity_usd": 122456.00018914783,
+    "source_listed_at": "2026-10-06T07:29:55",
+    "peak_liquidity_usd": 122456.00018914783,
+    "last_checked_at": "2026-10-06T07:30:03.354266+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-06T07:30:02.628776+00:00",
+    "address": "8ZVNM3mWSvB7CLQMXcjQbjJDfpUguArgC73ejzXUkY41",
+    "symbol": "TEST",
+    "name": "teast",
+    "liquidity_usd": 20368.53201070986,
+    "source_listed_at": "2026-10-06T07:29:39",
+    "peak_liquidity_usd": 20368.53201070986,
+    "last_checked_at": "2026-10-06T07:30:03.354266+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-06T07:30:02.628781+00:00",
+    "address": "5BGYompDfv54x7gExz5ZmnmgufsKzrzUMeiYHKRhR1zQ",
+    "symbol": "Elonhotdog",
+    "name": "Elonhotdog",
+    "liquidity_usd": 12840.921936222057,
+    "source_listed_at": "2026-10-06T07:29:36",
+    "peak_liquidity_usd": 12840.921936222057,
+    "last_checked_at": "2026-10-06T07:30:03.354266+00:00",
+    "rug_flag": false
   }
 ]
