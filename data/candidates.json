@@ -10366,5 +10366,49 @@
     "peak_liquidity_usd": 7131.615418555512,
     "last_checked_at": "2026-10-06T23:47:56.262081+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-07T05:49:37.306361+00:00",
+    "address": "2q1PayzwRLWNRcJTV6ZcLNyc92QGJywvasGdNhrSGdvN",
+    "symbol": ".Crypto",
+    "name": ".Crypto",
+    "liquidity_usd": 20191.260520079784,
+    "source_listed_at": "2026-10-07T05:49:29",
+    "peak_liquidity_usd": 20191.260520079784,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-07T05:49:37.306389+00:00",
+    "address": "ohGh8ZG7xSAV44yozqD23VdcTaTsdLiMtvnWYXWpump",
+    "symbol": "LOADED",
+    "name": "Loaded",
+    "liquidity_usd": 5506.114255732264,
+    "source_listed_at": "2026-10-07T05:49:25",
+    "peak_liquidity_usd": 5506.114255732264,
+    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-07T05:49:37.306395+00:00",
+    "address": "GEmqJTVWZjxTJw7zBDWwLRkkbCA8thKXWMwFnu3XiaYA",
+    "symbol": "DWAYNE",
+    "name": "Dwayne \"the shark\" Zohnson",
+    "liquidity_usd": 6355.165185922091,
+    "source_listed_at": "2026-10-07T05:49:19",
+    "peak_liquidity_usd": 6355.165185922091,
+    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-07T05:49:37.306403+00:00",
+    "address": "hkTB822yhAUaJiEiNXBKvXjBKAXXydvRvdcSeSU9quT",
+    "symbol": "dwayne",
+    "name": "Dwayne \"the shark\" Zohnson",
+    "liquidity_usd": 7503.9389442400325,
+    "source_listed_at": "2026-10-07T05:49:18",
+    "peak_liquidity_usd": 7503.9389442400325,
+    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "rug_flag": false
   }
 ]
