@@ -10273,11 +10273,11 @@
     "address": "FviAErbBsq5ZXYBpjqch6BYqCBi3HJ583HQumQzHMtdb",
     "symbol": "1",
     "name": "just buy 1 ore",
-    "liquidity_usd": 6123.719180171371,
+    "liquidity_usd": 78.14009373932306,
     "source_listed_at": "2026-10-05T18:21:03",
     "peak_liquidity_usd": 6123.719180171371,
-    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-07T19:56:33.325205+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-05T18:21:12.953339+00:00",
@@ -10287,7 +10287,7 @@
     "liquidity_usd": 6034.95177716165,
     "source_listed_at": "2026-10-05T18:20:44",
     "peak_liquidity_usd": 6034.95177716165,
-    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
+    "last_checked_at": "2026-10-07T19:56:33.325205+00:00",
     "rug_flag": false
   },
   {
@@ -10298,7 +10298,7 @@
     "liquidity_usd": 6393.155681726841,
     "source_listed_at": "2026-10-05T18:20:44",
     "peak_liquidity_usd": 6393.155681726841,
-    "last_checked_at": "2026-10-05T18:21:13.336325+00:00",
+    "last_checked_at": "2026-10-07T19:56:33.325205+00:00",
     "rug_flag": false
   },
   {
