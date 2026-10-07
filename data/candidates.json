@@ -10254,7 +10254,7 @@
     "liquidity_usd": 26364.79000030465,
     "source_listed_at": "2026-10-05T08:53:48",
     "peak_liquidity_usd": 26364.79000030465,
-    "last_checked_at": "2026-10-05T08:54:09.678798+00:00",
+    "last_checked_at": "2026-10-07T13:13:36.950070+00:00",
     "rug_flag": false
   },
   {
@@ -10375,7 +10375,7 @@
     "liquidity_usd": 20191.260520079784,
     "source_listed_at": "2026-10-07T05:49:29",
     "peak_liquidity_usd": 20191.260520079784,
-    "last_checked_at": "",
+    "last_checked_at": "2026-10-07T13:13:36.950070+00:00",
     "rug_flag": false
   },
   {
@@ -10409,6 +10409,17 @@
     "source_listed_at": "2026-10-07T05:49:18",
     "peak_liquidity_usd": 7503.9389442400325,
     "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-07T13:13:36.504680+00:00",
+    "address": "EibT5eSkPxhdiDumtUoDLuyWgaEP8w1gf7oP2vBbAeav",
+    "symbol": "Tweetboy",
+    "name": "Tweetboy",
+    "liquidity_usd": 19965.48932098753,
+    "source_listed_at": "2026-10-07T13:13:03",
+    "peak_liquidity_usd": 19965.48932098753,
+    "last_checked_at": "2026-10-07T13:13:36.950070+00:00",
     "rug_flag": false
   }
 ]
