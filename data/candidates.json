@@ -10383,11 +10383,11 @@
     "address": "ohGh8ZG7xSAV44yozqD23VdcTaTsdLiMtvnWYXWpump",
     "symbol": "LOADED",
     "name": "Loaded",
-    "liquidity_usd": 5506.114255732264,
+    "liquidity_usd": 0.15007729137606263,
     "source_listed_at": "2026-10-07T05:49:25",
     "peak_liquidity_usd": 5506.114255732264,
-    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-08T19:53:11.537363+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-07T05:49:37.306395+00:00",
@@ -10397,7 +10397,7 @@
     "liquidity_usd": 6355.165185922091,
     "source_listed_at": "2026-10-07T05:49:19",
     "peak_liquidity_usd": 6355.165185922091,
-    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "last_checked_at": "2026-10-08T19:53:11.537363+00:00",
     "rug_flag": false
   },
   {
@@ -10408,7 +10408,7 @@
     "liquidity_usd": 7503.9389442400325,
     "source_listed_at": "2026-10-07T05:49:18",
     "peak_liquidity_usd": 7503.9389442400325,
-    "last_checked_at": "2026-10-07T05:49:37.755938+00:00",
+    "last_checked_at": "2026-10-08T19:53:11.537363+00:00",
     "rug_flag": false
   },
   {
