@@ -10353,7 +10353,7 @@
     "liquidity_usd": 5163.356702624409,
     "source_listed_at": "2026-10-06T20:12:54",
     "peak_liquidity_usd": 5163.356702624409,
-    "last_checked_at": "2026-10-06T20:13:00.476687+00:00",
+    "last_checked_at": "2026-10-08T13:20:13.956946+00:00",
     "rug_flag": false
   },
   {
@@ -10364,7 +10364,7 @@
     "liquidity_usd": 7131.615418555512,
     "source_listed_at": "2026-10-06T23:47:48",
     "peak_liquidity_usd": 7131.615418555512,
-    "last_checked_at": "2026-10-06T23:47:56.262081+00:00",
+    "last_checked_at": "2026-10-08T13:20:13.956946+00:00",
     "rug_flag": false
   },
   {
@@ -10431,6 +10431,17 @@
     "source_listed_at": "2026-10-08T05:54:40",
     "peak_liquidity_usd": 21049.232694344762,
     "last_checked_at": "2026-10-08T05:55:16.098465+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-08T13:20:13.549723+00:00",
+    "address": "DJqAXx1RBRJNqjxyZxCmD7Eo7NvXCksYDWAu6tvbZyrH",
+    "symbol": "OMARCHY",
+    "name": "OMARCHY",
+    "liquidity_usd": 19169.633212372177,
+    "source_listed_at": "2026-10-08T13:19:43",
+    "peak_liquidity_usd": 19169.633212372177,
+    "last_checked_at": "2026-10-08T13:20:13.956946+00:00",
     "rug_flag": false
   }
 ]
