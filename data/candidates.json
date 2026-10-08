@@ -10331,7 +10331,7 @@
     "liquidity_usd": 12840.921936222057,
     "source_listed_at": "2026-10-06T07:29:36",
     "peak_liquidity_usd": 12840.921936222057,
-    "last_checked_at": "2026-10-06T07:30:03.354266+00:00",
+    "last_checked_at": "2026-10-08T05:55:16.098465+00:00",
     "rug_flag": false
   },
   {
@@ -10342,7 +10342,7 @@
     "liquidity_usd": 5472.870399643697,
     "source_listed_at": "2026-10-06T15:04:12",
     "peak_liquidity_usd": 5472.870399643697,
-    "last_checked_at": "2026-10-06T15:04:30.327383+00:00",
+    "last_checked_at": "2026-10-08T05:55:16.098465+00:00",
     "rug_flag": false
   },
   {
@@ -10420,6 +10420,17 @@
     "source_listed_at": "2026-10-07T13:13:03",
     "peak_liquidity_usd": 19965.48932098753,
     "last_checked_at": "2026-10-07T13:13:36.950070+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:15.443749+00:00",
+    "address": "Ax5M9egnF6QDXdCbPiXaB8aJvxnPLmNy9SDpTh5rBmqP",
+    "symbol": "GRAVY",
+    "name": "Gravy",
+    "liquidity_usd": 21049.232694344762,
+    "source_listed_at": "2026-10-08T05:54:40",
+    "peak_liquidity_usd": 21049.232694344762,
+    "last_checked_at": "2026-10-08T05:55:16.098465+00:00",
     "rug_flag": false
   }
 ]

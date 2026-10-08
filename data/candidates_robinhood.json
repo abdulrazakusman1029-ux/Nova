@@ -14880,14 +14880,14 @@
     "last_checked_at": "",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 34,
+      "risk_score": 29,
       "momentum": "Too new to tell",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Clean so far, too early to call",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -14913,14 +14913,14 @@
     "last_checked_at": "",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 33,
+      "risk_score": 28,
       "momentum": "Too new to tell",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Clean so far, too early to call",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -14946,14 +14946,14 @@
     "last_checked_at": "",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 30,
+      "risk_score": 25,
       "momentum": "Too new to tell",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Clean so far, too early to call",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -14979,14 +14979,14 @@
     "last_checked_at": "",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 5,
+      "risk_score": 3,
       "momentum": "Too new to tell",
       "depth_tier": "Established",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Clean so far, too early to call",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15012,14 +15012,14 @@
     "last_checked_at": "",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 38,
+      "risk_score": 33,
       "momentum": "Too new to tell",
       "depth_tier": "Nascent",
       "conditions_met": 3,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
-      "pattern_outcome": "undetermined",
+      "verdict": "Clean so far, too early to call",
+      "verdict_tone": "good",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15045,14 +15045,14 @@
     "last_checked_at": "2026-10-07T05:49:38.998264+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 26,
+      "risk_score": 21,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Holding steady",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15082,14 +15082,14 @@
     "last_checked_at": "2026-10-07T05:49:38.998264+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 38,
+      "risk_score": 33,
       "momentum": "Steady",
       "depth_tier": "Nascent",
       "conditions_met": 3,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
-      "pattern_outcome": "undetermined",
+      "verdict": "Holding steady",
+      "verdict_tone": "good",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15119,14 +15119,14 @@
     "last_checked_at": "2026-10-07T05:49:38.998264+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 38,
+      "risk_score": 33,
       "momentum": "Steady",
       "depth_tier": "Nascent",
       "conditions_met": 3,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
-      "pattern_outcome": "undetermined",
+      "verdict": "Holding steady",
+      "verdict_tone": "good",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15156,14 +15156,14 @@
     "last_checked_at": "2026-10-07T05:49:38.998264+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 33,
+      "risk_score": 28,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
       "verdict": "Holding steady",
       "verdict_tone": "good",
-      "pattern_outcome": "undetermined",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15193,14 +15193,14 @@
     "last_checked_at": "2026-10-07T05:49:38.998264+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 38,
+      "risk_score": 33,
       "momentum": "Steady",
       "depth_tier": "Nascent",
       "conditions_met": 3,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
-      "pattern_outcome": "undetermined",
+      "verdict": "Holding steady",
+      "verdict_tone": "good",
+      "pattern_outcome": "faded",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
     }
@@ -15551,7 +15551,7 @@
     "last_checked_at": "2026-10-07T19:56:35.465531+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 43,
+      "risk_score": 36,
       "momentum": "Steady",
       "depth_tier": "Nascent",
       "conditions_met": 3,
@@ -15588,13 +15588,13 @@
     "last_checked_at": "2026-10-07T19:56:35.465531+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 39,
+      "risk_score": 32,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
+      "verdict": "Holding steady",
+      "verdict_tone": "good",
       "pattern_outcome": "undetermined",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
@@ -15625,7 +15625,7 @@
     "last_checked_at": "2026-10-07T19:56:35.465531+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 45,
+      "risk_score": 38,
       "momentum": "Steady",
       "depth_tier": "Nascent",
       "conditions_met": 3,
@@ -15662,13 +15662,13 @@
     "last_checked_at": "2026-10-07T19:56:35.465531+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 41,
+      "risk_score": 34,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
       "conditions_total": 4,
-      "verdict": "Mixed signals",
-      "verdict_tone": "warning",
+      "verdict": "Holding steady",
+      "verdict_tone": "good",
       "pattern_outcome": "undetermined",
       "pattern_score": null,
       "pattern_label": "Not enough resolved history yet to compare against"
@@ -15699,7 +15699,7 @@
     "last_checked_at": "2026-10-08T00:08:53.278933+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 34,
+      "risk_score": 26,
       "momentum": "Steady",
       "depth_tier": "Building",
       "conditions_met": 4,
@@ -15736,7 +15736,7 @@
     "last_checked_at": "2026-10-08T00:08:53.278933+00:00",
     "rug_flag": false,
     "analysis": {
-      "risk_score": 48,
+      "risk_score": 40,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
@@ -15773,7 +15773,320 @@
     "last_checked_at": "2026-10-08T00:08:53.278933+00:00",
     "rug_flag": false,
     "analysis": {
+      "risk_score": 42,
+      "momentum": "Steady",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994782+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v2-robinhood",
+    "address": "0xf9dea68f03721b2eaa38596a89ce159ab075d413",
+    "token_address": "",
+    "symbol": "CRAWL / WETH",
+    "name": "CRAWL / WETH",
+    "liquidity_usd": 207320.309155285,
+    "pool_created_at": "2026-10-08T05:54:04Z",
+    "peak_liquidity_usd": 207320.309155285,
+    "first_liquidity_usd": 207320.309155285,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994782+00:00",
+        "liquidity_usd": 207320.309155285
+      }
+    ],
+    "last_checked_at": "",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 20,
+      "momentum": "Too new to tell",
+      "depth_tier": "Established",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Clean so far, too early to call",
+      "verdict_tone": "good",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994825+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v4-robinhood",
+    "address": "0xf4783ceb59c4d614ae3de49729e90776fd25b54bc70f8e9e984a4951003afd30",
+    "token_address": "",
+    "symbol": "GAYBACK / WETH 0.25%",
+    "name": "GAYBACK / WETH 0.25%",
+    "liquidity_usd": 15888.4074,
+    "pool_created_at": "2026-10-08T05:53:25Z",
+    "peak_liquidity_usd": 15888.4074,
+    "first_liquidity_usd": 15888.4074,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994825+00:00",
+        "liquidity_usd": 15888.4074
+      }
+    ],
+    "last_checked_at": "",
+    "rug_flag": false,
+    "analysis": {
       "risk_score": 50,
+      "momentum": "Too new to tell",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994832+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v2-robinhood",
+    "address": "0x5a60548f564bc703843324dba5be2fb7ebbfdab5",
+    "token_address": "",
+    "symbol": "TCHK / WETH",
+    "name": "TCHK / WETH",
+    "liquidity_usd": 6760.9971,
+    "pool_created_at": "2026-10-08T05:52:54Z",
+    "peak_liquidity_usd": 6760.9971,
+    "first_liquidity_usd": 6760.9971,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994832+00:00",
+        "liquidity_usd": 6760.9971
+      }
+    ],
+    "last_checked_at": "",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 53,
+      "momentum": "Too new to tell",
+      "depth_tier": "Nascent",
+      "conditions_met": 3,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994837+00:00",
+    "chain": "robinhood",
+    "dex": "pons-v2",
+    "address": "0x27dddd5574c83a927f5e2854d58d140ec415f726",
+    "token_address": "",
+    "symbol": "PACK / WETH",
+    "name": "PACK / WETH",
+    "liquidity_usd": 6204.6949,
+    "pool_created_at": "2026-10-08T05:51:20Z",
+    "peak_liquidity_usd": 6204.6949,
+    "first_liquidity_usd": 6204.6949,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994837+00:00",
+        "liquidity_usd": 6204.6949
+      }
+    ],
+    "last_checked_at": "",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 53,
+      "momentum": "Too new to tell",
+      "depth_tier": "Nascent",
+      "conditions_met": 3,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994841+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v4-robinhood",
+    "address": "0xb54faf36cbb92e63d1dbe44f2985ec43f1c7f665ae2178727a9a4f6d9e5c7f09",
+    "token_address": "",
+    "symbol": "PING / WETH 0.3%",
+    "name": "PING / WETH 0.3%",
+    "liquidity_usd": 46349.4923,
+    "pool_created_at": "2026-10-08T05:49:12Z",
+    "peak_liquidity_usd": 46349.4923,
+    "first_liquidity_usd": 46349.4923,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994841+00:00",
+        "liquidity_usd": 46349.4923
+      }
+    ],
+    "last_checked_at": "2026-10-08T05:55:17.502565+00:00",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 40,
+      "momentum": "Steady",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994844+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v4-robinhood",
+    "address": "0x954b2be1b7e744cc8afc98c94e90c4f43b05d195e476a89662c902927002c19b",
+    "token_address": "",
+    "symbol": "Tincan / WETH 1%",
+    "name": "Tincan / WETH 1%",
+    "liquidity_usd": 32978.2562,
+    "pool_created_at": "2026-10-08T05:48:43Z",
+    "peak_liquidity_usd": 32978.2562,
+    "first_liquidity_usd": 32779.985,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994844+00:00",
+        "liquidity_usd": 32779.985
+      },
+      {
+        "at": "2026-10-08T05:55:17.502565+00:00",
+        "liquidity_usd": 32978.2562
+      }
+    ],
+    "last_checked_at": "2026-10-08T05:55:17.502565+00:00",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 44,
+      "momentum": "Steady",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994847+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v4-robinhood",
+    "address": "0xea3b206ad91ea1291eeac3de78cab58fcde981058510fd7b71d98d5dd7199c74",
+    "token_address": "",
+    "symbol": "CAPYBARA / WETH 1%",
+    "name": "CAPYBARA / WETH 1%",
+    "liquidity_usd": 22811.9766,
+    "pool_created_at": "2026-10-08T05:48:43Z",
+    "peak_liquidity_usd": 22811.9766,
+    "first_liquidity_usd": 22304.7413,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994847+00:00",
+        "liquidity_usd": 22304.7413
+      },
+      {
+        "at": "2026-10-08T05:55:17.502565+00:00",
+        "liquidity_usd": 22811.9766
+      }
+    ],
+    "last_checked_at": "2026-10-08T05:55:17.502565+00:00",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 47,
+      "momentum": "Steady",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994852+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-v4-robinhood",
+    "address": "0xaaf9f85ba7fbc7f085eafba0a4b66ae827de51b9a865cc996ece43ee7472139f",
+    "token_address": "",
+    "symbol": "CAPYBARA / WETH 1%",
+    "name": "CAPYBARA / WETH 1%",
+    "liquidity_usd": 26429.9127,
+    "pool_created_at": "2026-10-08T05:48:42Z",
+    "peak_liquidity_usd": 26429.9127,
+    "first_liquidity_usd": 24887.6605,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994852+00:00",
+        "liquidity_usd": 24887.6605
+      },
+      {
+        "at": "2026-10-08T05:55:17.502565+00:00",
+        "liquidity_usd": 26429.9127
+      }
+    ],
+    "last_checked_at": "2026-10-08T05:55:17.502565+00:00",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 46,
+      "momentum": "Steady",
+      "depth_tier": "Early",
+      "conditions_met": 4,
+      "conditions_total": 4,
+      "verdict": "Mixed signals",
+      "verdict_tone": "warning",
+      "pattern_outcome": "undetermined",
+      "pattern_score": null,
+      "pattern_label": "Not enough resolved history yet to compare against"
+    }
+  },
+  {
+    "discovered_at": "2026-10-08T05:55:16.994862+00:00",
+    "chain": "robinhood",
+    "dex": "uniswap-pools-trade",
+    "address": "0x6aab46968e0e5c5d01a96e106ef013cb49461574462008aeebc576ee1c7427c2",
+    "token_address": "",
+    "symbol": "SHITCOIN / WETH 0.25%",
+    "name": "SHITCOIN / WETH 0.25%",
+    "liquidity_usd": 19648.1125,
+    "pool_created_at": "2026-10-08T05:48:19Z",
+    "peak_liquidity_usd": 19648.1125,
+    "first_liquidity_usd": 19592.8945,
+    "liquidity_history": [
+      {
+        "at": "2026-10-08T05:55:16.994862+00:00",
+        "liquidity_usd": 19592.8945
+      },
+      {
+        "at": "2026-10-08T05:55:17.502565+00:00",
+        "liquidity_usd": 19648.1125
+      }
+    ],
+    "last_checked_at": "2026-10-08T05:55:17.502565+00:00",
+    "rug_flag": false,
+    "analysis": {
+      "risk_score": 48,
       "momentum": "Steady",
       "depth_tier": "Early",
       "conditions_met": 4,
