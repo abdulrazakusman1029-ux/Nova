@@ -10386,7 +10386,7 @@
     "liquidity_usd": 0.15007729137606263,
     "source_listed_at": "2026-10-07T05:49:25",
     "peak_liquidity_usd": 5506.114255732264,
-    "last_checked_at": "2026-10-08T19:53:11.537363+00:00",
+    "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
     "rug_flag": true
   },
   {
@@ -10441,7 +10441,7 @@
     "liquidity_usd": 19169.633212372177,
     "source_listed_at": "2026-10-08T13:19:43",
     "peak_liquidity_usd": 19169.633212372177,
-    "last_checked_at": "2026-10-08T13:20:13.956946+00:00",
+    "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
     "rug_flag": false
   },
   {
@@ -10475,6 +10475,17 @@
     "source_listed_at": "2026-10-09T07:19:53",
     "peak_liquidity_usd": 18694.906551723456,
     "last_checked_at": "2026-10-09T07:19:58.504314+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-09T20:49:49.886515+00:00",
+    "address": "CKKLNG15SzD4eRcEU8LbCvPS766CNveBX2gUK9MQBkjA",
+    "symbol": "CALLINU",
+    "name": "CALLINU",
+    "liquidity_usd": 17209.545896713505,
+    "source_listed_at": "2026-10-09T20:49:10",
+    "peak_liquidity_usd": 17209.545896713505,
+    "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
     "rug_flag": false
   }
 ]
