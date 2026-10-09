@@ -10375,7 +10375,7 @@
     "liquidity_usd": 20191.260520079784,
     "source_listed_at": "2026-10-07T05:49:29",
     "peak_liquidity_usd": 20191.260520079784,
-    "last_checked_at": "2026-10-07T13:13:36.950070+00:00",
+    "last_checked_at": "2026-10-09T00:17:42.924739+00:00",
     "rug_flag": false
   },
   {
@@ -10442,6 +10442,28 @@
     "source_listed_at": "2026-10-08T13:19:43",
     "peak_liquidity_usd": 19169.633212372177,
     "last_checked_at": "2026-10-08T13:20:13.956946+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-09T00:17:42.385615+00:00",
+    "address": "7rSjZGnYMZiD8wz1Hh6RRjjW6dY4Ct6qWGrKVNCNpBVN",
+    "symbol": "CyberShama",
+    "name": "The Hustle Witchcraft",
+    "liquidity_usd": 11708.464822833821,
+    "source_listed_at": "2026-10-09T00:17:36",
+    "peak_liquidity_usd": 11708.464822833821,
+    "last_checked_at": "2026-10-09T00:17:42.924739+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-09T00:17:42.385655+00:00",
+    "address": "CSBfEBFt4VsJ1GvZ2xzE6CKsoB9CytsbMzEm1xoVoS2m",
+    "symbol": "OP_CAT",
+    "name": "OP_CAT",
+    "liquidity_usd": 19718.695318976763,
+    "source_listed_at": "2026-10-09T00:17:03",
+    "peak_liquidity_usd": 19718.695318976763,
+    "last_checked_at": "2026-10-09T00:17:42.924739+00:00",
     "rug_flag": false
   }
 ]
