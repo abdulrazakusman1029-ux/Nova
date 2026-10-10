@@ -10452,7 +10452,7 @@
     "liquidity_usd": 11708.464822833821,
     "source_listed_at": "2026-10-09T00:17:36",
     "peak_liquidity_usd": 11708.464822833821,
-    "last_checked_at": "2026-10-10T06:59:47.027097+00:00",
+    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
     "rug_flag": false
   },
   {
@@ -10519,6 +10519,28 @@
     "source_listed_at": "2026-10-10T06:59:40",
     "peak_liquidity_usd": 15555.373002510623,
     "last_checked_at": "2026-10-10T06:59:47.027097+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-10T22:27:10.199813+00:00",
+    "address": "4bKks4Wm5p7f4YLn98e5dawQUN8MuZhebaQfpBLhbonk",
+    "symbol": "Panturt",
+    "name": "Panama Canal Turtle",
+    "liquidity_usd": 108504.7968595075,
+    "source_listed_at": "2026-10-10T22:27:06",
+    "peak_liquidity_usd": 108504.7968595075,
+    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-10T22:27:10.199830+00:00",
+    "address": "FBCNBdLVSU3wa4yeUbNzGpRMo2wxuPGG9MreEm8dp2jz",
+    "symbol": "ZQI",
+    "name": "Z Quantum Inu",
+    "liquidity_usd": 19187.83166371761,
+    "source_listed_at": "2026-10-10T22:26:49",
+    "peak_liquidity_usd": 19187.83166371761,
+    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
     "rug_flag": false
   }
 ]
