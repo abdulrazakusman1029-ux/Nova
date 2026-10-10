@@ -10452,7 +10452,7 @@
     "liquidity_usd": 11708.464822833821,
     "source_listed_at": "2026-10-09T00:17:36",
     "peak_liquidity_usd": 11708.464822833821,
-    "last_checked_at": "2026-10-09T00:17:42.924739+00:00",
+    "last_checked_at": "2026-10-10T06:59:47.027097+00:00",
     "rug_flag": false
   },
   {
@@ -10463,7 +10463,7 @@
     "liquidity_usd": 19718.695318976763,
     "source_listed_at": "2026-10-09T00:17:03",
     "peak_liquidity_usd": 19718.695318976763,
-    "last_checked_at": "2026-10-09T00:17:42.924739+00:00",
+    "last_checked_at": "2026-10-10T06:59:47.027097+00:00",
     "rug_flag": false
   },
   {
@@ -10508,6 +10508,17 @@
     "source_listed_at": "2026-10-10T00:44:18",
     "peak_liquidity_usd": 17779.306711057096,
     "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-10T06:59:46.476685+00:00",
+    "address": "ELUiftmQVXRUW6tKeBvaVTe85kR6wYqk5hbH4YRMzsmV",
+    "symbol": "TM",
+    "name": "TeleMoney",
+    "liquidity_usd": 15555.373002510623,
+    "source_listed_at": "2026-10-10T06:59:40",
+    "peak_liquidity_usd": 15555.373002510623,
+    "last_checked_at": "2026-10-10T06:59:47.027097+00:00",
     "rug_flag": false
   }
 ]
