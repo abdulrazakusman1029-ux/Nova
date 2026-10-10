@@ -10482,11 +10482,11 @@
     "address": "CKKLNG15SzD4eRcEU8LbCvPS766CNveBX2gUK9MQBkjA",
     "symbol": "CALLINU",
     "name": "CALLINU",
-    "liquidity_usd": 17209.545896713505,
+    "liquidity_usd": 3.999953595782935e-05,
     "source_listed_at": "2026-10-09T20:49:10",
     "peak_liquidity_usd": 17209.545896713505,
-    "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-10T18:31:04.369861+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-10T00:44:40.187888+00:00",
@@ -10496,7 +10496,7 @@
     "liquidity_usd": 11712.556013727215,
     "source_listed_at": "2026-10-10T00:44:29",
     "peak_liquidity_usd": 11712.556013727215,
-    "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
+    "last_checked_at": "2026-10-10T18:31:04.369861+00:00",
     "rug_flag": false
   },
   {
@@ -10507,7 +10507,7 @@
     "liquidity_usd": 17778.343389928785,
     "source_listed_at": "2026-10-10T00:44:18",
     "peak_liquidity_usd": 17779.306711057096,
-    "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
+    "last_checked_at": "2026-10-10T18:31:04.369861+00:00",
     "rug_flag": false
   },
   {
