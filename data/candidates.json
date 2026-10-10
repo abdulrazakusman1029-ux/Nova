@@ -10397,7 +10397,7 @@
     "liquidity_usd": 6355.165185922091,
     "source_listed_at": "2026-10-07T05:49:19",
     "peak_liquidity_usd": 6355.165185922091,
-    "last_checked_at": "2026-10-08T19:53:11.537363+00:00",
+    "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
     "rug_flag": false
   },
   {
@@ -10486,6 +10486,28 @@
     "source_listed_at": "2026-10-09T20:49:10",
     "peak_liquidity_usd": 17209.545896713505,
     "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-10T00:44:40.187888+00:00",
+    "address": "6F5QpkDttNcqeCz4m4vzXxQSAZSTDdBbhsXzr9QJpump",
+    "symbol": "FOMO",
+    "name": "FOMO",
+    "liquidity_usd": 11712.556013727215,
+    "source_listed_at": "2026-10-10T00:44:29",
+    "peak_liquidity_usd": 11712.556013727215,
+    "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-10T00:44:40.187913+00:00",
+    "address": "7M2pKxPD4fHzyV2Ap3yNvDwqyMjuuPJDxyYbV4S78ZCC",
+    "symbol": "Starblo",
+    "name": "Starblo",
+    "liquidity_usd": 17778.343389928785,
+    "source_listed_at": "2026-10-10T00:44:18",
+    "peak_liquidity_usd": 17779.306711057096,
+    "last_checked_at": "2026-10-10T00:44:40.549942+00:00",
     "rug_flag": false
   }
 ]
