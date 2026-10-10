@@ -10430,7 +10430,7 @@
     "liquidity_usd": 0.005418192843533452,
     "source_listed_at": "2026-10-08T05:54:40",
     "peak_liquidity_usd": 21049.232694344762,
-    "last_checked_at": "2026-10-09T15:14:20.485781+00:00",
+    "last_checked_at": "2026-10-10T13:35:17.910204+00:00",
     "rug_flag": true
   },
   {
@@ -10438,11 +10438,11 @@
     "address": "DJqAXx1RBRJNqjxyZxCmD7Eo7NvXCksYDWAu6tvbZyrH",
     "symbol": "OMARCHY",
     "name": "OMARCHY",
-    "liquidity_usd": 19169.633212372177,
+    "liquidity_usd": 0.00041373797293133127,
     "source_listed_at": "2026-10-08T13:19:43",
     "peak_liquidity_usd": 19169.633212372177,
-    "last_checked_at": "2026-10-09T20:49:50.319729+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-10T13:35:17.910204+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-09T00:17:42.385615+00:00",
@@ -10471,11 +10471,11 @@
     "address": "5ZVRYPjKHb7ryaum5VRxsxBa17m2C4q3eQeeL9ZqPqPV",
     "symbol": "WINK",
     "name": " ;)",
-    "liquidity_usd": 18694.906551723456,
+    "liquidity_usd": 2.19606142744868e-07,
     "source_listed_at": "2026-10-09T07:19:53",
     "peak_liquidity_usd": 18694.906551723456,
-    "last_checked_at": "2026-10-09T07:19:58.504314+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-10T13:35:17.910204+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-09T20:49:49.886515+00:00",
