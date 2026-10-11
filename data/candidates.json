@@ -10452,7 +10452,7 @@
     "liquidity_usd": 11708.464822833821,
     "source_listed_at": "2026-10-09T00:17:36",
     "peak_liquidity_usd": 11708.464822833821,
-    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
+    "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
     "rug_flag": false
   },
   {
@@ -10529,7 +10529,7 @@
     "liquidity_usd": 108504.7968595075,
     "source_listed_at": "2026-10-10T22:27:06",
     "peak_liquidity_usd": 108504.7968595075,
-    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
+    "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
     "rug_flag": false
   },
   {
@@ -10552,6 +10552,17 @@
     "source_listed_at": "2026-10-11T08:42:50",
     "peak_liquidity_usd": 18590.98152603618,
     "last_checked_at": "2026-10-11T08:43:19.845011+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-11T20:12:20.985714+00:00",
+    "address": "12RCGaLRwoEqks8pXXMrZjgzpH6qQDYRj2SJVuT6pump",
+    "symbol": "Mr Beast",
+    "name": "MrBeast",
+    "liquidity_usd": 11915.843324707754,
+    "source_listed_at": "2026-10-11T20:12:17",
+    "peak_liquidity_usd": 11915.843324707754,
+    "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
     "rug_flag": false
   }
 ]
