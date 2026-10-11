@@ -10463,7 +10463,7 @@
     "liquidity_usd": 4.376453452992091e-05,
     "source_listed_at": "2026-10-09T00:17:03",
     "peak_liquidity_usd": 19718.695318976763,
-    "last_checked_at": "2026-10-11T01:49:08.983829+00:00",
+    "last_checked_at": "2026-10-11T23:38:32.575238+00:00",
     "rug_flag": true
   },
   {
@@ -10540,7 +10540,7 @@
     "liquidity_usd": 19187.83166371761,
     "source_listed_at": "2026-10-10T22:26:49",
     "peak_liquidity_usd": 19187.83166371761,
-    "last_checked_at": "2026-10-10T22:27:10.640134+00:00",
+    "last_checked_at": "2026-10-11T23:38:32.575238+00:00",
     "rug_flag": false
   },
   {
@@ -10563,6 +10563,17 @@
     "source_listed_at": "2026-10-11T20:12:17",
     "peak_liquidity_usd": 11915.843324707754,
     "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-11T23:38:32.128005+00:00",
+    "address": "3SrNDgv6gaWaT61iVojAjcRq5dTNvZ7wcks1fMPNR49T",
+    "symbol": "ROGGOTH",
+    "name": "ROME Shoggoth",
+    "liquidity_usd": 19337.14313700433,
+    "source_listed_at": "2026-10-11T23:38:04",
+    "peak_liquidity_usd": 19337.14313700433,
+    "last_checked_at": "2026-10-11T23:38:32.575238+00:00",
     "rug_flag": false
   }
 ]
