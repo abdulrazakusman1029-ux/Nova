@@ -10485,7 +10485,7 @@
     "liquidity_usd": 4.005408222556066e-05,
     "source_listed_at": "2026-10-09T20:49:10",
     "peak_liquidity_usd": 17209.545896713505,
-    "last_checked_at": "2026-10-11T15:36:06.458709+00:00",
+    "last_checked_at": "2026-10-12T15:13:44.702040+00:00",
     "rug_flag": true
   },
   {
@@ -10496,7 +10496,7 @@
     "liquidity_usd": 11712.556013727215,
     "source_listed_at": "2026-10-10T00:44:29",
     "peak_liquidity_usd": 11712.556013727215,
-    "last_checked_at": "2026-10-11T15:36:06.458709+00:00",
+    "last_checked_at": "2026-10-12T15:13:44.702040+00:00",
     "rug_flag": false
   },
   {
@@ -10548,11 +10548,11 @@
     "address": "BzzvbUET3x3jbqArNjCCSAUBH4Q8dXpFZEyisGfMnaXh",
     "symbol": "SOULJA",
     "name": "Official Soulja Boy",
-    "liquidity_usd": 18590.98152603618,
+    "liquidity_usd": 0.0004511952493282117,
     "source_listed_at": "2026-10-11T08:42:50",
     "peak_liquidity_usd": 18590.98152603618,
-    "last_checked_at": "2026-10-11T08:43:19.845011+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-12T15:13:44.702040+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-11T20:12:20.985714+00:00",
