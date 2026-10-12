@@ -10504,11 +10504,11 @@
     "address": "7M2pKxPD4fHzyV2Ap3yNvDwqyMjuuPJDxyYbV4S78ZCC",
     "symbol": "Starblo",
     "name": "Starblo",
-    "liquidity_usd": 17778.343389928785,
+    "liquidity_usd": 0.00042687257917909944,
     "source_listed_at": "2026-10-10T00:44:18",
     "peak_liquidity_usd": 17779.306711057096,
-    "last_checked_at": "2026-10-11T15:36:06.458709+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-12T22:54:40.518338+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-10T06:59:46.476685+00:00",
@@ -10529,7 +10529,7 @@
     "liquidity_usd": 108504.7968595075,
     "source_listed_at": "2026-10-10T22:27:06",
     "peak_liquidity_usd": 108504.7968595075,
-    "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
+    "last_checked_at": "2026-10-12T22:54:40.518338+00:00",
     "rug_flag": false
   },
   {
@@ -10559,11 +10559,11 @@
     "address": "12RCGaLRwoEqks8pXXMrZjgzpH6qQDYRj2SJVuT6pump",
     "symbol": "Mr Beast",
     "name": "MrBeast",
-    "liquidity_usd": 11915.843324707754,
+    "liquidity_usd": 79.67723646868654,
     "source_listed_at": "2026-10-11T20:12:17",
     "peak_liquidity_usd": 11915.843324707754,
-    "last_checked_at": "2026-10-11T20:12:21.421464+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-12T22:54:40.518338+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-11T23:38:32.128005+00:00",
