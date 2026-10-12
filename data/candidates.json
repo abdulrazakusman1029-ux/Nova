@@ -10474,7 +10474,7 @@
     "liquidity_usd": 2.19606142744868e-07,
     "source_listed_at": "2026-10-09T07:19:53",
     "peak_liquidity_usd": 18694.906551723456,
-    "last_checked_at": "2026-10-11T08:43:19.845011+00:00",
+    "last_checked_at": "2026-10-12T05:48:30.008959+00:00",
     "rug_flag": true
   },
   {
@@ -10518,7 +10518,7 @@
     "liquidity_usd": 15555.373002510623,
     "source_listed_at": "2026-10-10T06:59:40",
     "peak_liquidity_usd": 15555.373002510623,
-    "last_checked_at": "2026-10-11T01:49:08.983829+00:00",
+    "last_checked_at": "2026-10-12T05:48:30.008959+00:00",
     "rug_flag": false
   },
   {
@@ -10574,6 +10574,17 @@
     "source_listed_at": "2026-10-11T23:38:04",
     "peak_liquidity_usd": 19337.14313700433,
     "last_checked_at": "2026-10-11T23:38:32.575238+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-12T05:48:29.545354+00:00",
+    "address": "9FB5ZEHE4N8ERY65ga2HtqJ9vkpKAgtDsTAnFscwpump",
+    "symbol": "PYRAMI",
+    "name": "Pyrami",
+    "liquidity_usd": 6309.01175151397,
+    "source_listed_at": "2026-10-12T05:48:13",
+    "peak_liquidity_usd": 6309.01175151397,
+    "last_checked_at": "2026-10-12T05:48:30.008959+00:00",
     "rug_flag": false
   }
 ]
