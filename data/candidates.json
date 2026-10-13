@@ -10586,5 +10586,49 @@
     "peak_liquidity_usd": 6309.01175151397,
     "last_checked_at": "2026-10-12T05:48:30.008959+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-13T03:30:19.474440+00:00",
+    "address": "FMzu2fn4Fh9HJHTmVqiLzU9X4jjnCFinJgSvtjRepump",
+    "symbol": "FOMO",
+    "name": "fomo",
+    "liquidity_usd": 11447.030544106237,
+    "source_listed_at": "2026-10-13T03:30:14",
+    "peak_liquidity_usd": 11447.030544106237,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-13T03:30:19.474458+00:00",
+    "address": "Ens8HMiWiSMmqbTjHFxNTt1MoH4VACtKrB1kSKwTpump",
+    "symbol": "e",
+    "name": "e",
+    "liquidity_usd": 5050.447558920395,
+    "source_listed_at": "2026-10-13T03:30:13",
+    "peak_liquidity_usd": 5050.447558920395,
+    "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-13T03:30:19.474463+00:00",
+    "address": "6kZuEMJnkSmi4xUffAJDikcfeUizbUwq3tHS6jY1pump",
+    "symbol": "ANUBIS",
+    "name": "The Anubis",
+    "liquidity_usd": 5837.388852808634,
+    "source_listed_at": "2026-10-13T03:29:54",
+    "peak_liquidity_usd": 5837.388852808634,
+    "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-13T03:30:19.474466+00:00",
+    "address": "2nw8fDYHppRKGr44jML36Pz7YgjdxYPZ2krs6o36pump",
+    "symbol": "3",
+    "name": "3",
+    "liquidity_usd": 5345.468909791325,
+    "source_listed_at": "2026-10-13T03:29:51",
+    "peak_liquidity_usd": 5345.468909791325,
+    "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "rug_flag": false
   }
 ]
