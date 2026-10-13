@@ -10540,7 +10540,7 @@
     "liquidity_usd": 19187.83166371761,
     "source_listed_at": "2026-10-10T22:26:49",
     "peak_liquidity_usd": 19187.83166371761,
-    "last_checked_at": "2026-10-11T23:38:32.575238+00:00",
+    "last_checked_at": "2026-10-13T11:41:42.285413+00:00",
     "rug_flag": false
   },
   {
@@ -10595,7 +10595,7 @@
     "liquidity_usd": 11447.030544106237,
     "source_listed_at": "2026-10-13T03:30:14",
     "peak_liquidity_usd": 11447.030544106237,
-    "last_checked_at": "",
+    "last_checked_at": "2026-10-13T11:41:42.285413+00:00",
     "rug_flag": false
   },
   {
@@ -10629,6 +10629,17 @@
     "source_listed_at": "2026-10-13T03:29:51",
     "peak_liquidity_usd": 5345.468909791325,
     "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-13T11:41:41.835842+00:00",
+    "address": "DP5Up6oEx71LCW1G2zMFPE5LTcBj9oRc8FbspwzjPoo4",
+    "symbol": "Jellyfish",
+    "name": "SpaceX Jellyfish",
+    "liquidity_usd": 17269.12706318846,
+    "source_listed_at": "2026-10-13T11:41:31",
+    "peak_liquidity_usd": 17269.12706318846,
+    "last_checked_at": "2026-10-13T11:41:42.285413+00:00",
     "rug_flag": false
   }
 ]
