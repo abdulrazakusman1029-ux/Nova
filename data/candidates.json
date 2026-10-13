@@ -10559,10 +10559,10 @@
     "address": "12RCGaLRwoEqks8pXXMrZjgzpH6qQDYRj2SJVuT6pump",
     "symbol": "Mr Beast",
     "name": "MrBeast",
-    "liquidity_usd": 79.67723646868654,
+    "liquidity_usd": 77.23808279198258,
     "source_listed_at": "2026-10-11T20:12:17",
     "peak_liquidity_usd": 11915.843324707754,
-    "last_checked_at": "2026-10-12T22:54:40.518338+00:00",
+    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
     "rug_flag": true
   },
   {
@@ -10606,7 +10606,7 @@
     "liquidity_usd": 5050.447558920395,
     "source_listed_at": "2026-10-13T03:30:13",
     "peak_liquidity_usd": 5050.447558920395,
-    "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
     "rug_flag": false
   },
   {
@@ -10617,7 +10617,7 @@
     "liquidity_usd": 5837.388852808634,
     "source_listed_at": "2026-10-13T03:29:54",
     "peak_liquidity_usd": 5837.388852808634,
-    "last_checked_at": "2026-10-13T03:30:19.939951+00:00",
+    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
     "rug_flag": false
   },
   {
