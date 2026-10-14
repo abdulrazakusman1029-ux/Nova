@@ -10595,7 +10595,7 @@
     "liquidity_usd": 11447.030544106237,
     "source_listed_at": "2026-10-13T03:30:14",
     "peak_liquidity_usd": 11447.030544106237,
-    "last_checked_at": "2026-10-14T04:45:55.264873+00:00",
+    "last_checked_at": "2026-10-14T19:18:39.692859+00:00",
     "rug_flag": false
   },
   {
@@ -10617,7 +10617,7 @@
     "liquidity_usd": 5837.388852808634,
     "source_listed_at": "2026-10-13T03:29:54",
     "peak_liquidity_usd": 5837.388852808634,
-    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
+    "last_checked_at": "2026-10-14T19:18:39.692859+00:00",
     "rug_flag": false
   },
   {
@@ -10662,6 +10662,17 @@
     "source_listed_at": "2026-10-14T10:05:53",
     "peak_liquidity_usd": 107505.48721309075,
     "last_checked_at": "2026-10-14T10:06:38.366179+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-14T19:18:39.199557+00:00",
+    "address": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
+    "symbol": "STREAM",
+    "name": "streamoors",
+    "liquidity_usd": 28373.488056375234,
+    "source_listed_at": "2026-10-14T19:18:29",
+    "peak_liquidity_usd": 28373.488056375234,
+    "last_checked_at": "2026-10-14T19:18:39.692859+00:00",
     "rug_flag": false
   }
 ]
