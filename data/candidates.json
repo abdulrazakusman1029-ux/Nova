@@ -10562,7 +10562,7 @@
     "liquidity_usd": 77.23808279198258,
     "source_listed_at": "2026-10-11T20:12:17",
     "peak_liquidity_usd": 11915.843324707754,
-    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
+    "last_checked_at": "2026-10-14T15:03:20.996838+00:00",
     "rug_flag": true
   },
   {
@@ -10581,11 +10581,11 @@
     "address": "9FB5ZEHE4N8ERY65ga2HtqJ9vkpKAgtDsTAnFscwpump",
     "symbol": "PYRAMI",
     "name": "Pyrami",
-    "liquidity_usd": 6309.01175151397,
+    "liquidity_usd": 0.1598373614851566,
     "source_listed_at": "2026-10-12T05:48:13",
     "peak_liquidity_usd": 6309.01175151397,
-    "last_checked_at": "2026-10-13T19:12:39.788175+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-14T15:03:20.996838+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-13T03:30:19.474440+00:00",
@@ -10606,7 +10606,7 @@
     "liquidity_usd": 5050.447558920395,
     "source_listed_at": "2026-10-13T03:30:13",
     "peak_liquidity_usd": 5050.447558920395,
-    "last_checked_at": "2026-10-13T23:15:57.856173+00:00",
+    "last_checked_at": "2026-10-14T15:03:20.996838+00:00",
     "rug_flag": false
   },
   {
