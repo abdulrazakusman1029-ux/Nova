@@ -10628,7 +10628,7 @@
     "liquidity_usd": 0.15567395717707247,
     "source_listed_at": "2026-10-13T03:29:51",
     "peak_liquidity_usd": 5345.468909791325,
-    "last_checked_at": "2026-10-14T23:09:57.292134+00:00",
+    "last_checked_at": "2026-10-15T18:13:46.190189+00:00",
     "rug_flag": true
   },
   {
@@ -10706,6 +10706,28 @@
     "source_listed_at": "2026-10-15T13:21:03",
     "peak_liquidity_usd": 16441.20629554292,
     "last_checked_at": "2026-10-15T13:21:31.484358+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-15T18:13:45.674789+00:00",
+    "address": "GMyCb7eqsW9Nbv7Y9EBSarZ1rCpmCnFQU7UQhAUzELBg",
+    "symbol": "DICKBUTIFI",
+    "name": "Dickbuttifier",
+    "liquidity_usd": 17937.40279340087,
+    "source_listed_at": "2026-10-15T18:13:29",
+    "peak_liquidity_usd": 17937.40279340087,
+    "last_checked_at": "2026-10-15T18:13:46.190189+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-15T18:13:45.674812+00:00",
+    "address": "4sgEMgMaak5R3jd4j7iPMFGm6uin21Fy9v4FKLATpump",
+    "symbol": "DICKBOOK",
+    "name": "Dickbutt Book",
+    "liquidity_usd": 9133.963163047969,
+    "source_listed_at": "2026-10-15T18:13:27",
+    "peak_liquidity_usd": 9133.963163047969,
+    "last_checked_at": "2026-10-15T18:13:46.190189+00:00",
     "rug_flag": false
   }
 ]
