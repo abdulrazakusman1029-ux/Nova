@@ -10639,7 +10639,7 @@
     "liquidity_usd": 17269.12706318846,
     "source_listed_at": "2026-10-13T11:41:31",
     "peak_liquidity_usd": 17269.12706318846,
-    "last_checked_at": "2026-10-15T22:11:34.203060+00:00",
+    "last_checked_at": "2026-10-16T11:15:08.498890+00:00",
     "rug_flag": false
   },
   {
@@ -10713,11 +10713,11 @@
     "address": "GMyCb7eqsW9Nbv7Y9EBSarZ1rCpmCnFQU7UQhAUzELBg",
     "symbol": "DICKBUTIFI",
     "name": "Dickbuttifier",
-    "liquidity_usd": 17937.40279340087,
+    "liquidity_usd": 1.1905493598211693e-06,
     "source_listed_at": "2026-10-15T18:13:29",
     "peak_liquidity_usd": 17937.40279340087,
-    "last_checked_at": "2026-10-15T18:13:46.190189+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-16T11:15:08.498890+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-15T18:13:45.674812+00:00",
@@ -10727,7 +10727,7 @@
     "liquidity_usd": 9133.963163047969,
     "source_listed_at": "2026-10-15T18:13:27",
     "peak_liquidity_usd": 9133.963163047969,
-    "last_checked_at": "2026-10-15T18:13:46.190189+00:00",
+    "last_checked_at": "2026-10-16T11:15:08.498890+00:00",
     "rug_flag": false
   },
   {
