@@ -10650,7 +10650,7 @@
     "liquidity_usd": 18466.696791603157,
     "source_listed_at": "2026-10-14T04:45:29",
     "peak_liquidity_usd": 18466.696791603157,
-    "last_checked_at": "2026-10-15T22:11:34.203060+00:00",
+    "last_checked_at": "2026-10-16T16:33:11.465352+00:00",
     "rug_flag": false
   },
   {
@@ -10738,7 +10738,18 @@
     "liquidity_usd": 18012.18168707699,
     "source_listed_at": "2026-10-15T22:11:28",
     "peak_liquidity_usd": 18012.18168707699,
-    "last_checked_at": "2026-10-15T22:11:34.203060+00:00",
+    "last_checked_at": "2026-10-16T16:33:11.465352+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-16T16:33:10.998496+00:00",
+    "address": "9pyDd2nW7BpBvPu6vyF35y66oReyLzaVi2dsFVqZy8kq",
+    "symbol": "INTELLIFUC",
+    "name": "Intellifuck",
+    "liquidity_usd": 17735.7301604764,
+    "source_listed_at": "2026-10-16T16:32:57",
+    "peak_liquidity_usd": 17735.7301604764,
+    "last_checked_at": "2026-10-16T16:33:11.465352+00:00",
     "rug_flag": false
   }
 ]
