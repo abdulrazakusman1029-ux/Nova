@@ -10694,7 +10694,7 @@
     "liquidity_usd": 0.00035282768749641836,
     "source_listed_at": "2026-10-15T07:21:04",
     "peak_liquidity_usd": 17349.78550824002,
-    "last_checked_at": "2026-10-16T05:47:44.896973+00:00",
+    "last_checked_at": "2026-10-16T22:46:59.298960+00:00",
     "rug_flag": true
   },
   {
@@ -10750,6 +10750,28 @@
     "source_listed_at": "2026-10-16T16:32:57",
     "peak_liquidity_usd": 17735.7301604764,
     "last_checked_at": "2026-10-16T16:33:11.465352+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-16T22:46:58.769242+00:00",
+    "address": "DUgH7sPzYnE5uGxbT39z9Zc5yZ8zqbDjsKph2rPY4bfg",
+    "symbol": "MOD",
+    "name": "MOD",
+    "liquidity_usd": 18159.260861418974,
+    "source_listed_at": "2026-10-16T22:46:46",
+    "peak_liquidity_usd": 18159.260861418974,
+    "last_checked_at": "2026-10-16T22:46:59.298960+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-16T22:46:58.769261+00:00",
+    "address": "9vfkod2N2JodJwy1nDarXjFdKSYJf7sMwmhJhzTRkw89",
+    "symbol": "Roadster",
+    "name": "Tesla Roadster",
+    "liquidity_usd": 40260.4034832231,
+    "source_listed_at": "2026-10-16T22:46:45",
+    "peak_liquidity_usd": 40260.4034832231,
+    "last_checked_at": "2026-10-16T22:46:59.298960+00:00",
     "rug_flag": false
   }
 ]
