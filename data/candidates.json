@@ -10672,7 +10672,7 @@
     "liquidity_usd": 28373.488056375234,
     "source_listed_at": "2026-10-14T19:18:29",
     "peak_liquidity_usd": 28373.488056375234,
-    "last_checked_at": "2026-10-15T13:21:31.484358+00:00",
+    "last_checked_at": "2026-10-16T05:47:44.896973+00:00",
     "rug_flag": false
   },
   {
@@ -10691,11 +10691,11 @@
     "address": "CrL4ecShdNd1gpWtPiLVEQ2RxDTFA7hXJNhqoXtCsPzE",
     "symbol": "CLAUDIA",
     "name": "Claudia",
-    "liquidity_usd": 17349.78550824002,
+    "liquidity_usd": 0.00035282768749641836,
     "source_listed_at": "2026-10-15T07:21:04",
     "peak_liquidity_usd": 17349.78550824002,
-    "last_checked_at": "2026-10-15T07:21:10.063695+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-16T05:47:44.896973+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-15T13:21:31.068162+00:00",
@@ -10705,7 +10705,7 @@
     "liquidity_usd": 16441.20629554292,
     "source_listed_at": "2026-10-15T13:21:03",
     "peak_liquidity_usd": 16441.20629554292,
-    "last_checked_at": "2026-10-15T13:21:31.484358+00:00",
+    "last_checked_at": "2026-10-16T05:47:44.896973+00:00",
     "rug_flag": false
   },
   {
