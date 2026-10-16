@@ -10658,10 +10658,10 @@
     "address": "Ddx6MRuY7p5fn3ni9eArKxjkiSTa16Ci5eLuk6TVBAGS",
     "symbol": "DEBATLAS",
     "name": "IMF DEBT ATLAS",
-    "liquidity_usd": 0.00012557669134335417,
+    "liquidity_usd": 0.00012508663578245354,
     "source_listed_at": "2026-10-14T10:05:53",
     "peak_liquidity_usd": 107505.48721309075,
-    "last_checked_at": "2026-10-16T00:22:17.126775+00:00",
+    "last_checked_at": "2026-10-16T19:55:37.256100+00:00",
     "rug_flag": true
   },
   {
@@ -10672,7 +10672,7 @@
     "liquidity_usd": 28373.488056375234,
     "source_listed_at": "2026-10-14T19:18:29",
     "peak_liquidity_usd": 28373.488056375234,
-    "last_checked_at": "2026-10-16T05:47:44.896973+00:00",
+    "last_checked_at": "2026-10-16T19:55:37.256100+00:00",
     "rug_flag": false
   },
   {
@@ -10683,7 +10683,7 @@
     "liquidity_usd": 14877.690636433541,
     "source_listed_at": "2026-10-15T01:25:27",
     "peak_liquidity_usd": 14877.690636433541,
-    "last_checked_at": "2026-10-16T00:22:17.126775+00:00",
+    "last_checked_at": "2026-10-16T19:55:37.256100+00:00",
     "rug_flag": false
   },
   {
