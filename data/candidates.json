@@ -10716,7 +10716,7 @@
     "liquidity_usd": 1.1905493598211693e-06,
     "source_listed_at": "2026-10-15T18:13:29",
     "peak_liquidity_usd": 17937.40279340087,
-    "last_checked_at": "2026-10-17T01:15:38.615969+00:00",
+    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
     "rug_flag": true
   },
   {
@@ -10727,7 +10727,7 @@
     "liquidity_usd": 9133.963163047969,
     "source_listed_at": "2026-10-15T18:13:27",
     "peak_liquidity_usd": 9133.963163047969,
-    "last_checked_at": "2026-10-17T01:15:38.615969+00:00",
+    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
     "rug_flag": false
   },
   {
@@ -10772,6 +10772,17 @@
     "source_listed_at": "2026-10-16T22:46:45",
     "peak_liquidity_usd": 40260.4034832231,
     "last_checked_at": "2026-10-17T15:27:42.635212+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-17T18:25:45.468162+00:00",
+    "address": "BhCa4oTfvxTcdoPVGGEXfq3GPjQw3BxLNDXJCZrNKjUh",
+    "symbol": "YandexAi",
+    "name": "YandexAi",
+    "liquidity_usd": 37107.83437520738,
+    "source_listed_at": "2026-10-17T18:25:35",
+    "peak_liquidity_usd": 37107.83437520738,
+    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
     "rug_flag": false
   }
 ]
