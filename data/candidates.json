@@ -10683,7 +10683,7 @@
     "liquidity_usd": 14877.690636433541,
     "source_listed_at": "2026-10-15T01:25:27",
     "peak_liquidity_usd": 14877.690636433541,
-    "last_checked_at": "2026-10-17T11:33:34.218440+00:00",
+    "last_checked_at": "2026-10-17T23:59:27.969231+00:00",
     "rug_flag": false
   },
   {
@@ -10735,10 +10735,10 @@
     "address": "BiuKCtHSqakAJ7bcWnUM2L8PZkB7YWXTYwKoymSc88gc",
     "symbol": "RAPE",
     "name": "Rapecoin",
-    "liquidity_usd": 3.975572339156622e-07,
+    "liquidity_usd": 3.957256729802036e-07,
     "source_listed_at": "2026-10-15T22:11:28",
     "peak_liquidity_usd": 18012.18168707699,
-    "last_checked_at": "2026-10-17T06:52:16.572368+00:00",
+    "last_checked_at": "2026-10-17T23:59:27.969231+00:00",
     "rug_flag": true
   },
   {
@@ -10749,7 +10749,7 @@
     "liquidity_usd": 17735.7301604764,
     "source_listed_at": "2026-10-16T16:32:57",
     "peak_liquidity_usd": 17735.7301604764,
-    "last_checked_at": "2026-10-17T06:52:16.572368+00:00",
+    "last_checked_at": "2026-10-17T23:59:27.969231+00:00",
     "rug_flag": false
   },
   {
