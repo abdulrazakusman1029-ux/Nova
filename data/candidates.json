@@ -10716,7 +10716,7 @@
     "liquidity_usd": 1.1905493598211693e-06,
     "source_listed_at": "2026-10-15T18:13:29",
     "peak_liquidity_usd": 17937.40279340087,
-    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
+    "last_checked_at": "2026-10-18T13:57:57.114458+00:00",
     "rug_flag": true
   },
   {
@@ -10757,10 +10757,10 @@
     "address": "DUgH7sPzYnE5uGxbT39z9Zc5yZ8zqbDjsKph2rPY4bfg",
     "symbol": "MOD",
     "name": "MOD",
-    "liquidity_usd": 0.00012429276473486346,
+    "liquidity_usd": 0.00012325262003470911,
     "source_listed_at": "2026-10-16T22:46:46",
     "peak_liquidity_usd": 18159.260861418974,
-    "last_checked_at": "2026-10-17T15:27:42.635212+00:00",
+    "last_checked_at": "2026-10-18T13:57:57.114458+00:00",
     "rug_flag": true
   },
   {
@@ -10771,7 +10771,7 @@
     "liquidity_usd": 40260.4034832231,
     "source_listed_at": "2026-10-16T22:46:45",
     "peak_liquidity_usd": 40260.4034832231,
-    "last_checked_at": "2026-10-17T15:27:42.635212+00:00",
+    "last_checked_at": "2026-10-18T13:57:57.114458+00:00",
     "rug_flag": false
   },
   {
