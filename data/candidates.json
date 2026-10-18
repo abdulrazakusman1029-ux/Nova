@@ -10694,7 +10694,7 @@
     "liquidity_usd": 0.00035282768749641836,
     "source_listed_at": "2026-10-15T07:21:04",
     "peak_liquidity_usd": 17349.78550824002,
-    "last_checked_at": "2026-10-17T11:33:34.218440+00:00",
+    "last_checked_at": "2026-10-18T04:22:25.606851+00:00",
     "rug_flag": true
   },
   {
@@ -10783,6 +10783,28 @@
     "source_listed_at": "2026-10-17T18:25:35",
     "peak_liquidity_usd": 37107.83437520738,
     "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-18T04:22:25.173632+00:00",
+    "address": "SNznQgcJCY9CiKAzkaTiJHzUg4721MG4znoRRgQpump",
+    "symbol": "Coca Cola",
+    "name": "Coca Cola",
+    "liquidity_usd": 11156.771164839836,
+    "source_listed_at": "2026-10-18T04:22:02",
+    "peak_liquidity_usd": 11156.771164839836,
+    "last_checked_at": "2026-10-18T04:22:25.606851+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-18T04:22:25.173651+00:00",
+    "address": "hyyhpJPLXKNwSdYTJMKJFF6AU5aXaLn9tDTjfkBpump",
+    "symbol": "XTO",
+    "name": "XTO",
+    "liquidity_usd": 11155.515408501988,
+    "source_listed_at": "2026-10-18T04:21:55",
+    "peak_liquidity_usd": 11155.515408501988,
+    "last_checked_at": "2026-10-18T04:22:25.606851+00:00",
     "rug_flag": false
   }
 ]
