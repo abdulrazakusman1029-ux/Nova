@@ -10724,11 +10724,11 @@
     "address": "4sgEMgMaak5R3jd4j7iPMFGm6uin21Fy9v4FKLATpump",
     "symbol": "DICKBOOK",
     "name": "Dickbutt Book",
-    "liquidity_usd": 9133.963163047969,
+    "liquidity_usd": 0.1541878765151444,
     "source_listed_at": "2026-10-15T18:13:27",
     "peak_liquidity_usd": 9133.963163047969,
-    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-18T17:18:09.455825+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-15T22:11:33.797167+00:00",
@@ -10738,7 +10738,7 @@
     "liquidity_usd": 3.957256729802036e-07,
     "source_listed_at": "2026-10-15T22:11:28",
     "peak_liquidity_usd": 18012.18168707699,
-    "last_checked_at": "2026-10-17T23:59:27.969231+00:00",
+    "last_checked_at": "2026-10-18T17:18:09.455825+00:00",
     "rug_flag": true
   },
   {
@@ -10782,7 +10782,7 @@
     "liquidity_usd": 37107.83437520738,
     "source_listed_at": "2026-10-17T18:25:35",
     "peak_liquidity_usd": 37107.83437520738,
-    "last_checked_at": "2026-10-17T18:25:45.862817+00:00",
+    "last_checked_at": "2026-10-18T17:18:09.455825+00:00",
     "rug_flag": false
   },
   {
