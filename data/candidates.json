@@ -10779,11 +10779,11 @@
     "address": "BhCa4oTfvxTcdoPVGGEXfq3GPjQw3BxLNDXJCZrNKjUh",
     "symbol": "YandexAi",
     "name": "YandexAi",
-    "liquidity_usd": 37107.83437520738,
+    "liquidity_usd": 2.0951364897964906e-07,
     "source_listed_at": "2026-10-17T18:25:35",
     "peak_liquidity_usd": 37107.83437520738,
-    "last_checked_at": "2026-10-19T13:00:07.585405+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-19T23:34:31.666945+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-18T04:22:25.173632+00:00",
@@ -10793,7 +10793,7 @@
     "liquidity_usd": 54.8426406966449,
     "source_listed_at": "2026-10-18T04:22:02",
     "peak_liquidity_usd": 11156.771164839836,
-    "last_checked_at": "2026-10-19T19:15:48.150502+00:00",
+    "last_checked_at": "2026-10-19T23:34:31.666945+00:00",
     "rug_flag": true
   },
   {
@@ -10804,7 +10804,7 @@
     "liquidity_usd": 11155.515408501988,
     "source_listed_at": "2026-10-18T04:21:55",
     "peak_liquidity_usd": 11155.515408501988,
-    "last_checked_at": "2026-10-19T19:15:48.150502+00:00",
+    "last_checked_at": "2026-10-19T23:34:31.666945+00:00",
     "rug_flag": false
   }
 ]
