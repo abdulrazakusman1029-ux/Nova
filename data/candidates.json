@@ -10782,7 +10782,7 @@
     "liquidity_usd": 2.0951364897964906e-07,
     "source_listed_at": "2026-10-17T18:25:35",
     "peak_liquidity_usd": 37107.83437520738,
-    "last_checked_at": "2026-10-19T23:34:31.666945+00:00",
+    "last_checked_at": "2026-10-20T09:58:25.207705+00:00",
     "rug_flag": true
   },
   {
@@ -10805,6 +10805,28 @@
     "source_listed_at": "2026-10-18T04:21:55",
     "peak_liquidity_usd": 11155.515408501988,
     "last_checked_at": "2026-10-19T23:34:31.666945+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-20T09:58:24.517018+00:00",
+    "address": "HnBH4Htsz6PueNbdeTnR1a2jdxGZTDvsJysomo9qCRpd",
+    "symbol": "MIMI",
+    "name": "Mimi",
+    "liquidity_usd": 5815.652708400868,
+    "source_listed_at": "2026-10-20T09:58:18",
+    "peak_liquidity_usd": 5815.652708400868,
+    "last_checked_at": "2026-10-20T09:58:25.207705+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-20T09:58:24.517037+00:00",
+    "address": "CVhh6gkjwfkkBg63RVu8SeTTuYTfumYS3ostmojqmoon",
+    "symbol": "Galosula",
+    "name": "Atl\u00e9tico Busca Final",
+    "liquidity_usd": 106310.31911353294,
+    "source_listed_at": "2026-10-20T09:58:02",
+    "peak_liquidity_usd": 106310.31911353294,
+    "last_checked_at": "2026-10-20T09:58:25.207705+00:00",
     "rug_flag": false
   }
 ]
