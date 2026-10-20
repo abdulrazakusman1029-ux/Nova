@@ -10793,7 +10793,7 @@
     "liquidity_usd": 54.8426406966449,
     "source_listed_at": "2026-10-18T04:22:02",
     "peak_liquidity_usd": 11156.771164839836,
-    "last_checked_at": "2026-10-20T15:00:02.859316+00:00",
+    "last_checked_at": "2026-10-20T22:15:50.146593+00:00",
     "rug_flag": true
   },
   {
@@ -10837,7 +10837,7 @@
     "liquidity_usd": 18734.97480975932,
     "source_listed_at": "2026-10-20T14:59:39",
     "peak_liquidity_usd": 18734.97480975932,
-    "last_checked_at": "2026-10-20T15:00:02.859316+00:00",
+    "last_checked_at": "2026-10-20T22:15:50.146593+00:00",
     "rug_flag": false
   },
   {
@@ -10849,6 +10849,17 @@
     "source_listed_at": "2026-10-20T14:59:36",
     "peak_liquidity_usd": 21533.483557734417,
     "last_checked_at": "2026-10-20T15:00:02.859316+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-20T22:15:49.720226+00:00",
+    "address": "J4af8tnd2oSrQdkiNNmzqVkhBE7uNxVGroEoPwfuq61T",
+    "symbol": "BUTTERSCOTCH",
+    "name": "Butterscotch",
+    "liquidity_usd": 5498.30685422954,
+    "source_listed_at": "2026-10-20T22:15:40",
+    "peak_liquidity_usd": 5498.30685422954,
+    "last_checked_at": "2026-10-20T22:15:50.146593+00:00",
     "rug_flag": false
   }
 ]
