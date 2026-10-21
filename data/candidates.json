@@ -10812,11 +10812,11 @@
     "address": "HnBH4Htsz6PueNbdeTnR1a2jdxGZTDvsJysomo9qCRpd",
     "symbol": "MIMI",
     "name": "Mimi",
-    "liquidity_usd": 5815.652708400868,
+    "liquidity_usd": 0.15816801899295954,
     "source_listed_at": "2026-10-20T09:58:18",
     "peak_liquidity_usd": 5815.652708400868,
-    "last_checked_at": "2026-10-20T19:10:35.603004+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-21T07:30:41.220220+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-20T09:58:24.517037+00:00",
@@ -10826,7 +10826,7 @@
     "liquidity_usd": 106310.31911353294,
     "source_listed_at": "2026-10-20T09:58:02",
     "peak_liquidity_usd": 106310.31911353294,
-    "last_checked_at": "2026-10-20T19:10:35.603004+00:00",
+    "last_checked_at": "2026-10-21T07:30:41.220220+00:00",
     "rug_flag": false
   },
   {
@@ -10837,7 +10837,7 @@
     "liquidity_usd": 18734.97480975932,
     "source_listed_at": "2026-10-20T14:59:39",
     "peak_liquidity_usd": 18734.97480975932,
-    "last_checked_at": "2026-10-20T22:15:50.146593+00:00",
+    "last_checked_at": "2026-10-21T07:30:41.220220+00:00",
     "rug_flag": false
   },
   {
