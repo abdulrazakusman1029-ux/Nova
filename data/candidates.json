@@ -10815,7 +10815,7 @@
     "liquidity_usd": 0.15816801899295954,
     "source_listed_at": "2026-10-20T09:58:18",
     "peak_liquidity_usd": 5815.652708400868,
-    "last_checked_at": "2026-10-21T18:33:59.258486+00:00",
+    "last_checked_at": "2026-10-22T07:29:26.154313+00:00",
     "rug_flag": true
   },
   {
@@ -10870,7 +10870,7 @@
     "liquidity_usd": 11413.713772608526,
     "source_listed_at": "2026-10-21T01:30:08",
     "peak_liquidity_usd": 11413.713772608526,
-    "last_checked_at": "2026-10-21T18:33:59.258486+00:00",
+    "last_checked_at": "2026-10-22T07:29:26.154313+00:00",
     "rug_flag": false
   },
   {
@@ -10904,6 +10904,17 @@
     "source_listed_at": "2026-10-22T01:26:43",
     "peak_liquidity_usd": 19248.46990908754,
     "last_checked_at": "2026-10-22T01:27:15.644279+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-22T07:29:25.703333+00:00",
+    "address": "AwQP2JWaevY5ELyx9zeAVKP9u1rm1sZPAzhuLnED5LwL",
+    "symbol": "ACTIII",
+    "name": "Act III: The Internet Shutdown",
+    "liquidity_usd": 17750.43331112686,
+    "source_listed_at": "2026-10-22T07:29:05",
+    "peak_liquidity_usd": 17750.43331112686,
+    "last_checked_at": "2026-10-22T07:29:26.154313+00:00",
     "rug_flag": false
   }
 ]
