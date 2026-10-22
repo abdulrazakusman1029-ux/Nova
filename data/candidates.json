@@ -10859,7 +10859,7 @@
     "liquidity_usd": 5498.30685422954,
     "source_listed_at": "2026-10-20T22:15:40",
     "peak_liquidity_usd": 5498.30685422954,
-    "last_checked_at": "2026-10-21T13:43:00.753246+00:00",
+    "last_checked_at": "2026-10-22T01:27:15.644279+00:00",
     "rug_flag": false
   },
   {
@@ -10881,7 +10881,7 @@
     "liquidity_usd": 20464.01224178053,
     "source_listed_at": "2026-10-21T13:42:39",
     "peak_liquidity_usd": 20464.01224178053,
-    "last_checked_at": "2026-10-21T13:43:00.753246+00:00",
+    "last_checked_at": "2026-10-22T01:27:15.644279+00:00",
     "rug_flag": false
   },
   {
@@ -10893,6 +10893,17 @@
     "source_listed_at": "2026-10-21T18:33:42",
     "peak_liquidity_usd": 112405.33449954572,
     "last_checked_at": "2026-10-21T18:33:59.258486+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-22T01:27:15.216078+00:00",
+    "address": "8X2FkK3AM4DBzanTEcuW8Dfm6p3PLQuV2tdoyMmBHHH8",
+    "symbol": "ARCENPAY",
+    "name": "ARCENPAY",
+    "liquidity_usd": 19248.46990908754,
+    "source_listed_at": "2026-10-22T01:26:43",
+    "peak_liquidity_usd": 19248.46990908754,
+    "last_checked_at": "2026-10-22T01:27:15.644279+00:00",
     "rug_flag": false
   }
 ]
