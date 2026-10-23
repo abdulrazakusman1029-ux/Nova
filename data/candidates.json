@@ -10859,7 +10859,7 @@
     "liquidity_usd": 2.374328775602038e-06,
     "source_listed_at": "2026-10-20T22:15:40",
     "peak_liquidity_usd": 5498.30685422954,
-    "last_checked_at": "2026-10-22T18:29:14.250287+00:00",
+    "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
     "rug_flag": true
   },
   {
@@ -10925,7 +10925,7 @@
     "liquidity_usd": 11237.168849286372,
     "source_listed_at": "2026-10-22T13:43:35",
     "peak_liquidity_usd": 11237.168849286372,
-    "last_checked_at": "2026-10-22T13:43:45.040129+00:00",
+    "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
     "rug_flag": false
   },
   {
@@ -10981,6 +10981,17 @@
     "source_listed_at": "2026-10-23T13:19:51",
     "peak_liquidity_usd": 12280.864199806001,
     "last_checked_at": "2026-10-23T13:20:23.644668+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-23T18:15:49.939824+00:00",
+    "address": "C3HGwUZfTw1YDLa35wi8t7tynh9WLqLKxocyzvXkv1Nq",
+    "symbol": "TSU",
+    "name": "Toilet Seat Universe",
+    "liquidity_usd": 18981.23653089418,
+    "source_listed_at": "2026-10-23T18:15:33",
+    "peak_liquidity_usd": 18981.23653089418,
+    "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
     "rug_flag": false
   }
 ]
