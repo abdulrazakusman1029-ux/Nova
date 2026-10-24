@@ -10892,7 +10892,7 @@
     "liquidity_usd": 112405.33449954572,
     "source_listed_at": "2026-10-21T18:33:42",
     "peak_liquidity_usd": 112405.33449954572,
-    "last_checked_at": "2026-10-23T13:20:23.644668+00:00",
+    "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
     "rug_flag": false
   },
   {
@@ -10958,7 +10958,7 @@
     "liquidity_usd": 116813.91669241457,
     "source_listed_at": "2026-10-23T07:23:05",
     "peak_liquidity_usd": 116813.91669241457,
-    "last_checked_at": "2026-10-23T07:24:11.761566+00:00",
+    "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
     "rug_flag": false
   },
   {
@@ -10992,6 +10992,17 @@
     "source_listed_at": "2026-10-23T18:15:33",
     "peak_liquidity_usd": 18981.23653089418,
     "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T05:44:49.547290+00:00",
+    "address": "FAhbk9Huwbkb8aj2wZHmoN6dJozWyWPDucBw7YB13SGP",
+    "symbol": "inu",
+    "name": "im now employed",
+    "liquidity_usd": 17384.538723442114,
+    "source_listed_at": "2026-10-24T05:44:32",
+    "peak_liquidity_usd": 17384.538723442114,
+    "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
     "rug_flag": false
   }
 ]
