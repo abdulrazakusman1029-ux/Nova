@@ -10944,11 +10944,11 @@
     "address": "AakhkAQfdiw5UmPnbww2jgL2SSftnciMhUGr5fQEfirE",
     "symbol": "WHEEL",
     "name": "Wheel",
-    "liquidity_usd": 17753.040939814542,
+    "liquidity_usd": 0.0001594887715803409,
     "source_listed_at": "2026-10-23T07:23:08",
     "peak_liquidity_usd": 17753.040939814542,
-    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-24T23:07:30.983056+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-23T07:24:11.349257+00:00",
@@ -10958,7 +10958,7 @@
     "liquidity_usd": 116813.91669241457,
     "source_listed_at": "2026-10-23T07:23:05",
     "peak_liquidity_usd": 116813.91669241457,
-    "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
+    "last_checked_at": "2026-10-24T23:07:30.983056+00:00",
     "rug_flag": false
   },
   {
@@ -10999,11 +10999,11 @@
     "address": "FAhbk9Huwbkb8aj2wZHmoN6dJozWyWPDucBw7YB13SGP",
     "symbol": "inu",
     "name": "im now employed",
-    "liquidity_usd": 17384.538723442114,
+    "liquidity_usd": 0.00023497200698477708,
     "source_listed_at": "2026-10-24T05:44:32",
     "peak_liquidity_usd": 17384.538723442114,
-    "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-24T23:07:30.983056+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-24T10:50:35.454162+00:00",
