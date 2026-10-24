@@ -10911,11 +10911,11 @@
     "address": "AwQP2JWaevY5ELyx9zeAVKP9u1rm1sZPAzhuLnED5LwL",
     "symbol": "ACTIII",
     "name": "Act III: The Internet Shutdown",
-    "liquidity_usd": 17750.43331112686,
+    "liquidity_usd": 3.87929939556983e-06,
     "source_listed_at": "2026-10-22T07:29:05",
     "peak_liquidity_usd": 17750.43331112686,
-    "last_checked_at": "2026-10-23T01:26:28.777055+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-22T13:43:44.350346+00:00",
@@ -10936,7 +10936,7 @@
     "liquidity_usd": 17859.752434189744,
     "source_listed_at": "2026-10-23T01:26:13",
     "peak_liquidity_usd": 17859.752434189744,
-    "last_checked_at": "2026-10-23T01:26:28.777055+00:00",
+    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
     "rug_flag": false
   },
   {
@@ -10947,7 +10947,7 @@
     "liquidity_usd": 17753.040939814542,
     "source_listed_at": "2026-10-23T07:23:08",
     "peak_liquidity_usd": 17753.040939814542,
-    "last_checked_at": "2026-10-23T07:24:11.761566+00:00",
+    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
     "rug_flag": false
   },
   {
