@@ -10969,7 +10969,7 @@
     "liquidity_usd": 32654.819344316056,
     "source_listed_at": "2026-10-23T13:20:01",
     "peak_liquidity_usd": 32654.819344316056,
-    "last_checked_at": "2026-10-23T13:20:23.644668+00:00",
+    "last_checked_at": "2026-10-24T10:50:35.918462+00:00",
     "rug_flag": false
   },
   {
@@ -10980,7 +10980,7 @@
     "liquidity_usd": 12280.864199806001,
     "source_listed_at": "2026-10-23T13:19:51",
     "peak_liquidity_usd": 12280.864199806001,
-    "last_checked_at": "2026-10-23T13:20:23.644668+00:00",
+    "last_checked_at": "2026-10-24T10:50:35.918462+00:00",
     "rug_flag": false
   },
   {
@@ -11003,6 +11003,17 @@
     "source_listed_at": "2026-10-24T05:44:32",
     "peak_liquidity_usd": 17384.538723442114,
     "last_checked_at": "2026-10-24T05:44:50.043052+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T10:50:35.454162+00:00",
+    "address": "5qbTZZGJBVgxFiBqcieYimpdS847CVCYrvdJkPnfEchW",
+    "symbol": "slop",
+    "name": "slop.cash",
+    "liquidity_usd": 17420.453903636368,
+    "source_listed_at": "2026-10-24T10:50:01",
+    "peak_liquidity_usd": 17420.453903636368,
+    "last_checked_at": "2026-10-24T10:50:35.918462+00:00",
     "rug_flag": false
   }
 ]
