@@ -10925,7 +10925,7 @@
     "liquidity_usd": 11237.168849286372,
     "source_listed_at": "2026-10-22T13:43:35",
     "peak_liquidity_usd": 11237.168849286372,
-    "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
+    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
     "rug_flag": false
   },
   {
@@ -11014,6 +11014,28 @@
     "source_listed_at": "2026-10-24T10:50:01",
     "peak_liquidity_usd": 17420.453903636368,
     "last_checked_at": "2026-10-24T10:50:35.918462+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T14:27:59.990182+00:00",
+    "address": "BXZj3AABmRzQRJc13ieMKStuWHqZ4WY6M9Qjm3qcQHLB",
+    "symbol": "SOLCODE",
+    "name": "Quantum Protected Coin",
+    "liquidity_usd": 18207.467541233756,
+    "source_listed_at": "2026-10-24T14:27:42",
+    "peak_liquidity_usd": 18207.467541233756,
+    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T14:27:59.990199+00:00",
+    "address": "CxpZLZFxsfd2QVWpW2aeWK8S5EcrRF6Ub5P9GoQC9Ve7",
+    "symbol": "\u5927A",
+    "name": "China's stock marke",
+    "liquidity_usd": 12490.574608727828,
+    "source_listed_at": "2026-10-24T14:27:21",
+    "peak_liquidity_usd": 12490.574608727828,
+    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
     "rug_flag": false
   }
 ]
