@@ -10991,7 +10991,7 @@
     "liquidity_usd": 18981.23653089418,
     "source_listed_at": "2026-10-23T18:15:33",
     "peak_liquidity_usd": 18981.23653089418,
-    "last_checked_at": "2026-10-23T18:15:50.395656+00:00",
+    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
     "rug_flag": false
   },
   {
@@ -11036,6 +11036,28 @@
     "source_listed_at": "2026-10-24T14:27:21",
     "peak_liquidity_usd": 12490.574608727828,
     "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T18:04:36.255894+00:00",
+    "address": "xK1GazTaKdyHUJFQAysLhzDwmNXDM59Zoc52VPp43us",
+    "symbol": "gary",
+    "name": "gary",
+    "liquidity_usd": 20097.980597774833,
+    "source_listed_at": "2026-10-24T18:04:23",
+    "peak_liquidity_usd": 20097.980597774833,
+    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-24T18:04:36.255912+00:00",
+    "address": "BpAFfRcUjQYappq4ahBPPXdVBixHAMUc7FwKoSc3PZh5",
+    "symbol": "WOLF",
+    "name": "Nietzschean Wolf",
+    "liquidity_usd": 18328.98514579267,
+    "source_listed_at": "2026-10-24T18:04:07",
+    "peak_liquidity_usd": 18328.98514579267,
+    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
     "rug_flag": false
   }
 ]
