@@ -10900,11 +10900,11 @@
     "address": "8X2FkK3AM4DBzanTEcuW8Dfm6p3PLQuV2tdoyMmBHHH8",
     "symbol": "ARCENPAY",
     "name": "ARCENPAY",
-    "liquidity_usd": 19248.46990908754,
+    "liquidity_usd": 0.0001933113241509487,
     "source_listed_at": "2026-10-22T01:26:43",
     "peak_liquidity_usd": 19248.46990908754,
-    "last_checked_at": "2026-10-23T22:03:51.442112+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-24T20:42:07.621857+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-22T07:29:25.703333+00:00",
@@ -10914,7 +10914,7 @@
     "liquidity_usd": 3.87929939556983e-06,
     "source_listed_at": "2026-10-22T07:29:05",
     "peak_liquidity_usd": 17750.43331112686,
-    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
+    "last_checked_at": "2026-10-24T20:42:07.621857+00:00",
     "rug_flag": true
   },
   {
@@ -10936,7 +10936,7 @@
     "liquidity_usd": 17859.752434189744,
     "source_listed_at": "2026-10-23T01:26:13",
     "peak_liquidity_usd": 17859.752434189744,
-    "last_checked_at": "2026-10-24T00:35:48.839253+00:00",
+    "last_checked_at": "2026-10-24T20:42:07.621857+00:00",
     "rug_flag": false
   },
   {
