@@ -10969,7 +10969,7 @@
     "liquidity_usd": 32654.819344316056,
     "source_listed_at": "2026-10-23T13:20:01",
     "peak_liquidity_usd": 32654.819344316056,
-    "last_checked_at": "2026-10-24T10:50:35.918462+00:00",
+    "last_checked_at": "2026-10-25T01:04:14.589928+00:00",
     "rug_flag": false
   },
   {
@@ -11058,6 +11058,28 @@
     "source_listed_at": "2026-10-24T18:04:07",
     "peak_liquidity_usd": 18328.98514579267,
     "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T01:04:14.164206+00:00",
+    "address": "8twaPWfE9yKNB8pZG4WpE34H7ursBbkm5W8Ft1HnR6Ve",
+    "symbol": "AragOREn",
+    "name": "son of ArathOREn",
+    "liquidity_usd": 5388.521317000311,
+    "source_listed_at": "2026-10-25T01:04:06",
+    "peak_liquidity_usd": 5388.521317000311,
+    "last_checked_at": "2026-10-25T01:04:14.589928+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T01:04:14.164230+00:00",
+    "address": "DmySy4of4gxH6dwtPaRj58uHYKmzTtM3RkUhMQ77dAFE",
+    "symbol": "FLYWHEEL",
+    "name": "FLYWHEEL",
+    "liquidity_usd": 17788.51429317835,
+    "source_listed_at": "2026-10-25T01:03:54",
+    "peak_liquidity_usd": 17788.51429317835,
+    "last_checked_at": "2026-10-25T01:04:14.589928+00:00",
     "rug_flag": false
   }
 ]
