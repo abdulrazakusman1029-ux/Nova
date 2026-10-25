@@ -11103,5 +11103,38 @@
     "peak_liquidity_usd": 19173.178490783685,
     "last_checked_at": "2026-10-25T11:16:58.268561+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T16:06:41.395694+00:00",
+    "address": "8NpVQo6prPkD3UWTgcRvzGiXiBx71PZfSb2rWC25VKa8",
+    "symbol": "AMC",
+    "name": "A Massive Chest",
+    "liquidity_usd": 19291.945051524344,
+    "source_listed_at": "2026-10-25T16:06:28",
+    "peak_liquidity_usd": 19291.945051524344,
+    "last_checked_at": "2026-10-25T16:06:41.882743+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T16:06:41.395716+00:00",
+    "address": "CT5GMTQz45P4eBjQBa4ULAdveGob5B14jZx7Pf4hpump",
+    "symbol": "Claude AI",
+    "name": "Claude AI",
+    "liquidity_usd": 10864.285152363835,
+    "source_listed_at": "2026-10-25T16:06:21",
+    "peak_liquidity_usd": 10864.285152363835,
+    "last_checked_at": "2026-10-25T16:06:41.882743+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T16:06:41.395729+00:00",
+    "address": "BUeq9u2JsgotmAu6KCXNogDkvQaPBy2cpCsTDGXA8n3A",
+    "symbol": "rocks",
+    "name": "rocks",
+    "liquidity_usd": 17412.987061645923,
+    "source_listed_at": "2026-10-25T16:06:16",
+    "peak_liquidity_usd": 17412.987061645923,
+    "last_checked_at": "2026-10-25T16:06:41.882743+00:00",
+    "rug_flag": false
   }
 ]
