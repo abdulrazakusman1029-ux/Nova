@@ -10991,7 +10991,7 @@
     "liquidity_usd": 18981.23653089418,
     "source_listed_at": "2026-10-23T18:15:33",
     "peak_liquidity_usd": 18981.23653089418,
-    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
+    "last_checked_at": "2026-10-25T18:58:08.389975+00:00",
     "rug_flag": false
   },
   {
@@ -11035,7 +11035,7 @@
     "liquidity_usd": 12490.574608727828,
     "source_listed_at": "2026-10-24T14:27:21",
     "peak_liquidity_usd": 12490.574608727828,
-    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
+    "last_checked_at": "2026-10-25T18:58:08.389975+00:00",
     "rug_flag": false
   },
   {
@@ -11135,6 +11135,17 @@
     "source_listed_at": "2026-10-25T16:06:16",
     "peak_liquidity_usd": 17412.987061645923,
     "last_checked_at": "2026-10-25T16:06:41.882743+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T18:58:07.919929+00:00",
+    "address": "47NubC9t9hTMNFC3mD6XDEcVGnTBQnnp5N7uv8mPr6ea",
+    "symbol": "NMS",
+    "name": "Not My Stock",
+    "liquidity_usd": 5202.879298027306,
+    "source_listed_at": "2026-10-25T18:57:50",
+    "peak_liquidity_usd": 5202.879298027306,
+    "last_checked_at": "2026-10-25T18:58:08.389975+00:00",
     "rug_flag": false
   }
 ]
