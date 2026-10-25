@@ -11147,5 +11147,49 @@
     "peak_liquidity_usd": 5202.879298027306,
     "last_checked_at": "2026-10-25T18:58:08.389975+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T21:42:20.012253+00:00",
+    "address": "GzSnRsdw9GJiNn5iaiigEzKtwGpaFg4krBYawTj5ZqqN",
+    "symbol": "Kimchi",
+    "name": "Aura Final Boss",
+    "liquidity_usd": 13179.533308981132,
+    "source_listed_at": "2026-10-25T21:42:08",
+    "peak_liquidity_usd": 13179.533308981132,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T21:42:20.012271+00:00",
+    "address": "B4U4FDgusEwdLNb8PwfSmZH6aFEHjPKb5qYXFs3G84kK",
+    "symbol": "AUC",
+    "name": "AudaCity",
+    "liquidity_usd": 18220.391604406996,
+    "source_listed_at": "2026-10-25T21:42:00",
+    "peak_liquidity_usd": 18220.391604406996,
+    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T21:42:20.012275+00:00",
+    "address": "7tSytiHztWGmcbB8JM9cZ5Hw7Uf5bpbWHbZW2v188KXq",
+    "symbol": "AUC",
+    "name": "AudaCity",
+    "liquidity_usd": 10147.203817757094,
+    "source_listed_at": "2026-10-25T21:41:57",
+    "peak_liquidity_usd": 10147.203817757094,
+    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T21:42:20.012279+00:00",
+    "address": "GY1EeB7aBP8UUR6ezigEYC6wUZj55yxvzWWPTDPhAAbm",
+    "symbol": "AUC",
+    "name": "AudaCity",
+    "liquidity_usd": 17211.521440246106,
+    "source_listed_at": "2026-10-25T21:41:52",
+    "peak_liquidity_usd": 17211.800054169762,
+    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "rug_flag": false
   }
 ]
