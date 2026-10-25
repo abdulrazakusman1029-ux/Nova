@@ -10925,7 +10925,7 @@
     "liquidity_usd": 11237.168849286372,
     "source_listed_at": "2026-10-22T13:43:35",
     "peak_liquidity_usd": 11237.168849286372,
-    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
+    "last_checked_at": "2026-10-25T11:16:58.268561+00:00",
     "rug_flag": false
   },
   {
@@ -11024,7 +11024,7 @@
     "liquidity_usd": 18207.467541233756,
     "source_listed_at": "2026-10-24T14:27:42",
     "peak_liquidity_usd": 18207.467541233756,
-    "last_checked_at": "2026-10-24T14:28:00.441609+00:00",
+    "last_checked_at": "2026-10-25T11:16:58.268561+00:00",
     "rug_flag": false
   },
   {
@@ -11091,6 +11091,17 @@
     "source_listed_at": "2026-10-25T06:00:49",
     "peak_liquidity_usd": 101950.89521101516,
     "last_checked_at": "2026-10-25T06:01:00.262788+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-25T11:16:57.840028+00:00",
+    "address": "4RwnjTBYLMxouoH1pBuFd8pZCQnqygNMcFN6ycjFsfVV",
+    "symbol": "Inu",
+    "name": "Immense Natural Units",
+    "liquidity_usd": 19173.178490783685,
+    "source_listed_at": "2026-10-25T11:16:23",
+    "peak_liquidity_usd": 19173.178490783685,
+    "last_checked_at": "2026-10-25T11:16:58.268561+00:00",
     "rug_flag": false
   }
 ]
