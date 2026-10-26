@@ -11235,5 +11235,49 @@
     "peak_liquidity_usd": 17662.133586734504,
     "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T19:13:17.712432+00:00",
+    "address": "CV1Zt2aXv8DPkbGNGAcRyJVpW7dP3QJXYDGN1zNxgu6M",
+    "symbol": "CITY",
+    "name": "Kimchi City",
+    "liquidity_usd": 17640.902470532,
+    "source_listed_at": "2026-10-26T19:13:06",
+    "peak_liquidity_usd": 17640.902470532,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T19:13:17.712453+00:00",
+    "address": "EgucxXKHoksext9de8jnP9mfZzpHD4GKDKbvbpuhjts9",
+    "symbol": ".AiTown",
+    "name": ".AiTown",
+    "liquidity_usd": 35598.48371022603,
+    "source_listed_at": "2026-10-26T19:12:58",
+    "peak_liquidity_usd": 35598.48371022603,
+    "last_checked_at": "2026-10-26T19:13:18.064641+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T19:13:17.712457+00:00",
+    "address": "4RnunoMB5QFxtxAcFVuX7rmiW9iwKL3Y5vBpxWgysaUN",
+    "symbol": "StonkHooks",
+    "name": "Stonk Hooks",
+    "liquidity_usd": 5776.504750654505,
+    "source_listed_at": "2026-10-26T19:12:50",
+    "peak_liquidity_usd": 5776.504750654505,
+    "last_checked_at": "2026-10-26T19:13:18.064641+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T19:13:17.712460+00:00",
+    "address": "AQ1rnz3s7BHR3b7W3Zeesp1kkknnDeWTq6n3BLjNVHuH",
+    "symbol": "PROLAPSE",
+    "name": "Prolapse",
+    "liquidity_usd": 15848.15741977923,
+    "source_listed_at": "2026-10-26T19:12:45",
+    "peak_liquidity_usd": 15848.15741977923,
+    "last_checked_at": "2026-10-26T19:13:18.064641+00:00",
+    "rug_flag": false
   }
 ]
