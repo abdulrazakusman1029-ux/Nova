@@ -11068,7 +11068,7 @@
     "liquidity_usd": 5388.521317000311,
     "source_listed_at": "2026-10-25T01:04:06",
     "peak_liquidity_usd": 5388.521317000311,
-    "last_checked_at": "2026-10-25T01:04:14.589928+00:00",
+    "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
     "rug_flag": false
   },
   {
@@ -11244,7 +11244,7 @@
     "liquidity_usd": 17640.902470532,
     "source_listed_at": "2026-10-26T19:13:06",
     "peak_liquidity_usd": 17640.902470532,
-    "last_checked_at": "",
+    "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
     "rug_flag": false
   },
   {
@@ -11278,6 +11278,17 @@
     "source_listed_at": "2026-10-26T19:12:45",
     "peak_liquidity_usd": 15848.15741977923,
     "last_checked_at": "2026-10-26T19:13:18.064641+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T23:48:39.188296+00:00",
+    "address": "8PDJLPi9bCH7chbFvAZn1csShVjGnyuaT2p8XFqYPfwk",
+    "symbol": "LUNAR",
+    "name": "LUNAR2028",
+    "liquidity_usd": 17130.582162835974,
+    "source_listed_at": "2026-10-26T23:48:10",
+    "peak_liquidity_usd": 17130.582162835974,
+    "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
     "rug_flag": false
   }
 ]
