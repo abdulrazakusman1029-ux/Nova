@@ -11046,7 +11046,7 @@
     "liquidity_usd": 20097.980597774833,
     "source_listed_at": "2026-10-24T18:04:23",
     "peak_liquidity_usd": 20097.980597774833,
-    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
+    "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
     "rug_flag": false
   },
   {
@@ -11156,7 +11156,7 @@
     "liquidity_usd": 13179.533308981132,
     "source_listed_at": "2026-10-25T21:42:08",
     "peak_liquidity_usd": 13179.533308981132,
-    "last_checked_at": "",
+    "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
     "rug_flag": false
   },
   {
@@ -11190,6 +11190,17 @@
     "source_listed_at": "2026-10-25T21:41:52",
     "peak_liquidity_usd": 17211.800054169762,
     "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T00:15:21.961911+00:00",
+    "address": "4waLvKYSA19fg2szqkgZa6tHXnzvo8mGj7hKhfXBs1qH",
+    "symbol": "WLR",
+    "name": "Whole Lotta Rug",
+    "liquidity_usd": 17234.92193556097,
+    "source_listed_at": "2026-10-26T00:14:38",
+    "peak_liquidity_usd": 17234.92193556097,
+    "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
     "rug_flag": false
   }
 ]
