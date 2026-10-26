@@ -11002,7 +11002,7 @@
     "liquidity_usd": 0.00023497200698477708,
     "source_listed_at": "2026-10-24T05:44:32",
     "peak_liquidity_usd": 17384.538723442114,
-    "last_checked_at": "2026-10-24T23:07:30.983056+00:00",
+    "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
     "rug_flag": true
   },
   {
@@ -11212,6 +11212,28 @@
     "source_listed_at": "2026-10-26T06:04:53",
     "peak_liquidity_usd": 106777.17520923531,
     "last_checked_at": "2026-10-26T06:05:14.258137+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T12:50:14.262305+00:00",
+    "address": "E9hq3j7h2T9AebjsG18LAmqbKEvmxftpRynDryxUrYcp",
+    "symbol": "PLUS",
+    "name": "stonksplus",
+    "liquidity_usd": 6357.236536503706,
+    "source_listed_at": "2026-10-26T12:50:03",
+    "peak_liquidity_usd": 6357.236536503706,
+    "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T12:50:14.262318+00:00",
+    "address": "CpkjNUP2Bmxgg3ksABCWapmU1BpqueKqm7wN6kiXgt6R",
+    "symbol": "Memelord",
+    "name": "The Memelord",
+    "liquidity_usd": 17662.133586734504,
+    "source_listed_at": "2026-10-26T12:49:53",
+    "peak_liquidity_usd": 17662.133586734504,
+    "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
     "rug_flag": false
   }
 ]
