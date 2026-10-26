@@ -10947,7 +10947,7 @@
     "liquidity_usd": 0.0001594887715803409,
     "source_listed_at": "2026-10-23T07:23:08",
     "peak_liquidity_usd": 17753.040939814542,
-    "last_checked_at": "2026-10-24T23:07:30.983056+00:00",
+    "last_checked_at": "2026-10-26T06:05:14.258137+00:00",
     "rug_flag": true
   },
   {
@@ -11057,7 +11057,7 @@
     "liquidity_usd": 18328.98514579267,
     "source_listed_at": "2026-10-24T18:04:07",
     "peak_liquidity_usd": 18328.98514579267,
-    "last_checked_at": "2026-10-24T18:04:36.723873+00:00",
+    "last_checked_at": "2026-10-26T06:05:14.258137+00:00",
     "rug_flag": false
   },
   {
@@ -11201,6 +11201,17 @@
     "source_listed_at": "2026-10-26T00:14:38",
     "peak_liquidity_usd": 17234.92193556097,
     "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-26T06:05:13.894565+00:00",
+    "address": "6zpTXoqLuu91pVHSgKxX1TCXG8VqS5da783mUVTbbonk",
+    "symbol": "Shepbeac",
+    "name": "Shepard Beacon",
+    "liquidity_usd": 106777.17520923531,
+    "source_listed_at": "2026-10-26T06:04:53",
+    "peak_liquidity_usd": 106777.17520923531,
+    "last_checked_at": "2026-10-26T06:05:14.258137+00:00",
     "rug_flag": false
   }
 ]
