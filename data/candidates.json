@@ -11079,7 +11079,7 @@
     "liquidity_usd": 17788.51429317835,
     "source_listed_at": "2026-10-25T01:03:54",
     "peak_liquidity_usd": 17788.51429317835,
-    "last_checked_at": "2026-10-25T01:04:14.589928+00:00",
+    "last_checked_at": "2026-10-27T04:55:47.027487+00:00",
     "rug_flag": false
   },
   {
@@ -11289,6 +11289,28 @@
     "source_listed_at": "2026-10-26T23:48:10",
     "peak_liquidity_usd": 17130.582162835974,
     "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-27T04:55:46.645484+00:00",
+    "address": "2RR6sfbiMbySH2b6Bwo4ZxUiByn29uhxfTSMY98Xpump",
+    "symbol": "1wik",
+    "name": "1wik",
+    "liquidity_usd": 10515.198207650887,
+    "source_listed_at": "2026-10-27T04:55:32",
+    "peak_liquidity_usd": 10515.198207650887,
+    "last_checked_at": "2026-10-27T04:55:47.027487+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-27T04:55:46.645506+00:00",
+    "address": "JEGWhZbWMTVXm7acXpRD8DbSGWrGNwMcN7WWxUbegbUE",
+    "symbol": "LUMINA",
+    "name": "Lumina",
+    "liquidity_usd": 18178.687506030437,
+    "source_listed_at": "2026-10-27T04:55:07",
+    "peak_liquidity_usd": 18179.542119697668,
+    "last_checked_at": "2026-10-27T04:55:47.027487+00:00",
     "rug_flag": false
   }
 ]
