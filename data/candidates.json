@@ -11178,7 +11178,7 @@
     "liquidity_usd": 10147.203817757094,
     "source_listed_at": "2026-10-25T21:41:57",
     "peak_liquidity_usd": 10147.203817757094,
-    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "last_checked_at": "2026-10-28T08:21:38.045062+00:00",
     "rug_flag": false
   },
   {
@@ -11189,7 +11189,7 @@
     "liquidity_usd": 17211.521440246106,
     "source_listed_at": "2026-10-25T21:41:52",
     "peak_liquidity_usd": 17211.800054169762,
-    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "last_checked_at": "2026-10-28T08:21:38.045062+00:00",
     "rug_flag": false
   },
   {
@@ -11366,6 +11366,17 @@
     "source_listed_at": "2026-10-28T01:15:25",
     "peak_liquidity_usd": 18395.05853573173,
     "last_checked_at": "2026-10-28T01:15:40.678132+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-28T08:21:37.577530+00:00",
+    "address": "2V8w6f2w1BW6zQySjDL8ynFuywxFnpUz9PktKLiVCRVA",
+    "symbol": "Stu",
+    "name": "The Duck",
+    "liquidity_usd": 17551.859355348475,
+    "source_listed_at": "2026-10-28T08:20:45",
+    "peak_liquidity_usd": 17551.859355348475,
+    "last_checked_at": "2026-10-28T08:21:38.045062+00:00",
     "rug_flag": false
   }
 ]
