@@ -11145,7 +11145,7 @@
     "liquidity_usd": 5202.879298027306,
     "source_listed_at": "2026-10-25T18:57:50",
     "peak_liquidity_usd": 5202.879298027306,
-    "last_checked_at": "2026-10-25T18:58:08.389975+00:00",
+    "last_checked_at": "2026-10-28T01:15:40.678132+00:00",
     "rug_flag": false
   },
   {
@@ -11167,7 +11167,7 @@
     "liquidity_usd": 18220.391604406996,
     "source_listed_at": "2026-10-25T21:42:00",
     "peak_liquidity_usd": 18220.391604406996,
-    "last_checked_at": "2026-10-25T21:42:20.623190+00:00",
+    "last_checked_at": "2026-10-28T01:15:40.678132+00:00",
     "rug_flag": false
   },
   {
@@ -11355,6 +11355,17 @@
     "source_listed_at": "2026-10-27T21:15:08",
     "peak_liquidity_usd": 15146.478704215115,
     "last_checked_at": "2026-10-27T21:15:21.423192+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-28T01:15:40.239830+00:00",
+    "address": "8qbafa8GxGXdVzZJHWytTS8HP9RqYjCMSNQAhY6GSs11",
+    "symbol": "TrumpBuck",
+    "name": "TrumpBuck",
+    "liquidity_usd": 18395.05853573173,
+    "source_listed_at": "2026-10-28T01:15:25",
+    "peak_liquidity_usd": 18395.05853573173,
+    "last_checked_at": "2026-10-28T01:15:40.678132+00:00",
     "rug_flag": false
   }
 ]
