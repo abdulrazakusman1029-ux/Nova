@@ -11208,11 +11208,11 @@
     "address": "6zpTXoqLuu91pVHSgKxX1TCXG8VqS5da783mUVTbbonk",
     "symbol": "Shepbeac",
     "name": "Shepard Beacon",
-    "liquidity_usd": 106777.17520923531,
+    "liquidity_usd": 0.0013201065895353812,
     "source_listed_at": "2026-10-26T06:04:53",
     "peak_liquidity_usd": 106777.17520923531,
-    "last_checked_at": "2026-10-26T06:05:14.258137+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-28T20:59:38.407868+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-26T12:50:14.262305+00:00",
@@ -11222,7 +11222,7 @@
     "liquidity_usd": 6357.236536503706,
     "source_listed_at": "2026-10-26T12:50:03",
     "peak_liquidity_usd": 6357.236536503706,
-    "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
+    "last_checked_at": "2026-10-28T20:59:38.407868+00:00",
     "rug_flag": false
   },
   {
@@ -11233,7 +11233,7 @@
     "liquidity_usd": 17662.133586734504,
     "source_listed_at": "2026-10-26T12:49:53",
     "peak_liquidity_usd": 17662.133586734504,
-    "last_checked_at": "2026-10-26T12:50:14.687616+00:00",
+    "last_checked_at": "2026-10-28T20:59:38.407868+00:00",
     "rug_flag": false
   },
   {
