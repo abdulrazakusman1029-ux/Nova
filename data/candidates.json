@@ -11156,7 +11156,7 @@
     "liquidity_usd": 13179.533308981132,
     "source_listed_at": "2026-10-25T21:42:08",
     "peak_liquidity_usd": 13179.533308981132,
-    "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
+    "last_checked_at": "2026-10-28T15:57:35.085559+00:00",
     "rug_flag": false
   },
   {
@@ -11200,7 +11200,7 @@
     "liquidity_usd": 17234.92193556097,
     "source_listed_at": "2026-10-26T00:14:38",
     "peak_liquidity_usd": 17234.92193556097,
-    "last_checked_at": "2026-10-26T00:15:22.449622+00:00",
+    "last_checked_at": "2026-10-28T15:57:35.085559+00:00",
     "rug_flag": false
   },
   {
@@ -11377,6 +11377,17 @@
     "source_listed_at": "2026-10-28T08:20:45",
     "peak_liquidity_usd": 17551.859355348475,
     "last_checked_at": "2026-10-28T08:21:38.045062+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-28T15:57:34.763178+00:00",
+    "address": "3DrmPGZidN679LoMbSJuUYZeF1Zj5N5HeeLtqECHbeta",
+    "symbol": "BOTKUNDI",
+    "name": "brief",
+    "liquidity_usd": 6558.700874612314,
+    "source_listed_at": "2026-10-28T15:57:13",
+    "peak_liquidity_usd": 6558.700874612314,
+    "last_checked_at": "2026-10-28T15:57:35.085559+00:00",
     "rug_flag": false
   }
 ]
