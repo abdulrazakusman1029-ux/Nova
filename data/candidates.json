@@ -11400,5 +11400,38 @@
     "peak_liquidity_usd": 44352.240348296444,
     "last_checked_at": "2026-10-29T00:51:03.208343+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-29T06:59:46.352796+00:00",
+    "address": "6csFYsmet2aKkuWNRBjaheXQbT71gnbCvfXNLGi3bonk",
+    "symbol": "HOLDGHO",
+    "name": "Holdovers Script Ghost",
+    "liquidity_usd": 107540.85315710219,
+    "source_listed_at": "2026-10-29T06:59:31",
+    "peak_liquidity_usd": 107540.85315710219,
+    "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-29T06:59:46.352819+00:00",
+    "address": "8tNZ5UkuEzxbt3ssZUyzxK9ND8W1WPrC9zf7dXu7AGrw",
+    "symbol": "VC",
+    "name": "voicecat",
+    "liquidity_usd": 19994.01410270407,
+    "source_listed_at": "2026-10-29T06:59:18",
+    "peak_liquidity_usd": 19994.01410270407,
+    "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-29T06:59:46.352822+00:00",
+    "address": "4vE2LviCtkyBmeFxabh54Yx6LNCWvUV9VzMZcaXoSRZv",
+    "symbol": "TRUMP",
+    "name": "Trump Coin",
+    "liquidity_usd": 17198.509017514323,
+    "source_listed_at": "2026-10-29T06:59:02",
+    "peak_liquidity_usd": 17198.509017514323,
+    "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "rug_flag": false
   }
 ]
