@@ -11288,7 +11288,7 @@
     "liquidity_usd": 17130.582162835974,
     "source_listed_at": "2026-10-26T23:48:10",
     "peak_liquidity_usd": 17130.582162835974,
-    "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
+    "last_checked_at": "2026-10-29T19:36:28.859672+00:00",
     "rug_flag": false
   },
   {
@@ -11299,7 +11299,7 @@
     "liquidity_usd": 10515.198207650887,
     "source_listed_at": "2026-10-27T04:55:32",
     "peak_liquidity_usd": 10515.198207650887,
-    "last_checked_at": "2026-10-27T04:55:47.027487+00:00",
+    "last_checked_at": "2026-10-29T19:36:28.859672+00:00",
     "rug_flag": false
   },
   {
@@ -11443,6 +11443,17 @@
     "source_listed_at": "2026-10-29T14:11:03",
     "peak_liquidity_usd": 17276.163005642695,
     "last_checked_at": "2026-10-29T14:11:42.303638+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-29T19:36:28.432701+00:00",
+    "address": "FsGfYpkFDDeY7LEWHEXUhEuPwNAmbT6sRAQ9oVKxjpET",
+    "symbol": "STAN",
+    "name": "Elon Stan",
+    "liquidity_usd": 15799.960251460587,
+    "source_listed_at": "2026-10-29T19:36:10",
+    "peak_liquidity_usd": 15799.960251460587,
+    "last_checked_at": "2026-10-29T19:36:28.859672+00:00",
     "rug_flag": false
   }
 ]
