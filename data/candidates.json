@@ -11244,7 +11244,7 @@
     "liquidity_usd": 17640.902470532,
     "source_listed_at": "2026-10-26T19:13:06",
     "peak_liquidity_usd": 17640.902470532,
-    "last_checked_at": "2026-10-26T23:48:39.524542+00:00",
+    "last_checked_at": "2026-10-29T14:11:42.303638+00:00",
     "rug_flag": false
   },
   {
@@ -11277,7 +11277,7 @@
     "liquidity_usd": 15848.15741977923,
     "source_listed_at": "2026-10-26T19:12:45",
     "peak_liquidity_usd": 15848.15741977923,
-    "last_checked_at": "2026-10-26T19:13:18.064641+00:00",
+    "last_checked_at": "2026-10-29T14:11:42.303638+00:00",
     "rug_flag": false
   },
   {
@@ -11432,6 +11432,17 @@
     "source_listed_at": "2026-10-29T06:59:02",
     "peak_liquidity_usd": 17198.509017514323,
     "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-29T14:11:41.751658+00:00",
+    "address": "F2Ub2NcBZEPWyvAQ6128FKoa77XUTCCWVP6d5CXdThJQ",
+    "symbol": "SA",
+    "name": "Speculative Asset",
+    "liquidity_usd": 17276.163005642695,
+    "source_listed_at": "2026-10-29T14:11:03",
+    "peak_liquidity_usd": 17276.163005642695,
+    "last_checked_at": "2026-10-29T14:11:42.303638+00:00",
     "rug_flag": false
   }
 ]
