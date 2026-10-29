@@ -11307,11 +11307,11 @@
     "address": "JEGWhZbWMTVXm7acXpRD8DbSGWrGNwMcN7WWxUbegbUE",
     "symbol": "LUMINA",
     "name": "Lumina",
-    "liquidity_usd": 18178.687506030437,
+    "liquidity_usd": 0.0003628913267188741,
     "source_listed_at": "2026-10-27T04:55:07",
     "peak_liquidity_usd": 18179.542119697668,
-    "last_checked_at": "2026-10-27T04:55:47.027487+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-29T23:54:27.356405+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-27T10:28:24.028854+00:00",
@@ -11321,7 +11321,7 @@
     "liquidity_usd": 10954.994799973108,
     "source_listed_at": "2026-10-27T10:28:19",
     "peak_liquidity_usd": 10954.994799973108,
-    "last_checked_at": "2026-10-27T10:28:24.644947+00:00",
+    "last_checked_at": "2026-10-29T23:54:27.356405+00:00",
     "rug_flag": false
   },
   {
@@ -11329,11 +11329,11 @@
     "address": "BVCfAMdvx9yNmWmhyw8WPZcG7rFxUMubFvoFmd3k1p3d",
     "symbol": "ONECOIN",
     "name": "Onecoin",
-    "liquidity_usd": 9959.540983900612,
+    "liquidity_usd": 3.5980691385121292e-06,
     "source_listed_at": "2026-10-27T10:28:07",
     "peak_liquidity_usd": 9959.540983900612,
-    "last_checked_at": "2026-10-27T10:28:24.644947+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-10-29T23:54:27.356405+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-10-27T10:28:24.028886+00:00",
