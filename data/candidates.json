@@ -11387,7 +11387,7 @@
     "liquidity_usd": 6558.700874612314,
     "source_listed_at": "2026-10-28T15:57:13",
     "peak_liquidity_usd": 6558.700874612314,
-    "last_checked_at": "2026-10-28T15:57:35.085559+00:00",
+    "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
     "rug_flag": false
   },
   {
@@ -11509,6 +11509,28 @@
     "source_listed_at": "2026-10-30T18:33:23",
     "peak_liquidity_usd": 16514.05636746271,
     "last_checked_at": "2026-10-30T18:33:35.774264+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T22:56:03.368752+00:00",
+    "address": "AL6iwfwEruCdvE6Yj16hzKW6VCPNPbNWA3JLzXnXdEDm",
+    "symbol": "EDS",
+    "name": "Elon Derangement Syndrome",
+    "liquidity_usd": 18205.115352316534,
+    "source_listed_at": "2026-10-30T22:55:48",
+    "peak_liquidity_usd": 18205.115352316534,
+    "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T22:56:03.368769+00:00",
+    "address": "Dfax3GwXbhxBBuZ2m33LJVEP8cNyBzBEuWYijyF7H5Mc",
+    "symbol": "iNeko",
+    "name": "iNeko",
+    "liquidity_usd": 15090.38179741466,
+    "source_listed_at": "2026-10-30T22:55:40",
+    "peak_liquidity_usd": 15090.38179741466,
+    "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
     "rug_flag": false
   }
 ]
