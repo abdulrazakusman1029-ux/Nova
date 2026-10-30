@@ -11354,7 +11354,7 @@
     "liquidity_usd": 15146.478704215115,
     "source_listed_at": "2026-10-27T21:15:08",
     "peak_liquidity_usd": 15146.478704215115,
-    "last_checked_at": "2026-10-27T21:15:21.423192+00:00",
+    "last_checked_at": "2026-10-30T12:44:06.350146+00:00",
     "rug_flag": false
   },
   {
@@ -11476,6 +11476,28 @@
     "source_listed_at": "2026-10-30T05:37:40",
     "peak_liquidity_usd": 17255.868715295102,
     "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T12:44:05.726741+00:00",
+    "address": "3jb9mQnmNoc3Ab9PaY8rESPTL2rn657npPxFh1MmHx1B",
+    "symbol": "Pum Coin",
+    "name": "Halloween Coins\ud83c\udf83",
+    "liquidity_usd": 39499.752750653905,
+    "source_listed_at": "2026-10-30T12:43:55",
+    "peak_liquidity_usd": 39499.752750653905,
+    "last_checked_at": "2026-10-30T12:44:06.350146+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T12:44:05.726758+00:00",
+    "address": "5fLGsBkgEfrQMiRvkqLahL1F32LqHwk7jV79EwbCrftM",
+    "symbol": "\u30ca\u30ba\u304f\u3093",
+    "name": "Auracat",
+    "liquidity_usd": 16951.46653428792,
+    "source_listed_at": "2026-10-30T12:43:44",
+    "peak_liquidity_usd": 16951.46653428792,
+    "last_checked_at": "2026-10-30T12:44:06.350146+00:00",
     "rug_flag": false
   }
 ]
