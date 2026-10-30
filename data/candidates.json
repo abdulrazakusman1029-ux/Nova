@@ -11343,7 +11343,7 @@
     "liquidity_usd": 103955.08673299826,
     "source_listed_at": "2026-10-27T10:27:52",
     "peak_liquidity_usd": 103955.08673299826,
-    "last_checked_at": "2026-10-27T10:28:24.644947+00:00",
+    "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
     "rug_flag": false
   },
   {
@@ -11454,6 +11454,28 @@
     "source_listed_at": "2026-10-29T19:36:10",
     "peak_liquidity_usd": 15799.960251460587,
     "last_checked_at": "2026-10-29T19:36:28.859672+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T05:38:28.350171+00:00",
+    "address": "GY16hVLxe3VrB1uXa5w6erZKLXwQnpefdqMNeSbnR2H6",
+    "symbol": "ZERODAY",
+    "name": "ZEROday",
+    "liquidity_usd": 11295.448863311907,
+    "source_listed_at": "2026-10-30T05:38:24",
+    "peak_liquidity_usd": 11295.448863311907,
+    "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-30T05:38:28.350197+00:00",
+    "address": "Bd4BZYzhvdu3H5VAbhxS4QkPZYYTBRb4gJH1RZENuzyr",
+    "symbol": "GROKTYSON",
+    "name": "1\u5206\u949f",
+    "liquidity_usd": 17255.868715295102,
+    "source_listed_at": "2026-10-30T05:37:40",
+    "peak_liquidity_usd": 17255.868715295102,
+    "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
     "rug_flag": false
   }
 ]
