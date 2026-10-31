@@ -11398,7 +11398,7 @@
     "liquidity_usd": 44352.240348296444,
     "source_listed_at": "2026-10-29T00:50:47",
     "peak_liquidity_usd": 44352.240348296444,
-    "last_checked_at": "2026-10-29T00:51:03.208343+00:00",
+    "last_checked_at": "2026-10-31T02:17:15.600149+00:00",
     "rug_flag": false
   },
   {
@@ -11531,6 +11531,28 @@
     "source_listed_at": "2026-10-30T22:55:40",
     "peak_liquidity_usd": 15090.38179741466,
     "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T02:17:14.756995+00:00",
+    "address": "DRaUN4E7xtH7JawCpP71yDXhhvY7mEpCi1bvpYgnisA7",
+    "symbol": "Candy",
+    "name": "Halloween candy",
+    "liquidity_usd": 35127.011955086215,
+    "source_listed_at": "2026-10-31T02:16:51",
+    "peak_liquidity_usd": 35127.011955086215,
+    "last_checked_at": "2026-10-31T02:17:15.600149+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T02:17:14.757016+00:00",
+    "address": "GUiZKFPTjdGVKUvgarpnPMCWQTt872Q2ehevnwWbXmCM",
+    "symbol": "WORM",
+    "name": "Agent Wormhole",
+    "liquidity_usd": 35462.5787152946,
+    "source_listed_at": "2026-10-31T02:16:30",
+    "peak_liquidity_usd": 35462.5787152946,
+    "last_checked_at": "2026-10-31T02:17:15.600149+00:00",
     "rug_flag": false
   }
 ]
