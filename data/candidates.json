@@ -11409,7 +11409,7 @@
     "liquidity_usd": 107540.85315710219,
     "source_listed_at": "2026-10-29T06:59:31",
     "peak_liquidity_usd": 107540.85315710219,
-    "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "last_checked_at": "2026-10-31T09:30:57.618926+00:00",
     "rug_flag": false
   },
   {
@@ -11420,7 +11420,7 @@
     "liquidity_usd": 19994.01410270407,
     "source_listed_at": "2026-10-29T06:59:18",
     "peak_liquidity_usd": 19994.01410270407,
-    "last_checked_at": "2026-10-29T06:59:46.812732+00:00",
+    "last_checked_at": "2026-10-31T09:30:57.618926+00:00",
     "rug_flag": false
   },
   {
@@ -11553,6 +11553,17 @@
     "source_listed_at": "2026-10-31T02:16:30",
     "peak_liquidity_usd": 35462.5787152946,
     "last_checked_at": "2026-10-31T02:17:15.600149+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T09:30:57.217920+00:00",
+    "address": "6hv1QpwovdBNfHTH98ZCMHdtMg9ugWqwREiTTLWUXLSL",
+    "symbol": "Pum Coin",
+    "name": "Halloween Coins\ud83c\udf83",
+    "liquidity_usd": 39060.06359999662,
+    "source_listed_at": "2026-10-31T09:30:10",
+    "peak_liquidity_usd": 39060.06359999662,
+    "last_checked_at": "2026-10-31T09:30:57.618926+00:00",
     "rug_flag": false
   }
 ]
