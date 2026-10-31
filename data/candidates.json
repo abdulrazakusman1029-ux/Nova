@@ -11464,7 +11464,7 @@
     "liquidity_usd": 11295.448863311907,
     "source_listed_at": "2026-10-30T05:38:24",
     "peak_liquidity_usd": 11295.448863311907,
-    "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
+    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
     "rug_flag": false
   },
   {
@@ -11475,7 +11475,7 @@
     "liquidity_usd": 17255.868715295102,
     "source_listed_at": "2026-10-30T05:37:40",
     "peak_liquidity_usd": 17255.868715295102,
-    "last_checked_at": "2026-10-30T05:38:28.822205+00:00",
+    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
     "rug_flag": false
   },
   {
@@ -11564,6 +11564,17 @@
     "source_listed_at": "2026-10-31T09:30:10",
     "peak_liquidity_usd": 39060.06359999662,
     "last_checked_at": "2026-10-31T09:30:57.618926+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T19:55:11.137564+00:00",
+    "address": "39PActzpSsbMyAeGaHWiTGaapSszCqRY9WikYzhYDE82",
+    "symbol": "Halloween",
+    "name": "Halloween",
+    "liquidity_usd": 38493.482904808654,
+    "source_listed_at": "2026-10-31T19:54:49",
+    "peak_liquidity_usd": 38493.482904808654,
+    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
     "rug_flag": false
   }
 ]
