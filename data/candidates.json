@@ -11576,5 +11576,38 @@
     "peak_liquidity_usd": 38493.482904808654,
     "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T23:19:25.127907+00:00",
+    "address": "GXNJpTUVfeZhjM6y6vvEUxrZpL7QqvqpfgNKH7UNZUwL",
+    "symbol": "INKKY",
+    "name": "The Screaming Cat",
+    "liquidity_usd": 11455.8064704655,
+    "source_listed_at": "2026-10-31T23:18:54",
+    "peak_liquidity_usd": 11455.8064704655,
+    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T23:19:25.127930+00:00",
+    "address": "7aVKD6GxhgYbsggh9uduT5zoLe9dzfNpVz88Lsy3pump",
+    "symbol": "White",
+    "name": "Whitecoin",
+    "liquidity_usd": 10584.341197136713,
+    "source_listed_at": "2026-10-31T23:18:52",
+    "peak_liquidity_usd": 10584.341197136713,
+    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-10-31T23:19:25.127935+00:00",
+    "address": "4W2gn7DRjWkafGtG7mpWstuqoXLDTKfU5VvdPSSpv3G5",
+    "symbol": "BSTC",
+    "name": "Big Spooky Titty Coin",
+    "liquidity_usd": 40778.24835296246,
+    "source_listed_at": "2026-10-31T23:18:51",
+    "peak_liquidity_usd": 40778.2484348072,
+    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "rug_flag": false
   }
 ]
