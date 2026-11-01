@@ -11508,7 +11508,7 @@
     "liquidity_usd": 16514.05636746271,
     "source_listed_at": "2026-10-30T18:33:23",
     "peak_liquidity_usd": 16514.05636746271,
-    "last_checked_at": "2026-10-30T18:33:35.774264+00:00",
+    "last_checked_at": "2026-11-01T13:12:58.058999+00:00",
     "rug_flag": false
   },
   {
@@ -11519,7 +11519,7 @@
     "liquidity_usd": 18205.115352316534,
     "source_listed_at": "2026-10-30T22:55:48",
     "peak_liquidity_usd": 18205.115352316534,
-    "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
+    "last_checked_at": "2026-11-01T13:12:58.058999+00:00",
     "rug_flag": false
   },
   {
@@ -11619,6 +11619,17 @@
     "source_listed_at": "2026-11-01T05:52:28",
     "peak_liquidity_usd": 38632.596546533576,
     "last_checked_at": "2026-11-01T05:53:51.335578+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-01T13:12:57.578775+00:00",
+    "address": "Fe2qyBmk8cF7hwEuKAssugARHFuf4jE9tSQh7VfWhEpx",
+    "symbol": "shegoin",
+    "name": "she goin",
+    "liquidity_usd": 16110.440460808224,
+    "source_listed_at": "2026-11-01T13:12:42",
+    "peak_liquidity_usd": 16110.440460808224,
+    "last_checked_at": "2026-11-01T13:12:58.058999+00:00",
     "rug_flag": false
   }
 ]
