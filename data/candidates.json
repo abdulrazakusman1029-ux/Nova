@@ -11486,7 +11486,7 @@
     "liquidity_usd": 39499.752750653905,
     "source_listed_at": "2026-10-30T12:43:55",
     "peak_liquidity_usd": 39499.752750653905,
-    "last_checked_at": "2026-10-30T12:44:06.350146+00:00",
+    "last_checked_at": "2026-11-01T05:53:51.335578+00:00",
     "rug_flag": false
   },
   {
@@ -11497,7 +11497,7 @@
     "liquidity_usd": 16951.46653428792,
     "source_listed_at": "2026-10-30T12:43:44",
     "peak_liquidity_usd": 16951.46653428792,
-    "last_checked_at": "2026-10-30T12:44:06.350146+00:00",
+    "last_checked_at": "2026-11-01T05:53:51.335578+00:00",
     "rug_flag": false
   },
   {
@@ -11608,6 +11608,17 @@
     "source_listed_at": "2026-10-31T23:18:51",
     "peak_liquidity_usd": 40778.2484348072,
     "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-01T05:53:50.710611+00:00",
+    "address": "86DiBxxZ2m7ZK3QkYLgJMBWDSfUHHRdP9v1KtLDjNk7D",
+    "symbol": "Gold",
+    "name": "gold",
+    "liquidity_usd": 38632.596546533576,
+    "source_listed_at": "2026-11-01T05:52:28",
+    "peak_liquidity_usd": 38632.596546533576,
+    "last_checked_at": "2026-11-01T05:53:51.335578+00:00",
     "rug_flag": false
   }
 ]
