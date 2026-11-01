@@ -11530,7 +11530,7 @@
     "liquidity_usd": 15090.38179741466,
     "source_listed_at": "2026-10-30T22:55:40",
     "peak_liquidity_usd": 15090.38179741466,
-    "last_checked_at": "2026-10-30T22:56:03.694063+00:00",
+    "last_checked_at": "2026-11-01T18:25:26.761058+00:00",
     "rug_flag": false
   },
   {
@@ -11541,7 +11541,7 @@
     "liquidity_usd": 35127.011955086215,
     "source_listed_at": "2026-10-31T02:16:51",
     "peak_liquidity_usd": 35127.011955086215,
-    "last_checked_at": "2026-10-31T02:17:15.600149+00:00",
+    "last_checked_at": "2026-11-01T18:25:26.761058+00:00",
     "rug_flag": false
   },
   {
@@ -11630,6 +11630,17 @@
     "source_listed_at": "2026-11-01T13:12:42",
     "peak_liquidity_usd": 16110.440460808224,
     "last_checked_at": "2026-11-01T13:12:58.058999+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-01T18:25:26.348381+00:00",
+    "address": "23dDE8hRn4YxNB3ceHvwoJofh9ghRbdpMSjYRckAMmKs",
+    "symbol": "EVOLVE",
+    "name": "Evolve",
+    "liquidity_usd": 16004.927991740626,
+    "source_listed_at": "2026-11-01T18:25:22",
+    "peak_liquidity_usd": 16004.927991740626,
+    "last_checked_at": "2026-11-01T18:25:26.761058+00:00",
     "rug_flag": false
   }
 ]
