@@ -11686,5 +11686,38 @@
     "peak_liquidity_usd": 34216.43966638826,
     "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T20:44:06.830543+00:00",
+    "address": "3QajHayBkx6Bbwxn4z8Y3h1K3cAAwM9BCbFzyvQTWBnZ",
+    "symbol": "FOREVER",
+    "name": "Forever",
+    "liquidity_usd": 40154.05707303334,
+    "source_listed_at": "2026-11-02T20:43:59",
+    "peak_liquidity_usd": 40154.05707303334,
+    "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T20:44:06.830567+00:00",
+    "address": "72ZrRkWmwgrmDs4VKyu5GmoJrysVQgXsPuxswbywf8SZ",
+    "symbol": "PAUL",
+    "name": "Paul Atreides",
+    "liquidity_usd": 18448.451050429332,
+    "source_listed_at": "2026-11-02T20:43:55",
+    "peak_liquidity_usd": 18448.451050429332,
+    "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T20:44:06.830573+00:00",
+    "address": "59ELL1J1FaRzVd3ncB3Bb3Dwyc4eeHn3GEuypeGL6JsP",
+    "symbol": "NIO",
+    "name": "Nigga Its Over",
+    "liquidity_usd": 18807.89867278482,
+    "source_listed_at": "2026-11-02T20:43:50",
+    "peak_liquidity_usd": 18807.89867278482,
+    "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "rug_flag": false
   }
 ]
