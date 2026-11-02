@@ -11574,7 +11574,7 @@
     "liquidity_usd": 38493.482904808654,
     "source_listed_at": "2026-10-31T19:54:49",
     "peak_liquidity_usd": 38493.482904808654,
-    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
+    "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
     "rug_flag": false
   },
   {
@@ -11663,6 +11663,28 @@
     "source_listed_at": "2026-11-02T02:24:31",
     "peak_liquidity_usd": 19347.97743775935,
     "last_checked_at": "2026-11-02T02:24:38.419843+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T10:54:58.427532+00:00",
+    "address": "9wWMRBVBdZvk1hgawKv6hs5U6FBe53jq8pyoLSuqzhAp",
+    "symbol": "BOOSTX",
+    "name": "BoostspaceX",
+    "liquidity_usd": 19748.124027812177,
+    "source_listed_at": "2026-11-02T10:54:39",
+    "peak_liquidity_usd": 19748.124027812177,
+    "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T10:54:58.427550+00:00",
+    "address": "6FBf1q5rVGqFQCMZ8L7UPqJiWh3Sx5AGEY3YXSBQzckJ",
+    "symbol": "FAGENT",
+    "name": "FAGENT",
+    "liquidity_usd": 34216.43966638826,
+    "source_listed_at": "2026-11-02T10:54:16",
+    "peak_liquidity_usd": 34216.43966638826,
+    "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
     "rug_flag": false
   }
 ]
