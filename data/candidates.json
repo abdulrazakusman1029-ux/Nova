@@ -11464,7 +11464,7 @@
     "liquidity_usd": 11295.448863311907,
     "source_listed_at": "2026-10-30T05:38:24",
     "peak_liquidity_usd": 11295.448863311907,
-    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
+    "last_checked_at": "2026-11-02T02:24:38.419843+00:00",
     "rug_flag": false
   },
   {
@@ -11475,7 +11475,7 @@
     "liquidity_usd": 17255.868715295102,
     "source_listed_at": "2026-10-30T05:37:40",
     "peak_liquidity_usd": 17255.868715295102,
-    "last_checked_at": "2026-10-31T19:55:11.463582+00:00",
+    "last_checked_at": "2026-11-02T02:24:38.419843+00:00",
     "rug_flag": false
   },
   {
@@ -11652,6 +11652,17 @@
     "source_listed_at": "2026-11-01T22:44:49",
     "peak_liquidity_usd": 33465411.860702537,
     "last_checked_at": "2026-11-01T22:44:56.272688+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-02T02:24:37.895625+00:00",
+    "address": "3LnjHZCJE9ZKgZcNWDxwDDVcKogpd6YjXQu9FjrZXGf6",
+    "symbol": "mubull",
+    "name": "mu\u2006bu\u2006l\u2006l",
+    "liquidity_usd": 19077.914978052697,
+    "source_listed_at": "2026-11-02T02:24:31",
+    "peak_liquidity_usd": 19347.97743775935,
+    "last_checked_at": "2026-11-02T02:24:38.419843+00:00",
     "rug_flag": false
   }
 ]
