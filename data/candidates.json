@@ -11607,7 +11607,7 @@
     "liquidity_usd": 40778.24835296246,
     "source_listed_at": "2026-10-31T23:18:51",
     "peak_liquidity_usd": 40778.2484348072,
-    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "last_checked_at": "2026-11-03T18:23:27.829445+00:00",
     "rug_flag": false
   },
   {
@@ -11618,7 +11618,7 @@
     "liquidity_usd": 38632.596546533576,
     "source_listed_at": "2026-11-01T05:52:28",
     "peak_liquidity_usd": 38632.596546533576,
-    "last_checked_at": "2026-11-01T05:53:51.335578+00:00",
+    "last_checked_at": "2026-11-03T18:23:27.829445+00:00",
     "rug_flag": false
   },
   {
@@ -11762,6 +11762,17 @@
     "source_listed_at": "2026-11-03T10:43:20",
     "peak_liquidity_usd": 15685.671810066027,
     "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T18:23:27.397056+00:00",
+    "address": "8mBvwDCsPdZ8FEWEXYZVt8Rd7qwqsCUgkeLW8wSJSBdM",
+    "symbol": "$DCYC",
+    "name": "Dacity Coin",
+    "liquidity_usd": 15326.627776500745,
+    "source_listed_at": "2026-11-03T18:23:19",
+    "peak_liquidity_usd": 15326.627776500745,
+    "last_checked_at": "2026-11-03T18:23:27.829445+00:00",
     "rug_flag": false
   }
 ]
