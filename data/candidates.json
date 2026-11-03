@@ -11774,5 +11774,38 @@
     "peak_liquidity_usd": 15326.627776500745,
     "last_checked_at": "2026-11-03T18:23:27.829445+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T23:57:09.250972+00:00",
+    "address": "4T4SJpvQRY7GxkxbhKUJjY92oKJtqncxsUnQYhDRyDsa",
+    "symbol": "nothing",
+    "name": "nothing ever happens",
+    "liquidity_usd": 16921.675908483834,
+    "source_listed_at": "2026-11-03T23:56:42",
+    "peak_liquidity_usd": 16921.675908483834,
+    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T23:57:09.250992+00:00",
+    "address": "HMmsUSHTGPvBrm7sxzZEm6j9FBskyvbA35D7TmDcXpUm",
+    "symbol": "\u7709\u7709",
+    "name": "MeiMei",
+    "liquidity_usd": 37185.805704965474,
+    "source_listed_at": "2026-11-03T23:56:41",
+    "peak_liquidity_usd": 37185.805704965474,
+    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T23:57:09.250995+00:00",
+    "address": "8JtBkYsmhsm3RNiUSM8xDGHLBF1PYjWFXWvA3nwEWHbw",
+    "symbol": "PREDICTOOR",
+    "name": "The Predictoor",
+    "liquidity_usd": 14477.385775478098,
+    "source_listed_at": "2026-11-03T23:56:38",
+    "peak_liquidity_usd": 14477.385775478098,
+    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "rug_flag": false
   }
 ]
