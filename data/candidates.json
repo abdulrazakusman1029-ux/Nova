@@ -11596,7 +11596,7 @@
     "liquidity_usd": 10584.341197136713,
     "source_listed_at": "2026-10-31T23:18:52",
     "peak_liquidity_usd": 10584.341197136713,
-    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
     "rug_flag": false
   },
   {
@@ -11740,6 +11740,28 @@
     "source_listed_at": "2026-11-03T02:52:10",
     "peak_liquidity_usd": 16315.113783704823,
     "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T10:44:18.871965+00:00",
+    "address": "Gvdexfi4GMvWiTqneBwo7bqKqxSMkNtTtdhXr7FfY3Ue",
+    "symbol": "zkSHARK",
+    "name": "Zero Knowledge Snark",
+    "liquidity_usd": 15689.270316550446,
+    "source_listed_at": "2026-11-03T10:43:53",
+    "peak_liquidity_usd": 15689.270316550446,
+    "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T10:44:18.871987+00:00",
+    "address": "9nK6H1nH8b2qqVfk4ZXaL2pcrCffs6LZhSNvwvG1BbWs",
+    "symbol": "zkSHARK",
+    "name": "Zero Knowledge Shark",
+    "liquidity_usd": 15685.671810066027,
+    "source_listed_at": "2026-11-03T10:43:20",
+    "peak_liquidity_usd": 15685.671810066027,
+    "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
     "rug_flag": false
   }
 ]
