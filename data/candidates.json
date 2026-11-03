@@ -11585,7 +11585,7 @@
     "liquidity_usd": 11455.8064704655,
     "source_listed_at": "2026-10-31T23:18:54",
     "peak_liquidity_usd": 11455.8064704655,
-    "last_checked_at": "2026-10-31T23:19:25.552009+00:00",
+    "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
     "rug_flag": false
   },
   {
@@ -11718,6 +11718,28 @@
     "source_listed_at": "2026-11-02T20:43:50",
     "peak_liquidity_usd": 18807.89867278482,
     "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T02:52:31.172146+00:00",
+    "address": "2XUoUsnEvvK81GkRzcfYFn9K57yqE5mg9336PZU9SGBU",
+    "symbol": "BWAH",
+    "name": "BITCOIN WIZARD APPLE HURLER",
+    "liquidity_usd": 16733.375990776607,
+    "source_listed_at": "2026-11-03T02:52:26",
+    "peak_liquidity_usd": 16733.375990776607,
+    "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-03T02:52:31.172169+00:00",
+    "address": "C23rLxncW8REC4XBhLptESnmRvqeqSrkFgt9svu1CeMH",
+    "symbol": "BWAH",
+    "name": "BITCOIN WIZARD APPLE HURLER",
+    "liquidity_usd": 16315.113783704823,
+    "source_listed_at": "2026-11-03T02:52:10",
+    "peak_liquidity_usd": 16315.113783704823,
+    "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
     "rug_flag": false
   }
 ]
