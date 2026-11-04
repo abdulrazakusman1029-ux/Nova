@@ -11651,7 +11651,7 @@
     "liquidity_usd": 33465411.860702537,
     "source_listed_at": "2026-11-01T22:44:49",
     "peak_liquidity_usd": 33465411.860702537,
-    "last_checked_at": "2026-11-01T22:44:56.272688+00:00",
+    "last_checked_at": "2026-11-04T21:16:20.252146+00:00",
     "rug_flag": false
   },
   {
@@ -11662,7 +11662,7 @@
     "liquidity_usd": 19077.914978052697,
     "source_listed_at": "2026-11-02T02:24:31",
     "peak_liquidity_usd": 19347.97743775935,
-    "last_checked_at": "2026-11-02T02:24:38.419843+00:00",
+    "last_checked_at": "2026-11-04T21:16:20.252146+00:00",
     "rug_flag": false
   },
   {
@@ -11861,6 +11861,17 @@
     "source_listed_at": "2026-11-04T14:22:56",
     "peak_liquidity_usd": 14660.228449943641,
     "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T21:16:19.860786+00:00",
+    "address": "7RC84ShRZ6iDb9fZiLJWjBoiG8dwWbzNyNJpSDRc4kd7",
+    "symbol": "LOBBY",
+    "name": "The Lobby",
+    "liquidity_usd": 16137.953449321154,
+    "source_listed_at": "2026-11-04T21:16:14",
+    "peak_liquidity_usd": 16137.953449321154,
+    "last_checked_at": "2026-11-04T21:16:20.252146+00:00",
     "rug_flag": false
   }
 ]
