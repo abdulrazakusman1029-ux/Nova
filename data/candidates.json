@@ -11807,5 +11807,38 @@
     "peak_liquidity_usd": 14477.385775478098,
     "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T06:06:09.290996+00:00",
+    "address": "DdKjSYFcVEfYfk15hQfUshZwzfNCfPpXSuZNRfKJRzaH",
+    "symbol": "STONKDIA",
+    "name": "STONKDIA",
+    "liquidity_usd": 14640.77870782027,
+    "source_listed_at": "2026-11-04T06:05:54",
+    "peak_liquidity_usd": 14640.77870782027,
+    "last_checked_at": "2026-11-04T06:06:09.938701+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T06:06:09.291014+00:00",
+    "address": "HmujCNqZM75SnDfbVPxUhWrV7jo3WJxN5A3joVdLAgiF",
+    "symbol": "Grok17",
+    "name": "Grok17",
+    "liquidity_usd": 16093.292312322941,
+    "source_listed_at": "2026-11-04T06:05:54",
+    "peak_liquidity_usd": 16093.292312322941,
+    "last_checked_at": "2026-11-04T06:06:09.938701+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T06:06:09.291018+00:00",
+    "address": "3gFwFbR6XAWE28PtVqLgoQ5TJRTR2LnJWDavsAkutu9q",
+    "symbol": "RE/TARD",
+    "name": "RE/TARD",
+    "liquidity_usd": 15768.250392439655,
+    "source_listed_at": "2026-11-04T06:05:31",
+    "peak_liquidity_usd": 15768.250392439655,
+    "last_checked_at": "2026-11-04T06:06:09.938701+00:00",
+    "rug_flag": false
   }
 ]
