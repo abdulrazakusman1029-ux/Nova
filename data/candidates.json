@@ -11640,7 +11640,7 @@
     "liquidity_usd": 16004.927991740626,
     "source_listed_at": "2026-11-01T18:25:22",
     "peak_liquidity_usd": 16004.927991740626,
-    "last_checked_at": "2026-11-01T18:25:26.761058+00:00",
+    "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
     "rug_flag": false
   },
   {
@@ -11839,6 +11839,28 @@
     "source_listed_at": "2026-11-04T06:05:31",
     "peak_liquidity_usd": 15768.250392439655,
     "last_checked_at": "2026-11-04T06:06:09.938701+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T14:23:26.357061+00:00",
+    "address": "9QFQsRKgHbRWVmdZKTjqrRYsDyPBQjtPwKYrNTPHeXoA",
+    "symbol": "AI",
+    "name": "Artificial Inu",
+    "liquidity_usd": 14663.810286054919,
+    "source_listed_at": "2026-11-04T14:23:21",
+    "peak_liquidity_usd": 14663.810286054919,
+    "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-04T14:23:26.357085+00:00",
+    "address": "Cb6bWHTHfcski4VNYY46xbebpmzHUgd7gJohhFrbdXbm",
+    "symbol": "AI",
+    "name": "Artificial Inu",
+    "liquidity_usd": 14660.228449943641,
+    "source_listed_at": "2026-11-04T14:22:56",
+    "peak_liquidity_usd": 14660.228449943641,
+    "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
     "rug_flag": false
   }
 ]
