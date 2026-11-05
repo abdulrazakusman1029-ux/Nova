@@ -11706,7 +11706,7 @@
     "liquidity_usd": 18448.451050429332,
     "source_listed_at": "2026-11-02T20:43:55",
     "peak_liquidity_usd": 18448.451050429332,
-    "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "last_checked_at": "2026-11-05T18:41:21.956877+00:00",
     "rug_flag": false
   },
   {
@@ -11905,6 +11905,28 @@
     "source_listed_at": "2026-11-05T10:43:58",
     "peak_liquidity_usd": 16425.842251714974,
     "last_checked_at": "2026-11-05T10:44:50.904702+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-05T18:41:21.548211+00:00",
+    "address": "89fRdxCxtjJUAQZEm6T7rthewCToonUBswUaePiXmoon",
+    "symbol": "DATAGOB",
+    "name": "Openai Data Goblin",
+    "liquidity_usd": 103738.20312804646,
+    "source_listed_at": "2026-11-05T18:41:17",
+    "peak_liquidity_usd": 103738.20312804646,
+    "last_checked_at": "2026-11-05T18:41:21.956877+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-05T18:41:21.548231+00:00",
+    "address": "HDBR8ZdLcZ4U6fyyVKnTu3P54RBk8AHfSporr2u8trY7",
+    "symbol": "inu",
+    "name": "inu",
+    "liquidity_usd": 10724.813499508911,
+    "source_listed_at": "2026-11-05T18:41:12",
+    "peak_liquidity_usd": 10724.813499508911,
+    "last_checked_at": "2026-11-05T18:41:21.956877+00:00",
     "rug_flag": false
   }
 ]
