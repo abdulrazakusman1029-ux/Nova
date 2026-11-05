@@ -11873,5 +11873,38 @@
     "peak_liquidity_usd": 16137.953449321154,
     "last_checked_at": "2026-11-04T21:16:20.252146+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-05T10:44:50.376647+00:00",
+    "address": "Bn6kV3gA97DqPeqvrNBaWeXNxwvMsZfkHFcDiithrAh",
+    "symbol": "GOUT",
+    "name": "GOUT",
+    "liquidity_usd": 112219.9054060668,
+    "source_listed_at": "2026-11-05T10:44:19",
+    "peak_liquidity_usd": 112219.9054060668,
+    "last_checked_at": "2026-11-05T10:44:50.904702+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-05T10:44:50.376665+00:00",
+    "address": "8wBBTjsmEiqBLXV9PiQHNfy93GJLeipKzCA7VtwsjjKk",
+    "symbol": "PIRATE",
+    "name": "Pirate Shop Token",
+    "liquidity_usd": 40323.771569193916,
+    "source_listed_at": "2026-11-05T10:44:10",
+    "peak_liquidity_usd": 40323.771569193916,
+    "last_checked_at": "2026-11-05T10:44:50.904702+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-05T10:44:50.376669+00:00",
+    "address": "632QvjVq8ha8tCCbDguJ1VE2vxHB6ZRkV9nQb88uo89a",
+    "symbol": "CR",
+    "name": "Cristiano Ronaldo",
+    "liquidity_usd": 16425.842251714974,
+    "source_listed_at": "2026-11-05T10:43:58",
+    "peak_liquidity_usd": 16425.842251714974,
+    "last_checked_at": "2026-11-05T10:44:50.904702+00:00",
+    "rug_flag": false
   }
 ]
