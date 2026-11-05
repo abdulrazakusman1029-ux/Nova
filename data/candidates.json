@@ -11670,11 +11670,11 @@
     "address": "9wWMRBVBdZvk1hgawKv6hs5U6FBe53jq8pyoLSuqzhAp",
     "symbol": "BOOSTX",
     "name": "BoostspaceX",
-    "liquidity_usd": 19748.124027812177,
+    "liquidity_usd": 0.0005223418515841226,
     "source_listed_at": "2026-11-02T10:54:39",
     "peak_liquidity_usd": 19748.124027812177,
-    "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-05T02:20:46.851188+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-02T10:54:58.427550+00:00",
@@ -11684,7 +11684,7 @@
     "liquidity_usd": 34216.43966638826,
     "source_listed_at": "2026-11-02T10:54:16",
     "peak_liquidity_usd": 34216.43966638826,
-    "last_checked_at": "2026-11-02T10:54:58.907303+00:00",
+    "last_checked_at": "2026-11-05T02:20:46.851188+00:00",
     "rug_flag": false
   },
   {
@@ -11695,7 +11695,7 @@
     "liquidity_usd": 40154.05707303334,
     "source_listed_at": "2026-11-02T20:43:59",
     "peak_liquidity_usd": 40154.05707303334,
-    "last_checked_at": "2026-11-02T20:44:07.291613+00:00",
+    "last_checked_at": "2026-11-05T02:20:46.851188+00:00",
     "rug_flag": false
   },
   {
