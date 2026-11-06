@@ -11747,11 +11747,11 @@
     "address": "Gvdexfi4GMvWiTqneBwo7bqKqxSMkNtTtdhXr7FfY3Ue",
     "symbol": "zkSHARK",
     "name": "Zero Knowledge Snark",
-    "liquidity_usd": 15689.270316550446,
+    "liquidity_usd": 0.00020055132200953984,
     "source_listed_at": "2026-11-03T10:43:53",
     "peak_liquidity_usd": 15689.270316550446,
-    "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-06T06:31:24.484229+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-03T10:44:18.871987+00:00",
@@ -11761,7 +11761,7 @@
     "liquidity_usd": 15685.671810066027,
     "source_listed_at": "2026-11-03T10:43:20",
     "peak_liquidity_usd": 15685.671810066027,
-    "last_checked_at": "2026-11-03T10:44:19.303038+00:00",
+    "last_checked_at": "2026-11-06T06:31:24.484229+00:00",
     "rug_flag": false
   },
   {
@@ -11772,7 +11772,7 @@
     "liquidity_usd": 15326.627776500745,
     "source_listed_at": "2026-11-03T18:23:19",
     "peak_liquidity_usd": 15326.627776500745,
-    "last_checked_at": "2026-11-03T18:23:27.829445+00:00",
+    "last_checked_at": "2026-11-06T06:31:24.484229+00:00",
     "rug_flag": false
   },
   {
