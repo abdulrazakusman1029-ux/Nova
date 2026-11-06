@@ -11783,7 +11783,7 @@
     "liquidity_usd": 16921.675908483834,
     "source_listed_at": "2026-11-03T23:56:42",
     "peak_liquidity_usd": 16921.675908483834,
-    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "last_checked_at": "2026-11-06T14:57:40.324396+00:00",
     "rug_flag": false
   },
   {
@@ -11794,7 +11794,7 @@
     "liquidity_usd": 37185.805704965474,
     "source_listed_at": "2026-11-03T23:56:41",
     "peak_liquidity_usd": 37185.805704965474,
-    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "last_checked_at": "2026-11-06T14:57:40.324396+00:00",
     "rug_flag": false
   },
   {
@@ -11938,6 +11938,17 @@
     "source_listed_at": "2026-11-06T00:08:49",
     "peak_liquidity_usd": 18399.900409704118,
     "last_checked_at": "2026-11-06T00:08:56.799375+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-06T14:57:39.825546+00:00",
+    "address": "GJUmnimrtw974rcRgnKa9kqDdhiRF9Z67gfN4sbKSiq5",
+    "symbol": "401k",
+    "name": "401kat",
+    "liquidity_usd": 14295.707105260517,
+    "source_listed_at": "2026-11-06T14:57:34",
+    "peak_liquidity_usd": 14295.707105260517,
+    "last_checked_at": "2026-11-06T14:57:40.324396+00:00",
     "rug_flag": false
   }
 ]
