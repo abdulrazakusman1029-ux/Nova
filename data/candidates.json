@@ -11728,7 +11728,7 @@
     "liquidity_usd": 16733.375990776607,
     "source_listed_at": "2026-11-03T02:52:26",
     "peak_liquidity_usd": 16733.375990776607,
-    "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
+    "last_checked_at": "2026-11-06T00:08:56.799375+00:00",
     "rug_flag": false
   },
   {
@@ -11739,7 +11739,7 @@
     "liquidity_usd": 16315.113783704823,
     "source_listed_at": "2026-11-03T02:52:10",
     "peak_liquidity_usd": 16315.113783704823,
-    "last_checked_at": "2026-11-03T02:52:31.730799+00:00",
+    "last_checked_at": "2026-11-06T00:08:56.799375+00:00",
     "rug_flag": false
   },
   {
@@ -11927,6 +11927,17 @@
     "source_listed_at": "2026-11-05T18:41:12",
     "peak_liquidity_usd": 10724.813499508911,
     "last_checked_at": "2026-11-05T18:41:21.956877+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-06T00:08:56.356359+00:00",
+    "address": "49uMMuuo9TmzQVMTGVh2b6Cx3XzEcyb2bFookALfLoat",
+    "symbol": "Jimbo",
+    "name": "Uncle Jimbo",
+    "liquidity_usd": 18399.900409704118,
+    "source_listed_at": "2026-11-06T00:08:49",
+    "peak_liquidity_usd": 18399.900409704118,
+    "last_checked_at": "2026-11-06T00:08:56.799375+00:00",
     "rug_flag": false
   }
 ]
