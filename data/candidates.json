@@ -11805,7 +11805,7 @@
     "liquidity_usd": 14477.385775478098,
     "source_listed_at": "2026-11-03T23:56:38",
     "peak_liquidity_usd": 14477.385775478098,
-    "last_checked_at": "2026-11-03T23:57:09.732007+00:00",
+    "last_checked_at": "2026-11-06T20:50:35.752967+00:00",
     "rug_flag": false
   },
   {
@@ -11949,6 +11949,28 @@
     "source_listed_at": "2026-11-06T14:57:34",
     "peak_liquidity_usd": 14295.707105260517,
     "last_checked_at": "2026-11-06T14:57:40.324396+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-06T20:50:35.370013+00:00",
+    "address": "5GTKWEArTxKoVL6a8M2X9d7scJVnU6dzw2qUaCtfLoat",
+    "symbol": "MlMI",
+    "name": "Mimicoin",
+    "liquidity_usd": 20066.221764931528,
+    "source_listed_at": "2026-11-06T20:50:32",
+    "peak_liquidity_usd": 20066.221764931528,
+    "last_checked_at": "2026-11-06T20:50:35.752967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-06T20:50:35.370036+00:00",
+    "address": "2pkRApf55ovbyuuWEKfeehUaWkdZYLKCpvA3TVBX9Fd7",
+    "symbol": "Democat",
+    "name": "The Democrat Cat",
+    "liquidity_usd": 30452.63500738961,
+    "source_listed_at": "2026-11-06T20:50:21",
+    "peak_liquidity_usd": 30452.63500738961,
+    "last_checked_at": "2026-11-06T20:50:35.752967+00:00",
     "rug_flag": false
   }
 ]
