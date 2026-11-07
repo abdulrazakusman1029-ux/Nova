@@ -11849,7 +11849,7 @@
     "liquidity_usd": 14663.810286054919,
     "source_listed_at": "2026-11-04T14:23:21",
     "peak_liquidity_usd": 14663.810286054919,
-    "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
+    "last_checked_at": "2026-11-07T07:02:47.793669+00:00",
     "rug_flag": false
   },
   {
@@ -11860,7 +11860,7 @@
     "liquidity_usd": 14660.228449943641,
     "source_listed_at": "2026-11-04T14:22:56",
     "peak_liquidity_usd": 14660.228449943641,
-    "last_checked_at": "2026-11-04T14:23:26.870363+00:00",
+    "last_checked_at": "2026-11-07T07:02:47.793669+00:00",
     "rug_flag": false
   },
   {
@@ -11993,6 +11993,17 @@
     "source_listed_at": "2026-11-07T00:51:42",
     "peak_liquidity_usd": 37530.21468648143,
     "last_checked_at": "2026-11-07T00:52:24.333989+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T07:02:47.189972+00:00",
+    "address": "6GShErCo6RXm5AMiPCD8F8wTvbARYbJ2xB2ZkioESh1z",
+    "symbol": "BERNTHAL",
+    "name": "Chud Bernthal",
+    "liquidity_usd": 21647.238804268683,
+    "source_listed_at": "2026-11-07T07:02:25",
+    "peak_liquidity_usd": 21647.238804268683,
+    "last_checked_at": "2026-11-07T07:02:47.793669+00:00",
     "rug_flag": false
   }
 ]
