@@ -12027,5 +12027,49 @@
     "peak_liquidity_usd": 14520.461321275605,
     "last_checked_at": "2026-11-07T18:42:40.683655+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T22:41:04.209452+00:00",
+    "address": "9eqN2N5QcshRbb924ChLBKGykGdL35bFeDJph21qUFEW",
+    "symbol": "FED",
+    "name": "Fedora Cat",
+    "liquidity_usd": 22299.29143196592,
+    "source_listed_at": "2026-11-07T22:41:00",
+    "peak_liquidity_usd": 22299.29143196592,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T22:41:04.209488+00:00",
+    "address": "Ea6VSSvut9Qc2rV9AcRbx9s621JUkTykThZ769dGNDnp",
+    "symbol": "HIGHCAP",
+    "name": "highcap",
+    "liquidity_usd": 14074.048003005377,
+    "source_listed_at": "2026-11-07T22:41:00",
+    "peak_liquidity_usd": 14074.048003005377,
+    "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T22:41:04.209493+00:00",
+    "address": "7DmyCGzTxsPwRTZunkxGj7nvoz3hBpzuwkg6p2g1PXLm",
+    "symbol": "floater",
+    "name": "FLOATER",
+    "liquidity_usd": 20823.083982699234,
+    "source_listed_at": "2026-11-07T22:40:52",
+    "peak_liquidity_usd": 20823.083982699234,
+    "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T22:41:04.209498+00:00",
+    "address": "Fyei57t2JT285sG3higtzLTmMSGqHJxXtW2vV6ffVMWR",
+    "symbol": "MCHAN",
+    "name": "MONEROCHAN",
+    "liquidity_usd": 21060.708382958517,
+    "source_listed_at": "2026-11-07T22:40:37",
+    "peak_liquidity_usd": 21060.708382958517,
+    "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
+    "rug_flag": false
   }
 ]
