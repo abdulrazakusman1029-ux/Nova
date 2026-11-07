@@ -11816,7 +11816,7 @@
     "liquidity_usd": 14640.77870782027,
     "source_listed_at": "2026-11-04T06:05:54",
     "peak_liquidity_usd": 14640.77870782027,
-    "last_checked_at": "2026-11-04T06:06:09.938701+00:00",
+    "last_checked_at": "2026-11-07T00:52:24.333989+00:00",
     "rug_flag": false
   },
   {
@@ -11971,6 +11971,28 @@
     "source_listed_at": "2026-11-06T20:50:21",
     "peak_liquidity_usd": 30452.63500738961,
     "last_checked_at": "2026-11-06T20:50:35.752967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T00:52:23.972994+00:00",
+    "address": "5Cxm6qdSZjbwNTg8DbYaHygeJfDAHF2dQ38aMDS3iSTV",
+    "symbol": "Work",
+    "name": "Work Coin",
+    "liquidity_usd": 15314.076420716723,
+    "source_listed_at": "2026-11-07T00:52:09",
+    "peak_liquidity_usd": 15314.076420716723,
+    "last_checked_at": "2026-11-07T00:52:24.333989+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T00:52:23.973012+00:00",
+    "address": "6CsnzEfQbNyVzDMdaC9wSYVXgrkMCGXDBjN8rXCWFM6G",
+    "symbol": "NEX Ai",
+    "name": "Nexchain Ai",
+    "liquidity_usd": 37530.21468648143,
+    "source_listed_at": "2026-11-07T00:51:42",
+    "peak_liquidity_usd": 37530.21468648143,
+    "last_checked_at": "2026-11-07T00:52:24.333989+00:00",
     "rug_flag": false
   }
 ]
