@@ -11871,7 +11871,7 @@
     "liquidity_usd": 16137.953449321154,
     "source_listed_at": "2026-11-04T21:16:14",
     "peak_liquidity_usd": 16137.953449321154,
-    "last_checked_at": "2026-11-04T21:16:20.252146+00:00",
+    "last_checked_at": "2026-11-07T13:55:56.381357+00:00",
     "rug_flag": false
   },
   {
@@ -11882,7 +11882,7 @@
     "liquidity_usd": 112219.9054060668,
     "source_listed_at": "2026-11-05T10:44:19",
     "peak_liquidity_usd": 112219.9054060668,
-    "last_checked_at": "2026-11-05T10:44:50.904702+00:00",
+    "last_checked_at": "2026-11-07T13:55:56.381357+00:00",
     "rug_flag": false
   },
   {
@@ -12004,6 +12004,17 @@
     "source_listed_at": "2026-11-07T07:02:25",
     "peak_liquidity_usd": 21647.238804268683,
     "last_checked_at": "2026-11-07T07:02:47.793669+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-07T13:55:55.864362+00:00",
+    "address": "HBFmfhRJHebErgbbY6PK2uBBz9YbW4ryKWypqsZQHSQD",
+    "symbol": "Democat",
+    "name": "The Democrat Cat",
+    "liquidity_usd": 36426.59623104851,
+    "source_listed_at": "2026-11-07T13:55:40",
+    "peak_liquidity_usd": 36427.601613405364,
+    "last_checked_at": "2026-11-07T13:55:56.381357+00:00",
     "rug_flag": false
   }
 ]
