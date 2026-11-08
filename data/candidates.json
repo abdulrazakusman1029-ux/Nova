@@ -12148,5 +12148,38 @@
     "peak_liquidity_usd": 19789.45848593861,
     "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T16:38:51.006735+00:00",
+    "address": "6JHNBDaB1VfL7Q7jV6Q6DdCr1fUaLncuS59PTBdytcVh",
+    "symbol": "SNOOFI",
+    "name": "SNOOFI",
+    "liquidity_usd": 14638.336061571377,
+    "source_listed_at": "2026-11-08T16:38:45",
+    "peak_liquidity_usd": 14638.336061571377,
+    "last_checked_at": "2026-11-08T16:38:51.462210+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T16:38:51.006758+00:00",
+    "address": "2FKNX6mvheXQkYF3ozAatnzbyH29TEqaC1eV3xwBpump",
+    "symbol": "XTO",
+    "name": "XTO",
+    "liquidity_usd": 9573.46571781184,
+    "source_listed_at": "2026-11-08T16:38:27",
+    "peak_liquidity_usd": 9573.46571781184,
+    "last_checked_at": "2026-11-08T16:38:51.462210+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T16:38:51.006766+00:00",
+    "address": "3a3MHBRMUyT2TNBYQZX8dgno9gNh55dwWSj2WbmeopZz",
+    "symbol": "Snoo",
+    "name": "Snoo",
+    "liquidity_usd": 17865.72780632435,
+    "source_listed_at": "2026-11-08T16:38:01",
+    "peak_liquidity_usd": 17865.72780632435,
+    "last_checked_at": "2026-11-08T16:38:51.462210+00:00",
+    "rug_flag": false
   }
 ]
