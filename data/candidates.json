@@ -12104,5 +12104,49 @@
     "peak_liquidity_usd": 9533.179157791643,
     "last_checked_at": "2026-11-08T02:22:13.313079+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T10:11:23.290964+00:00",
+    "address": "3pgdEFq3LhciXMiiSPUSzK7axbhGwjtRA392satQXvQS",
+    "symbol": "EL",
+    "name": "Eldorado",
+    "liquidity_usd": 18019.80946921423,
+    "source_listed_at": "2026-11-08T10:10:59",
+    "peak_liquidity_usd": 18019.80946921423,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T10:11:23.291034+00:00",
+    "address": "4VuyjornLZM6PKYbR1qeoGT8WZB2bqCyTSZPSCXA59Nw",
+    "symbol": "porkchop",
+    "name": "porkchop",
+    "liquidity_usd": 19785.728705735535,
+    "source_listed_at": "2026-11-08T10:10:55",
+    "peak_liquidity_usd": 19785.728705735535,
+    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T10:11:23.291037+00:00",
+    "address": "5T4sGBgSK2u5ACpJFAmjNarnn5UdyEa8HPPdEXbyKL6J",
+    "symbol": "GORP",
+    "name": "Global Oil Recovery Program",
+    "liquidity_usd": 38721.45738860668,
+    "source_listed_at": "2026-11-08T10:10:52",
+    "peak_liquidity_usd": 38721.45738860668,
+    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T10:11:23.291039+00:00",
+    "address": "F4CXyJWY2fK5VFtNCAZyCV1K3d5NsMGpobKwsfFDMGJc",
+    "symbol": "porkchop",
+    "name": "porkchop",
+    "liquidity_usd": 19785.52177725038,
+    "source_listed_at": "2026-11-08T10:10:34",
+    "peak_liquidity_usd": 19789.45848593861,
+    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
+    "rug_flag": false
   }
 ]
