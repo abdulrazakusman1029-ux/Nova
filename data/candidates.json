@@ -12071,5 +12071,38 @@
     "peak_liquidity_usd": 21060.708382958517,
     "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T02:22:12.720718+00:00",
+    "address": "GYEsiovHRT8LfTW28vhW9zm8DHMW8x8k7BVAGpvx8CCV",
+    "symbol": "HABIBINU",
+    "name": "Habibi Inu",
+    "liquidity_usd": 14030.41294752841,
+    "source_listed_at": "2026-11-08T02:22:10",
+    "peak_liquidity_usd": 14030.41294752841,
+    "last_checked_at": "2026-11-08T02:22:13.313079+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T02:22:12.720736+00:00",
+    "address": "BhcmuPZQszVS1piS5BjiYvT2i1wBXNgwMkF92tpB4m4M",
+    "symbol": "dirtycoin",
+    "name": "dirtycoin",
+    "liquidity_usd": 17764.661368633533,
+    "source_listed_at": "2026-11-08T02:22:06",
+    "peak_liquidity_usd": 17764.661368633533,
+    "last_checked_at": "2026-11-08T02:22:13.313079+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-08T02:22:12.720740+00:00",
+    "address": "yHVrw3Hznw54KDi8tc2W73tZUufxkUZ254n9t37pump",
+    "symbol": "SPCX28K",
+    "name": "SPCX28K",
+    "liquidity_usd": 9533.179157791643,
+    "source_listed_at": "2026-11-08T02:21:50",
+    "peak_liquidity_usd": 9533.179157791643,
+    "last_checked_at": "2026-11-08T02:22:13.313079+00:00",
+    "rug_flag": false
   }
 ]
