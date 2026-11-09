@@ -11970,7 +11970,7 @@
     "liquidity_usd": 30452.63500738961,
     "source_listed_at": "2026-11-06T20:50:21",
     "peak_liquidity_usd": 30452.63500738961,
-    "last_checked_at": "2026-11-06T20:50:35.752967+00:00",
+    "last_checked_at": "2026-11-09T18:42:13.320016+00:00",
     "rug_flag": false
   },
   {
@@ -11981,7 +11981,7 @@
     "liquidity_usd": 15314.076420716723,
     "source_listed_at": "2026-11-07T00:52:09",
     "peak_liquidity_usd": 15314.076420716723,
-    "last_checked_at": "2026-11-07T00:52:24.333989+00:00",
+    "last_checked_at": "2026-11-09T18:42:13.320016+00:00",
     "rug_flag": false
   },
   {
@@ -12224,6 +12224,17 @@
     "source_listed_at": "2026-11-09T07:53:18",
     "peak_liquidity_usd": 32296.406613456096,
     "last_checked_at": "2026-11-09T07:53:33.632886+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-09T18:42:12.773786+00:00",
+    "address": "CfmZXWkkBPPXn7h7nJ7zXSCGRYuECi1ukdpawfVy5p5w",
+    "symbol": "2028",
+    "name": "Elon 2028 President",
+    "liquidity_usd": 19467.519167696897,
+    "source_listed_at": "2026-11-09T18:42:06",
+    "peak_liquidity_usd": 19467.519167696897,
+    "last_checked_at": "2026-11-09T18:42:13.320016+00:00",
     "rug_flag": false
   }
 ]
