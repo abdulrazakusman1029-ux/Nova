@@ -11948,7 +11948,7 @@
     "liquidity_usd": 14295.707105260517,
     "source_listed_at": "2026-11-06T14:57:34",
     "peak_liquidity_usd": 14295.707105260517,
-    "last_checked_at": "2026-11-06T14:57:40.324396+00:00",
+    "last_checked_at": "2026-11-09T00:47:41.953795+00:00",
     "rug_flag": false
   },
   {
@@ -12180,6 +12180,28 @@
     "source_listed_at": "2026-11-08T16:38:01",
     "peak_liquidity_usd": 17865.72780632435,
     "last_checked_at": "2026-11-08T16:38:51.462210+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-09T00:47:41.372495+00:00",
+    "address": "7Aw7fGPAAYRr4nPoAhfd4PAVSnUxGJyCDYuFWehEDpJy",
+    "symbol": "\u97e9\u56fd\u4eba\u4f1a\u98de",
+    "name": "\u97e9\u56fd\u4eba\u4f1a\u98de",
+    "liquidity_usd": 36532.057590263,
+    "source_listed_at": "2026-11-09T00:47:26",
+    "peak_liquidity_usd": 36532.057590263,
+    "last_checked_at": "2026-11-09T00:47:41.953795+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-09T00:47:41.372511+00:00",
+    "address": "AxQwkJjtJdzt7VDCQQztYvCTpo5zWgjaPGoCgx8hpump",
+    "symbol": "STARBUCKS",
+    "name": "Starbucks Corporation",
+    "liquidity_usd": 356996.1176957529,
+    "source_listed_at": "2026-11-09T00:47:16",
+    "peak_liquidity_usd": 356996.1176957529,
+    "last_checked_at": "2026-11-09T00:47:41.953795+00:00",
     "rug_flag": false
   }
 ]
