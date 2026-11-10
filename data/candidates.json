@@ -12080,7 +12080,7 @@
     "liquidity_usd": 14030.41294752841,
     "source_listed_at": "2026-11-08T02:22:10",
     "peak_liquidity_usd": 14030.41294752841,
-    "last_checked_at": "2026-11-08T02:22:13.313079+00:00",
+    "last_checked_at": "2026-11-10T23:13:00.917376+00:00",
     "rug_flag": false
   },
   {
@@ -12301,6 +12301,28 @@
     "source_listed_at": "2026-11-10T09:40:25",
     "peak_liquidity_usd": 15179.89496545248,
     "last_checked_at": "2026-11-10T09:41:03.648785+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-10T23:13:00.428122+00:00",
+    "address": "12PD7kqm7uN5McV8engRay2LFk1XWhP15P7rTubzyK9P",
+    "symbol": "CHOP",
+    "name": "Chop",
+    "liquidity_usd": 29276.420219949512,
+    "source_listed_at": "2026-11-10T23:12:43",
+    "peak_liquidity_usd": 29276.420219949512,
+    "last_checked_at": "2026-11-10T23:13:00.917376+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-10T23:13:00.428144+00:00",
+    "address": "EvrmjBvmKaRzgEnyukiDRSdrQisRd55v1a1pwUaVLKke",
+    "symbol": "WHF",
+    "name": "WHITE HOUSE FIGHT",
+    "liquidity_usd": 23987.336953576734,
+    "source_listed_at": "2026-11-10T23:12:35",
+    "peak_liquidity_usd": 23987.336953576734,
+    "last_checked_at": "2026-11-10T23:13:00.917376+00:00",
     "rug_flag": false
   }
 ]
