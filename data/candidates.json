@@ -12245,7 +12245,7 @@
     "liquidity_usd": 9237.040425924517,
     "source_listed_at": "2026-11-10T02:00:04",
     "peak_liquidity_usd": 9237.040425924517,
-    "last_checked_at": "",
+    "last_checked_at": "2026-11-10T09:41:03.648785+00:00",
     "rug_flag": false
   },
   {
@@ -12256,7 +12256,7 @@
     "liquidity_usd": 13598.903349016275,
     "source_listed_at": "2026-11-10T01:59:51",
     "peak_liquidity_usd": 13598.903349016275,
-    "last_checked_at": "",
+    "last_checked_at": "2026-11-10T09:41:03.648785+00:00",
     "rug_flag": false
   },
   {
@@ -12290,6 +12290,17 @@
     "source_listed_at": "2026-11-10T01:59:44",
     "peak_liquidity_usd": 8614.93870101612,
     "last_checked_at": "2026-11-10T02:00:05.820168+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-10T09:41:03.223758+00:00",
+    "address": "2DGoBvLKa2fRX2Q7ADESox4c6E56DPKqxrRWBg3tQjF9",
+    "symbol": "BANKER",
+    "name": "banker",
+    "liquidity_usd": 15179.89496545248,
+    "source_listed_at": "2026-11-10T09:40:25",
+    "peak_liquidity_usd": 15179.89496545248,
+    "last_checked_at": "2026-11-10T09:41:03.648785+00:00",
     "rug_flag": false
   }
 ]
