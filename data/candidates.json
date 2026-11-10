@@ -12022,11 +12022,11 @@
     "address": "F73XZHJZ81TpR47wzinbrJF8Nsa47F14kt6vpPpinbDD",
     "symbol": "HERO",
     "name": "POLISH HERO",
-    "liquidity_usd": 14520.461321275605,
+    "liquidity_usd": 0.005410888547777614,
     "source_listed_at": "2026-11-07T18:42:26",
     "peak_liquidity_usd": 14520.461321275605,
-    "last_checked_at": "2026-11-07T18:42:40.683655+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-10T17:43:51.861448+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-07T22:41:04.209452+00:00",
@@ -12047,7 +12047,7 @@
     "liquidity_usd": 14074.048003005377,
     "source_listed_at": "2026-11-07T22:41:00",
     "peak_liquidity_usd": 14074.048003005377,
-    "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
+    "last_checked_at": "2026-11-10T17:43:51.861448+00:00",
     "rug_flag": false
   },
   {
@@ -12058,7 +12058,7 @@
     "liquidity_usd": 20823.083982699234,
     "source_listed_at": "2026-11-07T22:40:52",
     "peak_liquidity_usd": 20823.083982699234,
-    "last_checked_at": "2026-11-07T22:41:04.822527+00:00",
+    "last_checked_at": "2026-11-10T17:43:51.861448+00:00",
     "rug_flag": false
   },
   {
