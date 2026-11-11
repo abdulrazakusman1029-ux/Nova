@@ -12121,11 +12121,11 @@
     "address": "4VuyjornLZM6PKYbR1qeoGT8WZB2bqCyTSZPSCXA59Nw",
     "symbol": "porkchop",
     "name": "porkchop",
-    "liquidity_usd": 19785.728705735535,
+    "liquidity_usd": 0.00021249380507742336,
     "source_listed_at": "2026-11-08T10:10:55",
     "peak_liquidity_usd": 19785.728705735535,
-    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-11T02:46:01.851593+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-08T10:11:23.291037+00:00",
@@ -12135,7 +12135,7 @@
     "liquidity_usd": 38721.45738860668,
     "source_listed_at": "2026-11-08T10:10:52",
     "peak_liquidity_usd": 38721.45738860668,
-    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
+    "last_checked_at": "2026-11-11T02:46:01.851593+00:00",
     "rug_flag": false
   },
   {
@@ -12143,11 +12143,11 @@
     "address": "F4CXyJWY2fK5VFtNCAZyCV1K3d5NsMGpobKwsfFDMGJc",
     "symbol": "porkchop",
     "name": "porkchop",
-    "liquidity_usd": 19785.52177725038,
+    "liquidity_usd": 3.7526621957574553e-06,
     "source_listed_at": "2026-11-08T10:10:34",
     "peak_liquidity_usd": 19789.45848593861,
-    "last_checked_at": "2026-11-08T10:11:23.805403+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-11T02:46:01.851593+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-08T16:38:51.006735+00:00",
