@@ -12267,7 +12267,7 @@
     "liquidity_usd": 21371.724576287415,
     "source_listed_at": "2026-11-10T01:59:45",
     "peak_liquidity_usd": 21371.724576287415,
-    "last_checked_at": "2026-11-10T02:00:05.820168+00:00",
+    "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
     "rug_flag": false
   },
   {
@@ -12433,6 +12433,28 @@
     "source_listed_at": "2026-11-12T09:43:00",
     "peak_liquidity_usd": 21390.138396990835,
     "last_checked_at": "2026-11-12T09:43:28.844022+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T18:12:33.601546+00:00",
+    "address": "63EUft3cnDT7uDvz1FAS2PHjZ7y7zfKg3dVCXuRinquA",
+    "symbol": "CI",
+    "name": "Cyberinu",
+    "liquidity_usd": 36669.40695414752,
+    "source_listed_at": "2026-11-12T18:12:13",
+    "peak_liquidity_usd": 36669.40695414752,
+    "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T18:12:33.601573+00:00",
+    "address": "DiUMJL6jLieRTcm2sZLBhLiorLsxoPzHWPyqEEFhbonk",
+    "symbol": "BIOOWL",
+    "name": "BIONIC OWL",
+    "liquidity_usd": 96295.73475502987,
+    "source_listed_at": "2026-11-12T18:12:10",
+    "peak_liquidity_usd": 96295.73475502987,
+    "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
     "rug_flag": false
   }
 ]
