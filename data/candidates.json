@@ -12379,5 +12379,38 @@
     "peak_liquidity_usd": 23098.629037742,
     "last_checked_at": "2026-11-11T18:38:09.953813+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T01:29:20.765885+00:00",
+    "address": "6qv6NYAfaCAypzEy2oWFR5FesmpZzahgRLNfhwcD6pyw",
+    "symbol": "PUSSY",
+    "name": "Pussycoin",
+    "liquidity_usd": 21236.429334464923,
+    "source_listed_at": "2026-11-12T01:28:53",
+    "peak_liquidity_usd": 21236.429334464923,
+    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T01:29:20.765904+00:00",
+    "address": "AJugBEYWwXqcEVLhsSDk4k3iTj6g2RuTsGobMXJBUWro",
+    "symbol": "Max Dog",
+    "name": "Max coin",
+    "liquidity_usd": 34905.10832585473,
+    "source_listed_at": "2026-11-12T01:28:53",
+    "peak_liquidity_usd": 34905.10832585473,
+    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T01:29:20.765908+00:00",
+    "address": "BMJPkVayzjb1ZSjBZo7fVeB25CGtriiY5N3xUmsU2pa",
+    "symbol": "PUSSY",
+    "name": "Pussycoin",
+    "liquidity_usd": 14106.358991562647,
+    "source_listed_at": "2026-11-12T01:28:52",
+    "peak_liquidity_usd": 14106.358991562647,
+    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "rug_flag": false
   }
 ]
