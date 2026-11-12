@@ -12278,7 +12278,7 @@
     "liquidity_usd": 34466.670587677785,
     "source_listed_at": "2026-11-10T01:59:44",
     "peak_liquidity_usd": 34466.670587677785,
-    "last_checked_at": "2026-11-10T02:00:05.820168+00:00",
+    "last_checked_at": "2026-11-12T23:36:45.153090+00:00",
     "rug_flag": false
   },
   {
@@ -12289,7 +12289,7 @@
     "liquidity_usd": 8614.93870101612,
     "source_listed_at": "2026-11-10T01:59:44",
     "peak_liquidity_usd": 8614.93870101612,
-    "last_checked_at": "2026-11-10T02:00:05.820168+00:00",
+    "last_checked_at": "2026-11-12T23:36:45.153090+00:00",
     "rug_flag": false
   },
   {
@@ -12455,6 +12455,17 @@
     "source_listed_at": "2026-11-12T18:12:10",
     "peak_liquidity_usd": 96295.73475502987,
     "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T23:36:44.590467+00:00",
+    "address": "DF1rNcGniBAs1xSVbfSukum3WqBXLmFMAZ4aYS3xiTSs",
+    "symbol": "plunger",
+    "name": "plunger",
+    "liquidity_usd": 19894.343155887873,
+    "source_listed_at": "2026-11-12T23:36:20",
+    "peak_liquidity_usd": 19894.343155887873,
+    "last_checked_at": "2026-11-12T23:36:45.153090+00:00",
     "rug_flag": false
   }
 ]
