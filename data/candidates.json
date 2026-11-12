@@ -12234,7 +12234,7 @@
     "liquidity_usd": 19467.519167696897,
     "source_listed_at": "2026-11-09T18:42:06",
     "peak_liquidity_usd": 19467.519167696897,
-    "last_checked_at": "2026-11-09T18:42:13.320016+00:00",
+    "last_checked_at": "2026-11-12T09:43:28.844022+00:00",
     "rug_flag": false
   },
   {
@@ -12411,6 +12411,28 @@
     "source_listed_at": "2026-11-12T01:28:52",
     "peak_liquidity_usd": 14106.358991562647,
     "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T09:43:28.272693+00:00",
+    "address": "AUfr6ZsALnyjUwWXPCaChac4z58ohB6KcqfRT3Rkn4b",
+    "symbol": "Shiqi",
+    "name": "\u5341\u4e03",
+    "liquidity_usd": 86388.21948798167,
+    "source_listed_at": "2026-11-12T09:43:24",
+    "peak_liquidity_usd": 86388.21948798167,
+    "last_checked_at": "2026-11-12T09:43:28.844022+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-12T09:43:28.272711+00:00",
+    "address": "7JCYhvz6rLWR9iiNLzdQC6GdUZf3kyAPpSriHCeGbCmz",
+    "symbol": "Nigger",
+    "name": "Niggercoin",
+    "liquidity_usd": 21390.138396990835,
+    "source_listed_at": "2026-11-12T09:43:00",
+    "peak_liquidity_usd": 21390.138396990835,
+    "last_checked_at": "2026-11-12T09:43:28.844022+00:00",
     "rug_flag": false
   }
 ]
