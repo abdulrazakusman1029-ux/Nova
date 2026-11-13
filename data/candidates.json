@@ -12333,7 +12333,7 @@
     "liquidity_usd": 15071.035430286753,
     "source_listed_at": "2026-11-11T10:46:00",
     "peak_liquidity_usd": 15071.035430286753,
-    "last_checked_at": "2026-11-11T10:46:34.421224+00:00",
+    "last_checked_at": "2026-11-13T15:18:40.273241+00:00",
     "rug_flag": false
   },
   {
@@ -12344,7 +12344,7 @@
     "liquidity_usd": 21604.05324882512,
     "source_listed_at": "2026-11-11T10:45:47",
     "peak_liquidity_usd": 21604.05324882512,
-    "last_checked_at": "2026-11-11T10:46:34.421224+00:00",
+    "last_checked_at": "2026-11-13T15:18:40.273241+00:00",
     "rug_flag": false
   },
   {
@@ -12466,6 +12466,17 @@
     "source_listed_at": "2026-11-12T23:36:20",
     "peak_liquidity_usd": 19894.343155887873,
     "last_checked_at": "2026-11-12T23:36:45.153090+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-13T15:18:39.983497+00:00",
+    "address": "PD2sUqsaV89x4Lf8bYnPPFuUr3fnTEZMYf8navxjbfU",
+    "symbol": "FOOD",
+    "name": "Foodcoin",
+    "liquidity_usd": 80136.64413024069,
+    "source_listed_at": "2026-11-13T15:18:19",
+    "peak_liquidity_usd": 80136.64413024069,
+    "last_checked_at": "2026-11-13T15:18:40.273241+00:00",
     "rug_flag": false
   }
 ]
