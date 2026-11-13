@@ -12297,11 +12297,11 @@
     "address": "2DGoBvLKa2fRX2Q7ADESox4c6E56DPKqxrRWBg3tQjF9",
     "symbol": "BANKER",
     "name": "banker",
-    "liquidity_usd": 15179.89496545248,
+    "liquidity_usd": 0.0003431349219156441,
     "source_listed_at": "2026-11-10T09:40:25",
     "peak_liquidity_usd": 15179.89496545248,
-    "last_checked_at": "2026-11-10T09:41:03.648785+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-13T06:31:42.947724+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-10T23:13:00.428122+00:00",
@@ -12311,7 +12311,7 @@
     "liquidity_usd": 29276.420219949512,
     "source_listed_at": "2026-11-10T23:12:43",
     "peak_liquidity_usd": 29276.420219949512,
-    "last_checked_at": "2026-11-10T23:13:00.917376+00:00",
+    "last_checked_at": "2026-11-13T06:31:42.947724+00:00",
     "rug_flag": false
   },
   {
@@ -12322,7 +12322,7 @@
     "liquidity_usd": 23987.336953576734,
     "source_listed_at": "2026-11-10T23:12:35",
     "peak_liquidity_usd": 23987.336953576734,
-    "last_checked_at": "2026-11-10T23:13:00.917376+00:00",
+    "last_checked_at": "2026-11-13T06:31:42.947724+00:00",
     "rug_flag": false
   },
   {
