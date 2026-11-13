@@ -12355,7 +12355,7 @@
     "liquidity_usd": 15176.41584111948,
     "source_listed_at": "2026-11-11T18:37:51",
     "peak_liquidity_usd": 15176.41584111948,
-    "last_checked_at": "2026-11-11T18:38:09.953813+00:00",
+    "last_checked_at": "2026-11-13T21:56:13.563378+00:00",
     "rug_flag": false
   },
   {
@@ -12366,7 +12366,7 @@
     "liquidity_usd": 10250.223819030216,
     "source_listed_at": "2026-11-11T18:37:49",
     "peak_liquidity_usd": 10250.223819030216,
-    "last_checked_at": "2026-11-11T18:38:09.953813+00:00",
+    "last_checked_at": "2026-11-13T21:56:13.563378+00:00",
     "rug_flag": false
   },
   {
@@ -12477,6 +12477,17 @@
     "source_listed_at": "2026-11-13T15:18:19",
     "peak_liquidity_usd": 80136.64413024069,
     "last_checked_at": "2026-11-13T15:18:40.273241+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-13T21:56:13.141756+00:00",
+    "address": "6shs8ZHkMBSFGMQQ8e3bYhSLHoCBd2KAHvAmywuTGeE5",
+    "symbol": "BBTB",
+    "name": "Bring Back The Boss",
+    "liquidity_usd": 23604.425772090344,
+    "source_listed_at": "2026-11-13T21:55:50",
+    "peak_liquidity_usd": 23604.425772090344,
+    "last_checked_at": "2026-11-13T21:56:13.563378+00:00",
     "rug_flag": false
   }
 ]
