@@ -12377,7 +12377,7 @@
     "liquidity_usd": 23098.629037742,
     "source_listed_at": "2026-11-11T18:37:39",
     "peak_liquidity_usd": 23098.629037742,
-    "last_checked_at": "2026-11-11T18:38:09.953813+00:00",
+    "last_checked_at": "2026-11-14T02:19:48.305146+00:00",
     "rug_flag": false
   },
   {
@@ -12488,6 +12488,28 @@
     "source_listed_at": "2026-11-13T21:55:50",
     "peak_liquidity_usd": 23604.425772090344,
     "last_checked_at": "2026-11-13T21:56:13.563378+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T02:19:47.744196+00:00",
+    "address": "BL1tqTp93GxY8SCWuKy6ec5LkrMGB7h5aNzYvr5qZ3nr",
+    "symbol": "Chip",
+    "name": "Chip",
+    "liquidity_usd": 19361.03579715853,
+    "source_listed_at": "2026-11-14T02:19:43",
+    "peak_liquidity_usd": 19361.03579715853,
+    "last_checked_at": "2026-11-14T02:19:48.305146+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T02:19:47.744213+00:00",
+    "address": "9m1opSYas9B8jExyd8pucfohf44S8R4LDmfRfRSSCptN",
+    "symbol": "FOMO",
+    "name": "OFFICIAL FOMO COIN",
+    "liquidity_usd": 37433.1609181095,
+    "source_listed_at": "2026-11-14T02:19:26",
+    "peak_liquidity_usd": 37433.1609181095,
+    "last_checked_at": "2026-11-14T02:19:48.305146+00:00",
     "rug_flag": false
   }
 ]
