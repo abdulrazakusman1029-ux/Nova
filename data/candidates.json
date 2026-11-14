@@ -12388,7 +12388,7 @@
     "liquidity_usd": 21236.429334464923,
     "source_listed_at": "2026-11-12T01:28:53",
     "peak_liquidity_usd": 21236.429334464923,
-    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "last_checked_at": "2026-11-14T17:00:21.162391+00:00",
     "rug_flag": false
   },
   {
@@ -12399,7 +12399,7 @@
     "liquidity_usd": 34905.10832585473,
     "source_listed_at": "2026-11-12T01:28:53",
     "peak_liquidity_usd": 34905.10832585473,
-    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "last_checked_at": "2026-11-14T17:00:21.162391+00:00",
     "rug_flag": false
   },
   {
@@ -12543,6 +12543,17 @@
     "source_listed_at": "2026-11-14T10:12:37",
     "peak_liquidity_usd": 12287.7124213903,
     "last_checked_at": "2026-11-14T10:13:29.152548+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T17:00:20.780790+00:00",
+    "address": "BuYYmp3U4oJafWXvAYTZ7aTzzT8eYdnSJmdbrc67jvsY",
+    "symbol": "CX",
+    "name": "Crypto X",
+    "liquidity_usd": 35289.95642245016,
+    "source_listed_at": "2026-11-14T17:00:12",
+    "peak_liquidity_usd": 35289.95642245016,
+    "last_checked_at": "2026-11-14T17:00:21.162391+00:00",
     "rug_flag": false
   }
 ]
