@@ -12410,7 +12410,7 @@
     "liquidity_usd": 14106.358991562647,
     "source_listed_at": "2026-11-12T01:28:52",
     "peak_liquidity_usd": 14106.358991562647,
-    "last_checked_at": "2026-11-12T01:29:21.194595+00:00",
+    "last_checked_at": "2026-11-14T21:24:39.726916+00:00",
     "rug_flag": false
   },
   {
@@ -12554,6 +12554,28 @@
     "source_listed_at": "2026-11-14T17:00:12",
     "peak_liquidity_usd": 35289.95642245016,
     "last_checked_at": "2026-11-14T17:00:21.162391+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T21:24:39.264342+00:00",
+    "address": "5dQaLE9Gaq48cWXS4wsT35mkmPnxZT1pBP3bWEf5KGkX",
+    "symbol": "Bear",
+    "name": "The Bear",
+    "liquidity_usd": 30991.826074758363,
+    "source_listed_at": "2026-11-14T21:24:27",
+    "peak_liquidity_usd": 30991.826074758363,
+    "last_checked_at": "2026-11-14T21:24:39.726916+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T21:24:39.264360+00:00",
+    "address": "GjeufypLBLeTJFUcTpxH9YckJbY6fzx87seA1miApaNC",
+    "symbol": "ASSTER",
+    "name": "ASSTER",
+    "liquidity_usd": 6695.79543514773,
+    "source_listed_at": "2026-11-14T21:24:08",
+    "peak_liquidity_usd": 6695.79543514773,
+    "last_checked_at": "2026-11-14T21:24:39.726916+00:00",
     "rug_flag": false
   }
 ]

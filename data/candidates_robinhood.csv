@@ -1577,3 +1577,5 @@ discovered_at,chain,dex,address,token_address,symbol,name,liquidity_usd,pool_cre
 2026-11-14T17:00:22.169135+00:00,robinhood,uniswap-v4-robinhood,0x656d4e0c3861800cb78d153e4ad311a592da88ce5966bd57d98a6c1cd277aa26,,VEKTA / WETH 0.01%,VEKTA / WETH 0.01%,20453.7946,2026-11-14T16:53:48Z
 2026-11-14T17:00:22.169140+00:00,robinhood,uniswap-v2-robinhood,0x89440c06f57d6e8780482bb0c101ca058e5f2aa7,,MoonCoin / WETH,MoonCoin / WETH,188266.8524,2026-11-14T16:53:05Z
 2026-11-14T17:00:22.169145+00:00,robinhood,uniswap-v2-robinhood,0xefe24345633bfa3fd4116122803e8b7d4c3cc1da,,CTRL / WETH,CTRL / WETH,119608.0781,2026-11-14T16:52:03Z
+2026-11-14T21:24:41.498517+00:00,robinhood,uniswap-v4-robinhood,0xc49d4e94b4b934565aa33fbd6937a20619943f72657dc8eccd60ef1ed21b1209,,Survive / WETH 1%,Survive / WETH 1%,18922.4561,2026-11-14T21:18:27Z
+2026-11-14T21:24:41.498556+00:00,robinhood,uniswap-v4-robinhood,0xbe8a5bf8475ae81f3fd8c73f29832e02f362519d017f385ea88982981ef9e89d,,bill / WETH 1%,bill / WETH 1%,13711.1277,2026-11-14T21:18:20Z
