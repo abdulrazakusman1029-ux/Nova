@@ -12511,5 +12511,38 @@
     "peak_liquidity_usd": 37433.1609181095,
     "last_checked_at": "2026-11-14T02:19:48.305146+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T10:13:28.712590+00:00",
+    "address": "59Eyjjx1QUJDgkXTeqWWHYSmeEwigELYWRz3CdRfKLMG",
+    "symbol": "SCRAP",
+    "name": "the Solana Trash Panda.",
+    "liquidity_usd": 12290.825826156426,
+    "source_listed_at": "2026-11-14T10:13:16",
+    "peak_liquidity_usd": 12290.825826156426,
+    "last_checked_at": "2026-11-14T10:13:29.152548+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T10:13:28.712612+00:00",
+    "address": "HzVaxEVFtxoPYc6GmrwaAGrHbNDdWBcfLMn4sJQK7Lm1",
+    "symbol": "Takes",
+    "name": "Takes",
+    "liquidity_usd": 13462.37849139206,
+    "source_listed_at": "2026-11-14T10:12:52",
+    "peak_liquidity_usd": 13462.37849139206,
+    "last_checked_at": "2026-11-14T10:13:29.152548+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-14T10:13:28.712615+00:00",
+    "address": "2HUd68yV8X5D99unSUAWJkjjqepXsnFHi4s2R3iknf6E",
+    "symbol": "SCRAP",
+    "name": "the Solana Trash Panda.",
+    "liquidity_usd": 12287.681447070532,
+    "source_listed_at": "2026-11-14T10:12:37",
+    "peak_liquidity_usd": 12287.7124213903,
+    "last_checked_at": "2026-11-14T10:13:29.152548+00:00",
+    "rug_flag": false
   }
 ]
