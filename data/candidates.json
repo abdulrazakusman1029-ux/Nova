@@ -12465,7 +12465,7 @@
     "liquidity_usd": 19894.343155887873,
     "source_listed_at": "2026-11-12T23:36:20",
     "peak_liquidity_usd": 19894.343155887873,
-    "last_checked_at": "2026-11-12T23:36:45.153090+00:00",
+    "last_checked_at": "2026-11-15T21:43:16.355355+00:00",
     "rug_flag": false
   },
   {
@@ -12631,6 +12631,28 @@
     "source_listed_at": "2026-11-15T17:00:39",
     "peak_liquidity_usd": 31080.03898199653,
     "last_checked_at": "2026-11-15T17:01:18.942870+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T21:43:15.741690+00:00",
+    "address": "8YQgBzfAbZeuRCGBynRvx4oYfoRksVpPUpRgCnVFrDYh",
+    "symbol": "MANLETS",
+    "name": "manlets",
+    "liquidity_usd": 25758.24608148515,
+    "source_listed_at": "2026-11-15T21:43:13",
+    "peak_liquidity_usd": 25758.24608148515,
+    "last_checked_at": "2026-11-15T21:43:16.355355+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T21:43:15.741702+00:00",
+    "address": "RgfNXFzwWvTNts6FQW1cveezMPcYuk4VHcwpwa9ySez",
+    "symbol": "MANLETS",
+    "name": "manlets",
+    "liquidity_usd": 18690.52435173934,
+    "source_listed_at": "2026-11-15T21:43:07",
+    "peak_liquidity_usd": 18690.52435173934,
+    "last_checked_at": "2026-11-15T21:43:16.355355+00:00",
     "rug_flag": false
   }
 ]
