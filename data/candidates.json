@@ -12443,7 +12443,7 @@
     "liquidity_usd": 36669.40695414752,
     "source_listed_at": "2026-11-12T18:12:13",
     "peak_liquidity_usd": 36669.40695414752,
-    "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
+    "last_checked_at": "2026-11-15T17:01:18.942870+00:00",
     "rug_flag": false
   },
   {
@@ -12454,7 +12454,7 @@
     "liquidity_usd": 96295.73475502987,
     "source_listed_at": "2026-11-12T18:12:10",
     "peak_liquidity_usd": 96295.73475502987,
-    "last_checked_at": "2026-11-12T18:12:34.390967+00:00",
+    "last_checked_at": "2026-11-15T17:01:18.942870+00:00",
     "rug_flag": false
   },
   {
@@ -12620,6 +12620,17 @@
     "source_listed_at": "2026-11-15T09:14:05",
     "peak_liquidity_usd": 35888.572837941625,
     "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T17:01:18.639588+00:00",
+    "address": "6LLjJtvM5mSiiGJncwZGaTwaVEWe6w49FaSVRV2Jpump",
+    "symbol": "Claude",
+    "name": "Claude",
+    "liquidity_usd": 31080.03898199653,
+    "source_listed_at": "2026-11-15T17:00:39",
+    "peak_liquidity_usd": 31080.03898199653,
+    "last_checked_at": "2026-11-15T17:01:18.942870+00:00",
     "rug_flag": false
   }
 ]
