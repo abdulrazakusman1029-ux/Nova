@@ -12588,5 +12588,38 @@
     "peak_liquidity_usd": 11637.352855975463,
     "last_checked_at": "2026-11-15T01:49:52.166684+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T09:14:45.399097+00:00",
+    "address": "44DAzf2HYjaz5WjTzifCz4KXBeuCYYkNpEEvSSyCULkf",
+    "symbol": "Tweet",
+    "name": "Tweet",
+    "liquidity_usd": 28942.607903161494,
+    "source_listed_at": "2026-11-15T09:14:39",
+    "peak_liquidity_usd": 28942.607903161494,
+    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T09:14:45.399119+00:00",
+    "address": "BhBYzvcQxexGjXVHmhQ32UjiQt9cnKqfW66YAbfNmaE3",
+    "symbol": "\u5927A",
+    "name": "China's stock marke",
+    "liquidity_usd": 9713.740936627548,
+    "source_listed_at": "2026-11-15T09:14:09",
+    "peak_liquidity_usd": 9713.740936627548,
+    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-15T09:14:45.399127+00:00",
+    "address": "ETs7jke7PwzVnveYPr45shCdmMkqeB7qpA51ASKBoayH",
+    "symbol": "TWEET",
+    "name": "Tweet",
+    "liquidity_usd": 35888.572837941625,
+    "source_listed_at": "2026-11-15T09:14:05",
+    "peak_liquidity_usd": 35888.572837941625,
+    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "rug_flag": false
   }
 ]
