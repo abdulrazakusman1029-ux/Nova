@@ -12476,7 +12476,7 @@
     "liquidity_usd": 80136.64413024069,
     "source_listed_at": "2026-11-13T15:18:19",
     "peak_liquidity_usd": 80136.64413024069,
-    "last_checked_at": "2026-11-13T15:18:40.273241+00:00",
+    "last_checked_at": "2026-11-16T01:56:57.028040+00:00",
     "rug_flag": false
   },
   {
@@ -12487,7 +12487,7 @@
     "liquidity_usd": 23604.425772090344,
     "source_listed_at": "2026-11-13T21:55:50",
     "peak_liquidity_usd": 23604.425772090344,
-    "last_checked_at": "2026-11-13T21:56:13.563378+00:00",
+    "last_checked_at": "2026-11-16T01:56:57.028040+00:00",
     "rug_flag": false
   },
   {
@@ -12653,6 +12653,17 @@
     "source_listed_at": "2026-11-15T21:43:07",
     "peak_liquidity_usd": 18690.52435173934,
     "last_checked_at": "2026-11-15T21:43:16.355355+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-16T01:56:56.658830+00:00",
+    "address": "JCJsArFnmJGoE8EY7rJwEdNqAfy1PGW1EfyJDeQyxW9D",
+    "symbol": "EBT",
+    "name": "Elon Butt Token",
+    "liquidity_usd": 12688.616074599762,
+    "source_listed_at": "2026-11-16T01:56:47",
+    "peak_liquidity_usd": 12688.616074599762,
+    "last_checked_at": "2026-11-16T01:56:57.028040+00:00",
     "rug_flag": false
   }
 ]
