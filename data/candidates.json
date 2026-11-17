@@ -12720,5 +12720,38 @@
     "peak_liquidity_usd": 22804.00903676566,
     "last_checked_at": "2026-11-16T20:21:43.737858+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-17T03:45:06.210878+00:00",
+    "address": "FNjQBKz5vyj6PsZ5JjYn1JJeY7V6gTy4yHe3ScQzdsTk",
+    "symbol": "THANKS",
+    "name": "ThanksCoin",
+    "liquidity_usd": 17540.919985595116,
+    "source_listed_at": "2026-11-17T03:44:59",
+    "peak_liquidity_usd": 17540.919985595116,
+    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-17T03:45:06.210900+00:00",
+    "address": "4xLdr8bmiLKLc3xDqPEWtztfEjxfzKMHj1cBBMEsD4uj",
+    "symbol": "FROGE",
+    "name": "Frogecoin",
+    "liquidity_usd": 14927.801935725518,
+    "source_listed_at": "2026-11-17T03:44:49",
+    "peak_liquidity_usd": 14927.801935725518,
+    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-17T03:45:06.210905+00:00",
+    "address": "4ymdSZXrqqYqzCcyNFiKSJq7QsBGhZENpoLH1kysBgEx",
+    "symbol": "THANKS",
+    "name": "ThanksCoin",
+    "liquidity_usd": 16927.208815237464,
+    "source_listed_at": "2026-11-17T03:44:42",
+    "peak_liquidity_usd": 16927.208815237464,
+    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "rug_flag": false
   }
 ]
