@@ -12550,11 +12550,11 @@
     "address": "BuYYmp3U4oJafWXvAYTZ7aTzzT8eYdnSJmdbrc67jvsY",
     "symbol": "CX",
     "name": "Crypto X",
-    "liquidity_usd": 35289.95642245016,
+    "liquidity_usd": 8.141117235092116e-05,
     "source_listed_at": "2026-11-14T17:00:12",
     "peak_liquidity_usd": 35289.95642245016,
-    "last_checked_at": "2026-11-14T17:00:21.162391+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-17T13:12:40.286305+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-14T21:24:39.264342+00:00",
@@ -12564,7 +12564,7 @@
     "liquidity_usd": 30991.826074758363,
     "source_listed_at": "2026-11-14T21:24:27",
     "peak_liquidity_usd": 30991.826074758363,
-    "last_checked_at": "2026-11-14T21:24:39.726916+00:00",
+    "last_checked_at": "2026-11-17T13:12:40.286305+00:00",
     "rug_flag": false
   },
   {
@@ -12572,11 +12572,11 @@
     "address": "GjeufypLBLeTJFUcTpxH9YckJbY6fzx87seA1miApaNC",
     "symbol": "ASSTER",
     "name": "ASSTER",
-    "liquidity_usd": 6695.79543514773,
+    "liquidity_usd": 64.65111629645257,
     "source_listed_at": "2026-11-14T21:24:08",
     "peak_liquidity_usd": 6695.79543514773,
-    "last_checked_at": "2026-11-14T21:24:39.726916+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-17T13:12:40.286305+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-15T01:49:51.696972+00:00",
