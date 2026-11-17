@@ -12583,11 +12583,11 @@
     "address": "H3BKK1ScyUnkdq61dPnyn5AcF1rBpkzZjue33mB5dQNW",
     "symbol": "TINI",
     "name": "tini",
-    "liquidity_usd": 11637.352855975463,
+    "liquidity_usd": 1.718499393830971e-06,
     "source_listed_at": "2026-11-15T01:49:01",
     "peak_liquidity_usd": 11637.352855975463,
-    "last_checked_at": "2026-11-15T01:49:52.166684+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-17T21:45:11.920616+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-15T09:14:45.399097+00:00",
@@ -12597,7 +12597,7 @@
     "liquidity_usd": 28942.607903161494,
     "source_listed_at": "2026-11-15T09:14:39",
     "peak_liquidity_usd": 28942.607903161494,
-    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "last_checked_at": "2026-11-17T21:45:11.920616+00:00",
     "rug_flag": false
   },
   {
@@ -12608,7 +12608,7 @@
     "liquidity_usd": 9713.740936627548,
     "source_listed_at": "2026-11-15T09:14:09",
     "peak_liquidity_usd": 9713.740936627548,
-    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "last_checked_at": "2026-11-17T21:45:11.920616+00:00",
     "rug_flag": false
   },
   {
