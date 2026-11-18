@@ -12663,7 +12663,7 @@
     "liquidity_usd": 12688.616074599762,
     "source_listed_at": "2026-11-16T01:56:47",
     "peak_liquidity_usd": 12688.616074599762,
-    "last_checked_at": "2026-11-16T01:56:57.028040+00:00",
+    "last_checked_at": "2026-11-18T21:21:40.806011+00:00",
     "rug_flag": false
   },
   {
@@ -12674,7 +12674,7 @@
     "liquidity_usd": 18382.259886138785,
     "source_listed_at": "2026-11-16T09:30:41",
     "peak_liquidity_usd": 18382.259886138785,
-    "last_checked_at": "2026-11-16T09:31:02.839901+00:00",
+    "last_checked_at": "2026-11-18T21:21:40.806011+00:00",
     "rug_flag": false
   },
   {
@@ -12774,6 +12774,17 @@
     "source_listed_at": "2026-11-18T03:39:58",
     "peak_liquidity_usd": 24881.990264510034,
     "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-18T21:21:40.400497+00:00",
+    "address": "E9JVSVeDvkufy1FDyqrcuo29HKcsKMbAqbbtCg1B5kYa",
+    "symbol": "Mabel",
+    "name": "GTA6 CAT",
+    "liquidity_usd": 8773.052660693545,
+    "source_listed_at": "2026-11-18T21:21:30",
+    "peak_liquidity_usd": 8773.052660693545,
+    "last_checked_at": "2026-11-18T21:21:40.806011+00:00",
     "rug_flag": false
   }
 ]
