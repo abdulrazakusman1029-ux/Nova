@@ -12619,7 +12619,7 @@
     "liquidity_usd": 35888.572837941625,
     "source_listed_at": "2026-11-15T09:14:05",
     "peak_liquidity_usd": 35888.572837941625,
-    "last_checked_at": "2026-11-15T09:14:45.754627+00:00",
+    "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
     "rug_flag": false
   },
   {
@@ -12752,6 +12752,28 @@
     "source_listed_at": "2026-11-17T03:44:42",
     "peak_liquidity_usd": 16927.208815237464,
     "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-18T03:40:24.245857+00:00",
+    "address": "5cLgNaG3BuRmyrweoBF2cXVS1XstTha2EXtQrQQeTfy7",
+    "symbol": "NEX Ai",
+    "name": "Nexchain Ai",
+    "liquidity_usd": 29965.93424982578,
+    "source_listed_at": "2026-11-18T03:40:06",
+    "peak_liquidity_usd": 29965.93424982578,
+    "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-18T03:40:24.245874+00:00",
+    "address": "7HhUSqMYEp5VLNjuZV3sya9XGieRQiV1x9eWr54ev1Go",
+    "symbol": "Speed",
+    "name": "IShowSpeed",
+    "liquidity_usd": 24881.990264510034,
+    "source_listed_at": "2026-11-18T03:39:58",
+    "peak_liquidity_usd": 24881.990264510034,
+    "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
     "rug_flag": false
   }
 ]
