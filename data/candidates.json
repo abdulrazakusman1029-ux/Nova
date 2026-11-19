@@ -12797,5 +12797,38 @@
     "peak_liquidity_usd": 21899.724580868133,
     "last_checked_at": "2026-11-19T03:17:36.680104+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-19T12:54:49.765196+00:00",
+    "address": "6d9T448UpiyjyWsNUPcRSBCRAd6CUQuXiR1w52Grne5G",
+    "symbol": "Christmas",
+    "name": "Merry Christmas",
+    "liquidity_usd": 29929.462831510864,
+    "source_listed_at": "2026-11-19T12:54:16",
+    "peak_liquidity_usd": 29929.462831510864,
+    "last_checked_at": "2026-11-19T12:54:50.292724+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-19T12:54:49.765217+00:00",
+    "address": "4DK53mchMkU34wiXaZn4X1fFcyZWpkxu2KhuSdNT8JZB",
+    "symbol": "AudaCity",
+    "name": "AudaCity",
+    "liquidity_usd": 12740.733830546105,
+    "source_listed_at": "2026-11-19T12:54:09",
+    "peak_liquidity_usd": 12740.733830546105,
+    "last_checked_at": "2026-11-19T12:54:50.292724+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-19T12:54:49.765228+00:00",
+    "address": "9C6fBgntX5u9U3eYHcWAXZi3wBXBSy2feciQAaM8ywZr",
+    "symbol": "DCTY",
+    "name": "DacityCoin",
+    "liquidity_usd": 8995.265325926524,
+    "source_listed_at": "2026-11-19T12:54:04",
+    "peak_liquidity_usd": 8995.265325926524,
+    "last_checked_at": "2026-11-19T12:54:50.292724+00:00",
+    "rug_flag": false
   }
 ]
