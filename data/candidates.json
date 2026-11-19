@@ -12729,7 +12729,7 @@
     "liquidity_usd": 17540.919985595116,
     "source_listed_at": "2026-11-17T03:44:59",
     "peak_liquidity_usd": 17540.919985595116,
-    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "last_checked_at": "2026-11-19T21:26:00.395220+00:00",
     "rug_flag": false
   },
   {
@@ -12740,7 +12740,7 @@
     "liquidity_usd": 14927.801935725518,
     "source_listed_at": "2026-11-17T03:44:49",
     "peak_liquidity_usd": 14927.801935725518,
-    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "last_checked_at": "2026-11-19T21:26:00.395220+00:00",
     "rug_flag": false
   },
   {
@@ -12829,6 +12829,17 @@
     "source_listed_at": "2026-11-19T12:54:04",
     "peak_liquidity_usd": 8995.265325926524,
     "last_checked_at": "2026-11-19T12:54:50.292724+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-19T21:25:59.963072+00:00",
+    "address": "BG2hQpV2e2xMsiZHA8Yv7UR7P9ajaohPGTFe4MECpump",
+    "symbol": "Clbell",
+    "name": "CLAUDE NASDAQ BELL",
+    "liquidity_usd": 83827.79988888883,
+    "source_listed_at": "2026-11-19T21:25:41",
+    "peak_liquidity_usd": 83827.79988888883,
+    "last_checked_at": "2026-11-19T21:26:00.395220+00:00",
     "rug_flag": false
   }
 ]
