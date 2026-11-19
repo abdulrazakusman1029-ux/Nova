@@ -12685,7 +12685,7 @@
     "liquidity_usd": 28264.153756054213,
     "source_listed_at": "2026-11-16T09:30:15",
     "peak_liquidity_usd": 28264.153756054213,
-    "last_checked_at": "2026-11-16T09:31:02.839901+00:00",
+    "last_checked_at": "2026-11-19T03:17:36.680104+00:00",
     "rug_flag": false
   },
   {
@@ -12696,7 +12696,7 @@
     "liquidity_usd": 28272.350263092976,
     "source_listed_at": "2026-11-16T09:30:07",
     "peak_liquidity_usd": 28272.350263092976,
-    "last_checked_at": "2026-11-16T09:31:02.839901+00:00",
+    "last_checked_at": "2026-11-19T03:17:36.680104+00:00",
     "rug_flag": false
   },
   {
@@ -12785,6 +12785,17 @@
     "source_listed_at": "2026-11-18T21:21:30",
     "peak_liquidity_usd": 8773.052660693545,
     "last_checked_at": "2026-11-18T21:21:40.806011+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-19T03:17:36.156685+00:00",
+    "address": "7owqFfXZJMAVByzdFZezmgewksLEQuTR6iETUWuwHHAS",
+    "symbol": "DATITTY",
+    "name": "DatittyCoin",
+    "liquidity_usd": 21899.010313391107,
+    "source_listed_at": "2026-11-19T03:17:18",
+    "peak_liquidity_usd": 21899.724580868133,
+    "last_checked_at": "2026-11-19T03:17:36.680104+00:00",
     "rug_flag": false
   }
 ]
