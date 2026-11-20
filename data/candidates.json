@@ -12863,5 +12863,49 @@
     "peak_liquidity_usd": 12384.470979914768,
     "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T11:25:34.021618+00:00",
+    "address": "CDApxrTapTLVwXkJRJNmnF3CjDskuDpEvFGmYFWroq9D",
+    "symbol": "mihao",
+    "name": "ni hao cat",
+    "liquidity_usd": 11687.770203706172,
+    "source_listed_at": "2026-11-20T11:25:28",
+    "peak_liquidity_usd": 11687.770203706172,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T11:25:34.021635+00:00",
+    "address": "31CRjwe4CL1M2Q8JimcULd8pegCWqFu3y2xDLzW69JYp",
+    "symbol": "Bagwork",
+    "name": "Bagwork",
+    "liquidity_usd": 12537.822069347589,
+    "source_listed_at": "2026-11-20T11:25:24",
+    "peak_liquidity_usd": 12537.822069347589,
+    "last_checked_at": "2026-11-20T11:25:34.447275+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T11:25:34.021640+00:00",
+    "address": "E7gRdSdaYnK4heyjcDUUxkSFt7sU2qvUoopDRgz9Lj6b",
+    "symbol": "BAGWORK",
+    "name": "Bagwork",
+    "liquidity_usd": 14119.354282033373,
+    "source_listed_at": "2026-11-20T11:25:15",
+    "peak_liquidity_usd": 14119.354282033373,
+    "last_checked_at": "2026-11-20T11:25:34.447275+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T11:25:34.021644+00:00",
+    "address": "39ReBSVoPMC3Ufq9jVshtdaLGSYt4cizKiDKEuRi63vC",
+    "symbol": "Bagwork",
+    "name": "Bagwork",
+    "liquidity_usd": 21402.403210828266,
+    "source_listed_at": "2026-11-20T11:25:04",
+    "peak_liquidity_usd": 21402.403210828266,
+    "last_checked_at": "2026-11-20T11:25:34.447275+00:00",
+    "rug_flag": false
   }
 ]
