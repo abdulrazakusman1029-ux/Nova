@@ -12762,7 +12762,7 @@
     "liquidity_usd": 29965.93424982578,
     "source_listed_at": "2026-11-18T03:40:06",
     "peak_liquidity_usd": 29965.93424982578,
-    "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
+    "last_checked_at": "2026-11-20T20:03:41.307657+00:00",
     "rug_flag": false
   },
   {
@@ -12872,7 +12872,7 @@
     "liquidity_usd": 11687.770203706172,
     "source_listed_at": "2026-11-20T11:25:28",
     "peak_liquidity_usd": 11687.770203706172,
-    "last_checked_at": "",
+    "last_checked_at": "2026-11-20T20:03:41.307657+00:00",
     "rug_flag": false
   },
   {
@@ -12906,6 +12906,17 @@
     "source_listed_at": "2026-11-20T11:25:04",
     "peak_liquidity_usd": 21402.403210828266,
     "last_checked_at": "2026-11-20T11:25:34.447275+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T20:03:25.912900+00:00",
+    "address": "5hsDZruR75FfHgjQ5ivCkBTcz8NH2RSpD7jMrn5JBibj",
+    "symbol": "h\u25e1sh",
+    "name": "h\u25e1sh",
+    "liquidity_usd": 11041.594293420028,
+    "source_listed_at": "2026-11-20T20:02:54",
+    "peak_liquidity_usd": 11041.594293420028,
+    "last_checked_at": "2026-11-20T20:03:41.307657+00:00",
     "rug_flag": false
   }
 ]
