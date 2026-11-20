@@ -12751,7 +12751,7 @@
     "liquidity_usd": 16927.208815237464,
     "source_listed_at": "2026-11-17T03:44:42",
     "peak_liquidity_usd": 16927.208815237464,
-    "last_checked_at": "2026-11-17T03:45:06.653468+00:00",
+    "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
     "rug_flag": false
   },
   {
@@ -12840,6 +12840,28 @@
     "source_listed_at": "2026-11-19T21:25:41",
     "peak_liquidity_usd": 83827.79988888883,
     "last_checked_at": "2026-11-19T21:26:00.395220+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T03:04:51.974378+00:00",
+    "address": "2qASc6CrARBpYDpUWTafPCJ44KroYuFoNj2GKjbGCmyU",
+    "symbol": "BEAR",
+    "name": "Bearcoin",
+    "liquidity_usd": 15983.691940815661,
+    "source_listed_at": "2026-11-20T03:04:50",
+    "peak_liquidity_usd": 15983.691940815661,
+    "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-20T03:04:51.974398+00:00",
+    "address": "2bcNxcaYjbT2i98gDGuUDzeUEhpYMJEPru5rGHVhcHTT",
+    "symbol": "mihao",
+    "name": "ni hao cat",
+    "liquidity_usd": 12384.470979914768,
+    "source_listed_at": "2026-11-20T03:04:12",
+    "peak_liquidity_usd": 12384.470979914768,
+    "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
     "rug_flag": false
   }
 ]
