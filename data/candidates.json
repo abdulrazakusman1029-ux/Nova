@@ -12984,5 +12984,60 @@
     "peak_liquidity_usd": 13965.344187690367,
     "last_checked_at": "2026-11-21T09:40:16.162803+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T17:24:39.652547+00:00",
+    "address": "CHR8GAYrR7dCjCMrY3aehSe2WGNp41gZPJ1NmnwJVBPL",
+    "symbol": "Prayge",
+    "name": "Prayge",
+    "liquidity_usd": 28266.353564467005,
+    "source_listed_at": "2026-11-21T17:24:36",
+    "peak_liquidity_usd": 28266.353564467005,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T17:24:39.652564+00:00",
+    "address": "GVtp2nM3pciwm62U3WPAWMAJB9DQdyNjQou5rKyHDgEm",
+    "symbol": "Prayge",
+    "name": "Prayge",
+    "liquidity_usd": 28255.62617007767,
+    "source_listed_at": "2026-11-21T17:24:29",
+    "peak_liquidity_usd": 28255.62617007767,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T17:24:39.652569+00:00",
+    "address": "8LY7ofop5VDiurTk7W7Bn9AAbAG7yr3gQ1YK3FrAiNJ",
+    "symbol": "James",
+    "name": "Person Of The Year",
+    "liquidity_usd": 12296.55831415758,
+    "source_listed_at": "2026-11-21T17:24:27",
+    "peak_liquidity_usd": 12296.55831415758,
+    "last_checked_at": "2026-11-21T17:24:40.004477+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T17:24:39.652572+00:00",
+    "address": "EcUCDCxvuXNj8MpwaNWnnFJV4SDQbdwK3Nkbq6w8iER",
+    "symbol": "FIONA",
+    "name": "Fiona the Hippo",
+    "liquidity_usd": 73601.75260215499,
+    "source_listed_at": "2026-11-21T17:24:14",
+    "peak_liquidity_usd": 73601.75260215499,
+    "last_checked_at": "2026-11-21T17:24:40.004477+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T17:24:39.652575+00:00",
+    "address": "3SphQKWYQobL63XFLP1UXFsbmiGFo95fjhjwodaDKaM4",
+    "symbol": "SGI",
+    "name": "Super Gooner Intelligence",
+    "liquidity_usd": 12577.935000065598,
+    "source_listed_at": "2026-11-21T17:23:57",
+    "peak_liquidity_usd": 12577.935000065598,
+    "last_checked_at": "2026-11-21T17:24:40.004477+00:00",
+    "rug_flag": false
   }
 ]
