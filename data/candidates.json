@@ -12940,5 +12940,49 @@
     "peak_liquidity_usd": 25879.33812076049,
     "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T09:40:15.631887+00:00",
+    "address": "CKNirLw9Pt1YHoGZpi9hrBGcVMaQ8WYAF3pGwm3b3q4v",
+    "symbol": "DCTY",
+    "name": "DacityCoin",
+    "liquidity_usd": 10997.258143182502,
+    "source_listed_at": "2026-11-21T09:40:13",
+    "peak_liquidity_usd": 10997.258143182502,
+    "last_checked_at": "",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T09:40:15.631911+00:00",
+    "address": "52T6dDiqRcsBwuwWFJvnFZ83UT8FozVYRhBtc9tv2kz3",
+    "symbol": "XV",
+    "name": "Tesla Super Inu",
+    "liquidity_usd": 11519.483595709688,
+    "source_listed_at": "2026-11-21T09:40:07",
+    "peak_liquidity_usd": 11519.483595709688,
+    "last_checked_at": "2026-11-21T09:40:16.162803+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T09:40:15.631918+00:00",
+    "address": "8RCr1LeDZ9KPeqhuQXe6Q1pdqZc6FV9Z3KCnQjcF94H4",
+    "symbol": "CCat",
+    "name": "Christmas Cat",
+    "liquidity_usd": 28523.931310917396,
+    "source_listed_at": "2026-11-21T09:39:42",
+    "peak_liquidity_usd": 28523.931310917396,
+    "last_checked_at": "2026-11-21T09:40:16.162803+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T09:40:15.631924+00:00",
+    "address": "2ECzGbyw1Lbj8DqrbbwS7HfDYkCerQuFQyeoiSqN5UJi",
+    "symbol": "\u5927\u5f53\u308a",
+    "name": "\u5927\u5f53\u308a",
+    "liquidity_usd": 13965.344187690367,
+    "source_listed_at": "2026-11-21T09:39:32",
+    "peak_liquidity_usd": 13965.344187690367,
+    "last_checked_at": "2026-11-21T09:40:16.162803+00:00",
+    "rug_flag": false
   }
 ]
