@@ -12773,7 +12773,7 @@
     "liquidity_usd": 24881.990264510034,
     "source_listed_at": "2026-11-18T03:39:58",
     "peak_liquidity_usd": 24881.990264510034,
-    "last_checked_at": "2026-11-18T03:40:24.659967+00:00",
+    "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
     "rug_flag": false
   },
   {
@@ -12917,6 +12917,28 @@
     "source_listed_at": "2026-11-20T20:02:54",
     "peak_liquidity_usd": 11041.594293420028,
     "last_checked_at": "2026-11-20T20:03:41.307657+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T01:26:04.117844+00:00",
+    "address": "BFUeB1MQWMyRB1s6zggCdwAZStTiKsXQj7jCjMkFmoon",
+    "symbol": "RIEMOWL",
+    "name": "RIEMANN CLAUDE OWL",
+    "liquidity_usd": 81009.4902034135,
+    "source_listed_at": "2026-11-21T01:26:00",
+    "peak_liquidity_usd": 81009.4902034135,
+    "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-21T01:26:04.117868+00:00",
+    "address": "HpqSCLBR7MH4QBusVgWVv2ABkSimfkpstc6Lb9jTbQhN",
+    "symbol": "GAME",
+    "name": "What Happened To The Game I Love",
+    "liquidity_usd": 25879.33812076049,
+    "source_listed_at": "2026-11-21T01:25:36",
+    "peak_liquidity_usd": 25879.33812076049,
+    "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
     "rug_flag": false
   }
 ]
