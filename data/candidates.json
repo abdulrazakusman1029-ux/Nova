@@ -12839,7 +12839,7 @@
     "liquidity_usd": 83827.79988888883,
     "source_listed_at": "2026-11-19T21:25:41",
     "peak_liquidity_usd": 83827.79988888883,
-    "last_checked_at": "2026-11-19T21:26:00.395220+00:00",
+    "last_checked_at": "2026-11-22T18:28:26.509102+00:00",
     "rug_flag": false
   },
   {
@@ -12850,7 +12850,7 @@
     "liquidity_usd": 15983.691940815661,
     "source_listed_at": "2026-11-20T03:04:50",
     "peak_liquidity_usd": 15983.691940815661,
-    "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
+    "last_checked_at": "2026-11-22T18:28:26.509102+00:00",
     "rug_flag": false
   },
   {
@@ -13093,6 +13093,17 @@
     "source_listed_at": "2026-11-22T11:09:23",
     "peak_liquidity_usd": 12570.113335872855,
     "last_checked_at": "2026-11-22T11:10:23.216134+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-22T18:28:25.990929+00:00",
+    "address": "ApWnS8uEYJFY5a9nabvRfVh3pDsc4C6pyvGFefFayTgT",
+    "symbol": "CAR",
+    "name": "carcoin",
+    "liquidity_usd": 14301.54249325472,
+    "source_listed_at": "2026-11-22T18:27:50",
+    "peak_liquidity_usd": 14301.54249325472,
+    "last_checked_at": "2026-11-22T18:28:26.509102+00:00",
     "rug_flag": false
   }
 ]
