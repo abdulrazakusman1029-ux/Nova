@@ -13061,5 +13061,38 @@
     "peak_liquidity_usd": 27750.8779992376,
     "last_checked_at": "2026-11-22T03:03:06.101222+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-22T11:10:22.712555+00:00",
+    "address": "U7kyaAWbfqqTEq69npN3yvDJ1D27kaMefLynowSYzU1",
+    "symbol": "THEO",
+    "name": "Theocoin",
+    "liquidity_usd": 12570.20040348664,
+    "source_listed_at": "2026-11-22T11:10:01",
+    "peak_liquidity_usd": 12570.20040348664,
+    "last_checked_at": "2026-11-22T11:10:23.216134+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-22T11:10:22.712578+00:00",
+    "address": "2m6eCfFGUBhUA6L6W2A3GuoamuMmGjiu4Cag8Tp92ioR",
+    "symbol": "PINCH",
+    "name": "IDPINCH",
+    "liquidity_usd": 15538.08153399064,
+    "source_listed_at": "2026-11-22T11:09:26",
+    "peak_liquidity_usd": 15538.08153399064,
+    "last_checked_at": "2026-11-22T11:10:23.216134+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-22T11:10:22.712586+00:00",
+    "address": "DS1f6beSbDSc8ke6ySjUuY6Q5ZQGr3Hv7nD6qrctzPRZ",
+    "symbol": "THEO",
+    "name": "Theocoin",
+    "liquidity_usd": 12570.113335872855,
+    "source_listed_at": "2026-11-22T11:09:23",
+    "peak_liquidity_usd": 12570.113335872855,
+    "last_checked_at": "2026-11-22T11:10:23.216134+00:00",
+    "rug_flag": false
   }
 ]
