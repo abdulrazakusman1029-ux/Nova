@@ -13116,5 +13116,38 @@
     "peak_liquidity_usd": 31363.386431205254,
     "last_checked_at": "2026-11-23T00:13:26.863934+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-23T08:56:51.060576+00:00",
+    "address": "HbPmEqGoj51b2bkTRvEVhmFbYCK5MKY4BaM8rK7fBkkN",
+    "symbol": "Fred",
+    "name": "Fred",
+    "liquidity_usd": 16657.90929243012,
+    "source_listed_at": "2026-11-23T08:56:32",
+    "peak_liquidity_usd": 16657.90929243012,
+    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-23T08:56:51.060592+00:00",
+    "address": "GDgpZMLnLwa4KuHvgimH89Zw37obLf3uE3aaq6igwJ1h",
+    "symbol": "JENSEN",
+    "name": "Jensen Huang Coin",
+    "liquidity_usd": 23356.113213411878,
+    "source_listed_at": "2026-11-23T08:56:30",
+    "peak_liquidity_usd": 23356.113213411878,
+    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-23T08:56:51.060616+00:00",
+    "address": "GUbT58aPYkVTM9VNeUg2azgPPzWf7LjGDnG1uynk6Ww",
+    "symbol": "LotusCat",
+    "name": "Lotus Leaf Cat",
+    "liquidity_usd": 28964.593895432434,
+    "source_listed_at": "2026-11-23T08:56:02",
+    "peak_liquidity_usd": 28964.593895432434,
+    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "rug_flag": false
   }
 ]
