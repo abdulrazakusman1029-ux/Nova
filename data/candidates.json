@@ -12924,11 +12924,11 @@
     "address": "BFUeB1MQWMyRB1s6zggCdwAZStTiKsXQj7jCjMkFmoon",
     "symbol": "RIEMOWL",
     "name": "RIEMANN CLAUDE OWL",
-    "liquidity_usd": 81009.4902034135,
+    "liquidity_usd": 0.022826325175363333,
     "source_listed_at": "2026-11-21T01:26:00",
     "peak_liquidity_usd": 81009.4902034135,
-    "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-23T21:15:13.978216+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-21T01:26:04.117868+00:00",
@@ -12938,7 +12938,7 @@
     "liquidity_usd": 25879.33812076049,
     "source_listed_at": "2026-11-21T01:25:36",
     "peak_liquidity_usd": 25879.33812076049,
-    "last_checked_at": "2026-11-21T01:26:04.846354+00:00",
+    "last_checked_at": "2026-11-23T21:15:13.978216+00:00",
     "rug_flag": false
   },
   {
@@ -12960,7 +12960,7 @@
     "liquidity_usd": 11519.483595709688,
     "source_listed_at": "2026-11-21T09:40:07",
     "peak_liquidity_usd": 11519.483595709688,
-    "last_checked_at": "2026-11-21T09:40:16.162803+00:00",
+    "last_checked_at": "2026-11-23T21:15:13.978216+00:00",
     "rug_flag": false
   },
   {
