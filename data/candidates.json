@@ -12861,7 +12861,7 @@
     "liquidity_usd": 12384.470979914768,
     "source_listed_at": "2026-11-20T03:04:12",
     "peak_liquidity_usd": 12384.470979914768,
-    "last_checked_at": "2026-11-20T03:04:52.583806+00:00",
+    "last_checked_at": "2026-11-23T00:13:26.863934+00:00",
     "rug_flag": false
   },
   {
@@ -12883,7 +12883,7 @@
     "liquidity_usd": 12537.822069347589,
     "source_listed_at": "2026-11-20T11:25:24",
     "peak_liquidity_usd": 12537.822069347589,
-    "last_checked_at": "2026-11-20T11:25:34.447275+00:00",
+    "last_checked_at": "2026-11-23T00:13:26.863934+00:00",
     "rug_flag": false
   },
   {
@@ -13104,6 +13104,17 @@
     "source_listed_at": "2026-11-22T18:27:50",
     "peak_liquidity_usd": 14301.54249325472,
     "last_checked_at": "2026-11-22T18:28:26.509102+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-23T00:13:26.432973+00:00",
+    "address": "DgtpEQL2VV983RQ62AJX93QQLau55tYqQYspcFJronFS",
+    "symbol": "CI",
+    "name": "Crime Inu",
+    "liquidity_usd": 31363.386431205254,
+    "source_listed_at": "2026-11-23T00:13:12",
+    "peak_liquidity_usd": 31363.386431205254,
+    "last_checked_at": "2026-11-23T00:13:26.863934+00:00",
     "rug_flag": false
   }
 ]
