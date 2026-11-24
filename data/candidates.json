@@ -13048,7 +13048,7 @@
     "liquidity_usd": 16665.448405409876,
     "source_listed_at": "2026-11-21T23:07:07",
     "peak_liquidity_usd": 16665.448405409876,
-    "last_checked_at": "2026-11-21T23:07:17.583920+00:00",
+    "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
     "rug_flag": false
   },
   {
@@ -13181,6 +13181,28 @@
     "source_listed_at": "2026-11-24T05:56:28",
     "peak_liquidity_usd": 27084.534480388425,
     "last_checked_at": "2026-11-24T05:57:11.955392+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-24T17:33:18.254611+00:00",
+    "address": "EEeug9NBgJUv11bRbWG9iBkiVZEYAkepfC8EgiVT4m3x",
+    "symbol": "ATX",
+    "name": "ATX",
+    "liquidity_usd": 13905.563000255244,
+    "source_listed_at": "2026-11-24T17:32:57",
+    "peak_liquidity_usd": 13905.563000255244,
+    "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-24T17:33:18.254626+00:00",
+    "address": "GTbebfzXBhKkLs5EaJYqxRXm2ykUY2bpNwjzVV6DBxUc",
+    "symbol": "OFFBANK",
+    "name": "Offbank",
+    "liquidity_usd": 12672.180473093536,
+    "source_listed_at": "2026-11-24T17:32:57",
+    "peak_liquidity_usd": 12672.180473093536,
+    "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
     "rug_flag": false
   }
 ]
