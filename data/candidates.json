@@ -13100,11 +13100,11 @@
     "address": "ApWnS8uEYJFY5a9nabvRfVh3pDsc4C6pyvGFefFayTgT",
     "symbol": "CAR",
     "name": "carcoin",
-    "liquidity_usd": 14301.54249325472,
+    "liquidity_usd": 3.298205295422129e-05,
     "source_listed_at": "2026-11-22T18:27:50",
     "peak_liquidity_usd": 14301.54249325472,
-    "last_checked_at": "2026-11-22T18:28:26.509102+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-25T12:42:18.783601+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-23T00:13:26.432973+00:00",
@@ -13114,7 +13114,7 @@
     "liquidity_usd": 31363.386431205254,
     "source_listed_at": "2026-11-23T00:13:12",
     "peak_liquidity_usd": 31363.386431205254,
-    "last_checked_at": "2026-11-23T00:13:26.863934+00:00",
+    "last_checked_at": "2026-11-25T12:42:18.783601+00:00",
     "rug_flag": false
   },
   {
@@ -13125,7 +13125,7 @@
     "liquidity_usd": 16657.90929243012,
     "source_listed_at": "2026-11-23T08:56:32",
     "peak_liquidity_usd": 16657.90929243012,
-    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "last_checked_at": "2026-11-25T12:42:18.783601+00:00",
     "rug_flag": false
   },
   {
