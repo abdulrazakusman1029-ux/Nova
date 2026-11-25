@@ -13059,7 +13059,7 @@
     "liquidity_usd": 27750.8779992376,
     "source_listed_at": "2026-11-22T03:02:58",
     "peak_liquidity_usd": 27750.8779992376,
-    "last_checked_at": "2026-11-22T03:03:06.101222+00:00",
+    "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
     "rug_flag": false
   },
   {
@@ -13203,6 +13203,28 @@
     "source_listed_at": "2026-11-24T17:32:57",
     "peak_liquidity_usd": 12672.180473093536,
     "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-25T02:19:55.159596+00:00",
+    "address": "Dx5NJMR8oRHcQxGrzDZmRE2qkfyinMsrwQ6MNX9zkFsC",
+    "symbol": "Gato",
+    "name": "El Gato",
+    "liquidity_usd": 11914.569038091155,
+    "source_listed_at": "2026-11-25T02:19:40",
+    "peak_liquidity_usd": 11914.569038091155,
+    "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-25T02:19:55.159614+00:00",
+    "address": "7x3QqfP6NaHCfLGU3pGt72X43r48vyjFm21i8w29moon",
+    "symbol": "Vmgate",
+    "name": "Vmware Gate",
+    "liquidity_usd": 82879.16249144424,
+    "source_listed_at": "2026-11-25T02:19:02",
+    "peak_liquidity_usd": 82879.16249144424,
+    "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
     "rug_flag": false
   }
 ]
