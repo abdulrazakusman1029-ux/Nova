@@ -13136,7 +13136,7 @@
     "liquidity_usd": 23356.113213411878,
     "source_listed_at": "2026-11-23T08:56:30",
     "peak_liquidity_usd": 23356.113213411878,
-    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "last_checked_at": "2026-11-25T22:27:20.760451+00:00",
     "rug_flag": false
   },
   {
@@ -13147,7 +13147,7 @@
     "liquidity_usd": 28964.593895432434,
     "source_listed_at": "2026-11-23T08:56:02",
     "peak_liquidity_usd": 28964.593895432434,
-    "last_checked_at": "2026-11-23T08:56:51.689021+00:00",
+    "last_checked_at": "2026-11-25T22:27:20.760451+00:00",
     "rug_flag": false
   },
   {
@@ -13225,6 +13225,17 @@
     "source_listed_at": "2026-11-25T02:19:02",
     "peak_liquidity_usd": 82879.16249144424,
     "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-25T22:27:20.388253+00:00",
+    "address": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump",
+    "symbol": "Grodia",
+    "name": "Grodia",
+    "liquidity_usd": 20554.078405571046,
+    "source_listed_at": "2026-11-25T22:26:54",
+    "peak_liquidity_usd": 20554.078405571046,
+    "last_checked_at": "2026-11-25T22:27:20.760451+00:00",
     "rug_flag": false
   }
 ]
