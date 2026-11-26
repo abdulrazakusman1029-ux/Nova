@@ -13237,5 +13237,38 @@
     "peak_liquidity_usd": 20554.078405571046,
     "last_checked_at": "2026-11-25T22:27:20.760451+00:00",
     "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-26T15:03:31.298741+00:00",
+    "address": "4ceFeC9zbU3doigAwyMLGnZJWniM4ZhhjnfGqbkjd1js",
+    "symbol": "Nasduck",
+    "name": "Nasduck",
+    "liquidity_usd": 12723.536567160423,
+    "source_listed_at": "2026-11-26T15:03:20",
+    "peak_liquidity_usd": 12723.536567160423,
+    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-26T15:03:31.298759+00:00",
+    "address": "3aqfda7oCyNTs5vwmJ72UXufDERkc9XmmiAZQEQbRQxK",
+    "symbol": "Zero",
+    "name": "ZeroSumEnjoyer",
+    "liquidity_usd": 8477.494953572992,
+    "source_listed_at": "2026-11-26T15:02:54",
+    "peak_liquidity_usd": 8477.494953572992,
+    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-26T15:03:31.298763+00:00",
+    "address": "77AvozQ8BdmJXo7HWxnYsn7qhYfVARxvXtDn5YtM2UMr",
+    "symbol": "S&P500",
+    "name": "Socks & Pussy 500",
+    "liquidity_usd": 13988.862593459138,
+    "source_listed_at": "2026-11-26T15:02:52",
+    "peak_liquidity_usd": 13988.862593459138,
+    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "rug_flag": false
   }
 ]
