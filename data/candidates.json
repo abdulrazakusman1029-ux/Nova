@@ -13191,7 +13191,7 @@
     "liquidity_usd": 13905.563000255244,
     "source_listed_at": "2026-11-24T17:32:57",
     "peak_liquidity_usd": 13905.563000255244,
-    "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
+    "last_checked_at": "2026-11-26T23:47:04.875711+00:00",
     "rug_flag": false
   },
   {
@@ -13269,6 +13269,28 @@
     "source_listed_at": "2026-11-26T15:02:52",
     "peak_liquidity_usd": 13988.862593459138,
     "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-26T23:47:04.425353+00:00",
+    "address": "5T5sTZRoFZenpWTrC6npLoeEYzH5is58APrJr6KHDSUv",
+    "symbol": "TOGI",
+    "name": "Togi Coin",
+    "liquidity_usd": 19139.250953173225,
+    "source_listed_at": "2026-11-26T23:46:51",
+    "peak_liquidity_usd": 19139.250953173225,
+    "last_checked_at": "2026-11-26T23:47:04.875711+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-26T23:47:04.425371+00:00",
+    "address": "5gQdgbcg5jjFx1iYiQB3HzdB92L8EXYi29uaa8YrmFF8",
+    "symbol": "CHADLON",
+    "name": "CHADLON",
+    "liquidity_usd": 16727.461691842316,
+    "source_listed_at": "2026-11-26T23:46:45",
+    "peak_liquidity_usd": 16727.461691842316,
+    "last_checked_at": "2026-11-26T23:47:04.875711+00:00",
     "rug_flag": false
   }
 ]
