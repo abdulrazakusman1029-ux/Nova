@@ -13155,11 +13155,11 @@
     "address": "CJaDgAXaaq8yLrMNbGGrHr8veM7oMzkFB2ZKzfCgpump",
     "symbol": "ATX",
     "name": "PROJECT ATX",
-    "liquidity_usd": 7746.125213989632,
+    "liquidity_usd": 1810.1823866006948,
     "source_listed_at": "2026-11-24T05:56:54",
     "peak_liquidity_usd": 7746.125213989632,
-    "last_checked_at": "2026-11-24T05:57:11.955392+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-26T04:57:49.779119+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-24T05:57:11.411425+00:00",
@@ -13169,7 +13169,7 @@
     "liquidity_usd": 28687.870785404615,
     "source_listed_at": "2026-11-24T05:56:50",
     "peak_liquidity_usd": 28687.870785404615,
-    "last_checked_at": "2026-11-24T05:57:11.955392+00:00",
+    "last_checked_at": "2026-11-26T04:57:49.779119+00:00",
     "rug_flag": false
   },
   {
@@ -13180,7 +13180,7 @@
     "liquidity_usd": 27084.534480388425,
     "source_listed_at": "2026-11-24T05:56:28",
     "peak_liquidity_usd": 27084.534480388425,
-    "last_checked_at": "2026-11-24T05:57:11.955392+00:00",
+    "last_checked_at": "2026-11-26T04:57:49.779119+00:00",
     "rug_flag": false
   },
   {
