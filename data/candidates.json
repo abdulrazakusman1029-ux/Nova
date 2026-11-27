@@ -13202,7 +13202,7 @@
     "liquidity_usd": 12672.180473093536,
     "source_listed_at": "2026-11-24T17:32:57",
     "peak_liquidity_usd": 12672.180473093536,
-    "last_checked_at": "2026-11-24T17:33:18.934891+00:00",
+    "last_checked_at": "2026-11-27T08:15:33.403348+00:00",
     "rug_flag": false
   },
   {
@@ -13291,6 +13291,28 @@
     "source_listed_at": "2026-11-26T23:46:45",
     "peak_liquidity_usd": 16727.461691842316,
     "last_checked_at": "2026-11-26T23:47:04.875711+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-27T08:15:32.861659+00:00",
+    "address": "CjiSxtisdLU3FCmebjuqnfj89Cmi1CKgmE2X4JmB67xj",
+    "symbol": "Midoor",
+    "name": "Midoor",
+    "liquidity_usd": 7756.0403486686055,
+    "source_listed_at": "2026-11-27T08:14:45",
+    "peak_liquidity_usd": 7756.0403486686055,
+    "last_checked_at": "2026-11-27T08:15:33.403348+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-27T08:15:32.861680+00:00",
+    "address": "ECrXkTbBR6wvnRWKTvBXqrxT3T3KELdbzHow7VyyUZBs",
+    "symbol": "HALFKEY",
+    "name": "HALFKEY",
+    "liquidity_usd": 14924.461980496875,
+    "source_listed_at": "2026-11-27T08:14:37",
+    "peak_liquidity_usd": 14924.461980496875,
+    "last_checked_at": "2026-11-27T08:15:33.403348+00:00",
     "rug_flag": false
   }
 ]
