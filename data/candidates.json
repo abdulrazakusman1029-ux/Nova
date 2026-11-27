@@ -13213,7 +13213,7 @@
     "liquidity_usd": 11914.569038091155,
     "source_listed_at": "2026-11-25T02:19:40",
     "peak_liquidity_usd": 11914.569038091155,
-    "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
+    "last_checked_at": "2026-11-27T18:53:25.597370+00:00",
     "rug_flag": false
   },
   {
@@ -13224,7 +13224,7 @@
     "liquidity_usd": 82879.16249144424,
     "source_listed_at": "2026-11-25T02:19:02",
     "peak_liquidity_usd": 82879.16249144424,
-    "last_checked_at": "2026-11-25T02:19:55.647247+00:00",
+    "last_checked_at": "2026-11-27T18:53:25.597370+00:00",
     "rug_flag": false
   },
   {
@@ -13313,6 +13313,17 @@
     "source_listed_at": "2026-11-27T08:14:37",
     "peak_liquidity_usd": 14924.461980496875,
     "last_checked_at": "2026-11-27T08:15:33.403348+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-27T18:53:25.222698+00:00",
+    "address": "6FPRiTqTQL3QjgcD6Mzg6hv6SUq8cDgcdX4G59yaxacH",
+    "symbol": "OSCAR",
+    "name": "Oscar",
+    "liquidity_usd": 15102.427543340615,
+    "source_listed_at": "2026-11-27T18:53:04",
+    "peak_liquidity_usd": 15102.427543340615,
+    "last_checked_at": "2026-11-27T18:53:25.597370+00:00",
     "rug_flag": false
   }
 ]
