@@ -13235,7 +13235,7 @@
     "liquidity_usd": 20554.078405571046,
     "source_listed_at": "2026-11-25T22:26:54",
     "peak_liquidity_usd": 20554.078405571046,
-    "last_checked_at": "2026-11-25T22:27:20.760451+00:00",
+    "last_checked_at": "2026-11-28T01:55:23.964658+00:00",
     "rug_flag": false
   },
   {
@@ -13246,7 +13246,7 @@
     "liquidity_usd": 12723.536567160423,
     "source_listed_at": "2026-11-26T15:03:20",
     "peak_liquidity_usd": 12723.536567160423,
-    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "last_checked_at": "2026-11-28T01:55:23.964658+00:00",
     "rug_flag": false
   },
   {
@@ -13324,6 +13324,17 @@
     "source_listed_at": "2026-11-27T18:53:04",
     "peak_liquidity_usd": 15102.427543340615,
     "last_checked_at": "2026-11-27T18:53:25.597370+00:00",
+    "rug_flag": false
+  },
+  {
+    "discovered_at": "2026-11-28T01:55:23.356061+00:00",
+    "address": "45uAf2b48pqggbCsi7L7T2LPxENX7tzietu5FSJhtJkT",
+    "symbol": "MARS",
+    "name": "MarsCoin",
+    "liquidity_usd": 13328.727993748584,
+    "source_listed_at": "2026-11-28T01:54:46",
+    "peak_liquidity_usd": 13328.727993748584,
+    "last_checked_at": "2026-11-28T01:55:23.964658+00:00",
     "rug_flag": false
   }
 ]
