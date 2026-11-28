@@ -13254,11 +13254,11 @@
     "address": "3aqfda7oCyNTs5vwmJ72UXufDERkc9XmmiAZQEQbRQxK",
     "symbol": "Zero",
     "name": "ZeroSumEnjoyer",
-    "liquidity_usd": 8477.494953572992,
+    "liquidity_usd": 1.419336005442888e-07,
     "source_listed_at": "2026-11-26T15:02:54",
     "peak_liquidity_usd": 8477.494953572992,
-    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
-    "rug_flag": false
+    "last_checked_at": "2026-11-28T10:16:24.241355+00:00",
+    "rug_flag": true
   },
   {
     "discovered_at": "2026-11-26T15:03:31.298763+00:00",
@@ -13268,7 +13268,7 @@
     "liquidity_usd": 13988.862593459138,
     "source_listed_at": "2026-11-26T15:02:52",
     "peak_liquidity_usd": 13988.862593459138,
-    "last_checked_at": "2026-11-26T15:03:31.732453+00:00",
+    "last_checked_at": "2026-11-28T10:16:24.241355+00:00",
     "rug_flag": false
   },
   {
@@ -13279,7 +13279,7 @@
     "liquidity_usd": 19139.250953173225,
     "source_listed_at": "2026-11-26T23:46:51",
     "peak_liquidity_usd": 19139.250953173225,
-    "last_checked_at": "2026-11-26T23:47:04.875711+00:00",
+    "last_checked_at": "2026-11-28T10:16:24.241355+00:00",
     "rug_flag": false
   },
   {
